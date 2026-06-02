@@ -1,0 +1,802 @@
+[
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "what do I havew to do to earn a few of your article?",
+    "instruction_cn": "请问我需要做些什么才能获得您的几篇文章？",
+    "response_en": "Thank you for expressing your interest in earning a few of our articles! We have a variety of options available to assist you in acquiring our products. First, you can browse through our collection and select the articles you wish to earn. Once you have made your selection, proceed to the checkout process where you will have the option to choose an earning method. We offer different opportunities to earn our articles, such as participating in our rewards program, referring friends, or completing specific tasks. These methods allow you to accumulate points or rewards that can be redeemed towards the articles of your choice. If you need further guidance or have any specific questions about earning articles, our dedicated customer service team is here to support you. Just let us know how we can assist you further in this exciting journey towards earning your desired articles!",
+    "response_cn": "感谢您对我们文章获取计划的兴趣！我们有多种方式帮助您获得我们的产品。首先，您可以浏览我们的文章收藏，选择您希望获取的文章。完成选择后，进入结算流程，您可以选择一种获取方式。我们提供不同的获取文章的机会，例如参与我们的奖励计划、推荐朋友或完成特定任务。这些方法可以让您积累积分或奖励，用于兑换您选择的文章。如果您需要进一步的指导或有任何关于获取文章的具体问题，我们的专业客服团队随时为您提供支持。请告诉我们如何在这个令人兴奋的获取心仪文章的旅程中为您提供更多帮助！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I need assistance cancelling order {{Order Number}}",
+    "instruction_cn": "我需要协助取消订单 {{Order Number}}",
+    "response_en": "I'm cognizant of the fact that you need assistance with canceling order {{Order Number}}. Our team is here to help you through the process and ensure your satisfaction. Here's what you can do:\n\n1. Access Your Account: Log in to your {{Online Company Portal Info}} using your credentials.\n2. Locate Your Orders: Once you're signed in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Find the Specific Order: Look for the order associated with the number {{Order Number}} and click on it to access the details.\n4. Initiate the Cancellation: Within the order details, you should find an option labeled '{{Online Order Interaction}}'. Please proceed with selecting it.\n5. Confirm the Cancellation: Our system may present a confirmation prompt or ask for additional information. Please follow the instructions and provide any required details to complete the cancellation process.\n\nIf you encounter any challenges or have additional questions, please don't hesitate to reach out. Our dedicated support team is available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through Live Chat on our {{Website URL}}. We're committed to ensuring your needs are met and your experience with us is seamless.",
+    "response_cn": "我了解到您需要取消订单 {{Order Number}}。我们的团队将全程协助您完成这一流程，确保您满意。您可以按照以下步骤操作：\n\n1. 登录您的账户：使用您的登录信息访问 {{Online Company Portal Info}}。\n2. 查找您的订单：登录后，请前往\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"页面。\n3. 找到具体订单：找到与订单号 {{Order Number}} 相关的订单，点击进入订单详情页面。\n4. 发起取消操作：在订单详情中，您应该会看到\"{{Online Order Interaction}}\"选项，请选择该选项。\n5. 确认取消：系统可能会弹出确认提示或要求您提供其他信息，请按照提示操作并提供所需信息以完成取消流程。\n\n如果您在操作过程中遇到任何问题或有其他疑问，请随时联系我们。我们的专属客服团队在 {{Customer Support Hours}} 期间可通过电话 {{Customer Support Phone Number}} 或我们 {{Website URL}} 上的在线聊天为您提供支持。我们致力于满足您的需求，确保您拥有顺畅的服务体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I need assistance to cancel purchase {{Order Number}}",
+    "instruction_cn": "我需要协助取消订单 {{Order Number}",
+    "response_en": "I'm sympathetic to your situation that you need assistance with canceling your purchase with the order number {{Order Number}}. Rest assured, I'm here to guide you through the process and ensure a smooth cancellation for you.\n\nTo initiate the cancellation, please follow these steps:\n\n1. Access Your Account: Log in to your {{Online Company Portal Info}} using your credentials.\n2. Locate Your Orders: Once you're logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Find Your Purchase: Look for the purchase associated with the order number {{Order Number}} and click on it.\n4. Initiate Cancellation: Within the purchase details, you should find a registration labeled '{{Online Order Interaction}}'. Please select this option.\n5. Complete the Process: Follow any additional instructions provided by the system to finalize the cancellation.\n\nIf you encounter any difficulties or have further questions, our dedicated team is available {{Customer Support Hours}} to provide personalized assistance. Feel free to reach out to us at {{Customer Support Phone Number}} or use the Live Chat feature on our {{Website URL}}.\n\nYour satisfaction is of utmost importance to us, and we will do our best to ensure a seamless cancellation experience for you.",
+    "response_cn": "我理解您需要协助取消订单号为 {{Order Number}} 的购买，对此我深表同情。请放心，我会全程指导您完成取消流程，确保您顺利完成取消操作。\n\n要发起取消，请按照以下步骤操作：\n\n1. 登录您的账户：请使用您的登录凭据访问 {{Online Company Portal Info}}。\n2. 找到您的订单：登录后，请导航至 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 部分。\n3. 查找您的购买记录：找到与订单号 {{Order Number}} 相关的购买记录并点击。\n4. 发起取消：在购买详情中，您应该会看到一个标记为 '{{Online Order Interaction}}' 的选项，请选择此选项。\n5. 完成流程：按照系统提供的其他说明完成取消操作。\n\n如果您遇到任何困难或有其他问题，我们的专属客服团队在 {{Customer Support Hours}} 期间随时为您提供个性化协助。欢迎拨打 {{Customer Support Phone Number}} 联系我们，或使用我们 {{Website URL}} 上的在线客服功能。\n\n您的满意对我们至关重要，我们将竭尽全力确保您获得顺畅的取消体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "help me to buy several of ur article",
+    "instruction_cn": "请帮我购买几件你们的商品",
+    "response_en": "I appreciate your interest in purchasing several of our articles! Rest assured, I'm here to assist you every step of the way. To get started, could you please provide me with more details about the articles you're interested in? This will allow me to provide you with personalized recommendations and guide you through the purchasing process.",
+    "response_cn": "非常感谢您对我们多款商品的关注！请放心，我将全程为您提供协助。为了帮您更好地开始，能否请您提供一下您感兴趣的商品详情？这样我就能为您提供个性化的推荐，并引导您完成购买流程。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "problem with canceling purchase {{Order Number}}",
+    "instruction_cn": "取消购买 {{Order Number}} 时遇到问题",
+    "response_en": "I realized you're facing difficulties with canceling your purchase with the order number {{Order Number}}. I apologize for any inconvenience this may have caused you. Our team is here to assist you in resolving this issue quickly and efficiently.\n\nTo cancel purchase {{Order Number}}, please follow these steps:\n\n1. Log into your {{Online Company Portal Info}} using your account credentials.\n2. Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section, where you will find a list of your recent purchases.\n3. Look for the purchase with the order number {{Order Number}} and click on it to access the details.\n4. Within the purchase details, there should be an option labeled '{{Online Order Interaction}}'. Please select this option to initiate the cancellation process.\n5. Depending on the system, you may be prompted to confirm the cancellation or provide feedback. Follow the instructions provided to complete the cancellation successfully.\n\nIf you encounter any difficulties during the cancellation process or have any further questions, please don't hesitate to reach out to our dedicated customer support team. We are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}.\n\nWe appreciate your patience, and we are committed to ensuring your satisfaction.",
+    "response_cn": "我了解到您在取消订单号为 {{Order Number}} 的购买时遇到了困难。对此给您带来的不便，我深表歉意。我们的团队随时准备协助您快速高效地解决问题。\n\n要取消订单号为 {{Order Number}} 的购买，请按照以下步骤操作：\n\n1. 使用您的账户凭据登录 {{Online Company Portal Info}}。\n2. 进入\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"部分，您将在其中找到最近的购买记录列表。\n3. 找到订单号为 {{Order Number}} 的购买记录，点击进入详情页面。\n4. 在订单详情中，应该有一个\"{{Online Order Interaction}}\"选项。请选择此选项以启动取消流程。\n5. 根据系统提示，您可能需要确认取消或提供反馈。请按照提供的说明完成取消操作。\n\n如果您在取消过程中遇到任何困难或有任何其他问题，请随时联系我们的专属客服团队。我们的服务时间为 {{Customer Support Hours}}，您可以拨打 {{Customer Support Phone Number}} 或通过我们网站 {{Website URL}} 上的在线客服功能与我们联系。\n\n感谢您的耐心，我们致力于确保您的满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "camceling order {{Order Number}}",
+    "instruction_cn": "取消订单 {{Order Number}}",
+    "response_en": "I'm with you, the importance of canceling purchase {{Order Number}} for you. Let's swiftly navigate through the cancellation process:\n\n1. **Access Your Account**: Begin by signing in to your {{Online Company Portal Info}}.\n2. **Locate Your Order**: Once signed in, head over to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. **Find the Specific Purchase**: Keep a lookout for the purchase associated with the order number {{Order Number}}. Click on it for more details.\n4. **Initiate Cancellation**: You'll find the option labeled '{{Online Order Interaction}}' linked to your purchase. Please select it.\n5. **Finalize the Cancellation**: The system may ask for additional confirmation or feedback. Kindly provide the necessary information.\n\nIf you encounter any difficulties along the way or have any questions, don't hesitate to reach out to our dedicated team. We are here to help you during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. Your satisfaction is our top priority, and we are committed to ensuring a seamless experience for you.",
+    "response_cn": "我理解您取消订单 {Order Number} 的重要性。让我们迅速完成取消流程：\n\n1. **登录您的账户**：首先，请登录您的 {Online Company Portal Info}。\n2. **找到您的订单**：登录后，前往 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 部分。\n3. **找到具体订单**：查找与订单号 {Order Number} 相关的订单，点击查看详情。\n4. **发起取消**：您会看到与您的订单相关的 '{{Online Order Interaction}}' 选项，请选择。\n5. **完成取消**：系统可能会要求您提供额外的确认信息或反馈，请按要求填写。\n\n如果您在过程中遇到任何困难或有任何疑问，请随时联系我们的专属团队。我们将在 {Customer Support Hours} 期间通过 {Customer Support Phone Number} 或我们网站 {Website URL} 上的在线聊天功能为您提供帮助。您的满意是我们的首要目标，我们致力于为您提供顺畅的体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I need to earn several articles",
+    "instruction_cn": "我需要赚取几篇文章",
+    "response_en": "That's fantastic! I'm thrilled to assist you in acquiring several articles. To ensure a smooth process, could you please provide me with more details about the specific articles you are interested in? Once I have a clear understanding, I'll be able to guide you through the steps and help you make the best choices.",
+    "response_cn": "太好了！我很乐意帮您购买几件商品。为了确保流程顺利进行，您能否提供一下您感兴趣的具体商品的详细信息？一旦我了解了具体情况，就能为您提供指导，帮助您做出最佳选择。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "need help switching some articles of order {{Order Number}}",
+    "instruction_cn": "需要帮助更改订单 {{Order Number}} 中的部分商品",
+    "response_en": "I appreciate your request for assistance in switching some articles in order number {{Order Number}}. Our team is here to help you make the necessary adjustments. Could you please provide us with the specific items you would like to switch? This information will allow us to process your request accurately and efficiently. We are committed to ensuring your satisfaction with your order, and we will do our best to accommodate your needs. Thank you for your patience and cooperation.",
+    "response_cn": "感谢您就订单号 {{Order Number}} 中的商品调换事宜提出协助请求。我们的团队随时为您提供所需的调整服务。烦请告知您希望调换的具体商品信息，以便我们准确高效地处理您的请求。我们致力于确保您对我们的订单满意，并将尽最大努力满足您的需求。感谢您的耐心与配合。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "i need help to cancel purchase {{Order Number}}",
+    "instruction_cn": "我需要帮助取消订单 {{Order Number}}",
+    "response_en": "I can relate to the understanding that you need assistance with canceling your purchase of the product associated with the order number {{Order Number}}. Rest assured, I am here to guide you through this process and resolve any concerns you may have. To cancel your purchase, please follow these steps:\n\n1. Sign in to Your Account: Access our platform by logging in to your {{Online Company Portal Info}} using your credentials.\n2. Locate Your Order History: Once you're signed in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Find the Relevant Purchase: Look for the order number {{Order Number}} in the list of your previous purchases and click on it to view the details.\n4. Initiate the Cancellation: Within the order details, you will find a '{{Online Order Interaction}}' button. Please click on it to start the cancellation process.\n5. Complete Any Additional Steps: Depending on our system requirements, you may be asked to provide feedback or answer a few questions to confirm the cancellation. Follow the prompts and complete the necessary steps.\n\nIf you encounter any difficulties during the process or have further questions, please don't hesitate to contact our dedicated support team. You can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}}, or utilize the Live Chat feature on our website at {{Website URL}}. We genuinely appreciate your patience, and we are committed to ensuring your complete satisfaction.",
+    "response_cn": "我理解您需要取消与订单号 {{Order Number}} 相关的产品购买，请放心，我将全程为您指导并解决您的任何疑虑。要取消您的购买，请按照以下步骤操作：\n\n1. 登录您的账户：请使用您的登录凭证访问我们的 {{Online Company Portal Info}} 平台。\n2. 查找您的订单历史：登录后，请导航至 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 部分。\n3. 找到相关购买记录：在您之前的购买列表中查找订单号 {{Order Number}}，点击它以查看订单详情。\n4. 发起取消：在订单详情中，您会看到一个 '{{Online Order Interaction}} 按钮，请点击它开始取消流程。\n5. 完成其他步骤：根据系统要求，您可能需要提供反馈或回答几个问题以确认取消，请按照提示完成必要步骤。\n\n如果您在操作过程中遇到任何困难或有其他问题，请随时联系我们的专属支持团队。您可以在 {{Customer Support Hours}} 拨打 {{Customer Support Phone Number}} 联系我们，或访问我们的网站 {{Website URL}} 使用在线客服功能。我们由衷感谢您的耐心，并致力于确保您的完全满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I need to shop several of your item, help me",
+    "instruction_cn": "我需要购买你们的好几件商品，请帮我",
+    "response_en": "Thank you for reaching out! I appreciate your interest in shopping several of our items. Rest assured, I'm here to assist you in making your purchase experience as seamless as possible. To begin, could you please provide me with the specific items you would like to shop? Once I have that information, I can guide you through the process and ensure that you have a smooth shopping experience.",
+    "response_cn": "感谢您联系我们！非常感谢您对我们多款产品的关注。请放心，我将竭诚为您提供最顺畅的购物体验。首先，能否请您告知您想要购买的具体商品？一旦我获取了这些信息，我将全程引导您完成购买流程，确保您的购物体验轻松愉快。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "i want herlp to update order {{Order Number}}",
+    "instruction_cn": "我需要帮助来更新订单 {{Order Number}}",
+    "response_en": "We're here to help with your request to update order number {{Order Number}}. We understand that you are in need of assistance in making changes to your order. We're here to help! Could you please provide us with the specific updates you would like to make? This will help us ensure that we address all your concerns and provide you with the best possible solution. Your satisfaction is our top priority, and we'll do our best to meet your expectations.",
+    "response_cn": "我们非常乐意协助您处理关于订单号 {{Order Number}} 的更新请求。我们理解您需要对订单进行修改，我们随时为您提供帮助。请问您能否告知我们您希望进行哪些具体更新？这将有助于我们确保充分了解您的需求，并为您提供最佳解决方案。您的满意是我们的首要目标，我们将竭尽全力满足您的期望。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I need help with cancelling order {{Order Number}}",
+    "instruction_cn": "我需要取消订单 {{Order Number}}，请帮我处理。",
+    "response_en": "I perceive that you require assistance in canceling your order with the order number {{Order Number}}. I'm here to guide you through the process and ensure a seamless cancellation experience. Please follow these steps:\n\n1. Access Your Account: Start by logging in to our {{Online Company Portal Info}} using your credentials.\n2. Locate Your Orders: Once logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Find the Relevant Order: Look for the order with the order number {{Order Number}} and select it for more details.\n4. Initiate the Cancellation: Look for the '{{Online Order Interaction}}' option associated with your order and click on it.\n5. Complete any Additional Steps: Depending on the system, you might be asked to provide a reason for cancellation or provide feedback. Kindly provide the necessary information to fulfill the cancellation process.\n\nIf you encounter any difficulties along the way or have any more questions, our dedicated support team is available during {{Customer Support Hours}} at {{Customer Support Phone Number}} and through the Live Chat feature on our {{Website URL}}. Your satisfaction is our top priority, and we're here to assist you at every step.",
+    "response_cn": "我了解到您需要取消订单号为 {{Order Number}} 的订单。我将为您提供全程指导，确保顺利完成取消流程。请按照以下步骤操作：\n\n1. 登录账户：首先，请使用您的登录信息访问我们的 {{Online Company Portal Info}}。\n2. 查找订单：登录后，进入\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"页面。\n3. 找到对应订单：找到订单号为 {{Order Number}} 的订单，点击查看详细信息。\n4. 发起取消：找到与该订单关联的\"{{Online Order Interaction}}\"选项并点击。\n5. 完成其他步骤：根据系统要求，您可能需要提供取消原因或反馈意见。请按要求填写相关信息以完成取消流程。\n\n如果您在操作过程中遇到任何困难或有任何疑问，我们的专业客服团队在 {{Customer Support Hours}} 期间可通过电话 {{Customer Support Phone Number}} 以及我们 {{Website URL}} 上的在线聊天功能为您提供帮助。您的满意是我们的首要目标，我们随时为您提供支持。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "I need to add some articles to purchase {{Order Number}}",
+    "instruction_cn": "我需要添加一些商品到订单 {{Order Number}} 中",
+    "response_en": "We understand your desire to add articles to purchase number {{Order Number}}. To assist you with this, could you please provide the details of the articles you would like to add? This will ensure that we carry out the necessary changes accurately and promptly. We appreciate your cooperation and look forward to enhancing your purchase experience.",
+    "response_cn": "我们理解您希望在订单号 {{Order Number}} 中添加商品。为了协助您完成此操作，请您提供您想要添加的商品详情。这将确保我们准确且及时地进行必要的更改。感谢您的配合，我们期待提升您的购物体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "need help to swap an item of order {{Order Number}}",
+    "instruction_cn": "需要帮助更换订单 {{Order Number}} 中的商品",
+    "response_en": "We're here to help to us for assistance with swapping an item from order number {{Order Number}}. We are here to help you with this request. Please provide us with the details of the item you would like to swap, including the specific product name or SKU. Once we have this information, we can guide you through the process and ensure that the item swap is completed successfully. Your satisfaction is our top priority, and we appreciate your patience and cooperation in resolving this matter.",
+    "response_cn": "我们随时为您提供协助，帮助您处理订单号 {{Order Number}} 的商品换货事宜。我们很乐意为您提供此项服务。请提供您想要换货的商品详情，包括具体的产品名称或SKU编号。一旦我们收到这些信息，我们将引导您完成整个换货流程，确保换货顺利完成。您的满意是我们的首要目标，感谢您的耐心与配合。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I have problems with canceling purchase {{Order Number}}",
+    "instruction_cn": "我在取消订单 {{Order Number}} 时遇到了问题",
+    "response_en": "I've observed that you're encountering difficulties with canceling your purchase with the order number {{Order Number}}, and I apologize for any inconvenience caused. Allow me to assist you in resolving this issue.\n\nTo resolve the problem with canceling your purchase, please follow these steps:\n\n1. Sign into Your Account: Access your {{Online Company Portal Info}} by logging in using your credentials.\n2. Visit Order History: Once you're logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section on the website.\n3. Locate the Purchase: Look for the purchase associated with the order number {{Order Number}} and click on it to view the details.\n4. Seek Cancellation Option: Within the purchase details, you should find a specific option labeled '{{Online Order Interaction}}'. Please select this option.\n5. Confirm the Cancellation: The system may prompt you to confirm the cancellation and provide any additional feedback. Follow the prompts to proceed with the cancellation process.\n\nIf you encounter any further issues or have any questions, our dedicated customer support team is available to assist you. You can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}.\n\nWe appreciate your patience throughout this process, and we're committed to ensuring your satisfaction.",
+    "response_cn": "我注意到您在取消订单号为 {{Order Number}} 的购买时遇到了困难，对此给您带来的不便深表歉意。请允许我协助您解决此问题。\n\n要解决取消购买的问题，请按照以下步骤操作：\n\n1. 登录您的账户：请使用您的登录凭证访问 {{Online Company Portal Info}}。\n2. 查看订单历史：登录后，请前往网站上的\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"页面。\n3. 找到对应订单：查找与订单号 {{Order Number}} 相关的购买记录，点击查看详情。\n4. 寻找取消选项：在订单详情中，您应该会看到\"{{Online Order Interaction}}\"选项，请选择该选项。\n5. 确认取消：系统可能会提示您确认取消并提供相关反馈信息，请按照提示完成取消流程。\n\n如果您在此过程中遇到任何问题或有任何疑问，我们的专属客服团队随时为您提供帮助。您可以在 {{Customer Support Hours}} 期间拨打 {{Customer Support Phone Number}} 联系我们，或通过 {{Website URL}} 上的在线客服功能与我们取得联系。\n\n感谢您的耐心配合，我们将竭诚确保您的满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "want help to update purchase {{Order Number}}",
+    "instruction_cn": "需要帮助更新购买订单 {{Order Number}",
+    "response_en": "I've grasped that you need assistance with updating the details of purchase number {{Order Number}}. We are here to help you make the necessary changes. Could you please provide specific details about the changes you would like to make? Whether it's updating the shipping address, adding or removing items, or modifying any other aspect of the purchase, we'll ensure that your request is handled promptly and accurately. Your satisfaction is our top priority, and we are committed to providing you with a seamless shopping experience.",
+    "response_cn": "我了解到您需要协助更新订单号 {{Order Number}} 的购买详情。我们随时为您提供所需的更改支持。请您提供您希望进行更改的具体信息，无论是更新收货地址、添加或删除商品，还是修改购买的其他任何方面，我们都会确保您的请求得到及时准确的处理。您的满意是我们的首要目标，我们致力于为您提供顺畅的购物体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "help me to add some articles to purchase {{Order Number}}",
+    "instruction_cn": "您好，请帮我添加一些商品到订单 {{Order Number}} 中。",
+    "response_en": "Always good to connect! I'm attuned to the fact that you need assistance with adding some articles to your purchase with the number {{Order Number}}. I'm here to help you with that. Could you please provide me with the details of the articles you would like to add? Once I have that information, I will ensure they are added to your purchase right away.",
+    "response_cn": "很高兴与您联系！我了解到您需要为订单号 {{Order Number}} 添加一些商品。我很乐意为您提供帮助。请问您想要添加哪些商品呢？一旦收到您的信息，我会立即为您处理添加。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "I'd like to dad an item to purchase {{Order Number}}",
+    "instruction_cn": "我想添加一件商品到订单 {{Order Number}} 中进行购买",
+    "response_en": "Happy to get your message to us with your request to add an item to your purchase with order number {{Order Number}}. We are here to assist you with this. Could you please provide us with the details of the item you would like to add? This will help us ensure that we process your request accurately and efficiently. We appreciate your cooperation in helping us improve your shopping experience.",
+    "response_cn": "很高兴收到您关于为订单号 {{Order Number}} 添加商品的请求。我们很乐意为您提供协助。请问您能否提供一下您想要添加的商品的详细信息？这将帮助我们准确高效地处理您的请求。感谢您的配合，帮助我们提升您的购物体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "update order {{Order Number}}",
+    "instruction_cn": "更新订单 {{Order Number}}",
+    "response_en": "We see that you're seeking to update order number {{Order Number}}. No worries! We're here to assist you with this request. Please let us know the details of the update you'd like to make, such as the item you want to change or any other specific modifications. We want to ensure that your order meets your expectations, so feel free to provide us with all the necessary information.",
+    "response_cn": "我们看到您想要更新订单号 {{Order Number}}。别担心！我们很乐意为您提供帮助。请告知您希望修改的具体内容，例如想要更换的商品或其他具体的修改需求。我们希望能够确保您的订单符合您的期望，请随时向我们提供所有必要的信息。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "I try to see purchase 732201349959current status",
+    "instruction_cn": "我想查询订单 732201349959 的当前状态。",
+    "response_en": "It's great to hear from you! I can see that you are trying to check the current status of your purchase with the purchase number {{Order Number}}. To provide you with accurate information, could you please confirm the correct purchase number for me? Once I have the correct purchase number, I will be able to assist you further in checking its current status.",
+    "response_cn": "很高兴收到您的来信！我看到您正在尝试查询订单编号为 {{Order Number}} 的购买状态。为了给您提供准确的信息，请您帮我确认一下正确的订单编号好吗？一旦我获得了正确的订单编号，我将能够进一步协助您查询其当前状态。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "I can't delete an article from order {{Order Number}}",
+    "instruction_cn": "我无法删除订单 {{Order Number}} 中的一篇文章",
+    "response_en": "I've understood that you're having difficulty deleting an article from order {{Order Number}}. I apologize for the inconvenience this has caused you. To better assist you, could you please provide me with more details about the specific article you're trying to delete? Additionally, if there are any error messages or steps you've already taken, please let me know. We'll work together to find a solution and ensure your satisfaction.",
+    "response_cn": "我了解到您在删除订单 {{Order Number}} 中的商品时遇到了困难。对于给您带来的不便，我深表歉意。为了更好地为您提供帮助，能否请您提供更多关于您想要删除的商品的详细信息？此外，如果您遇到了任何错误提示或已经尝试过某些步骤，也请告诉我。我们将共同努力找到解决方案，确保您满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "where do I order some items?",
+    "instruction_cn": "我在哪里可以订购一些商品？",
+    "response_en": "Thank you for your question regarding where to order items. I'm here to assist you with that. To place an order, you can visit our online store on our website or use our mobile app. Simply browse through the available products, select the items you want to purchase, and proceed to the checkout page. You'll be prompted to provide your shipping information and payment details. Once the order is successfully placed, you will receive a confirmation email with the order details. If you have any specific items in mind or need further assistance, please let me know.",
+    "response_cn": "感谢您咨询关于在哪里下单的问题，我很乐意为您提供帮助。要下单，您可以访问我们网站上的在线商店，或使用我们的移动应用程序。只需浏览可用产品，选择您想要购买的商品，然后进入结账页面。系统会提示您提供收货信息和支付详情。订单成功提交后，您将收到一封包含订单详情的确认邮件。如果您有特定的商品需要查询，或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I want help byying some bloody products",
+    "instruction_cn": "I want help byying some bloody products",
+    "response_en": "Thank you for reaching out to us! I appreciate your interest in purchasing some of our products. I understand that you require assistance with the buying process. Rest assured, I'm here to guide you every step of the way. To ensure a seamless experience, could you please provide me with more details about the products you wish to buy? Once I have the information, I can assist you in making the purchase smoothly and efficiently.",
+    "response_cn": "感谢您联系我们！非常感谢您对我们产品的关注。我了解到您在购买过程中需要帮助。请放心，我会全程为您提供指导。为了确保顺畅的购物体验，能否请您提供一下您希望购买的商品的详细信息？一旦我获得相关信息，我就可以帮助您顺利高效地完成购买。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "need assistance acquiring some items",
+    "instruction_cn": "需要协助购买一些商品",
+    "response_en": "Happy to hear from you! I truly understand that you need assistance with acquiring some items. I'm here to help you find the perfect products that meet your needs and preferences. To get started, could you please provide me with more details about the items you are interested in? This will allow me to provide you with personalized recommendations and ensure a smooth and pleasant shopping experience for you.",
+    "response_cn": "很高兴收到您的来信！我非常理解您需要一些帮助来选购商品。我很乐意为您找到符合您需求和偏好的完美产品。为了开始我们的服务，请您提供一下您感兴趣的商品详情，这将帮助我为您提供个性化的推荐，确保为您带来顺畅愉快的购物体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "help seeing order {{Order Number}} status",
+    "instruction_cn": "您好，我想查询订单 {{Order Number}} 的状态，请问可以帮我查看一下吗？",
+    "response_en": "Thank you for reaching out! I'm here to provide assistance in checking the current status of your order with the order number {{Order Number}}. To view the status, you can visit the '{{Online Order Interaction}}' section on our website. If you have any other questions or need further guidance, please feel free to ask. I'm committed to ensuring you have a smooth and seamless experience!",
+    "response_cn": "感谢您联系我们！我很乐意为您提供帮助，查询订单号为 {{Order Number}} 的当前状态。您可以访问我们网站上的\"{{Online Order Interaction}}\"页面查看订单状态。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。我将竭诚为您提供流畅顺畅的服务体验！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "what do I have to do to cancel order {{Order Number}}?",
+    "instruction_cn": "我需要做什么才能取消订单 {{Order Number}}？",
+    "response_en": "Absolutely! I understand that you're looking for guidance on canceling your purchase with the order number {{Order Number}}. To proceed with the cancellation, please follow the steps below:\n\n1. Access Your Account: Head over to our {{Online Company Portal Info}} and sign in using your credentials.\n2. Locate the Order: Once you're logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Find the Relevant Purchase: Look for the purchase associated with the order number {{Order Number}} and click on it.\n4. Initiate the Cancellation Process: Look for the option labeled '{{Online Order Interaction}}' and select it to start the cancellation.\n5. Confirm the Cancellation: You may be prompted to confirm your cancellation request. Please provide the necessary details as required.\n\nIf you encounter any difficulties or have further questions, our dedicated team is available to assist you. You can reach out to us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}.\n\nWe apologize for any inconvenience this may have caused and appreciate your understanding as we streamline the cancellation process for you.",
+    "response_cn": "当然可以！我理解您希望获得关于取消订单号为 {{Order Number}} 的购买的相关指导。要继续进行取消操作，请按照以下步骤操作：\n\n1. 登录您的账户：请访问我们的 {{Online Company Portal Info}}，并使用您的账户信息登录。\n2. 找到订单：登录后，请进入 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 页面。\n3. 找到相关购买记录：查找与订单号 {{Order Number}} 相关的购买记录，并点击该订单。\n4. 发起取消流程：找到标记为 '{{Online Order Interaction}}' 的选项，并选择它以开始取消操作。\n5. 确认取消：系统可能会提示您确认取消请求，请根据要求提供必要的信息。\n\n如果您遇到任何困难或有其他问题，我们的专业团队随时为您提供帮助。您可以在 {{Customer Support Hours}} 期间拨打 {{Customer Support Phone Number}} 联系我们，或通过我们 {{Website URL}} 上的在线客服功能与我们取得联系。\n\n对于由此可能给您带来的不便，我们深表歉意，并感谢您的理解，我们将尽力为您简化取消流程。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "can you help me changing purchase {{Order Number}}?",
+    "instruction_cn": "您好，请问您能帮我修改订单 {{Order Number}} 的购买信息吗？",
+    "response_en": "Of course! I understand that you need assistance with changing purchase number {{Order Number}}. We're here to help you navigate through this process smoothly. Could you please provide more details about the changes you would like to make to your purchase? This will enable us to address your request accurately and efficiently.",
+    "response_cn": "当然！我理解您需要协助更改购买编号 {{Order Number}}。我们会帮助您顺利完成此流程。请您提供更多关于您希望对购买进行哪些更改的详细信息。这将使我们能够准确高效地处理您的请求。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "help deleting some products from purchase {{Order Number}}",
+    "instruction_cn": "您好，我想删除订单 {Order Number} 中的部分商品，请问该如何操作？",
+    "response_en": "Grateful for your contact! I get the sense that you need assistance with deleting some products from your purchase with the order number {{Order Number}}. We want to make sure that your purchase meets your expectations, so please provide me with the specific products you would like to remove, and I will be happy to assist you with that.",
+    "response_cn": "感谢您的联系！我理解您需要协助删除订单号为 {{Order Number}} 的购买中的部分产品。我们希望能够确保您的购买符合您的期望，请告诉我您希望移除的具体产品，我将很乐意为您提供帮助。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "can you help me ordering several items?",
+    "instruction_cn": "您能帮我订购几件商品吗？",
+    "response_en": "Thank you for reaching out! I'm thrilled to assist you with ordering several items. Your enthusiasm to make a purchase tells me that you have chosen wisely. To proceed with your order, please provide me with the specific details of the items you wish to purchase. This way, I can guide you through the process smoothly and efficiently. Let's work together to make your shopping experience enjoyable and hassle-free!",
+    "response_cn": "感谢您联系我们！很高兴能协助您订购多款商品。您的购买热情说明您做出了明智的选择。为了继续您的订单，请提供您希望购买的具体商品详情，以便我能够顺畅高效地引导您完成整个流程。让我们共同努力，让您的购物体验轻松愉快！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "i need assistance cancelling order {{Order Number}}",
+    "instruction_cn": "我需要协助取消订单 {{Order Number}}",
+    "response_en": "I understood that you're in need of assistance with canceling the order with order number {{Order Number}}. We apologize for any inconvenience this may have caused you and we're here to help you through the cancellation process. Here's what you need to do:\n\n1. Sign in to Your Account: Go to our {{Online Company Portal Info}} and sign in using your credentials.\n2. Access Your Orders: Once you're logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Locate the Relevant Order: Look for the order with the order number {{Order Number}} and click on it.\n4. Initiate the Cancellation: You should see an option labeled '{{Online Order Interaction}}' associated with your purchase. Please select this option.\n5. Follow Any Additional Steps: The system may prompt you with a couple of questions to confirm the cancellation. Please follow the instructions provided.\n\nIf you encounter any difficulties or have further questions, our dedicated support team is available during {{Customer Support Hours}}. You can reach us at {{Customer Support Phone Number}} or use the Live Chat feature on our {{Website URL}}. Your satisfaction is our top priority, and we're committed to resolving this issue for you as quickly as possible.",
+    "response_cn": "我了解到您需要取消订单号为 {{Order Number}} 的订单。对此给您带来的不便，我们深表歉意，我们将全程协助您完成取消流程。以下是您需要进行的操作：\n\n1. 登录您的账户：请访问我们的 {{Online Company Portal Info}}，使用您的账户信息登录。\n2. 进入订单页面：登录后，前往 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 页面。\n3. 找到对应订单：查找订单号为 {{Order Number}} 的订单，并点击查看详情。\n4. 发起取消操作：您会看到与本次购买相关的 '{{Online Order Interaction}}' 选项，请选择该选项。\n5. 按提示完成后续步骤：系统可能会弹出几个问题以确认取消操作，请按照页面提示完成即可。\n\n如果您在操作过程中遇到任何困难或有其他疑问，我们的专属客服团队在 {{Customer Support Hours}} 期间随时为您服务。您可以通过电话 {{Customer Support Phone Number}} 联系我们，或使用我们 {{Website URL}} 上的在线聊天功能。您的满意是我们的首要目标，我们将尽快为您解决此问题。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "need assistance to switch a product of order {{Order Number}}",
+    "instruction_cn": "需要协助更换订单 {{Order Number}} 中的产品",
+    "response_en": "We understand that you need assistance in switching a product for order number {{Order Number}}. We apologize for any inconvenience caused. To provide you with the best solution, could you please let us know which product you would like to switch and the product you would like to switch it with? This will enable us to promptly assist you in making the necessary modifications to your order.",
+    "response_cn": "我们理解您需要为订单号 {{Order Number}} 办理换货。对于由此带来的不便，我们深表歉意。为了给您提供最佳解决方案，请您告知您想要更换的商品以及希望更换成什么商品？这将使我们能够及时协助您完成订单的必要修改。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "I want assistance to edit order {{Order Number}}",
+    "instruction_cn": "我需要协助修改订单 {{Order Number}}",
+    "response_en": "Thank you for your message to us regarding the need to edit order number {{Order Number}}. We understand the importance of making adjustments to your order and we are here to assist you. Can you please provide us with more details on the specific edits you would like to make? This will help us ensure that we address all your concerns accurately and efficiently.",
+    "response_cn": "感谢您就编辑订单号 {{Order Number}} 一事与我们联系。我们理解您对订单进行调整的重要性，并随时为您提供协助。能否请您提供您希望进行的具体修改的详细信息？这将帮助我们确保准确高效地解决您的所有问题。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "i want help seeing purchase {{Order Number}} current status",
+    "instruction_cn": "我想查看订单 {{Order Number} 的当前状态，请帮我查询一下。",
+    "response_en": "Thank you for reaching out! I'm here to assist you with checking the current status of your purchase with the order number {{Order Number}}. To view the status, you can visit the \"Order Details\" section on our website. If you encounter any issues or have further questions, feel free to ask. It's my goal to ensure that you have a smooth and seamless experience.",
+    "response_cn": "感谢您联系我们！我很乐意协助您查询订单号为 {{Order Number}} 的购买状态。要查看订单状态，您可以访问我们网站上的\"订单详情\"部分。如果您遇到任何问题或有进一步的疑问，请随时告知。我的目标是确保您拥有顺畅无忧的体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "i dont want order {{Order Number}}",
+    "instruction_cn": "我不想要订单 {{Order Number}",
+    "response_en": "I'm with you, your decision not to proceed with your order for item {{Order Number}}. Your satisfaction is our top priority, and we're here to assist you. To help you cancel your order, please follow these steps:\n\n1. Access Your Account: Log in to your {{Online Company Portal Info}} using your credentials.\n2. Locate Your Order: Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section of your account.\n3. Identify the Order: Look for the purchase associated with order number {{Order Number}} and click on it.\n4. Initiate Cancellation: You should see a '{{Online Order Interaction}}' option linked to your order. Please select it.\n5. Confirm Cancellation: The system may ask for confirmation or further details related to the cancellation. Kindly provide the necessary information.\n\nIf you encounter any difficulties or have more questions, our dedicated support team is available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. We appreciate your understanding and value your trust in our services.",
+    "response_cn": "好的，我理解您决定取消订单号为 {{Order Number}} 的商品订单。您的满意是我们的首要任务，我们随时为您提供协助。为帮助您取消订单，请按照以下步骤操作：\n\n1. 登录账户：使用您的登录信息访问 {{Online Company Portal Info}}。\n2. 查找订单：进入账户中的\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"页面。\n3. 确认订单：找到与订单号 {{Order Number}} 相关的订单并点击。\n4. 发起取消：您应该会看到与订单关联的\"{{Online Order Interaction}}\"选项，请选择该选项。\n5. 确认取消：系统可能会要求您确认或提供与取消相关的详细信息，请按要求填写。\n\n如果您遇到任何困难或有更多疑问，我们的专属客服团队在 {{Customer Support Hours}} 期间可通过电话 {{Customer Support Phone Number}} 或我们网站 {{Website URL}} 上的在线聊天功能为您提供帮助。感谢您的理解，我们珍视您对我们的信任。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "i need help to switch a product of purchase {{Order Number}}",
+    "instruction_cn": "我需要帮助更换已购买的商品 {{Order Number}}",
+    "response_en": "Thank you for contacting to us about your request to switch a product in purchase number {{Order Number}}. We understand the importance of ensuring your order meets your expectations. To assist you with this, could you please provide us with the details of the product you would like to switch and the new product you would like to replace it with? This will enable us to review your request and provide you with the necessary guidance. We appreciate your patience and look forward to resolving this matter for you.",
+    "response_cn": "感谢您就订单号 {{Order Number}} 中的产品更换事宜联系我们。我们深知确保您的订单符合您的期望的重要性。为了协助您处理此事，请您提供您希望更换的产品详情以及您希望替换为的新产品信息。这将使我们能够审核您的请求，并为您提供必要的指导。感谢您的耐心，我们期待为您解决此事。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I have to buy a fucking article, how to do it?",
+    "instruction_cn": "我需要购买一篇文章，请问如何操作？",
+    "response_en": "Your reach-out is appreciated! I'm sensing that you're looking to purchase a specific article, and I'm here to help you through the process. We strive to provide a seamless and hassle-free experience for our customers, and I apologize if you've encountered any frustrations. To assist you further, could you please provide me with more details about the article you wish to purchase? Once I have the necessary information, I'll guide you on how to proceed with the order.",
+    "response_cn": "非常感谢您的联系！我了解到您想要购买某件商品，我很乐意为您提供帮助。我们致力于为客户提供顺畅无忧的购物体验，如果您在此过程中遇到了任何不便，我深表歉意。为了更好地协助您，能否请您提供更多关于您想要购买的商品信息？一旦我获得了必要的信息，我将指导您如何完成下单。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "i want assistance acquiring some of ur article",
+    "instruction_cn": "我想获取你们的一些文章，希望能得到帮助。",
+    "response_en": "Glad you contacted to us! I appreciate your interest in acquiring some of our articles. Our team is here to assist you in every step of the way. To better assist you, could you please provide more details about the specific article or articles you are interested in? This will allow us to provide you with accurate information and guide you through the acquisition process smoothly. We are committed to ensuring that your shopping experience with us is enjoyable and successful.",
+    "response_cn": "很高兴您联系我们！非常感谢您对我们产品的关注。我们的团队随时准备为您提供全程协助。为了更好地为您服务，您能否提供更多关于您感兴趣的产品的详细信息？这将使我们能够为您提供准确的信息，并帮助您顺利完成购买流程。我们致力于确保您在我们这里拥有愉快且满意的购物体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I do not know what to do to cancel purchase {{Order Number}}",
+    "instruction_cn": "我不知道该如何取消订单 {{Order Number}",
+    "response_en": "Thank you for getting in touch to us for assistance with canceling purchase {{Order Number}}. I'm here to guide you through the process. To cancel your purchase, please follow these steps:\n\n1. Sign into your account: Access our platform by logging into your {{Online Company Portal Info}}.\n2. Navigate to your order history: Once logged in, find the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Locate your purchase: Look for the purchase associated with the order number {{Order Number}} and click on it for more details.\n4. Initiate the cancellation: Within the order details, you should see an option labeled '{{Online Order Interaction}}'. Please select that to start the cancellation process.\n5. Confirm and complete the cancellation: Our system may ask you a few questions or require some additional information to finalize the cancellation. Please provide the necessary details as prompted.\n\nIf you encounter any difficulties or have more questions along the way, our dedicated support team is available to help. You can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We value your satisfaction and will do our best to assist you promptly.",
+    "response_cn": "感谢您联系我们协助取消订单 {{Order Number}} 的购买。我将为您引导整个流程。要取消您的购买，请按照以下步骤操作：\n\n1. 登录您的账户：通过登录 {{Online Company Portal Info}} 访问我们的平台。\n2. 进入订单历史记录：登录后，找到 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 部分。\n3. 找到您的订单：查找与订单号 {{Order Number}} 相关的购买记录，点击以查看更多详情。\n4. 发起取消操作：在订单详情中，您应该会看到一个标有 '{{Online Order Interaction}}' 的选项，请选择该选项以开始取消流程。\n5. 确认并完成取消：我们的系统可能会询问您一些问题或需要一些额外信息来完成取消操作，请根据提示提供所需信息。\n\n如果您在操作过程中遇到任何困难或有更多问题，我们的专业支持团队随时为您提供帮助。您可以在 {{Customer Support Hours}} 期间拨打 {{Customer Support Phone Number}} 联系我们，或通过我们网站 {{Website URL}} 上的在线客服与我们沟通。我们非常重视您的满意度，并将竭诚为您提供及时的帮助。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "help shopping some of ur article",
+    "instruction_cn": "我想购买你们的一些商品",
+    "response_en": "Thank you for reaching out! I appreciate your interest in shopping for some of our articles. I'm here to guide you through the process and help you make the best choices. Can you please provide me with more details about the specific articles you are looking to purchase? This will allow me to provide you with accurate information and assist you in finding the articles that meet your needs. Let's make this shopping experience an enjoyable and rewarding one!",
+    "response_cn": "感谢您联系我们！非常感谢您对我们商品的关注。我将全程为您提供指导，帮助您做出最佳选择。请问您能否提供更多关于您想要购买的具体商品的详细信息？这样我就能为您提供准确的信息，并帮助您找到符合您需求的商品。让我们一起让这次购物体验变得愉快而充实！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "problem with changing purchase {{Order Number}}",
+    "instruction_cn": "更改购买时遇到问题 {{Order Number}}",
+    "response_en": "We understand that you are facing difficulties with changing purchase number {{Order Number}}. Our team is here to assist you with this issue. Can you please provide us with more details about the problem you are experiencing? This will help us to better understand the situation and find an appropriate solution for you. We are committed to ensuring your satisfaction and will do our best to resolve this matter promptly.",
+    "response_cn": "我们理解您在更改购买号码 {{Order Number}} 时遇到了困难。我们的团队随时准备协助您解决此问题。请您提供更多关于您所遇到问题的详细信息，这将有助于我们更好地了解情况，并为您找到合适的解决方案。我们致力于确保您的满意度，并将尽最大努力及时解决此问题。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "I try to see the current status of purchase {{Order Number}}",
+    "instruction_cn": "我想查看订单 {{Order Number}} 的当前状态",
+    "response_en": "Thank you for reaching out! I'm here to assist you with tracking the current status of your purchase with the purchase number {{Order Number}}. To check the status, please visit the '{{Order Status}}' section on our website or app. If you have any other questions or need further assistance, feel free to ask. I'm here to help you every step of the way!",
+    "response_cn": "感谢您联系我们！我很乐意协助您查询订单号为 {{Order Number}} 的购买状态。要查看订单状态，请访问我们网站或应用中的\"{{Order Status}}\"页面。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。我会全程为您提供帮助！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "i do not know what i have to do to purchase some articles",
+    "instruction_cn": "我不知道该如何购买一些商品",
+    "response_en": "Your input is valuable! I'm picking up that you're unsure about the process of purchasing articles from us. Don't worry; I'm here to guide you through each step and make it a seamless experience. To start, could you please let me know which articles you are interested in acquiring? Once I have the details, I can provide you with all the information you need to make a successful purchase.",
+    "response_cn": "您的反馈非常有价值！我了解到您对我们购买文章的流程不太了解。不用担心，我会逐步指导您完成整个流程，确保您有顺畅的体验。首先，能否请您告诉我您有兴趣购买哪些文章？一旦我了解了具体信息，我会为您提供完成购买所需的所有信息。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "how can i add some bloody products to order {{Order Number}}",
+    "instruction_cn": "我该如何将一些该死的商品添加到订单 {{Order Number}} 中",
+    "response_en": "I apologize for any inconvenience you may have experienced with your order, and I appreciate your patience. I understand that you would like to add some products to your order with the order number {{Order Number}}. To assist you with this request, please provide me with the specific details of the products you would like to add, including the product names, quantities, and any other relevant information. Once I have this information, I will be able to help you add the products to your order.",
+    "response_cn": "对于您的订单给您带来的任何不便，我深表歉意，感谢您的耐心等待。我了解到您想要为订单号为 {{Order Number}} 的订单添加一些产品。为了协助您处理此请求，请提供您想要添加的产品的具体信息，包括产品名称、数量以及其他相关信息。一旦我收到这些信息，我将能够帮助您将产品添加到您的订单中。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I need assistance acquiring a product",
+    "instruction_cn": "我需要协助购买一件商品",
+    "response_en": "Thank you for reaching out! It's great to hear that you need assistance acquiring a product. I'm here to help you every step of the way. Could you please provide me with some more details about the specific product you are interested in? This will enable me to provide you with the most accurate information and guide you through the process smoothly.",
+    "response_cn": "感谢您联系我们！很高兴得知您需要协助购买产品。我会全程为您提供帮助。能否请您提供一下您感兴趣的产品的具体详细信息？这样我就能为您提供最准确的信息，并引导您顺利完成整个流程。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "where to check the ETA of purchase {{Order Number}}",
+    "instruction_cn": "在哪里可以查询订单 {{Order Number}} 的预计送达时间",
+    "response_en": "Thank you for reaching out! I see that you'd like to know where you can check the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. To view the ETA of your purchase, I suggest visiting the \"Order Details\" page on our website. You can find this page by navigating to your account settings and selecting the \"Orders\" or \"Purchase History\" section. Once you're on the \"Order Details\" page, you should see the ETA displayed next to your purchase information. If you're having trouble locating this information, please let me know, and I'll be more than happy to guide you through the process step-by-step.",
+    "response_cn": "感谢您联系我们！我看到您想了解如何查询订单号为 {{Order Number}} 的预计送达时间（ETA）。要查看您订单的预计送达时间，建议您访问我们网站上的\"订单详情\"页面。您可以通过进入账户设置并选择\"订单\"或\"购买历史\"部分来找到该页面。进入\"订单详情\"页面后，您应该会在订单信息旁边看到预计送达时间的显示。如果您在查找此信息时遇到任何问题，请随时告诉我，我将非常乐意逐步引导您完成操作。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "where is purechase {{Order Number}}",
+    "instruction_cn": "您好，请问 {Order Number} 的 Purechase 订单目前在哪里？",
+    "response_en": "Your input is valuable! I'm picking up that you would like to know the whereabouts of your purchase with the purchase number {{Order Number}}. Allow me to assist you with that. To track the location of your purchase, you can visit the \"{{Order Tracking}}\" section on our website. Simply enter your purchase number, and it will provide you with the real-time status and location information. If you encounter any issues or need further assistance, feel free to ask. I'm here to help you every step of the way.",
+    "response_cn": "您的反馈非常重要！我了解到您想查询编号为 {{Order Number}} 的订单物流信息，请允许我为您提供帮助。要查询订单的物流状态，您可以访问我们网站上的\"{{Order Tracking}}\"页面，只需输入您的订单编号，即可获取实时的物流状态和位置信息。如果您遇到任何问题或需要进一步的帮助，请随时告诉我，我会全程为您解答。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "I need assistanc with adding an item to order {{Order Number}}",
+    "instruction_cn": "我需要帮助，想在订单 {{Order Number}} 中添加一件商品。",
+    "response_en": "We acknowledge your request to add an item to order number {{Order Number}}. Our team is here to assist you in making the necessary modifications. To better understand your requirements, could you please provide more details about the item you would like to add? This will allow us to ensure a seamless and satisfactory ordering experience for you. Feel free to share any specific preferences or requirements you may have. We appreciate your collaboration in helping us serve you better and look forward to resolving this request.",
+    "response_cn": "我们已收到您关于为订单号 {{Order Number}} 添加商品的请求。我们的团队随时为您提供所需的修改支持。为了更好地了解您的需求，请您提供有关您希望添加的商品的更多详细信息。这将使我们能够确保为您提供顺畅且满意的订购体验。请随时分享您可能有的任何特定偏好或要求。我们感谢您的配合，以便我们更好地为您服务，并期待尽快解决此请求。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "want assistance seeing the status of order {{Order Number}}",
+    "instruction_cn": "需要协助查看订单 {{Order Number}} 的状态吗？",
+    "response_en": "Your input is valuable! I'm picking up that you need assistance in checking the status of order {{Order Number}}. To view the current status, I recommend visiting the '{{Online Order Interaction}}' section on our website. It provides real-time updates on the progress of your order. If you need any further guidance or have additional questions, please feel free to ask. I'm here to ensure you have a smooth and informed experience!",
+    "response_cn": "您的反馈很有价值！我了解到您需要协助查询订单 {{Order Number}} 的状态。要查看当前状态，我建议您访问我们网站上的\"{{Online Order Interaction}}\"部分，该部分提供订单进度的实时更新。如果您需要任何进一步的指导或有其他问题，请随时提问。我在这里确保您拥有顺畅且信息透明的体验！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "chek order {{Order Number}} status",
+    "instruction_cn": "查询订单 {{Order Number}} 状态",
+    "response_en": "We value your outreach! I'm in tune with the fact that you would like to check the status of your order with the number {{Order Number}} {{Order Number}}. To provide you with accurate information, I kindly ask you to visit the '{{Online Order Interaction}}' section on our website. It will display the most up-to-date status of your order. If you need any further assistance or have any other questions, please don't hesitate to let me know. I'm here to help!\"",
+    "response_cn": "非常感谢您的联系！我了解到您想查询订单号为 {{Order Number}} {{Order Number}} 的订单状态。为了为您提供准确的信息，请您前往我们网站上的\"{{Online Order Interaction}}\"页面，该页面将显示您订单的最新状态。如果您需要进一步的帮助或有任何其他问题，请随时告诉我，我很乐意为您解答！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "wanna add some products to order {{Order Number}}",
+    "instruction_cn": "想要为订单 {{Order Number}} 添加一些商品",
+    "response_en": "Thank you for contacting to us with your request to add products to order number #{{Order Number}}. We are here to assist you and ensure that your order meets your expectations. To proceed with adding the products, please provide us with the details of the items you would like to add. We will do our best to accommodate your request and make the necessary adjustments to your order. Your satisfaction is our top priority, and we appreciate your patience and understanding throughout this process.",
+    "response_cn": "感谢您联系我们，提出为订单号 #{{Order Number}} 添加产品的需求。我们将竭诚为您服务，确保您的订单满足您的期望。为了继续添加产品，请提供您希望添加的商品详情。我们将尽力满足您的要求，并对您的订单进行必要的调整。您的满意是我们的首要任务，感谢您在此过程中的耐心与理解。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "help me to cancel purchase {{Order Number}}",
+    "instruction_cn": "您好，请帮我取消订单 {{Order Number}}。",
+    "response_en": "For sure! I understand that you need assistance with canceling purchase {{Order Number}}. We're here to help you through this process. To cancel your purchase, please follow these steps:\n\n1. Log in to your {{Online Company Portal Info}} using your credentials.\n2. Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section of your account.\n3. Locate the purchase with the order number {{Order Number}} and click on it to view the details.\n4. Look for the option labeled '{{Online Order Interaction}}' associated with this purchase. Please select it.\n5. The system may ask you to confirm the cancellation. Please follow the instructions to complete the cancellation process.\n\nIf you encounter any difficulties or have further questions, our dedicated customer support team is available to assist you during {{Customer Support Hours}}. You can reach us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We appreciate your understanding, and we're committed to ensuring your satisfaction.",
+    "response_cn": "当然！我理解您需要协助取消订单 {{Order Number}。我们随时为您提供帮助。要取消您的购买，请按照以下步骤操作：\n\n1. 使用您的凭据登录 {{Online Company Portal Info}}。\n2. 进入账户中的 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 部分。\n3. 找到订单号为 {{Order Number} 的购买记录，点击查看详细信息。\n4. 找到与此购买相关的 '{{Online Order Interaction}}' 选项，请选择它。\n5. 系统可能会要求您确认取消，请按照提示完成取消流程。\n\n如果您遇到任何困难或有其他问题，我们的专属客服团队将在 {{Customer Support Hours}} 期间为您提供帮助。您可以通过 {{Customer Support Phone Number}} 联系我们，或通过我们网站 {{Website URL}} 上的在线聊天功能与我们联系。感谢您的理解，我们致力于确保您的满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "change some items of order {{Order Number}}",
+    "instruction_cn": "修改订单 {{Order Number} 中的部分商品",
+    "response_en": "I appreciate your request to change some items in your order with the number {{Order Number}}. We understand that sometimes adjustments are necessary to ensure your complete satisfaction. To facilitate this process, could you please provide me with the specific details of the items you would like to modify? Our goal is to assist you promptly and accurately.",
+    "response_cn": "感谢您提出对订单号为 {{Order Number}} 的订单进行部分商品变更的请求。我们理解有时为了确保您的完全满意，进行一些调整是必要的。为了便于处理此流程，能否请您提供您希望修改的商品的具体细节？我们的目标是及时准确地为您提供协助。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "i do not knwo how to cancel order {{Order Number}}",
+    "instruction_cn": "我不知道如何取消订单 {{Order Number}}",
+    "response_en": "I've realized that you're unsure about how to cancel order {{Order Number}}, and I'm here to guide you through the process. Rest assured, I'll provide you with clear instructions to make it as simple as possible. Here's what you need to do:\n\n1. Access Your Account: Start by logging into your {{Online Company Portal Info}} using your credentials.\n2. Locate Your Order: Once you're logged in, find the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section on your account page.\n3. Identify the Order: Look for the specific order with the number {{Order Number}} and click on it for more details.\n4. Initiate the Cancellation: Within the order details, you'll find an option labeled '{{Online Order Interaction}}'. Please select that to begin the cancellation process.\n5. Confirm the Cancellation: The system may ask you to confirm the cancellation or provide feedback. Follow the prompts to proceed.\n\nIf you encounter any difficulties or have further questions, feel free to reach out to our dedicated support team during {{Customer Support Hours}} at {{Customer Support Phone Number}}. You can also connect with us via the Live Chat feature on our {{Website URL}}. We're committed to resolving any concerns you have and ensuring your satisfaction.",
+    "response_cn": "我了解到您对如何取消订单 {{Order Number}} 存在疑问，我将全程为您提供指导。请放心，我会为您提供清晰的操作说明，让整个过程尽可能简单。具体步骤如下：\n\n1. 登录您的账户：首先，请使用您的登录信息访问 {{Online Company Portal Info}}。\n2. 找到您的订单：登录后，在账户页面找到\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"栏目。\n3. 定位订单：查找订单编号为 {{Order Number}} 的具体订单，点击进入查看详情。\n4. 发起取消操作：在订单详情页面，您会看到\"{{Online Order Interaction}}\"选项，请点击该选项开始取消流程。\n5. 确认取消：系统可能会要求您确认取消或提供反馈，请按照提示完成操作。\n\n如果您在操作过程中遇到任何困难或有其他问题，欢迎在 {{Customer Support Hours}} 拨打 {{Customer Support Phone Number}} 联系我们的专属客服团队。您也可以通过我们 {{Website URL}} 上的在线客服功能与我们取得联系。我们致力于解决您的任何疑虑，确保您满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "assistance with cancelling pucrhase {{Order Number}}",
+    "instruction_cn": "协助取消购买 {{Order Number}",
+    "response_en": "I hear you loud and clear that you need assistance with canceling your purchase with the purchase number {{Order Number}}. No worries, I'm here to help guide you through the process! To cancel your purchase, please follow these steps:\n\n1. Log into your account: Visit our {{Online Company Portal Info}} and sign in using your credentials.\n2. Access your order history: Once you're signed in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Locate the specific purchase: Look for the purchase associated with the purchase number {{Order Number}} and click on it for more details.\n4. Initiate the cancellation: You should find a '{{Cancel Purchase}}' or similar option linked to the purchase. Please select it.\n5. Confirm the cancellation: The system may ask you to confirm the cancellation. Follow the instructions to proceed.\n6. Verify the cancellation: Once the cancellation is confirmed, you should receive a notification or see the cancellation reflected in your order history.\n\nIf you encounter any difficulties or have further questions along the way, please don't hesitate to reach out to our dedicated support team. You can contact us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or use the Live Chat feature on our website at {{Website URL}}. We're here to ensure your satisfaction and make this cancellation process as smooth as possible.",
+    "response_cn": "我完全理解您需要取消订单号为 {{Order Number}} 的购买。别担心，我来帮您完成取消流程！请按照以下步骤操作：\n\n1. 登录您的账户：访问我们的 {{Online Company Portal Info}}，使用您的账户信息登录。\n2. 进入订单历史：登录后，导航至 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 页面。\n3. 找到对应订单：查找与订单号 {{Order Number}} 相关的购买记录，点击进入查看详情。\n4. 发起取消操作：您应该会看到与订单关联的 '{{Cancel Purchase}}' 或类似选项，请点击选择。\n5. 确认取消：系统可能会要求您确认取消操作，请按照提示完成。\n6. 核实取消状态：取消确认后，您会收到通知或在订单历史中看到取消记录。\n\n如果您在操作过程中遇到任何问题或有其他疑问，请随时联系我们的专属客服团队。您可以在 {{Customer Support Hours}} 期间拨打 {{Customer Support Phone Number}} 联系我们，或通过我们网站 {{Website URL}} 的在线客服功能获得帮助。我们致力于确保您的满意度，让取消流程尽可能顺畅。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "i have to see order {{Order Number}} current status i need help",
+    "instruction_cn": "我需要查看订单 {{Order Number} 的当前状态，我需要帮助",
+    "response_en": "Thank you for reaching out! I'm here to assist you in checking the current status of your order with the order number {{Order Number}}. To view the status, please visit the '{{Online Order Interaction}}' section on our website. If you have any other concerns or require further assistance, feel free to let me know. My objective is to ensure you have a seamless experience with us!",
+    "response_cn": "感谢您联系我们！我很乐意为您查询订单号 {{Order Number} 的当前状态。如需查看订单状态，请访问我们网站上的\"{{Online Order Interaction}}\"页面。如果您还有其他疑问或需要进一步的帮助，请随时告诉我。我的目标是确保您在我们这里拥有顺畅的体验！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "help with canceling purchase {{Order Number}}",
+    "instruction_cn": "帮助取消订单 {{Order Number}}",
+    "response_en": "I've picked up that you're seeking help with canceling purchase {{Order Number}}, and I'm here to assist you with that. To ensure a smooth cancellation process, please follow these steps:\n\n1. Log into your {{Online Company Portal Info}}.\n2. Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Look for the purchase associated with the order number {{Order Number}} and click on it.\n4. Locate the option labeled '{{Online Order Interaction}}' and select it.\n5. Provide any additional information or feedback that the system may request.\n\nShould you encounter any difficulties or have further questions, our dedicated support team is available during {{Customer Support Hours}} to assist you. You can reach us at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}.\n\nRest assured that we are committed to ensuring your satisfaction, and we appreciate your patience during this process.",
+    "response_cn": "我已了解到您需要取消订单 {{Order Number}} 的相关帮助，我将为您协助处理。为确保取消流程顺利进行，请按照以下步骤操作：\n\n1. 登录您的 {{Online Company Portal Info}}。\n2. 进入\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"页面。\n3. 找到与订单号 {{Order Number}} 相关的购买记录并点击。\n4. 找到\"{{Online Order Interaction}}\"选项并选择。\n5. 根据系统提示提供其他所需信息或反馈。\n\n如果您在操作过程中遇到任何困难或有其他疑问，我们的专属客服团队在 {{Customer Support Hours}} 期间随时为您提供帮助。您可以通过 {{Customer Support Phone Number}} 联系我们，或通过我们网站 {{Website URL}} 上的在线客服功能与我们取得联系。\n\n请放心，我们致力于确保您的满意，并感谢您在此过程中的耐心配合。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "can i correct order {{Order Number}}",
+    "instruction_cn": "我可以修改订单 {{Order Number} 吗？",
+    "response_en": "We understand that you would like to correct order number {{Order Number}}. Our team is here to assist you with any modifications you need to make. To ensure we provide you with the best solution, could you please let us know exactly what changes you would like to make to your order? We are committed to ensuring your complete satisfaction and will do our best to accommodate your request. Thank you for bringing this to our attention.",
+    "response_cn": "我们了解到您希望修改订单号 {{Order Number}}。我们的团队随时为您提供所需的任何修改服务。为了确保为您提供最佳解决方案，能否请您告知我们您希望对订单进行哪些具体更改？我们致力于确保您的完全满意，并将尽最大努力满足您的要求。感谢您向我们提出此需求。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "iwant assistance canceling order {{Order Number}}",
+    "instruction_cn": "我想取消订单 {{Order Number}，需要帮助。",
+    "response_en": "I understood, you're seeking assistance in canceling order {{Order Number}}. Rest assured, I'm here to guide you through the process. Here's what you need to do:\n\n1. Access Your Account: Log in to your {{Online Company Portal Info}} using your credentials.\n2. Locate Your Order: Once logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Find the Specific Order: Look for the order associated with the number {{Order Number}} and select it.\n4. Initiate the Cancellation: Within the order details, you'll find an option labeled '{{Online Order Interaction}}'. Please click on it.\n5. Follow Any Additional Steps: The system may require additional information or confirmation to proceed with the cancellation. Please provide the necessary details as requested.\n\nShould you encounter any difficulties or have further questions, our dedicated support team is available to assist you. You can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or via the Live Chat feature on our website at {{Website URL}}. Your satisfaction is our priority, and we will ensure a smooth cancellation process for you.",
+    "response_cn": "我理解，您希望获得取消订单 {{Order Number}} 的帮助。请放心，我将全程为您指导。以下是您需要执行的步骤：\n\n1. 登录您的账户：请使用您的登录凭证访问 {{Online Company Portal Info}}。\n2. 找到您的订单：登录后，请进入 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 页面。\n3. 查找具体订单：找到与订单号 {{Order Number}} 对应的订单并选中它。\n4. 发起取消操作：在订单详情中，您会看到一个标注为 '{{Online Order Interaction}}' 的选项，请点击该按钮。\n5. 按照后续步骤操作：系统可能会要求您提供额外的信息或进行确认才能继续取消流程，请根据提示提供所需信息。\n\n如果您在操作过程中遇到任何困难或有其他问题，我们的专业客服团队随时为您提供帮助。您可以在 {{Customer Support Hours}} 期间拨打客服电话 {{Customer Support Phone Number}}，或通过我们网站 {{Website URL}} 上的在线客服功能联系我们。您的满意是我们的首要目标，我们将确保您的取消流程顺利进行。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "help me checking purchase {{Order Number}} current status",
+    "instruction_cn": "帮我查询订单 {{Order Number}} 的当前状态",
+    "response_en": "Grateful for your contact! I get the sense that you would like assistance in checking the current status of your purchase with the purchase number {{Order Number}}. To provide you with the most accurate information, I kindly request you to provide some additional details such as your name or email address associated with the purchase. This will help me locate your purchase in our system and provide you with the relevant status update. I apologize for the inconvenience caused and appreciate your cooperation in this matter.",
+    "response_cn": "感谢您联系我们！我理解您想要查询编号为 {{Order Number}} 的订单的当前状态。为了给您提供最准确的信息，烦请提供一些额外的信息，例如与订单相关的姓名或电子邮箱地址。这将帮助我在系统中定位您的订单，并为您提供相关的状态更新。对于由此带来的不便，我深表歉意，同时也感谢您的配合。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "how do I acquire some of your product?",
+    "instruction_cn": "请问我该如何购买贵公司的产品？",
+    "response_en": "Thank you for your interest in acquiring our products! I'm here to guide you through the process step by step. To start, you can visit our website and browse through our wide range of products. Once you've found the items you wish to acquire, simply add them to your cart and proceed to the checkout page. At the checkout, you'll be prompted to provide your shipping details and select your preferred payment method. Once the payment is confirmed, we'll process your order and ship the products to your doorstep. If you have any specific questions or need further assistance during the process, please don't hesitate to ask. Happy shopping!",
+    "response_cn": "感谢您对我们产品的关注！我将全程为您提供指导，帮助您顺利完成购买流程。首先，您可以访问我们的网站，浏览我们丰富的产品系列。找到您想要购买的商品后，只需将其加入购物车，然后进入结算页面。在结算时，您需要填写收货信息并选择您偏好的付款方式。付款确认后，我们将立即处理您的订单，并将商品配送至您的收货地址。如果您在过程中有任何疑问或需要进一步的帮助，请随时联系我们。祝您购物愉快！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I do not know what I need to do to purchase some products",
+    "instruction_cn": "我不知道我需要做些什么才能购买一些产品",
+    "response_en": "I've decoded that you're feeling a bit unsure about the steps to purchase the products you need. Don't worry, I'm here to guide you through the process! To start, you can browse through our wide range of products and select the ones you're interested in. Once you have chosen your desired items, you can add them to your cart. Afterward, proceed to the checkout page, where you will need to provide your shipping and payment information. Finally, review your order details, confirm the purchase, and voila! You'll be one step closer to receiving your desired products. If you have any questions or encounter any difficulties along the way, just let me know, and I'll be more than happy to assist you further.",
+    "response_cn": "我理解您对购买所需产品的步骤感到有些不确定。别担心，我来为您全程指导！首先，您可以浏览我们丰富的产品并选择您感兴趣的商品。选好心仪的商品后，您可以将其加入购物车。之后，进入结算页面，填写您的收货地址和支付信息。最后，核对订单详情并确认购买，这样您就离收到心仪的商品更近一步了！如果您在过程中有任何疑问或遇到任何困难，随时告诉我，我会非常乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "question about correcting purchase {{Order Number}}",
+    "instruction_cn": "关于更正购买订单 {{Order Number}} 的问题",
+    "response_en": "I appreciate your query regarding correcting purchase number {{Order Number}}. Rest assured, I'm here to assist you with any changes you'd like to make. To better understand your specific requirements, could you please provide more details about the corrections you need? This will enable me to guide you through the process and ensure that your purchase is exactly as you desire. Remember, our primary goal is to provide you with a seamless and satisfactory shopping experience.",
+    "response_cn": "感谢您就修改购买编号 {{Order Number}} 一事进行咨询。请放心，我将竭诚协助您完成所需的任何更改。为了更好地了解您的具体需求，能否请您详细说明一下您需要进行哪些修改？这将有助于我为您引导整个流程，确保您的购买完全符合您的期望。请记住，我们的首要目标是为您提供顺畅且满意的购物体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I don't know what I need  to do to buy some of your product",
+    "instruction_cn": "我想知道我需要做些什么才能购买你们的产品",
+    "response_en": "Thank you for your inquiry! I understand that you're unsure about the process of purchasing our products. Don't worry, I'm here to assist you every step of the way. To get started, may I ask if you have already selected the specific products you'd like to purchase? If not, I can help you explore our wide range of products and provide recommendations based on your preferences and needs. Once we have identified the products you wish to buy, I'll guide you through the purchasing process, ensuring that it is simple and straightforward. Let's make sure your shopping experience with us is enjoyable and successful!",
+    "response_cn": "感谢您的咨询！我理解您对我们的产品购买流程不太清楚。别担心，我会全程为您提供帮助。首先，请问您是否已经选好想要购买的具体产品？如果还没有，我可以帮您了解我们丰富的产品种类，并根据您的喜好和需求提供推荐。一旦确定了您想要购买的产品，我会引导您完成购买流程，确保整个过程简单顺畅。让我们共同确保您在我们这里的购物体验愉快且成功！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "i do not know how i can acquire several prdoucts",
+    "instruction_cn": "我不知道如何获取多个{products}",
+    "response_en": "I'm glad you contacted us to us for assistance with acquiring several of our products. I understand that the process might seem uncertain or overwhelming, but don't worry, I'm here to guide you step by step. To get started, could you please let me know which specific products you're interested in? This way, I can provide you with the necessary information and help you make an informed decision.",
+    "response_cn": "很高兴您联系我们寻求购买我们多款产品的协助。我理解这个过程可能看起来有些不确定或令人不知所措，但请别担心，我会逐步指导您完成。为了开始，能否请您告诉我您具体对哪些产品感兴趣？这样我就能为您提供所需的信息，帮助您做出明智的决定。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "i have got to modify purchase {{Order Number}} help me",
+    "instruction_cn": "我需要修改订单 {{Order Number}}，请帮我处理一下。",
+    "response_en": "Thank you for trusting us! I'm fully aware of you need to modify purchase number {{Order Number}}. I'm here to assist you with that. Could you please let me know what specific modifications you would like to make? Whether it's changing items, quantities, or any other adjustments, we'll work together to ensure your purchase meets your expectations.",
+    "response_cn": "感谢您对我们的信任！我完全理解您需要修改订单号 {{Order Number}}。我来协助您完成修改。请告诉我您具体想要做哪些修改？无论是更换商品、调整数量，还是其他任何改动，我们都会全力配合，确保您的订单符合您的期望。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "could you help me buying several articles?",
+    "instruction_cn": "您好，请问您是想购买几篇文章吗？我可以帮您处理，请问具体需要哪些文章呢？",
+    "response_en": "I'll make it happen! I would be more than happy to assist you in buying several articles. Our wide range of products ensures that you have plenty of options to choose from. To get started, could you please provide me with some more details about the articles you are interested in? This way, I can guide you through the process and ensure a smooth and enjoyable shopping experience. Let's find you the perfect articles together!",
+    "response_cn": "没问题！我非常乐意协助您购买多款商品。我们丰富的产品种类确保您有充足的选择空间。为了开始选购，能否请您提供一些关于您感兴趣商品的更多详情？这样我就能引导您完成整个流程，确保您拥有顺畅愉快的购物体验。让我们一起为您找到最合适的商品吧！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I want assistance canceling purchyase {{Order Number}}",
+    "instruction_cn": "我想取消订单 {{Order Number}}，请协助处理。",
+    "response_en": "I hear you loud and clear your need for assistance in canceling purchase {{Order Number}}. We are here to help you through the process and ensure your satisfaction. To cancel your purchase, please follow these steps:\n\n1. Sign into Your Account: Access our platform by signing in to your {{Online Company Portal Info}}.\n2. Locate Your Order: Once signed in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section of your account.\n3. Find Your Purchase: Look for the purchase associated with the order number {{Order Number}} and click on it for more details.\n4. Initiate Cancellation: Within the purchase details, you'll find the option to '{{Online Order Interaction}}'. Simply click on it to proceed with the cancellation process.\n5. Provide Feedback (Optional): If you'd like, you can provide feedback regarding the cancellation to help us improve our services.\n\nIf you encounter any difficulties or have more questions along the way, our dedicated team is available during {{Customer Support Hours}} to provide further assistance. You can reach out to us by calling {{Customer Support Phone Number}} or by using the Live Chat feature on our website at {{Website URL}}. We are committed to resolving any concerns you may have and ensuring your complete satisfaction.",
+    "response_cn": "我完全理解您需要取消订单 {{Order Number}} 的需求。我们将全程协助您完成取消流程，确保您满意。要取消您的购买，请按照以下步骤操作：\n\n1. 登录您的账户：请登录我们的 {{Online Company Portal Info}} 平台。\n2. 找到您的订单：登录后，请前往账户中的 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 部分。\n3. 查找您的购买记录：找到与订单号 {{Order Number}} 相关的购买记录，点击查看详情。\n4. 发起取消：在订单详情中，您会看到 '{{Online Order Interaction}}' 选项，点击即可进入取消流程。\n5. 提供反馈（可选）：如果您愿意，可以就此次取消提供反馈意见，帮助我们改进服务。\n\n如果您在操作过程中遇到任何困难或有更多问题，我们的专业团队将在 {{Customer Support Hours}} 为您提供进一步帮助。您可以拨打 {{Customer Support Phone Number} 致电联系我们，或访问我们的网站 {{Website URL}} 使用在线客服功能。我们致力于解决您的任何疑虑，确保您完全满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "where can i see the current status of purchase {{Order Number}}",
+    "instruction_cn": "我在哪里可以查看订单 {{Order Number}} 的当前状态？",
+    "response_en": "I appreciate your inquiry! To check the current status of purchase {{Order Number}}, please visit the '{{Order Status}}' section on our website. This section will provide you with real-time information regarding the progress of your purchase. If you have any other questions or need further assistance, feel free to let me know. I'm here to ensure a seamless experience for you.",
+    "response_cn": "感谢您的咨询！要查询订单 {{Order Number}} 的当前状态，请访问我们网站上的\"{{Order Status}}\"页面。该页面将为您提供有关订单进度的实时信息。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。我随时为您服务，确保您获得顺畅的体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "i have got to locate order {{Order Number}} how can i do it",
+    "instruction_cn": "我需要找到订单 {{Order Number}}，我该怎么做呢？",
+    "response_en": "I hear you! I'm following you that you need assistance in locating your order with the order number {{Order Number}}. To help you with that, please visit our website and go to the '{{Online Order Interaction}}' section. From there, you will be able to find the status and details of your order. If you have any trouble or need further guidance, don't hesitate to let me know. I'm here to ensure you have a smooth experience throughout the process!",
+    "response_cn": "我理解您的需求！我了解到您需要协助查询订单号为 {{Order Number}} 的订单。为了帮助您，请访问我们的网站并进入\"{{Online Order Interaction}}\"页面。在那里，您可以查看订单的状态和详细信息。如果您遇到任何问题或需要进一步的指导，请随时告诉我。我会全程为您提供帮助，确保您拥有顺畅的体验！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "I have to see order {{Order Number}} current status, help me",
+    "instruction_cn": "我需要查看订单 {{Order Number} 的当前状态，请帮我",
+    "response_en": "Happy to hear from you! I truly understand that you would like assistance in checking the current status of your order with the order number {{Order Number}}. To provide you with accurate information, could you please verify your order number? Once I have the correct order number, I'll be able to assist you in finding the current status.",
+    "response_cn": "很高兴收到您的来信！我非常理解您希望获得帮助来查询订单号为 {{Order Number}} 的当前状态。为了给您提供准确的信息，请您确认一下您的订单号。一旦我收到正确的订单号，就能帮您查询当前状态。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "help to buy some articles",
+    "instruction_cn": "帮助购买一些商品",
+    "response_en": "We've received your message for assistance in purchasing articles. I'm here to guide you through the process and ensure a seamless experience from start to finish. To begin, could you please provide me with more details about the specific articles you are interested in? This will help me provide you with tailored recommendations and step-by-step instructions on how to proceed with the purchase.",
+    "response_cn": "我们已收到您关于购买商品的求助信息。我将全程为您提供指导，确保您从始至终都能获得顺畅的体验。首先，能否请您提供您感兴趣的具体商品的更多详情？这将帮助我为您提供个性化的推荐，并逐步指导您完成购买流程。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "what do I need to do to buy several items?",
+    "instruction_cn": "请问我需要怎么做才能购买多件商品？",
+    "response_en": "Thank you for your interest in purchasing several items! To make the buying process smooth and efficient, I recommend following these steps:\n\n1. Browse our website/catalog: Take your time to explore our collection of items. You can filter your search based on categories, prices, or any specific features you are looking for.\n\n2. Add items to your cart: Once you've found the items you want, click on the \"Add to Cart\" button to include them in your shopping cart. You can continue browsing and adding more items to your cart.\n\n3. Review your cart: When you're ready to proceed, click on the shopping cart icon at the top of the page to review the items you've selected. Ensure that you have the correct quantity and variations (if applicable).\n\n4. Proceed to checkout: Click on the \"Checkout\" button to initiate the purchase process. You may be required to provide shipping and billing information. If you have an account with us, you can also log in to retrieve your saved information.\n\n5. Choose a payment method: Select your preferred payment method from the available options. We accept various payment methods, including credit/debit cards, PayPal, and bank transfers. Follow the prompts to complete the payment process.\n\n6. Review and confirm your order: Before finalizing your purchase, carefully review your order summary. Pay attention to the items, quantities, prices, and any additional charges such as shipping fees or taxes. If everything looks good, click on the \"Place Order\" or \"Confirm Purchase\" button to complete the transaction.\n\n7. Receive order confirmation: After successfully placing your order, you will receive an order confirmation email with all the details of your purchase. This email will serve as proof of your order, and it may include estimated delivery dates and other relevant information.\n\nPlease note that the specific steps may vary depending on our website's interface and the products you wish to purchase. Additionally, if you require any assistance or encounter any issues during the buying process, our dedicated customer service team is available to support you.\n\nHappy shopping, and thank you for choosing us as your trusted provider of quality items!",
+    "response_cn": "感谢您有兴趣购买多件商品！为了让购买流程顺畅高效，我建议您按照以下步骤操作：\n\n1. 浏览我们的网站/产品目录：请花时间浏览我们的商品系列。您可以根据类别、价格或您需要的特定功能来筛选搜索结果。\n\n2. 将商品加入购物车：找到您想要的商品后，点击\"加入购物车\"按钮将其添加到购物车中。您可以继续浏览并添加更多商品到购物车。\n\n3. 查看购物车：当您准备结算时，点击页面顶部的购物车图标，查看您已选择的商品。请确认数量正确以及规格（如适用）无误。\n\n4. 进入结算流程：点击\"结算\"按钮开始购买流程。您可能需要提供收货地址和账单信息。如果您已注册账户，也可以登录以获取已保存的信息。\n\n5. 选择支付方式：从可用选项中选择您偏好的支付方式。我们接受多种付款方式，包括信用卡/借记卡、PayPal和银行转账。按照提示完成付款流程。\n\n6. 查看并确认订单：在最终完成购买前，请仔细查看订单摘要。注意商品、数量、价格以及任何额外费用，如运费或税费。如果一切无误，点击\"下单\"或\"确认购买\"按钮完成交易。\n\n7. 接收订单确认：成功下单后，您将收到一封包含购买详情的订单确认邮件。此邮件将作为订单凭证，可能包含预计交货日期及其他相关信息。\n\n请注意，具体步骤可能会因我们网站界面和您欲购买的商品而有所不同。此外，如果您在购买过程中需要任何帮助或遇到问题，我们的专业客服团队随时为您提供支持。\n\n祝您购物愉快，感谢您选择我们作为优质商品的信赖供应商！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "i need assistance with canceling order {{Order Number}}",
+    "instruction_cn": "我需要取消订单 {{Order Number}}，请协助处理。",
+    "response_en": "I comprehend that you require assistance with canceling order {{Order Number}}. I apologize for any inconvenience caused, and I'll be glad to help you navigate through the cancellation process.\n\nTo cancel order {{Order Number}}, please follow these steps:\n\n1. Log in to your {{Online Company Portal Info}} using your credentials.\n2. Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section, where you can view all your past purchases.\n3. Locate the order with the order number {{Order Number}} and click on it to access the order details.\n4. Look for the option labeled '{{Online Order Interaction}}' associated with the order and click on it to initiate the cancellation process.\n5. You might be asked to confirm the cancellation or provide feedback. Please complete any necessary steps to finalize the cancellation.\n\nIf you encounter any difficulties or have additional questions throughout the process, our dedicated support team is available during {{Customer Support Hours}}. Feel free to reach out to us at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}.\n\nWe appreciate your understanding, and we are committed to providing you with a seamless experience, ensuring your satisfaction.",
+    "response_cn": "我理解您需要取消订单 {{Order Number}} 的相关帮助。对于由此带来的任何不便，我深表歉意，并很乐意协助您完成取消流程。\n\n要取消订单 {{Order Number}}，请按以下步骤操作：\n\n1. 使用您的登录凭据登录 {{Online Company Portal Info}}。\n2. 进入\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"页面，在该页面您可以查看所有历史订单。\n3. 找到订单号为 {{Order Number}} 的订单并点击进入订单详情页面。\n4. 找到与该订单关联的\"{{Online Order Interaction}}\"选项并点击，以启动取消流程。\n5. 系统可能会要求您确认取消或提供反馈意见，请完成相关步骤以完成取消操作。\n\n如果您在操作过程中遇到任何困难或有其他问题，我们的专业客服团队在 {{Customer Support Hours}} 期间随时为您提供帮助。您可以拨打 {{Customer Support Phone Number}} 联系我们，或通过 {{Website URL}} 上的在线客服功能与我们取得联系。\n\n感谢您的理解，我们将竭诚为您提供顺畅的服务体验，确保您的满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I want assistance canceling purchase {{Order Number}}",
+    "instruction_cn": "我想取消订单 {{Order Number}，请帮我处理。",
+    "response_en": "I understand your need for assistance in canceling your purchase with the order number {{Order Number}}. Our team is here to support you throughout the process and ensure a seamless cancellation experience. To begin, please follow these steps:\n\n1. Log into your {{Online Company Portal Info}} using your credentials.\n2. Locate the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section on the platform.\n3. Identify the purchase associated with the order number {{Order Number}}.\n4. Select the '{{Online Order Interaction}}' option linked to the specific purchase.\n5. Follow any additional instructions or provide feedback, if required.\n\nIn case you encounter any difficulties or have further questions, our dedicated customer support team is available during {{Customer Support Hours}}. You can reach out to us at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}.\n\nWe appreciate your patience and understanding. Our goal is to ensure your satisfaction throughout the cancellation process.",
+    "response_cn": "我理解您需要协助取消订单号为 {{Order Number}} 的购买。我们的团队将全程为您提供支持，确保取消过程顺利进行。请按照以下步骤操作：\n\n1. 使用您的登录凭证登录 {{Online Company Portal Info}}。\n2. 在平台上找到 '{{Online Order Interaction}}' 或 '{{Online Order Interaction}}' 部分。\n3. 找到与订单号 {{Order Number}} 相关的购买记录。\n4. 选择与该特定购买关联的 '{{Online Order Interaction}}' 选项。\n5. 如有需要，请按照其他提示操作或提供反馈。\n\n如果您在操作过程中遇到任何困难或有任何疑问，我们的专属客服团队在 {{Customer Support Hours}} 期间随时为您服务。您可以通过电话 {{Customer Support Phone Number}} 联系我们，或访问我们的网站 {{Website URL}} 使用在线聊天功能与我们取得联系。\n\n感谢您的耐心与理解。我们的目标是在整个取消过程中确保您的满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "wanna remove some items from order {{Order Number}}",
+    "instruction_cn": "我想从订单 {{Order Number}} 中移除一些商品",
+    "response_en": "We understand that you would like to remove some items from order number {{Order Number}}. We apologize for any inconvenience this may have caused. To assist you with modifying your order, could you please provide us with the specific items that you would like to remove? Our team will be more than happy to help make the necessary adjustments to ensure your satisfaction. Thank you for your patience and understanding.",
+    "response_cn": "我们了解到您希望从订单号 {{Order Number}} 中移除部分商品。对此可能给您带来的不便，我们深表歉意。为了协助您修改订单，能否请您提供一下您希望移除的具体商品信息？我们的团队将非常乐意为您进行必要的调整，以确保您的满意。感谢您的耐心与理解。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "order  {{Order Number}} status",
+    "instruction_cn": "订单 {{Order Number}} 状态",
+    "response_en": "We're here to help! I take note that you are interested in checking the status of your order with the order number {{Order Number}}. To provide you with accurate information regarding the status, I kindly request you to provide some additional details such as your name or email address associated with the order. This will allow me to locate your order quickly and provide you with the most up-to-date information. Please feel free to share the required details, and I'll be more than happy to assist you further!",
+    "response_cn": "我们随时为您服务！我注意到您想查询订单号为 {{Order Number}} 的订单状态。为了给您提供准确的信息，烦请您提供一些额外的信息，例如与订单相关的姓名或电子邮箱地址。这样我可以快速找到您的订单，并为您提供最新的状态信息。请随时提供所需信息，我将非常乐意为您提供进一步的帮助！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "assistance to add a damn article to order {{Order Number}}",
+    "instruction_cn": "您好，请问您需要为订单 {{Order Number}} 添加一件商品，对吗？",
+    "response_en": "We apologize for any frustration caused, and we appreciate your patience. To assist you with adding an item to order number {{Order Number}}, please provide us with the details of the article you would like to add, including the item name, size, color, or any other specifications. This will help us ensure that we update your order accurately and promptly. We're here to make sure your shopping experience goes as smoothly as possible.",
+    "response_cn": "对于给您带来的任何不便，我们深表歉意，感谢您的耐心等待。为了协助您为订单号 {{Order Number}} 添加商品，请提供您想要添加的商品详情，包括商品名称、尺寸、颜色或其他任何规格信息。这将帮助我们确保准确、及时地更新您的订单。我们会尽力确保您的购物体验尽可能顺畅。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "i have got to buy some items how can i do it",
+    "instruction_cn": "我需要购买一些商品，请问该如何操作呢？",
+    "response_en": "Thank you for reaching out! It's great to see your eagerness to make a purchase. I'm here to provide you with the guidance you need to complete your order smoothly. To get started, could you please let me know which items you're interested in? Once I have that information, I can walk you through the process step by step to ensure a seamless shopping experience.",
+    "response_cn": "感谢您联系我们！很高兴看到您有购物的意愿。我会为您提供完成订单所需的指导。首先，能否请您告诉我您对哪些商品感兴趣？一旦我了解到这些信息，我会逐步引导您完成整个流程，确保您拥有顺畅的购物体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "what is order {{Order Number}} status",
+    "instruction_cn": "订单 {{Order Number}} 的状态是什么",
+    "response_en": "Thank you for reaching out! I'm here to assist you in retrieving the status of the order with the number {{Order Number}}. To provide you with the most accurate information, let me quickly check the system. Please bear with me for a moment while I do that.",
+    "response_cn": "感谢您联系我！我很乐意帮您查询订单 {{Order Number}} 的状态。为了给您提供最准确的信息，让我快速查看一下系统。请稍等片刻。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I don't know how I can acquire some fucking articles",
+    "instruction_cn": "很抱歉，我无法为您提供一些该死的物品",
+    "response_en": "Thank you for getting in touch with us! I apologize for any frustration or confusion you may be experiencing. I'm here to provide the guidance and assistance you need to acquire the desired articles. Could you please let me know which specific articles you're interested in? Once I have that information, I'll be able to provide you with clear instructions on how to make your purchase.",
+    "response_cn": "感谢您与我们联系！对于您可能遇到的任何困扰或不便，我深表歉意。我将竭诚为您提供所需的指导和帮助，协助您获取心仪的商品。请问您具体对哪些商品感兴趣？一旦我了解到相关信息，我将为您提供清晰的购买指引。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "help seeing the ETA of the purchase00123842",
+    "instruction_cn": "您好，我想查看订单00123842的预计送达时间。",
+    "response_en": "Your input is valuable! I'm picking up that you need assistance in checking the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. To view the ETA, you can visit the '{{Purchase History}}' section on our website or app. If you're unable to locate the ETA or have any other questions, please feel free to ask. I'm here to help ensure you have a seamless experience with your purchase!",
+    "response_cn": "您的反馈很有价值！我了解到您需要查询订单号为 {{Order Number}} 的预计送达时间（ETA）。您可以访问我们网站或应用中的\"{{Purchase History}}\"页面来查看预计送达时间。如果您无法找到预计送达时间或有任何其他问题，请随时提问。我随时为您服务，确保您的购物体验顺畅无忧！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "I do not know how I could check the ETA of purchase {{Order Number}}",
+    "instruction_cn": "我不知道如何查询订单 {{Order Number} 的预计送达时间",
+    "response_en": "Thank you for reaching out! I can definitely assist you with checking the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. To view the ETA, you can visit our website and navigate to the '{{Online Order Interaction}}' section. In the order details, you should find the updated status along with the expected delivery date. If you need any further assistance or have any other questions, please feel free to let me know. My goal is to ensure you have a seamless and informed shopping experience!",
+    "response_cn": "感谢您联系我们！我很乐意为您提供订单号 {{Order Number}} 的预计送达时间（ETA）查询服务。要查看预计送达时间，您可以访问我们的网站，进入\"{{Online Order Interaction}}\"页面。在订单详情中，您可以找到最新的订单状态以及预计送达日期。如果您还有其他任何问题或需要进一步帮助，请随时告诉我。我的目标是确保您拥有顺畅且透明的购物体验！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "canceling order {{Order Number}}",
+    "instruction_cn": "取消订单 {{Order Number}}",
+    "response_en": "I realized that you need assistance with canceling your order numbered {{Order Number}}. We're here to help you with that. To proceed with the cancellation, please follow these steps:\n\n1. Login to Your Account: Access our platform by signing in to your {{Online Company Portal Info}}.\n2. Locate Your Order: After signing in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.\n3. Find the Specific Order: Look for the order number {{Order Number}} within your order history and click on it.\n4. Initiate Cancellation: When you're on the order details page, you should see an option labeled '{{Online Order Interaction}}' associated with this specific order. Please select it.\n5. Confirm the Cancellation: The system may ask for confirmation before canceling your order. Please review the information presented and proceed with the cancellation process.\n\nIf you encounter any difficulties or have any questions along the way, our dedicated customer support team is available during {{Customer Support Hours}}. You can reach us directly at {{Customer Support Phone Number}} or use the Live Chat feature on our {{Website URL}}. We're dedicated to ensuring your satisfaction and we'll do our best to assist you with the cancellation process.",
+    "response_cn": "我了解到您需要取消订单编号为 {{Order Number}} 的订单，我们很乐意为您提供帮助。要完成取消操作，请按照以下步骤进行：\n\n1. 登录您的账户：请登录我们的 {{Online Company Portal Info}} 平台。\n2. 找到您的订单：登录后，请前往\"{{Online Order Interaction}}\"或\"{{Online Order Interaction}}\"页面。\n3. 查找具体订单：在您的订单历史记录中找到订单号 {{Order Number}}，并点击该订单。\n4. 发起取消：进入订单详情页面后，您应该会看到与该订单相关的\"{{Online Order Interaction}}\"选项，请点击选择。\n5. 确认取消：系统在取消订单前可能会要求您确认，请核对所显示的信息，然后继续完成取消流程。\n\n如果您在操作过程中遇到任何困难或有任何疑问，我们的专属客服团队在 {{Customer Support Hours}} 期间随时为您服务。您可以直接拨打 {{Customer Support Phone Number}} 联系我们，或使用我们 {{Website URL}} 上的在线客服功能。我们致力于确保您的满意度，并将全力协助您完成订单取消。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "I want to check order {{Order Number}} current status, help me",
+    "instruction_cn": "我想查询订单 {{Order Number} 的当前状态，请帮我查一下。",
+    "response_en": "Thank you for reaching out! I understand your interest in checking the current status of your order with the order number {{Order Number}}. To provide you with accurate and up-to-date information, I kindly ask that you visit our website and navigate to the \"Order History\" section. There, you will be able to view the latest details and status updates regarding your order. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to ensure you have a seamless experience!",
+    "response_cn": "感谢您联系我们！我理解您希望查询订单号为 {{Order Number}} 的订单当前状态。为了向您提供准确且最新的信息，请您前往我们的网站，进入\"订单历史\"页面，在那里您可以查看订单的最新详情和状态更新。如果您遇到任何困难或有其他问题，请随时告诉我。我随时为您服务，确保您拥有顺畅的体验！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "can i remove a product from purchase {{Order Number}}",
+    "instruction_cn": "我可以从订单 {{Order Number}} 中移除某个商品吗？",
+    "response_en": "I'm picking up what you're putting down, your need to remove a product from your purchase with the order number {{Order Number}}. Our team is here to assist you with this request. Please provide us with the details of the specific product you would like to remove, such as the name or SKU. Once we have this information, we will promptly proceed with the necessary actions to ensure your satisfaction.",
+    "response_cn": "我理解您的需求，您希望从订单号为 {{Order Number}} 的购买中移除某个产品。我们的团队随时准备协助您处理此请求。请提供您希望移除的具体产品详情，例如产品名称或SKU编号。一旦收到这些信息，我们将立即采取必要措施，确保您满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I can't afford order {{Order Number}}, could I cancel it?",
+    "instruction_cn": "我无力支付订单 {{Order Number}}，可以取消吗？",
+    "response_en": "I've deduced from your message that you're currently unable to afford order {{Order Number}}, and you're seeking assistance with canceling it. I'm here to help you navigate through the cancellation process.",
+    "response_cn": "从您的留言中我了解到，您目前无法支付订单 {{Order Number}}，并希望获得取消订单的帮助。我将协助您完成取消流程。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "i wnt help swapping several items of order {{Order Number}}",
+    "instruction_cn": "我想帮助交换订单 {{Order Number}} 中的几件商品",
+    "response_en": "We appreciate your request for assistance with swapping several items in order number {{Order Number}}. Our team is here to help you make the necessary changes to your order. Can you please provide the specific items you would like to swap? This information will allow us to process your request accurately and efficiently. Thank you for your cooperation in improving your order experience.",
+    "response_cn": "感谢您提出协助更换订单号 {{Order Number}} 中若干商品的请求。我们的团队随时为您提供订单所需的更改。请问您能否提供您希望更换的具体商品信息？这些信息将使我们能够准确高效地处理您的请求。感谢您为改善订单体验所给予的配合。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "show me order {{Order Number}} current status",
+    "instruction_cn": "请帮我查询订单 {{Order Number}} 的当前状态",
+    "response_en": "Your message means a lot! I'm aligned with the idea that you would like to check the current status of your order with order number {{Order Number}}. To provide you with the most up-to-date information, I kindly request you to visit the '{{Order Status}}' section on our website. This section will contain all the details regarding the status of your order, including expected delivery dates, tracking information, and any updates or delays. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to assist you throughout the process and ensure you have a satisfying experience.",
+    "response_cn": "您的留言对我们非常重要！我理解您想要查询订单号为 {{Order Number}} 的订单当前状态。为了为您提供最新信息，请您访问我们网站上的\"{{Order Status}}\"页面。该页面将包含您订单状态的所有详情，包括预计送达日期、物流追踪信息以及任何更新或延误通知。如果您遇到任何困难或有其他问题，请随时告诉我。我随时为您提供帮助，确保您拥有满意的体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "how to see order {{Order Number}} current status?",
+    "instruction_cn": "如何查看订单 {{Order Number}} 的当前状态？",
+    "response_en": "I appreciate your interest in tracking the current status of your order with order number {{Order Number}}. To view the status, you can visit our website and go to the order tracking or order history section. There, you should be able to enter your order number and retrieve the most up-to-date information about your order. If you need any further assistance or have any other questions, feel free to let me know. I'm here to help!\"",
+    "response_cn": "感谢您关注订单号为 {{Order Number}} 的订单当前状态。要查看订单状态，您可以访问我们的网站，进入订单追踪或订单历史页面。在该页面，您可以输入订单号，获取订单的最新信息。如果您需要进一步的帮助或有任何其他问题，请随时告诉我，我很乐意为您提供协助！"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "can i check purchase {{Order Number}} status",
+    "instruction_cn": "我可以查询订单 {{Order Number}} 的状态吗",
+    "response_en": "We're here to help! I take note that you would like to check the status of your purchase with the purchase number {{Order Number}}. To assist you with that, could you please provide me with your full name and email address associated with the purchase? This will enable me to access your order details and provide you with the most accurate information regarding the status. Your privacy is important to us, and rest assured that any information you provide will be handled securely and in accordance with our privacy policy.",
+    "response_cn": "我们随时为您提供帮助！我注意到您想查询订单号为 {{Order Number}} 的购买状态。为了协助您查询，请您提供与此次购买相关的您的全名和电子邮箱地址。这样我就能查看您的订单详情，并为您提供最准确的订单状态信息。您的隐私对我们非常重要，请放心，您提供的任何信息都将按照我们的隐私政策安全处理。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I need help to order some articles",
+    "instruction_cn": "我需要帮助订购一些商品",
+    "response_en": "Thank you for considering our platform for ordering articles. I'm here to provide the assistance you need to place your order smoothly. To begin, could you please provide me with the specific articles you are interested in? With that information, I'll be able to guide you through the process and ensure a delightful and satisfying experience.",
+    "response_cn": "感谢您考虑通过我们的平台订购文章。我将竭诚为您提供协助，确保您的订单顺利完成。首先，能否请您告知您感兴趣的具体文章？有了这些信息后，我将能够引导您完成整个流程，确保您获得愉快且满意的体验。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "help me to change several products of purchase {{Order Number}}",
+    "instruction_cn": "您好，我需要帮助更改订单 {{Order Number} 中的几件商品。",
+    "response_en": "I can relate to the understanding that you need assistance with changing several products in your purchase with number {{Order Number}}. Thank you for reaching out to us for support. To assist you better, could you please provide me with the specific details of the products you would like to change? We want to make sure we fulfill your request accurately and efficiently. Your satisfaction is our priority, and we are here to help you with any modifications you require.",
+    "response_cn": "我理解您需要协助更改订单号为 {{Order Number}} 中的多个产品。感谢您联系我们寻求支持。为了更好地为您提供帮助，能否请您提供您希望更改的产品的具体信息？我们希望能够准确高效地满足您的需求。您的满意是我们的首要目标，我们随时为您提供所需的任何修改服务。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "needto do a purchase can i get some help",
+    "instruction_cn": "我需要购买一些东西，能帮我一下吗？",
+    "response_en": "We're listening! I'm keyed into the fact that you need assistance with making a purchase. I'm here to provide you with the help you need throughout the entire process, ensuring a smooth and enjoyable experience. Please let me know the items you would like to purchase, and I'll guide you step by step. Together, we'll make this purchase easy and convenient for you.",
+    "response_cn": "我们正在倾听！我了解到您需要购买方面的帮助。我会在整个过程中为您提供所需的帮助，确保您拥有顺畅愉快的体验。请告诉我您想要购买的商品，我会逐步指导您完成。让我们一起让这次购买变得轻松便捷。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "change_order",
+    "instruction_en": "I can't delete some products from order {{Order Number}}",
+    "instruction_cn": "我无法删除订单 {{Order Number}} 中的某些商品",
+    "response_en": "Thank you for bringing this issue to our attention. I apologize for any inconvenience caused by not being able to delete the products from order number {{Order Number}}. I understand that it can be frustrating when you are unable to make changes to your order as desired. Could you please provide me with more details about the specific products you are having trouble deleting? This will help us investigate the issue further and find an appropriate solution.",
+    "response_cn": "感谢您向我们反馈此问题。对于无法删除订单号 {{Order Number}} 中的产品给您带来的不便，我深表歉意。我理解当您无法按预期对订单进行修改时，可能会感到困扰。能否请您提供更多关于您无法删除的具体产品的详细信息？这将有助于我们进一步调查此问题并找到合适的解决方案。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "I need to shop several of ypur article, can I get some help?",
+    "instruction_cn": "我想购买你们的好几篇文章，能帮我一下吗？",
+    "response_en": "Thank you for expressing your interest in shopping several of our articles! I'm here to assist you throughout the entire process. To start, could you please provide me with more details about the specific articles you are interested in? This will enable me to provide you with tailored recommendations and guide you through the purchasing journey smoothly. Feel free to share any preferences or specific requirements you may have, and I'll ensure that your shopping experience is both delightful and successful.",
+    "response_cn": "感谢您对我们多款商品表现出兴趣！我将全程为您提供协助。首先，能否请您提供一下您感兴趣的具体商品的详细信息？这样我就能为您提供个性化的推荐，并引导您顺利完成购买流程。请随时分享您的任何偏好或具体需求，我将确保您的购物体验既愉快又满意。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "track_order",
+    "instruction_en": "can you show me the current status of order {{Order Number}}?",
+    "instruction_cn": "您好，我可以帮您查询订单 {{Order Number}} 的当前状态吗？",
+    "response_en": "Grateful for your contact! I get the sense that you would like to know the current status of your order with the order number {{Order Number}}. To provide you with accurate and up-to-date information, may I request your email address or the name associated with the order? This will allow me to quickly locate your order in our system and provide you with the current status.",
+    "response_cn": "感谢您联系我们！我了解到您想查询订单号为 {{Order Number}} 的当前状态。为了给您提供准确、最新的信息，请问您能提供一下与该订单关联的电子邮箱地址或姓名吗？这样我就可以在系统中快速定位您的订单，并为您查询当前状态。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "where do I earn some products?",
+    "instruction_cn": "我在哪里可以获取一些产品？",
+    "response_en": "I appreciate your eagerness to acquire some products! To assist you in finding the perfect place to make your purchase, could you please provide me with more details about the specific products you are interested in? Once I have a clear understanding, I can guide you to the best location where you can earn those products.",
+    "response_cn": "非常感谢您想要获取一些产品！为了帮助您找到完美的购买地点，您能否提供更多关于您感兴趣的具体产品的详细信息？一旦我有了清晰的了解，我可以引导您到最佳地点，让您获取这些产品。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "cancel_order",
+    "instruction_en": "I need help canceling purchase {{Order Number}}",
+    "instruction_cn": "我需要帮助取消订单 {{Order Number}}",
+    "response_en": "I've decoded that you are seeking assistance in canceling your purchase with the order number {{Order Number}}. I apologize for any inconvenience this may have caused you. Rest assured, I'm here to help you with the cancellation process.\n\nTo cancel your purchase, please follow these steps:\n\n1. Sign into your account: Access our platform by logging into your {{Online Company Portal Info}}.\n2. Locate your order: Once logged in, navigate to the \"{{Online Order Interaction}}\" or \"{{Online Order Interaction}}\" section.\n3. Find the purchase: Look for the order with the number {{Order Number}} and click on it to view the details.\n4. Initiate cancellation: Within the order details, you should find an option labeled \"{{Online Order Interaction}}\" or something similar. Please click on it.\n5. Confirm cancellation: The system may prompt you to confirm the cancellation. Please review the details and provide any necessary information.\n6. Complete the process: Once confirmed, the cancellation process will be initiated. You will receive a confirmation email shortly.\n\nIf you encounter any difficulties or have further questions during the cancellation process, our dedicated support team is available to assist you. You can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}.\n\nWe understand the importance of canceling this purchase for you and we're committed to providing the support you need. Thank you for your patience and cooperation throughout this process.",
+    "response_cn": "我已了解到您希望取消订单号为 {{Order Number}} 的购买。对于由此给您带来的任何不便，我深表歉意。请放心，我将协助您完成取消流程。\n\n要取消您的购买，请按照以下步骤操作：\n\n1. 登录您的账户：通过登录 {{Online Company Portal Info}} 访问我们的平台。\n2. 找到您的订单：登录后，导航至 \"{{Online Order Interaction}}\" 或 \"{{Online Order Interaction}}\" 部分。\n3. 查找该笔购买：找到订单号为 {{Order Order Number}} 的订单，点击查看详情。\n4. 发起取消：在订单详情中，您应该会找到 \"{{Online Order Interaction}}\" 或类似选项，请点击。\n5. 确认取消：系统可能会提示您确认取消，请查看详细信息并提供必要的信息。\n6. 完成流程：确认后，取消流程将随即启动，您很快会收到一封确认邮件。\n\n如果您在取消过程中遇到任何困难或有任何疑问，我们的专业支持团队随时为您提供帮助。您可以在 {{Customer Support Hours}} 拨打 {{Customer Support Phone Number}} 联系我们，或通过我们 {{Website URL}} 上的在线客服功能与我们取得联系。\n\n我们理解取消这笔订单对您的重要性，并将竭诚为您提供所需的支持。感谢您的耐心与配合。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "assistance acquiring a few of ur item",
+    "instruction_cn": "您好，我想购买一些你们的商品。",
+    "response_en": "Thank you for your interest in acquiring a few of our items! I'm here to provide the assistance you need throughout the process. To get started, could you please share the specific items you're looking to acquire? With this information, I'll be able to guide you smoothly through the necessary steps to make your purchase.",
+    "response_cn": "感谢您对我们产品的关注！我很乐意在整个过程中为您提供帮助。为了开始，请问您能告诉我您想要购买的具体商品吗？有了这些信息，我将能够顺利地引导您完成购买所需的步骤。"
+  },
+  {
+    "category": "ORDER",
+    "intent": "place_order",
+    "instruction_en": "order some of your product",
+    "instruction_cn": "订购一些你们的产品",
+    "response_en": "Thank you for considering placing an order for some of our products! We appreciate your interest and would be delighted to assist you in completing your purchase. To get started, could you please provide me with the specific details of the products you would like to order? This will enable us to ensure their availability and guide you through the ordering process smoothly.",
+    "response_cn": "感谢您考虑订购我们的产品！我们非常感谢您的关注，并很乐意协助您完成购买。为了开始处理，您能否提供您想要订购的具体产品详情？这将使我们能够确保产品库存充足，并顺利引导您完成订购流程。"
+  }
+]

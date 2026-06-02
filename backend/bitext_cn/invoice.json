@@ -1,0 +1,802 @@
+[
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "could you mail me my goddamn invoices from {{Person Name}}?",
+    "instruction_cn": "您能把{{Person Name}}寄给我的那些该死的发票发给我吗？",
+    "response_en": "I'll make it happen! I completely understand your need to receive your invoices from {{Person Name}} via email. To assist you further, could you please provide me with the email address you would like us to send the invoices to? This way, I can ensure that you receive the invoices promptly and conveniently.",
+    "response_cn": "没问题！我完全理解您需要通过电子邮件接收 {Person Name} 的发票。为了进一步协助您，请问您希望我们将发票发送到哪个邮箱地址？这样，我就能确保您能够及时、方便地收到发票。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "find bill #85632",
+    "instruction_cn": "查找账单 #85632",
+    "response_en": "Of course! I'm here to assist you in locating the details of bill #{{Invoice Number}}. To find the information you need, please follow these steps:\n\n1. Log in to your account on our website or mobile app.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the search bar or filter option and enter the number \"85632\".\n4. Once you locate the bill, you can click on it to view the complete details including payment status, due date, and any relevant notes.\n\nIf you encounter any difficulties or have further questions, feel free to reach out to our customer support team through live chat or by phone at {{Customer Support Phone Number}}. They'll be more than happy to assist you further.",
+    "response_cn": "当然！我很乐意帮您查找账单 #{{Invoice Number}} 的详细信息。要找到您需要的信息，请按照以下步骤操作：\n\n1. 登录我们网站或移动应用程序上的账户。\n2. 进入\"账单\"或\"发票\"部分。\n3. 找到搜索栏或筛选选项，输入号码\"85632\"。\n4. 找到该账单后，您可以点击查看完整详情，包括付款状态、到期日期和相关备注。\n\n如果您遇到任何困难或有其他问题，请随时通过在线客服或拨打 {{Customer Support Phone Number}} 联系我们的客服团队。他们非常乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "help me downloading my invoice #37777",
+    "instruction_cn": "请帮我下载我的发票 #37777",
+    "response_en": "I'll make it happen! I understand your need for assistance in downloading your invoice with the number {{Invoice Number}}. Let me guide you through the process. Firstly, please log in to your account on our website. Once you're logged in, navigate to the \"Invoice\" section. You should be able to find a download button next to invoice {{Invoice Number}}. Click on it to initiate the download. If you encounter any difficulties along the way or have any additional questions, feel free to let me know. I'm here to help make the process as smooth as possible for you!",
+    "response_cn": "没问题！我理解您需要帮助下载编号为 {{Invoice Number}} 的发票。让我来为您引导整个过程。首先，请登录我们网站上的您的账户。登录后，请导航至\"发票\"部分。您应该能在发票 {{Invoice Number}} 旁边找到一个下载按钮，点击它即可开始下载。如果您在此过程中遇到任何困难或有任何其他问题，请随时告诉我。我会尽力让整个过程尽可能顺畅！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "look for bill fromMr. Smith",
+    "instruction_cn": "查找来自 Mr. Smith 的账单",
+    "response_en": "Appreciate you reaching out to us for assistance with locating the bill from {{Salutation}} {{Client Last Name}}. I completely understand the importance of finding this bill for you. To ensure a smooth search process, may I kindly ask if you have any specific details such as a date range or any other relevant information that can help me narrow down the search and provide you with accurate results? Your cooperation is highly appreciated, and I'm here to guide you through every step of the way towards finding the bill you need.",
+    "response_cn": "感谢您联系我们，协助您查找 {{Salutation}} {{Client Last Name}} 的账单。我完全理解找到这份账单对您的重要性。为了确保搜索过程顺利进行，请问您是否掌握一些具体信息，例如日期范围或其他相关信息，以便我缩小搜索范围并为您提供准确的结果？非常感谢您的配合，我将全程协助您找到所需的账单。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "want assistance to give an quick look at my bill #00108",
+    "instruction_cn": "我想请人帮忙快速查看一下我的账单 #00108",
+    "response_en": "I'm happy to help! I understand your need to have a quick look at the details of bill number #{{Invoice Number}}. Allow me to assist you with that. To provide you with accurate information, could you please verify your account details, such as your name and account number? Once I have the necessary information, I will be able to retrieve your bill and guide you through it.",
+    "response_cn": "很高兴为您服务！我理解您希望快速查看账单编号 #{{Invoice Number}} 的详细信息。请允许我为您提供帮助。为了给您提供准确的信息，能否请您核实一下您的账户详情，例如您的姓名和账户号码？一旦我获取到必要的信息，我将能够为您调取账单并为您进行详细说明。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "how can i give a quick look at my bills from {{Person Name}}",
+    "instruction_cn": "我如何快速查看来自 {{Person Name}} 的账单？",
+    "response_en": "For sure! I understand your desire for a quick look at your bills from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. You can easily access your bills by logging into your account on our website or mobile app. Once logged in, navigate to the \"Billing\" or \"Invoices\" section, where you should find a comprehensive list of your bills. If you need any further guidance or have any specific questions regarding your bills, please don't hesitate to let me know. I'm here to ensure that your experience is smooth and efficient.",
+    "response_cn": "当然可以！我理解您希望快速查看{称呼}{客户姓氏}的账单。让我来协助您。您可以通过登录我们的网站或移动应用程序轻松访问您的账单。登录后，导航到\"账单\"或\"发票\"部分，您应该可以在那里找到您的账单列表。如果您需要任何进一步的指导或有任何关于账单的具体问题，请随时告诉我。我在这里确保您的体验顺畅高效。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I odn't know how I can look for my invoice #12588",
+    "instruction_cn": "我不知道如何查找我的发票 #12588",
+    "response_en": "I understand your uncertainty about the process of locating your invoice with the number #{{Invoice Number}}. Let me guide you through the steps. First, you'll need to log into your account on our website. Once you're logged in, navigate to the \"Billing\" or \"Invoices\" section. Look for a tab or link that says \"View Invoices\" or something similar. Click on that, and you should see a list of all your invoices. Search for the specific invoice number #{{Invoice Number}} and click on it to view the details. If you have any trouble along the way, please don't hesitate to ask. I'm here to help!",
+    "response_cn": "我理解您对查找编号为 #{{Invoice Number}} 的发票流程存在疑惑，让我为您逐步指导。首先，您需要登录我们网站的账户。登录后，请导航至\"账单\"或\"发票\"部分。查找标有\"查看发票\"或类似字样的标签或链接。点击该选项，您应该能看到所有发票的列表。搜索特定的发票编号 #{{Invoice Number}}，点击即可查看详细信息。如果在操作过程中遇到任何问题，请随时提问，我很乐意为您提供帮助！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "what do i need to do to find my invoice #12588",
+    "instruction_cn": "我需要做什么才能找到我的发票 #12588？",
+    "response_en": "I appreciate your inquiry about locating your invoice with the number {{Invoice Number}}. To assist you, I recommend accessing our online portal. Log in to your account and navigate to the \"Billing\" or \"Invoices\" section. You may find a search bar where you can input the invoice number to quickly locate it. If you have trouble finding it, our customer service representatives are available to guide you through the process. Simply reach out to them via phone at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. Rest assured, we are here to ensure that you find the necessary information and provide any additional assistance you may need.",
+    "response_cn": "感谢您咨询关于查找编号为 {{Invoice Number}} 的发票事宜。为了协助您，建议您访问我们的在线门户。登录您的账户后，导航至\"账单\"或\"发票\"部分。您可能会找到一个搜索栏，在其中输入发票号码即可快速找到。如果您在查找过程中遇到困难，我们的客服代表随时准备为您提供指导。您只需通过电话 {{Customer Support Phone Number}} 或我们网站 {{Website URL}} 上的在线客服功能与他们联系即可。请放心，我们会确保您找到所需信息，并提供您可能需要的任何额外帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i dont know what i need to do to get my invoice #85632",
+    "instruction_cn": "我不知道我需要做什么才能拿到我的发票 #85632",
+    "response_en": "No problem! I completely understand your uncertainty about the process to obtain your invoice with the number #{{Invoice Number}}. Allow me to assist you with that. You can easily access and download your invoice by following these steps: \n\n1. Log into your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the option to view or download invoices.\n4. Enter the invoice number #{{Invoice Number}} in the search bar, if available.\n5. Click on the invoice you want to download.\n6. Select the desired format (PDF, Excel, etc.) to download the invoice.\n7. Save the downloaded file for future reference.\n\nIf you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "没问题！我完全理解您对获取编号为 #{{Invoice Number}} 发票流程的疑惑。让我来为您提供帮助。您可以通过以下步骤轻松访问和下载您的发票：\n\n1. 登录我们网站的账户。\n2. 进入\"账单\"或\"发票\"部分。\n3. 找到查看或下载发票的选项。\n4. 如有搜索栏，请输入发票编号 #{{Invoice Number}}。\n5. 点击您要下载的发票。\n6. 选择所需的格式（PDF、Excel等）进行下载。\n7. 保存下载的文件以备将来参考。\n\n如果您遇到任何困难或有其他问题，请随时告诉我。我随时为您提供帮助！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "need assistance getting the invokce #12588",
+    "instruction_cn": "需要协助获取发票 #12588",
+    "response_en": "I'll get right on it! I completely understand your need to access the invoice with the number #{{Invoice Number}}. Let me quickly assist you with retrieving that invoice. Please bear with me for just a moment. And if you have any further questions or concerns, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "我马上为您处理！我完全理解您需要获取编号为 #{{Invoice Number}} 的发票。让我迅速帮您检索那张发票。请稍等片刻。如果您有任何其他问题或疑虑，请随时告诉我。我随时为您提供帮助！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I want assistance locating my invoices from {{Person Name}}",
+    "instruction_cn": "我需要协助查找我的发票，发票属于 {{Person Name}",
+    "response_en": "Sure! I understand your request to locate your invoices from {{Salutation}} {{Client Last Name}}. This is a common concern, and rest assured, I'm here to help you. To assist you more effectively, could you please provide me with the {{Date Range}} or any additional details about the invoices you are looking for? With this information, I'll be able to track down the invoices and provide you with the necessary assistance.",
+    "response_cn": "好的！我理解您想要查找来自{{Salutation}} {{Client Last Name}} 的发票的需求。这是一个常见的问题，请放心，我会为您提供帮助。为了更有效地协助您，请问您能否提供一下{Date Range}或您正在寻找的发票的任何其他详细信息？有了这些信息，我将能够找到相关发票并为您提供必要的帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i have to get my damn invoice from {{Person Name}} i need help",
+    "instruction_cn": "我得找{{Person Name}要我的发票，我需要帮助",
+    "response_en": "I truly understand your frustration and urgency in needing to access your invoice from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you. Let me quickly retrieve the invoice for you. In the meantime, if you have any other questions or concerns, please don't hesitate to let me know. Your satisfaction is my top priority.",
+    "response_cn": "我完全理解您急需从 {{Salutation}} {{Client Last Name}} 处获取发票的焦虑心情。请放心，我会全力协助您。让我立即为您查询发票。在此期间，如果您有任何其他问题或疑虑，请随时告知。您的满意是我的首要任务。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "how do I download my bills from {{Person Name}}?",
+    "instruction_cn": "我如何从 {{Person Name}} 下载我的账单？",
+    "response_en": "I'll take care of it! I completely understand your need to download your bills from {{Person Name}}. To download your bills, please follow these steps: \n1. Log in to your account on our website.\n2. Navigate to the billing section or account settings.\n3. Look for the option to download your invoices or bills.\n4. Select the specific timeframe or invoice number you are interested in.\n5. Click on the download button to save the bill to your device.\n\nIf you encounter any difficulties or have any further questions, please don't hesitate to let me know. I'm here to ensure a smooth experience for you in accessing your bills.",
+    "response_cn": "我来帮您处理！我非常理解您需要从 {{Person Name}} 下载账单的需求。要下载您的账单，请按照以下步骤操作：\n1. 登录我们网站上的您的账户。\n2. 进入账单部分或账户设置页面。\n3. 查找下载发票或账单的选项。\n4. 选择您需要的具体时间段或发票编号。\n5. 点击下载按钮，将账单保存到您的设备中。\n\n如果您遇到任何困难或有任何其他问题，请随时告诉我。我会确保您能够顺利地获取您的账单。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i do not know what to do to get the nivoice #12588",
+    "instruction_cn": "我不知道该怎么做才能拿到发票 #12588",
+    "response_en": "I see your uncertainty about how to access the invoice with the number #{{Invoice Number}}. Let me guide you through the process step by step so that you can easily retrieve your invoice. First, you need to log in to your account on our website. Once you're logged in, navigate to the \"Billing\" or \"Invoices\" section, where you should be able to find a list of your invoices. Look for the invoice with the number #{{Invoice Number}} and click on it to view or download it. If you encounter any difficulties or have further questions, please don't hesitate to reach out. I'm here to assist you every step of the way.",
+    "response_cn": "我看到您对如何获取编号为 #{{Invoice Number}} 的发票存在疑问。让我逐步引导您完成整个过程，以便您轻松找到您的发票。首先，您需要登录我们网站的账户。登录后，导航至\"账单\"或\"发票\"部分，您应该能在那里找到您的发票列表。找到编号为 #{{Invoice Number}} 的发票，点击查看或下载。如果您遇到任何困难或有其他问题，请随时联系我。我会全程为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "how do I check my bill from {{Person Name}}?",
+    "instruction_cn": "我如何查看来自 {{Person Name}} 的账单？",
+    "response_en": "I've been informed that you're looking for guidance on how to check your bill from {{Person Name}}. To check your bill, you can log in to your account on our website and navigate to the billing section. From there, you should be able to view and download your bill, which will provide a detailed breakdown of your charges. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to assist you every step of the way!",
+    "response_cn": "我了解到您正在寻求有关如何查看 {Person Name} 的账单的指导。要查看您的账单，您可以登录我们网站上的账户，然后进入账单页面。在那里，您将能够查看并下载账单，其中会详细列出您的各项费用。如果您遇到任何困难或有其他问题，请随时告诉我。我会全程为您提供帮助！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I want assistance to look for my invoice #12588",
+    "instruction_cn": "我需要帮助查找我的发票 #12588",
+    "response_en": "Thanks for dropping us a line to us for help with locating your invoice with the number #{{Invoice Number}}. I understand the importance of finding this information for you. To assist you in the best possible way, could you please provide me with some additional details? Specifically, the date range or any other relevant information related to your invoice. This will allow me to narrow down the search and provide you with accurate information. Rest assured, I'm here to guide you every step of the way and ensure a seamless experience for you.",
+    "response_cn": "感谢您联系我们，寻求帮助查找编号为 #{{Invoice Number}} 的发票。我理解找到这些信息对您的重要性。为了给您提供最好的帮助，您能否提供一些额外的细节？具体来说，是日期范围或与发票相关的任何其他信息。这将帮助我缩小搜索范围，为您提供准确的信息。请放心，我会全程为您提供指导，确保为您带来顺畅的体验。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i want help downloading  my invoice from {{Person Name}}",
+    "instruction_cn": "我想寻求帮助，下载我的发票，{{Person Name}",
+    "response_en": "Sure! I completely understand your request for assistance in downloading the invoice from {{Salutation}} {{Client Full Name}}. Let me guide you through the process to ensure you can easily access and download your invoice. First, could you please provide me with the invoice number or any additional details that can help me locate the specific invoice you're referring to? Once I have that information, I'll be able to provide you with step-by-step instructions on how to download it.",
+    "response_cn": "好的！我完全理解您希望获得帮助，以便从 {{Salutation}} {{Client Full Name}} 下载发票。让我来引导您完成整个过程，确保您能够轻松访问并下载您的发票。首先，请您提供一下发票号码或任何其他详细信息，以便我帮您找到您所指的具体发票。一旦我获得这些信息，我将为您提供如何下载发票的逐步操作指南。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "checking invoices from {{Person Name}}",
+    "instruction_cn": "正在查看 {{Person Name}} 的发票",
+    "response_en": "Thank you for your message to us for assistance with checking the invoices from {{Salutation}} {{Client Last Name}}. I completely understand the importance of managing and organizing your invoices, and I'm here to help. Could you please provide me with the invoice numbers or any relevant details so that I can assist you in locating the specific invoices from {{Person Name}}?",
+    "response_cn": "感谢您联系我们，协助您查看 {{Salutation}} {{Client Last Name}} 的发票。我完全理解管理和整理发票的重要性，我很乐意为您提供帮助。请您提供发票号码或任何相关详细信息，以便我帮您查找 {{Person Name}} 的具体发票。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "checking invoices from last month",
+    "instruction_cn": "查看上个月的发票",
+    "response_en": "I understand your request to check the invoices from last month. Let's work together to find the information you need. Could you please provide me with your account details or any specific invoice numbers you have? This will help me locate the invoices accurately and assist you further.",
+    "response_cn": "我理解您想查看上个月发票的请求。让我们一起来找到您需要的信息。您能否提供您的账户详情或您所拥有的任何具体发票号码？这将帮助我准确地定位发票并进一步为您提供协助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "get invoices",
+    "instruction_cn": "获取发票",
+    "response_en": "Sure! I understand your desire to retrieve all your invoices. Allow me to assist you in accessing your complete invoice history. By doing so, you will have a comprehensive record of all your past invoices at your fingertips, making it easier for you to manage and keep track of your financial transactions. If you need any further assistance or have any questions about specific invoices, feel free to let me know. I'm here to help!",
+    "response_cn": "好的！我理解您希望获取所有发票的需求。让我来协助您访问完整的发票记录。这样，您就能轻松掌握所有过往发票的完整记录，更方便地管理和追踪您的财务交易。如果您需要进一步的帮助，或对某些发票有任何疑问，请随时告诉我。我随时为您服务！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i dont know what i need to do to download the bill #37777",
+    "instruction_cn": "我不知道该如何下载账单 #37777",
+    "response_en": "I've been informed that you're unsure about the steps to download the bill with the number #{{Invoice Number}}. Let me guide you through the process. To download your bill, you can log in to your account and navigate to the billing section. Look for an option like \"Download Invoice\" or \"View Bill Details.\" Click on it, and a PDF or a webpage will open with your bill. From there, you can save or print the bill as per your requirement. If you face any difficulties or need further assistance at any point, please feel free to let me know. I'm here to help you.",
+    "response_cn": "我了解到您对如何下载编号为 #{{Invoice Number}} 的账单的步骤不太清楚，让我来为您详细说明。要下载您的账单，您可以登录您的账户，然后进入账单页面。找到类似\"下载发票\"或\"查看账单详情\"的选项，点击后，系统会打开一个PDF文件或网页显示您的账单。您可以根据需要保存或打印账单。如果在操作过程中遇到任何困难或需要进一步的帮助，请随时告诉我，我会竭诚为您服务。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I need assistance seeing the bill from {{Person Name}}",
+    "instruction_cn": "我需要协助查看 {{Person Name}} 的账单",
+    "response_en": "Thank you for reaching out! I completely understand your eagerness to view the bill associated with {{Person Name}}. To provide you with the necessary assistance, could you please provide me with {{Person Name}}'s full name and any additional details about the bill, such as the date or invoice number? This will enable me to locate the specific bill and give you the information you need. Rest assured, I'm here to guide you every step of the way and ensure a satisfactory resolution.",
+    "response_cn": "感谢您联系我！我非常理解您急切想要查看与 {{Person Name}} 相关账单的心情。为了能够为您提供必要的帮助，请问您能否提供 {{Person Name}} 的全名以及账单的任何其他详细信息，例如日期或发票号码？这将帮助我找到具体的账单，并为您提供所需的信息。请放心，我会全程为您提供指导，确保问题得到圆满解决。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I need to get my bill from {{Person Name}}, could you help me?",
+    "instruction_cn": "我需要从 {{Person Name}} 那里拿到我的账单，你能帮帮我吗？",
+    "response_en": "I grasp your need to retrieve the bill from {{Person Name}}. I apologize for the inconvenience, but I would need some additional information to assist you further. Could you please provide me with the invoice number or any other relevant details about the bill? This will enable me to locate the bill accurately and provide you with the necessary assistance. Thank you for your cooperation, and I'm here to help you every step of the way.",
+    "response_cn": "我理解您需要从{{Person Name}}处取回账单。很抱歉给您带来了不便，但我需要一些额外的信息才能为您提供进一步的帮助。请问您能否提供发票号码或账单的其他相关信息？这将使我能够准确地找到账单并为您提供必要的协助。感谢您的配合，我会全程为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I don't know what I have to do to get the bill #12588",
+    "instruction_cn": "我不知道我需要做什么才能拿到账单 #12588",
+    "response_en": "No problem at all! I'm here to assist you with retrieving your bill #{{Invoice Number}}. To access your invoice, you can go to your account dashboard and navigate to the billing section. From there, you should find an option to view or download your bill with the number #{{Invoice Number}}. If you need any further guidance or encounter any difficulties, please don't hesitate to let me know. I'm more than happy to help you every step of the way.",
+    "response_cn": "没问题！我很乐意帮您获取账单 #{{Invoice Number}}。要查看您的发票，您可以前往账户仪表板，然后导航到账单部分。在那里，您应该可以找到查看或下载编号为 #{{Invoice Number}} 的账单的选项。如果您需要进一步的指导或遇到任何困难，请随时告诉我。我非常乐意全程为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "help to check invoice #37777",
+    "instruction_cn": "请帮我查询发票 #37777",
+    "response_en": "Sure! I'm here to assist you with checking the invoice with the number #{{Invoice Number}}. Let's dive in and find the information you need. Could you please provide me with any additional details or context regarding this invoice? This will help me ensure that I provide you with accurate and personalized assistance.",
+    "response_cn": "好的！我很乐意帮您查询编号为 #{{Invoice Number}} 的发票。让我们一起来查找您需要的信息。请问您能否提供有关这张发票的任何其他详细信息或相关背景？这将帮助我确保为您提供准确且个性化的帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I have lost the bill from {{Person Name}}, mail it to me",
+    "instruction_cn": "我丢失了 {{Person Name}} 的账单，请重新邮寄给我",
+    "response_en": "Certainly! I completely understand your concern about losing the bill from {{Salutation}} {{Client Last Name}}. I'm here to help you retrieve it. Unfortunately, as a text-based assistant, I don't have access to your personal information or the ability to send emails. However, you can reach out to our customer support team at {{Customer Support Email}} or {{Customer Support Phone Number}}. They will assist you in retrieving the bill and provide guidance on how to get it mailed to you. Please let me know if there's anything else I can assist you with in the meantime.",
+    "response_cn": "当然！我完全理解您对丢失{{Salutation}}{{Client Last Name}}账单的担忧。我很乐意为您提供帮助。不过，由于我是文字助手，无法访问您的个人信息，也无法发送电子邮件。但您可以联系我们的客服团队，邮箱：{{Customer Support Email}}，电话：{{Customer Support Phone Number}}。他们将协助您找回账单，并为您提供邮寄账单的相关指导。在此期间，如有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i do not know what to do to get my invoice #12588",
+    "instruction_cn": "我不知道该怎么做才能拿到我的发票 #12588",
+    "response_en": "I've picked up that you're unsure about the steps to take in order to access your invoice with the number #{{Invoice Number}}. Let me guide you through the process. To download your invoice, please follow these steps:\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the option to view or download your invoices.\n4. Enter the invoice number #{{Invoice Number}} when prompted.\n5. Click on the download button or the option to save the invoice as a PDF file.\nIf you encounter any difficulties or have further questions along the way, don't hesitate to reach out to our customer support team. We're here to assist you at every step.",
+    "response_cn": "我注意到您对如何获取编号为 #{{Invoice Number}} 的发票的操作步骤不太清楚，让我来为您详细说明。要下载您的发票，请按照以下步骤操作：\n1. 登录我们网站的账户。\n2. 进入\"账单\"或\"发票\"栏目。\n3. 找到查看或下载发票的选项。\n4. 在提示时输入发票编号 #{{Invoice Number}}。\n5. 点击下载按钮或将发票保存为PDF文件。\n如果您在操作过程中遇到任何困难或有其他疑问，请随时联系我们的客服团队。我们随时为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i need help to get my invoice #00108",
+    "instruction_cn": "我需要帮助获取我的发票 #00108",
+    "response_en": "I comprehend your need to retrieve the invoice with the number #{{Invoice Number}}. Retrieving your invoice is important, and I'm here to assist you with that. Let me quickly access the system and retrieve the invoice for you. Please bear with me for a moment. Additionally, if you have any other questions or concerns, feel free to let me know. I'm here to provide support and ensure your satisfaction.",
+    "response_cn": "我理解您需要获取编号为 #{{Invoice Number}} 的发票。获取您的发票非常重要，我很乐意为您提供帮助。请稍等，我马上为您查询并调取该发票。此外，如果您还有其他任何问题或疑虑，请随时告诉我。我随时为您提供支持，确保您满意。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i cant find my invoice #12588 can ya mail it to me",
+    "instruction_cn": "我找不到我的发票 #12588 了，能麻烦您给我发一份吗？",
+    "response_en": "Absolutely! I completely understand your frustration in trying to locate your invoice with the number #{{Invoice Number}}. Sending the invoice to you via email would be a great solution. Could you please provide me with your email address so that I can forward the invoice directly to you? Once I have that information, I'll take care of the rest.",
+    "response_cn": "当然可以！我完全理解您在查找发票号为 #{{Invoice Number}} 的发票时所遇到的困扰。通过电子邮件将发票发送给您是一个很好的解决方案。能否请您提供一下您的电子邮件地址，以便我直接将发票转发给您。一旦我收到该信息，我会立即为您处理后续事宜。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "i dont know how to give a quick look at bill #12588",
+    "instruction_cn": "我不知道如何快速查看账单 #12588",
+    "response_en": "I've taken note that you're unsure about how to quickly check the bill with the number #{{Invoice Number}}. No worries, I'm here to guide you through the process. To give a quick look at the bill, you can navigate to your account dashboard and locate the \"Invoices\" or \"Billing\" section. Once there, you should be able to search for and view the bill with the specified number. If you encounter any difficulties or need further assistance, please don't hesitate to let me know.",
+    "response_cn": "我已经注意到您不确定如何通过编号 #{{Invoice Number}} 快速查看账单。别担心，我来为您指导整个过程。要快速查看账单，您可以导航到您的账户仪表板，找到\"发票\"或\"账单\"部分。在那里，您应该能够搜索并查看指定编号的账单。如果您遇到任何困难或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "can I look for invoice #00108?",
+    "instruction_cn": "我可以帮您查询发票 #00108 吗？",
+    "response_en": "Thank you for reaching out! I completely understand your need to locate invoice {{Invoice Number}}. To assist you efficiently, could you please provide me with some additional details, such as the client's name or the date range of the invoice? Rest assured, I'm here to guide you through the process and help you find the information you're looking for.",
+    "response_cn": "感谢您联系我们！我非常理解您需要查找发票 {{Invoice Number}} 的需求。为了更高效地为您提供帮助，能否请您提供一些额外的信息，例如客户的姓名或发票的日期范围？请放心，我会全程引导您完成这一流程，帮助您找到所需的信息。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "help me to get my invoices from {{Person Name}}",
+    "instruction_cn": "请帮我获取 {{Person Name}} 的发票。",
+    "response_en": "I understand your need to access the invoices from {{Salutation}} {{Client Last Name}}. Let me assist you with that. In order to retrieve the invoices from {{Person Name}}, please follow these steps: \n\n1. Log in to your account on our website at {{Website URL}}.\n2. Navigate to the \"Invoices\" or \"Billing\" section of your account.\n3. Look for the filter or search option where you can enter the name or account details of {{Person Name}}.\n4. Apply the filter or search for {{Person Name}} to narrow down the list of invoices.\n5. Select the desired invoice(s) related to {{Person Name}} and choose the \"Download\" or \"View\" option to access them.\n6. If you encounter any issues or need further assistance, feel free to reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website.\n\nI hope this helps! Let me know if there's anything else I can do for you.",
+    "response_cn": "我理解您需要访问 {{Salutation}} {{Client Last Name}} 的发票。让我来协助您完成此操作。要检索 {{Person Name}} 的发票，请按照以下步骤操作：\n\n1. 登录我们网站 {{Website URL}} 上的您的账户。\n2. 进入账户中的\"发票\"或\"账单\"部分。\n3. 找到筛选或搜索选项，输入 {{Person Name}} 的姓名或账户信息。\n4. 应用筛选或搜索 {{Person Name}} 以缩小发票列表范围。\n5. 选择与 {{Person Name}} 相关的所需发票，然后选择\"下载\"或\"查看\"选项进行访问。\n6. 如果您遇到任何问题或需要进一步帮助，请随时通过 {{Customer Support Phone Number}} 联系我们的客服团队，或通过我们网站上的在线客服进行咨询。\n\n希望这对您有所帮助！如果还有其他需要，请随时告诉我。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "need assistance finding the bills from {{Person Name}}",
+    "instruction_cn": "需要协助查找 {{Person Name}} 的账单",
+    "response_en": "Certainly! I understand that you require assistance in locating the bills from {{Salutation}} {{Client Last Name}}. To help you better, could you please provide me with any additional details such as the date range or any specific invoice numbers? This will allow me to narrow down the search and provide you with the most accurate information. Rest assured, I am here to guide you every step of the way and ensure your satisfaction with our service.",
+    "response_cn": "当然！我理解您需要我协助查找 {{Salutation}} {{Client Last Name}} 的账单。为了更好地帮助您，请您提供一些额外的信息，例如日期范围或具体的发票编号。这将有助于我缩小搜索范围，并为您提供最准确的信息。请放心，我会全程为您提供指导，确保您对我们的服务感到满意。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "how do I look for the fucking invoices from {{Person Name}}?",
+    "instruction_cn": "请问我该如何查找 {Person Name} 的发票？",
+    "response_en": "I apologize if there was any confusion in your previous message. I understand that you need assistance with locating the invoices from {{Person Name}}. To help you with that, please provide me with some additional details such as the date range or any specific information related to the invoices. This will enable me to assist you more efficiently in finding the required invoices.",
+    "response_cn": "如果您之前的消息中存在任何混淆，我深表歉意。我理解您需要协助查找 {{Person Name}} 的发票。为了帮助您，请提供一些额外的详细信息，例如日期范围或与发票相关的任何具体信息。这将使我能够更高效地协助您找到所需的发票。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I need assistance downloading my bill #12588",
+    "instruction_cn": "我需要帮助下载我的账单 #12588",
+    "response_en": "I'm on it! I completely understand your need to download your bill with the number #{{Invoice Number}}. Let me guide you through the process step by step. First, please log in to your account on our website. Once you're logged in, navigate to the \"Billing\" or \"Invoices\" section. There, you should be able to locate your bill with the number #{{Invoice Number}}. Look for a download button or option next to the bill, and click on it to initiate the download. If you encounter any difficulties or have further questions during the process, feel free to let me know. I'm here to help you ensure a seamless download experience.",
+    "response_cn": "好的，我这就帮您处理！我完全理解您需要下载编号为 #{{Invoice Number}} 的账单。让我一步步指导您完成这个过程。首先，请登录我们网站的账户。登录后，请导航到\"账单\"或\"发票\"部分。在那里，您应该能够找到编号为 #{{Invoice Number}} 的账单。在账单旁边找到下载按钮或选项，点击即可开始下载。如果您在过程中遇到任何困难或有其他问题，请随时告诉我。我会全程协助您，确保下载过程顺利完成。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I do not know how to take a quick look at bill #00108",
+    "instruction_cn": "我不知道如何快速查看账单 #00108",
+    "response_en": "I understood, you're unsure about how to quickly view the details of your bill with the number #{{Invoice Number}}. Let me guide you through the process step by step. First, log in to your account on our website or mobile app. Once you're logged in, navigate to the billing or invoices section. Look for an option that says \"View Bill\" or \"Invoice Details.\" Click on that option, and it should take you to a page where you can see a summary of your bill with the number #{{Invoice Number}}. If you need further assistance or encounter any difficulties along the way, please don't hesitate to let me know. I'm here to help you.",
+    "response_cn": "I understood, you're unsure about how to quickly view the details of your bill with the number #{{Invoice Number}}. Let me guide you through the process step by step. First, log in to your account on our website or mobile app. Once you're logged in, navigate to the billing or invoices section. Look for an option that says \"View Bill\" or \"Invoice Details.\" Click on that option, and it should take you to a page where you can see a summary of your bill with the number #{{Invoice Number}}. If you need further assistance or encounter any difficulties along the way, please don't hesitate to let me know. I'm here to help you."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "where do I find the bill from {{Person Name}}?",
+    "instruction_cn": "我在哪里可以找到 {{Person Name}} 的账单？",
+    "response_en": "Assuredly! I completely understand your need to locate the bill associated with {{Salutation}} {{Client Last Name}}, {{Person Name}}. To find the bill, you can navigate to the \"Billing\" section on our website or log in to your account and go to the \"Invoice\" tab. Alternatively, you can contact our customer support team who will be more than happy to assist you in finding the bill. Rest assured, we are here to help you every step of the way in locating the bill from {{Person Name}}.",
+    "response_cn": "Assuredly! I completely understand your need to locate the bill associated with {{Salutation}} {{Client Last Name}}, {{Person Name}}. To find the bill, you can navigate to the \"Billing\" section on our website or log in to your account and go to the \"Invoice\" tab. Alternatively, you can contact our customer support team who will be more than happy to assist you in finding the bill. Rest assured, we are here to help you every step of the way in locating the bill from {{Person Name}}."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "can i givea quick look at the bill from {{Person Name}}",
+    "instruction_cn": "我可以快速查看一下 {{Person Name} 的账单吗？",
+    "response_en": "Definitely! I understand that you would like to take a quick look at the bill related to {{Salutation}} {{Client Last Name}}. It's great that you're proactive in staying on top of your finances. To assist you better, could you please provide me with any specific details such as the {{Date Range}} or the {{Invoice Number}} associated with the bill? With this information at hand, we can quickly locate and provide you with the necessary details.",
+    "response_cn": "Definitely! I understand that you would like to take a quick look at the bill related to {{Salutation}} {{Client Last Name}}. It's great that you're proactive in staying on top of your finances. To assist you better, could you please provide me with any specific details such as the {{Date Range}} or the {{Invoice Number}} associated with the bill? With this information at hand, we can quickly locate and provide you with the necessary details."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "want assistance to find the bill #85632",
+    "instruction_cn": "需要协助查找账单 #85632",
+    "response_en": "I can see that you need assistance in locating the bill with the number #{{Invoice Number}}. It can be frustrating when you can't find important documents, but don't worry, I'm here to help. Could you please provide me with additional information such as the date range or any specific details related to this bill? With more information, it will be easier to track down the invoice you're looking for.",
+    "response_cn": "I can see that you need assistance in locating the bill with the number #{{Invoice Number}}. It can be frustrating when you can't find important documents, but don't worry, I'm here to help. Could you please provide me with additional information such as the date range or any specific details related to this bill? With more information, it will be easier to track down the invoice you're looking for."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I need help checking the biol #37777",
+    "instruction_cn": "我需要帮忙查询订单编号 #37777 的信息。",
+    "response_en": "I get that you need assistance with checking the invoice with the number {{Invoice Number}}. Rest assured, I'm here to guide you through the process and help you locate the information you need. Can you please provide me with some additional details, like the date of the invoice or any other relevant information? This will enable me to narrow down the search and provide you with accurate and timely assistance.",
+    "response_cn": "I get that you need assistance with checking the invoice with the number {{Invoice Number}}. Rest assured, I'm here to guide you through the process and help you locate the information you need. Can you please provide me with some additional details, like the date of the invoice or any other relevant information? This will enable me to narrow down the search and provide you with accurate and timely assistance."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "where can i give a quick look at invoice #37777",
+    "instruction_cn": "我可以在哪里快速查看一下发票 #37777？",
+    "response_en": "I've picked up that you need assistance with locating your bill with the number {{Invoice Number}}. To quickly view your invoice, you can visit our website and access your account dashboard. From there, you should be able to navigate to the \"Invoices\" section, where you can find and access your invoice {{Invoice Number}}. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "I've picked up that you need assistance with locating your bill with the number {{Invoice Number}}. To quickly view your invoice, you can visit our website and access your account dashboard. From there, you should be able to navigate to the \"Invoices\" section, where you can find and access your invoice {{Invoice Number}}. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to help!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I do not know what I need to do to download invoice #85632",
+    "instruction_cn": "您好，我不清楚该如何下载发票 #85632",
+    "response_en": "No problem at all! I completely understand your confusion regarding the process to download invoice #{{Invoice Number}}. Let me guide you step-by-step through the procedure so that you can access it easily. First, please log in to your account on our website. Then, navigate to the \"Invoices\" section, where you should find a list of all your invoices. Locate invoice #{{Invoice Number}} from the list and click on the \"Download\" button next to it. This will allow you to save a copy of the invoice to your device. If you encounter any difficulties or have further questions during this process, please don't hesitate to let me know. I'm here to assist you every step of the way!",
+    "response_cn": "No problem at all! I completely understand your confusion regarding the process to download invoice #{{Invoice Number}}. Let me guide you step-by-step through the procedure so that you can access it easily. First, please log in to your account on our website. Then, navigate to the \"Invoices\" section, where you should find a list of all your invoices. Locate invoice #{{Invoice Number}} from the list and click on the \"Download\" button next to it. This will allow you to save a copy of the invoice to your device. If you encounter any difficulties or have further questions during this process, please don't hesitate to let me know. I'm here to assist you every step of the way!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I don't know what to do to download my invoice #00108",
+    "instruction_cn": "我不知道该如何下载我的发票 #00108",
+    "response_en": "Absolutely! I completely understand your confusion about downloading your invoice with the number {{Invoice Number}}. Let me guide you through the process step by step. First, please log in to your account on our website. Once you're logged in, navigate to the \"Invoices\" section, and you should see a list of all your invoices. Find the invoice with the number {{Invoice Number}} and click on the \"Download\" button next to it. The invoice will be saved to your device. If you have any further questions or need additional assistance, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "Absolutely! I completely understand your confusion about downloading your invoice with the number {{Invoice Number}}. Let me guide you through the process step by step. First, please log in to your account on our website. Once you're logged in, navigate to the \"Invoices\" section, and you should see a list of all your invoices. Find the invoice with the number {{Invoice Number}} and click on the \"Download\" button next to it. The invoice will be saved to your device. If you have any further questions or need additional assistance, please don't hesitate to let me know. I'm here to help!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I need help to find my invoice #12588",
+    "instruction_cn": "我需要帮助查找我的发票 #12588",
+    "response_en": "Glad you contacted to us with your request to locate your invoice with the number #{{Invoice Number}}. I understand how important it is to have easy access to your invoice information. Let's work together to find the details you need. Could you please provide me with some additional information such as the date of the invoice or any specific items or services mentioned in the invoice? This will greatly assist us in narrowing down the search and providing you with accurate and relevant information. Rest assured, I'm here to support you every step of the way and ensure you have a smooth invoice retrieval process.",
+    "response_cn": "Glad you contacted to us with your request to locate your invoice with the number #{{Invoice Number}}. I understand how important it is to have easy access to your invoice information. Let's work together to find the details you need. Could you please provide me with some additional information such as the date of the invoice or any specific items or services mentioned in the invoice? This will greatly assist us in narrowing down the search and providing you with accurate and relevant information. Rest assured, I'm here to support you every step of the way and ensure you have a smooth invoice retrieval process."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "i do not know what i have to do to see bill #85632",
+    "instruction_cn": "我不知道我需要做什么才能查看账单 #85632",
+    "response_en": "I understand your confusion about how to access and view the bill with the number #{{Invoice Number}}. Allow me to guide you through the process. To view your bill, you can go to your account dashboard and look for the \"Invoices\" or \"Billing\" section. Alternatively, you can contact our customer support team, and they will be more than happy to assist you in locating and reviewing your bill. Remember, we are here to make things easier for you, so don't hesitate to reach out for any further help or clarification you may need.",
+    "response_cn": "I understand your confusion about how to access and view the bill with the number #{{Invoice Number}}. Allow me to guide you through the process. To view your bill, you can go to your account dashboard and look for the \"Invoices\" or \"Billing\" section. Alternatively, you can contact our customer support team, and they will be more than happy to assist you in locating and reviewing your bill. Remember, we are here to make things easier for you, so don't hesitate to reach out for any further help or clarification you may need."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "wanna see my bill from {{Person Name}}",
+    "instruction_cn": "我想查看我的账单，账单名是 {{Person Name}}",
+    "response_en": "I'm not mistaken your desire to view your bill from {{Salutation}} {{Client Last Name}}. Our team is here to assist you in locating the necessary information. To access your invoice, please provide me with any relevant details such as the invoice number, date range, or any specific description mentioned on the bill. With this information, we can quickly assist you in retrieving the requested bill and helping you with any further inquiries. Your satisfaction is our top priority, and we appreciate your cooperation in this matter.",
+    "response_cn": "I'm not mistaken your desire to view your bill from {{Salutation}} {{Client Last Name}}. Our team is here to assist you in locating the necessary information. To access your invoice, please provide me with any relevant details such as the invoice number, date range, or any specific description mentioned on the bill. With this information, we can quickly assist you in retrieving the requested bill and helping you with any further inquiries. Your satisfaction is our top priority, and we appreciate your cooperation in this matter."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "i dont know what i need to do to find invoice #12588",
+    "instruction_cn": "我不知道我需要做什么才能找到发票 #12588",
+    "response_en": "I'm not mistaken your confusion about finding the invoice with the number #{{Invoice Number}}. Allow me to assist you with that. To find the invoice, you can go to your account dashboard and look for the \"Invoices\" section. There, you should be able to search for and view your invoice by entering the invoice number #{{Invoice Number}}. If you encounter any difficulties during this process, please feel free to ask for further guidance.",
+    "response_cn": "I'm not mistaken your confusion about finding the invoice with the number #{{Invoice Number}}. Allow me to assist you with that. To find the invoice, you can go to your account dashboard and look for the \"Invoices\" section. There, you should be able to search for and view your invoice by entering the invoice number #{{Invoice Number}}. If you encounter any difficulties during this process, please feel free to ask for further guidance."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I do not know how to give a quick look at my bill #00108",
+    "instruction_cn": "我不知道如何快速查看我的账单 #00108",
+    "response_en": "I get it your uncertainty about how to quickly check the details of your bill with the number #{{Invoice Number}}. It's important to have easy access to such information. To give you a quick look at your bill, you can try logging into your account on our website and navigating to the 'Invoice' section. If you're having trouble finding it, I can provide step-by-step instructions or guide you through the process. Just let me know how I can assist you further. Remember, I'm here to support you and ensure you have a seamless experience.",
+    "response_cn": "I get it your uncertainty about how to quickly check the details of your bill with the number #{{Invoice Number}}. It's important to have easy access to such information. To give you a quick look at your bill, you can try logging into your account on our website and navigating to the 'Invoice' section. If you're having trouble finding it, I can provide step-by-step instructions or guide you through the process. Just let me know how I can assist you further. Remember, I'm here to support you and ensure you have a seamless experience."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "get invoices from {{Person Name}}",
+    "instruction_cn": "从 {{Person Name}} 获取发票",
+    "response_en": "I'm following the importance of accessing your invoices from {{Salutation}} {{Client Last Name}}. Give me just a moment to retrieve the invoices for you. In the meantime, if you have any other questions or need further assistance, feel free to let me know. I'm here to help!",
+    "response_cn": "I'm following the importance of accessing your invoices from {{Salutation}} {{Client Last Name}}. Give me just a moment to retrieve the invoices for you. In the meantime, if you have any other questions or need further assistance, feel free to let me know. I'm here to help!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I need help downloading my damn bill from {{Person Name}}",
+    "instruction_cn": "我需要帮助下载我的账单，从 {{Person Name}}",
+    "response_en": "I pick up what you're putting down, your frustration and urgency in downloading your bill from {{Person Name}}. Rest assured, I'm here to assist you. Let me quickly access our system and retrieve the bill for you. In the meantime, if you have any other questions or concerns, please feel free to let me know.",
+    "response_cn": "I pick up what you're putting down, your frustration and urgency in downloading your bill from {{Person Name}}. Rest assured, I'm here to assist you. Let me quickly access our system and retrieve the bill for you. In the meantime, if you have any other questions or concerns, please feel free to let me know."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I don't know what I need to do to get my invoice #37777",
+    "instruction_cn": "我不知道我需要做什么才能拿到我的发票 #37777",
+    "response_en": "No problem at all! I completely understand your confusion about accessing your invoice with the number #{{Invoice Number}}. Let me assist you with that. To get your invoice, you can simply log in to your account on our website and navigate to the \"Billing\" or \"Invoices\" section. There you should be able to find and download your invoice with the number #{{Invoice Number}}. If you encounter any difficulties or have further questions, please do not hesitate to let me know. I'm here to help you every step of the way!",
+    "response_cn": "No problem at all! I completely understand your confusion about accessing your invoice with the number #{{Invoice Number}}. Let me assist you with that. To get your invoice, you can simply log in to your account on our website and navigate to the \"Billing\" or \"Invoices\" section. There you should be able to find and download your invoice with the number #{{Invoice Number}}. If you encounter any difficulties or have further questions, please do not hesitate to let me know. I'm here to help you every step of the way!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "where can I see bill #85632?",
+    "instruction_cn": "我在哪里可以查看账单 #85632？",
+    "response_en": "I can definitely help you with that! To view your bill with the number #{{Invoice Number}}, you can go to your account dashboard on our website. Once you're logged in, navigate to the \"Billing\" section, and you should find a tab or option labeled \"View Invoices\" or \"Billing History.\" Click on that, and you should be able to locate and access your specific invoice. If you're having trouble finding it or need further guidance, please let me know, and I'll be happy to assist you further.",
+    "response_cn": "I can definitely help you with that! To view your bill with the number #{{Invoice Number}}, you can go to your account dashboard on our website. Once you're logged in, navigate to the \"Billing\" section, and you should find a tab or option labeled \"View Invoices\" or \"Billing History.\" Click on that, and you should be able to locate and access your specific invoice. If you're having trouble finding it or need further guidance, please let me know, and I'll be happy to assist you further."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I want help to give a quick look at the invoice #85632",
+    "instruction_cn": "我想请帮忙快速查看一下发票 #85632",
+    "response_en": "I'm fully aware of your desire to have a quick look at the invoice with the number #{{Invoice Number}}. Let me assist you with that. To view the invoice, please log in to your account on our website and navigate to the \"Invoices\" section. There, you should be able to find the invoice with the number {{Invoice Number}}. If you encounter any difficulties or require further guidance, please don't hesitate to ask. I'm here to ensure a seamless experience for you.",
+    "response_cn": "I'm fully aware of your desire to have a quick look at the invoice with the number #{{Invoice Number}}. Let me assist you with that. To view the invoice, please log in to your account on our website and navigate to the \"Invoices\" section. There, you should be able to find the invoice with the number {{Invoice Number}}. If you encounter any difficulties or require further guidance, please don't hesitate to ask. I'm here to ensure a seamless experience for you."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I do not know how I could get the bill from {{Person Name}}",
+    "instruction_cn": "我不知道如何从 {{Person Name}} 那里获取账单。",
+    "response_en": "I've observed that you're unsure about how to retrieve the bill from {{Salutation}} {{Client Last Name}}. Let me provide you with the necessary assistance. To access the bill, you can log in to your account on our website and navigate to the \"Billing\" section. From there, you should be able to view and download the bill associated with {{Person Name}}. If you encounter any difficulties or have further questions, please let me know. I'm here to help you every step of the way.",
+    "response_cn": "I've observed that you're unsure about how to retrieve the bill from {{Salutation}} {{Client Last Name}}. Let me provide you with the necessary assistance. To access the bill, you can log in to your account on our website and navigate to the \"Billing\" section. From there, you should be able to view and download the bill associated with {{Person Name}}. If you encounter any difficulties or have further questions, please let me know. I'm here to help you every step of the way."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "help me to check the invoice from {{Person Name}}",
+    "instruction_cn": "请帮我查看{{Person Name}}的发票",
+    "response_en": "Thank you for reaching out! I completely understand your need to check the invoice from {{Salutation}} {{Client Last Name}}. To assist you further, could you please provide me with any relevant details such as the invoice number or the date range of the invoice? This information will help me locate the invoice in our system accurately.",
+    "response_cn": "Thank you for reaching out! I completely understand your need to check the invoice from {{Salutation}} {{Client Last Name}}. To assist you further, could you please provide me with any relevant details such as the invoice number or the date range of the invoice? This information will help me locate the invoice in our system accurately."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "i need help locating my invoices from {{Person Name}}",
+    "instruction_cn": "我需要帮助查找 {{Person Name} 的发票",
+    "response_en": "I understand your need for assistance in locating your invoices from {{Salutation}} {{Client Last Name}}. Let me assure you that I'm here to help you with that. Could you please provide me with more details such as the timeframe or any specific invoice numbers that you are looking for? This information will greatly assist me in locating the invoices accurately.",
+    "response_cn": "I understand your need for assistance in locating your invoices from {{Salutation}} {{Client Last Name}}. Let me assure you that I'm here to help you with that. Could you please provide me with more details such as the timeframe or any specific invoice numbers that you are looking for? This information will greatly assist me in locating the invoices accurately."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i try to get the invoice from {{Person Name}}",
+    "instruction_cn": "我尝试从 {{Person Name}} 那里获取发票。",
+    "response_en": "I realized that you're trying to obtain the invoice from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. Could you please provide me with the invoice number or any other details that can help me locate the invoice for you?",
+    "response_cn": "I realized that you're trying to obtain the invoice from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. Could you please provide me with the invoice number or any other details that can help me locate the invoice for you?"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "getting bill from {{Person Name}}",
+    "instruction_cn": "向 {{Person Name}} 收取账单",
+    "response_en": "I'll get right on it! I completely understand your request to retrieve the bill from {{Salutation}} {{Client Last Name}}. Just a moment while I retrieve the information for you. If you have any other questions or need further assistance, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "I'll get right on it! I completely understand your request to retrieve the bill from {{Salutation}} {{Client Last Name}}. Just a moment while I retrieve the information for you. If you have any other questions or need further assistance, please don't hesitate to let me know. I'm here to help!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i dont know what i have to do to get invoice #85632",
+    "instruction_cn": "我不知道我需要做什么才能拿到发票 #85632",
+    "response_en": "I'm on the same wavelength, your uncertainty about the process to obtain your invoice with the number #{{Invoice Number}}. Don't worry, I'm here to guide you through it. To get the invoice, you can follow these steps: \n\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" section or \"Invoices\" tab.\n3. Look for the option to \"Download Invoice\" or \"View Invoice.\"\n4. Click on the appropriate button or link to access your invoice.\n5. Once you open the invoice, you can save it or print it for your records.\n\nIf you encounter any difficulties or have further questions along the way, please don't hesitate to let me know. I'm more than happy to assist you.",
+    "response_cn": "I'm on the same wavelength, your uncertainty about the process to obtain your invoice with the number #{{Invoice Number}}. Don't worry, I'm here to guide you through it. To get the invoice, you can follow these steps: \n\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" section or \"Invoices\" tab.\n3. Look for the option to \"Download Invoice\" or \"View Invoice.\"\n4. Click on the appropriate button or link to access your invoice.\n5. Once you open the invoice, you can save it or print it for your records.\n\nIf you encounter any difficulties or have further questions along the way, please don't hesitate to let me know. I'm more than happy to assist you."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "how do i get my bills rfom {{Person Name}}",
+    "instruction_cn": "请问我如何获取 {{Person Name}} 的账单？",
+    "response_en": "I'm on the same wavelength, your confusion about how to access your bills from {{Salutation}} {{Client Last Name}}. Let me guide you through the process step by step. To get your bills, you can log in to your account on our website. Once you're logged in, navigate to the \"Billing\" section or \"Account\" section. There you should find a tab or option labeled \"Invoices\" or \"Bills.\" Click on that, and you should see a list of your bills, including the one from {{Salutation}} {{Client Last Name}}. If you have any further questions or need additional assistance, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "I'm on the same wavelength, your confusion about how to access your bills from {{Salutation}} {{Client Last Name}}. Let me guide you through the process step by step. To get your bills, you can log in to your account on our website. Once you're logged in, navigate to the \"Billing\" section or \"Account\" section. There you should find a tab or option labeled \"Invoices\" or \"Bills.\" Click on that, and you should see a list of your bills, including the one from {{Salutation}} {{Client Last Name}}. If you have any further questions or need additional assistance, please don't hesitate to let me know. I'm here to help!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "what do i have to do to get invoice #37777",
+    "instruction_cn": "我需要做什么才能拿到发票 #37777",
+    "response_en": "I understand your confusion about the process of retrieving invoice {{Invoice Number}}. To access your invoice, you can follow these steps:\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the option to view/download invoices.\n4. Enter the invoice number {{Invoice Number}} in the search bar or filter options.\n5. Click on the invoice to view or download it as a PDF file.\n\nIf you encounter any issues or need further assistance, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "I understand your confusion about the process of retrieving invoice {{Invoice Number}}. To access your invoice, you can follow these steps:\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the option to view/download invoices.\n4. Enter the invoice number {{Invoice Number}} in the search bar or filter options.\n5. Click on the invoice to view or download it as a PDF file.\n\nIf you encounter any issues or need further assistance, please don't hesitate to let me know. I'm here to help!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "how do I get invoice #37777?",
+    "instruction_cn": "如何获取发票 #37777？",
+    "response_en": "I'm picking up what you're putting down, your request to retrieve the invoice with the number #{{Invoice Number}}. To assist you with that, you can follow these steps: \n\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for an option that allows you to search for invoices by invoice number.\n4. Enter the invoice number {{Invoice Number}} in the search bar.\n5. Click on the search button or press enter.\n6. The system should retrieve the invoice with the corresponding number and display it for you to download or view.\n\nIf you encounter any issues or have further questions during this process, please don't hesitate to let me know. I'm here to assist you every step of the way.",
+    "response_cn": "I'm picking up what you're putting down, your request to retrieve the invoice with the number #{{Invoice Number}}. To assist you with that, you can follow these steps: \n\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for an option that allows you to search for invoices by invoice number.\n4. Enter the invoice number {{Invoice Number}} in the search bar.\n5. Click on the search button or press enter.\n6. The system should retrieve the invoice with the corresponding number and display it for you to download or view.\n\nIf you encounter any issues or have further questions during this process, please don't hesitate to let me know. I'm here to assist you every step of the way."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I want help checking my fucking bill from {{Person Name}}",
+    "instruction_cn": "我想帮我查一下{{Person Name}的账单",
+    "response_en": "I pick up what you're putting down, the importance of helping you with checking the bill from {{Salutation}} {{Client Last Name}}. To assist you better, could you please provide me with any specific details such as the date range, account number, or invoice number? Sharing this information will help me locate the bill more accurately and provide you with the necessary assistance. Rest assured, I'm here to support you through this process and ensure your satisfaction.",
+    "response_cn": "I pick up what you're putting down, the importance of helping you with checking the bill from {{Salutation}} {{Client Last Name}}. To assist you better, could you please provide me with any specific details such as the date range, account number, or invoice number? Sharing this information will help me locate the bill more accurately and provide you with the necessary assistance. Rest assured, I'm here to support you through this process and ensure your satisfaction."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "need to look for the bill #85632 coyld ya help me",
+    "instruction_cn": "您好，我需要查找账单 #85632，您能帮我一下吗？",
+    "response_en": "I'm happy to help! I completely understand your need to locate the bill with the number #{{Invoice Number}}. Rest assured, I'm here to assist you in finding that information. To quickly access your bill, I recommend visiting our website and navigating to the \"Billing\" or \"Invoices\" section. There, you should be able to search for and view your invoice by entering the invoice number #{{Invoice Number}}. If you encounter any difficulties or have further questions, please don't hesitate to let me know.",
+    "response_cn": "I'm happy to help! I completely understand your need to locate the bill with the number #{{Invoice Number}}. Rest assured, I'm here to assist you in finding that information. To quickly access your bill, I recommend visiting our website and navigating to the \"Billing\" or \"Invoices\" section. There, you should be able to search for and view your invoice by entering the invoice number #{{Invoice Number}}. If you encounter any difficulties or have further questions, please don't hesitate to let me know."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I can't locate my bill from {{Person Name}}",
+    "instruction_cn": "我找不到 {{Person Name} 的账单",
+    "response_en": "I'm clearly cognizant the importance of locating your bill from {{Salutation}} {{Client Last Name}}. We'll work together to find a solution. Could you please provide me with any additional details about the bill, such as the date range, invoice number, or any relevant information? This will help us narrow down the search and locate the bill for you. Your satisfaction is our top priority, and we're here to assist you every step of the way.",
+    "response_cn": "I'm clearly cognizant the importance of locating your bill from {{Salutation}} {{Client Last Name}}. We'll work together to find a solution. Could you please provide me with any additional details about the bill, such as the date range, invoice number, or any relevant information? This will help us narrow down the search and locate the bill for you. Your satisfaction is our top priority, and we're here to assist you every step of the way."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "checking invoice #12588",
+    "instruction_cn": "正在查询发票 #12588",
+    "response_en": "Sure! I'm here to help you with checking the invoice with the number #{{Invoice Number}}. To assist you better, could you please provide me with some additional details such as the name of the client or the date range of the invoice? This information will help me locate the invoice more accurately and provide you with the necessary assistance. Thank you for allowing me to assist you in this matter.",
+    "response_cn": "Sure! I'm here to help you with checking the invoice with the number #{{Invoice Number}}. To assist you better, could you please provide me with some additional details such as the name of the client or the date range of the invoice? This information will help me locate the invoice more accurately and provide you with the necessary assistance. Thank you for allowing me to assist you in this matter."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I do not know what I have to do to look for the bill #12588",
+    "instruction_cn": "我不知道该如何查找账单 #12588",
+    "response_en": "No worries at all! I completely understand your uncertainty about how to proceed with finding the details of your bill with the number {{Invoice Number}}. Let me guide you through the process step by step. First, may I confirm if you are looking for a digital or physical bill? This will help me provide you with the most appropriate instructions to search for your bill effectively.",
+    "response_cn": "No worries at all! I completely understand your uncertainty about how to proceed with finding the details of your bill with the number {{Invoice Number}}. Let me guide you through the process step by step. First, may I confirm if you are looking for a digital or physical bill? This will help me provide you with the most appropriate instructions to search for your bill effectively."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I have lost the bill #37777, will you send it to me?",
+    "instruction_cn": "我丢失了账单 #37777，您能重新发给我吗？",
+    "response_en": "Ah, the unfortunate plight of losing the esteemed bill with the revered number {{Invoice Number}}!I am here to assist you in resolving this predicament. Regrettably, I am unable to send the bill directly to you. However, I can guide you through the process of retrieving and accessing the bill. Shall we embark on this quest together?",
+    "response_cn": "Ah, the unfortunate plight of losing the esteemed bill with the revered number {{Invoice Number}}!I am here to assist you in resolving this predicament. Regrettably, I am unable to send the bill directly to you. However, I can guide you through the process of retrieving and accessing the bill. Shall we embark on this quest together?"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "where can I get the invoices from {{Person Name}}?",
+    "instruction_cn": "我可以从哪里获取 {{Person Name}} 的发票？",
+    "response_en": "I certainly recognize your need to locate the invoices from {{Salutation}} {{Client Last Name}}. You can access the invoices by logging into your account on our website. Once you're logged in, navigate to the \"Billing\" or \"Invoices\" section, where you should find a list of all your invoices. If you need any further assistance or have any other questions, feel free to let me know. I'm here to help!",
+    "response_cn": "I certainly recognize your need to locate the invoices from {{Salutation}} {{Client Last Name}}. You can access the invoices by logging into your account on our website. Once you're logged in, navigate to the \"Billing\" or \"Invoices\" section, where you should find a list of all your invoices. If you need any further assistance or have any other questions, feel free to let me know. I'm here to help!"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "checking invoice from last month",
+    "instruction_cn": "查看上个月的发票",
+    "response_en": "Sure thing! I understand your need to check the invoice from last month. To assist you further, could you please provide me with the specific details of the invoice such as the client's name or the invoice number? With this information, we can quickly locate and provide you with the necessary invoice details.",
+    "response_cn": "Sure thing! I understand your need to check the invoice from last month. To assist you further, could you please provide me with the specific details of the invoice such as the client's name or the invoice number? With this information, we can quickly locate and provide you with the necessary invoice details."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i dont know what i need to do to get the bill #12588",
+    "instruction_cn": "我不知道我需要做什么才能拿到账单 #{Order Number}",
+    "response_en": "I fathom that you're unsure about the steps to follow in order to obtain the bill with the number #{{Invoice Number}}. Let me guide you through the process. To access your bill, you can go to your account dashboard and look for the \"Invoices\" or \"Billing\" section. From there, you should be able to find a list of your invoices, including the one with the number #{{Invoice Number}}. If you need any further assistance or encounter any issues along the way, feel free to reach out to our customer support team, who will be more than happy to help you out.",
+    "response_cn": "I fathom that you're unsure about the steps to follow in order to obtain the bill with the number #{{Invoice Number}}. Let me guide you through the process. To access your bill, you can go to your account dashboard and look for the \"Invoices\" or \"Billing\" section. From there, you should be able to find a list of your invoices, including the one with the number #{{Invoice Number}}. If you need any further assistance or encounter any issues along the way, feel free to reach out to our customer support team, who will be more than happy to help you out."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "assistance to give a quick look at the bill #85632",
+    "instruction_cn": "我可以帮您快速查看账单 #85632。",
+    "response_en": "I understand your need for a quick look at the bill with number #{{Invoice Number}}. Let me assist you with that. Can you please provide me with your account details or any other relevant information so that I can locate the specific bill for you? Once I have this information, I'll be able to guide you on how to access and view the bill quickly.",
+    "response_cn": "I understand your need for a quick look at the bill with number #{{Invoice Number}}. Let me assist you with that. Can you please provide me with your account details or any other relevant information so that I can locate the specific bill for you? Once I have this information, I'll be able to guide you on how to access and view the bill quickly."
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "need assistance downloading my invoice{{Invoice Number}}",
+    "instruction_cn": "需要协助下载我的发票{{Invoice Number}}",
+    "response_en": "I've decoded that you need assistance with downloading your invoice with number #{{Invoice Number}}. Let me guide you through the process. First, please log in to your account on our website. Then, navigate to the \"Billing\" or \"Invoices\" section. Look for the invoice with the number #{{Invoice Number}} and click on the download button next to it. If you encounter any difficulties or have further questions, please let me know. I'm here to help you every step of the way.",
+    "response_cn": "我了解到您需要协助下载编号为 #{{Invoice Number}} 的发票。让我来引导您完成整个过程。首先，请登录我们网站的账户。然后，导航至\"账单\"或\"发票\"部分。找到编号为 #{{Invoice Number}} 的发票，并点击旁边的下载按钮。如果您遇到任何困难或有其他问题，请随时告诉我。我会全程为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "send me bull from {{Person Name}}",
+    "instruction_cn": "给我发 {Person Name} 的 bull",
+    "response_en": "I understand your request to receive the bill from {{Salutation}} {{Client Last Name}}. Allow me a moment to retrieve the invoice for you. While I gather the necessary information, please feel free to let me know if there's anything else I can assist you with.",
+    "response_cn": "我理解您希望收到{{Salutation}} {{Client Last Name}}的账单。请稍等，我为您查询一下发票信息。在我整理相关资料期间，如有其他需要协助的地方，请随时告知。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "help me to downolad invoice #37777",
+    "instruction_cn": "请帮我下载发票 #{Order Number}",
+    "response_en": "Assuredly! I completely understand your need to download invoice #{{Invoice Number}}. Let me guide you through the process step by step. First, please log in to your account on our website. Once you're logged in, navigate to the \"Billing\" or \"Invoices\" section. There, you should be able to find an option to download or view your invoices. Look for the specific invoice number, {{Invoice Number}}, and click on the download button or link associated with it. If you encounter any difficulties along the way, please don't hesitate to let me know. I'm here to assist you and ensure you have a smooth experience.",
+    "response_cn": "当然可以！我完全理解您需要下载发票 #{{Invoice Number}}。让我一步步引导您完成这个过程。首先，请登录我们网站上的您的账户。登录后，请导航至\"账单\"或\"发票\"部分。在那里，您应该能够找到下载或查看发票的选项。找到具体的发票编号 {{Invoice Number}}，然后点击与之关联的下载按钮或链接。如果您在此过程中遇到任何困难，请随时告诉我。我随时为您提供协助，确保您获得顺畅的体验。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "get bill fromMr. Smith",
+    "instruction_cn": "向史密斯先生索取账单",
+    "response_en": "I realized, you would like to get a bill from {{Person Name}}. Let me assist you with that. Could you please provide me with the invoice number or any other relevant details such as the date range or specific products/services associated with the bill? This will help me locate and retrieve the bill more efficiently. Feel free to share any additional information or ask any questions you may have. I'm here to help you with all your billing needs.",
+    "response_cn": "我理解您想要获取一份来自 {{Person Name}} 的账单。让我来协助您。请问您能提供一下发票号码或其他相关信息，比如日期范围或该账单所涉及的具体产品/服务吗？这将帮助我更快地找到并调取账单。您可以随时提供其他信息或提出任何问题。我很乐意为您处理所有账单相关事宜。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I need help getting my goddamn invoice from {{Person Name}}",
+    "instruction_cn": "我需要帮忙获取我的发票，{Person Name}",
+    "response_en": "I'm on the same wavelength, your frustration in trying to obtain your invoice from {{Person Name}}. Allow me to assist you with this. Could you please provide me with some additional information, such as the date of the invoice or any other details that can help me locate it more efficiently? Once you provide me with this information, I will do everything possible to ensure you receive the invoice you need.",
+    "response_cn": "我完全理解您在尝试获取发票时遇到的困扰。让我来协助您处理此事。请您提供一些额外信息，例如发票日期或其他有助于我更快找到发票的详细信息。一旦您提供这些信息，我会尽一切努力确保您收到所需的发票。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "i need assistance to look for the invoice from {{Person Name}}",
+    "instruction_cn": "我需要协助查找 {{Person Name}} 的发票。",
+    "response_en": "I truly appreciate the opportunity to assist you in searching for the invoice from {{Salutation}} {{Client Last Name}}, {{Person Name}}. It's important to find the necessary documents to ensure a smooth experience. Could you please provide me with any additional details, such as the timeframe or any specific keywords related to the invoice? This will enable me to narrow down the search and locate the invoice you require more efficiently. Thank you for your cooperation as we embark on this journey together.",
+    "response_cn": "非常感谢您给我机会协助您查找 {{Salutation}} {{Client Last Name}}、{{Person Name}} 的发票。找到必要的文件以确保顺畅的体验非常重要。您能否提供更多的详细信息，例如时间范围或与发票相关的任何具体关键词？这将帮助我缩小搜索范围，更高效地找到您所需的发票。感谢您在此过程中给予的配合，让我们一起努力完成这项工作。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I do not know what I need to do to download bill #85632",
+    "instruction_cn": "我不知道该如何下载账单 #85632",
+    "response_en": "I've ascertained that you're unsure about the steps to download bill #{{Invoice Number}}. Let me guide you through the process. First, please log in to your account on our website. Then, navigate to the 'Billing' or 'Invoices' section. You should see a list of your invoices, including the one with the number {{Invoice Number}}. Look for a 'Download' or 'Save' button next to the invoice and click on it to start the download. If you encounter any difficulties or have further questions, don't hesitate to reach out. I'm here to assist you every step of the way.",
+    "response_cn": "我已经了解到您对下载账单 #{{Invoice Number}} 的步骤不太清楚。让我来为您引导整个过程。首先，请登录我们网站上的您的账户。然后，导航至\"账单\"或\"发票\"部分。您应该能看到您的发票列表，其中包括编号为 {{Invoice Number}} 的那张发票。在发票旁边找到\"下载\"或\"保存\"按钮并点击，即可开始下载。如果您遇到任何困难或有进一步的疑问，请随时联系我。我会全程为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i do not know how to download the bills from {{Person Name}}",
+    "instruction_cn": "我不知道如何从 {{Person Name}} 下载账单",
+    "response_en": "I'm fully aware of your uncertainty about the process to download bills from {{Salutation}} {{Client Last Name}}. Let me guide you through the steps to ensure a seamless experience. First, log in to your account on our website using your credentials. Then, navigate to the 'Billing' or 'Invoices' section. You should find a list of your bills, including the ones from {{Salutation}} {{Client Last Name}}. From there, you can select the specific bill you wish to download and click on the 'Download' button or link provided. If you encounter any issues along the way, please don't hesitate to reach out. I'm here to assist you at every step of the process.",
+    "response_cn": "我完全理解您对从 {{Salutation}} {{Client Last Name}} 下载账单的流程感到不确定。让我为您逐步指导，确保整个过程顺畅无阻。首先，请使用您的登录凭证登录我们网站的账户。然后，导航至\"账单\"或\"发票\"栏目。您应该能看到您的账单列表，其中包括来自 {{Salutation}} {{Client Last Name}} 的账单。在那里，您可以选择想要下载的具体账单，然后点击提供的\"下载\"按钮或链接。如果在过程中遇到任何问题，请随时联系我。我会全程为您提供协助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "can you send me my bill from {{Person Name}}?",
+    "instruction_cn": "您好，能否帮我发送一下 {{Person Name}} 的账单？",
+    "response_en": "I understand your need to receive the bill from {{Salutation}} {{Client Last Name}}. Let me check the system to find the bill you are referring to. Please bear with me for a moment while I retrieve it for you. If you have any other questions or concerns, feel free to let me know. I'm here to assist you every step of the way.",
+    "response_cn": "我理解您需要收到 {{Salutation}} {{Client Last Name}} 的账单。让我在系统中查找您所提及的账单。请稍等片刻，我为您查询一下。如果您有任何其他问题或疑虑，请随时告诉我。我会全程为您提供协助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "i dont know what to do to download the bill #85632",
+    "instruction_cn": "我不知道该如何下载账单 #85632",
+    "response_en": "I perceive that you're unsure about the steps to download the bill with number {{Invoice Number}}. Don't worry, I'm here to guide you through the process. To download your bill, you can log in to your account on our website and navigate to the \"Billing\" or \"Invoices\" section. From there, you should be able to view and download your bill with the specified number. If you encounter any difficulties or have further questions, please let me know. I'm here to assist you every step of the way.",
+    "response_cn": "我注意到您对如何下载编号为 {{Invoice Number}} 的账单的步骤不太确定。别担心，我来为您一步步指导。要下载您的账单，您可以登录我们网站的账户，然后进入\"账单\"或\"发票\"部分。在那里，您应该能够查看并下载指定编号的账单。如果您遇到任何困难或有其他问题，请随时告诉我。我会全程为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "can i take a quick look at the invoice #12588",
+    "instruction_cn": "我可以快速看一下发票 #12588 吗？",
+    "response_en": "I comprehend your desire to take a quick look at the details of invoice #{{Invoice Number}}. To assist you promptly, could you please provide me with your account information, such as your name or email address, so that I can locate the invoice and provide you with the necessary information?",
+    "response_cn": "我理解您想要快速查看发票 #{{Invoice Number}} 的详细信息。为了能够及时为您提供帮助，能否请您提供一下您的账户信息，例如您的姓名或电子邮件地址，以便我找到该发票并为您提供所需的信息？"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I don't know what I need to do to download invoice #37777",
+    "instruction_cn": "我不知道该如何下载发票 #37777",
+    "response_en": "No worries! I completely understand your confusion about downloading your invoice with the number #{{Invoice Number}}. Let me guide you through the process. To download your invoice, you can log into your account on our website and navigate to the billing section. In the billing section, you should be able to find an option to download your invoice. If you're having trouble locating it, please let me know and I'll be more than happy to assist you further.",
+    "response_cn": "没问题！我完全理解您对下载编号为 #{{Invoice Number}} 的发票感到困惑。让我来为您引导下载流程。要下载您的发票，您可以登录我们网站的账户，然后进入账单部分。在账单部分，您应该能够找到下载发票的选项。如果您在查找时遇到任何困难，请告诉我，我将非常乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "get invoice from {{Person Name}}",
+    "instruction_cn": "向{{Person Name}}获取发票",
+    "response_en": "I'm clearly cognizant your request to obtain the invoice from {{Salutation}} {{Client Last Name}}. Allow me to assist you in retrieving that information. Just a moment, please.",
+    "response_cn": "我清楚您希望从{{Salutation}}{{Client Last Name}}处获取发票的请求。让我来协助您查询该信息。请稍等片刻。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "send me bills from {{Person Name}}",
+    "instruction_cn": "请发送 {{Person Name}} 的账单给我",
+    "response_en": "I'm on it! I completely understand your request to receive bills from {{Salutation}} {{Client Last Name}}. Let me assist you with that. To proceed, could you please provide me with the specific time frame or any other relevant details? This will help me locate and send you the bills accurately.",
+    "response_cn": "好的，我完全理解您希望收到{{Salutation}} {{Client Last Name}}的账单。让我来协助您处理此事。为了继续操作，请您提供具体的时间范围或其他相关信息，以便我准确查找并发送账单给您。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "how do I download my bills from {{Person Name}}?",
+    "instruction_cn": "我如何从 {{Person Name}} 下载我的账单？",
+    "response_en": "Sure! I comprehend your query regarding downloading your bills from {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process step by step. To download your bills, please follow these instructions:\n\n1. Log in to your account on our website at {{Website URL}}.\n2. Navigate to the billing or account section.\n3. Look for the \"Invoices\" or \"Bills\" tab.\n4. Select the desired billing period or invoice number, in this case, from {{Person Name}}.\n5. Click on the download icon or the \"Download\" button next to the invoice.\n\nIf you encounter any difficulties or have any other concerns, please feel free to let me know. I'm here to assist you every step of the way!",
+    "response_cn": "好的！我理解您关于从{{Salutation}}{{Client Last Name}}下载账单的疑问。让我逐步为您指导操作流程。要下载您的账单，请按照以下步骤操作：\n\n1. 请登录我们网站{{Website URL}}上的您的账户。\n2. 进入账单或账户管理页面。\n3. 找到\"发票\"或\"账单\"选项卡。\n4. 选择所需的账单周期或发票编号，在本例中为{{Person Name}}的账单。\n5. 点击发票旁边的下载图标或\"下载\"按钮。\n\n如果您在操作过程中遇到任何困难或有任何其他问题，请随时告诉我。我会全程为您提供协助！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "i cannot find the invoice from {{Person Name}} find it for me",
+    "instruction_cn": "我找不到 {{Person Name}} 的发票，请帮我查找一下。",
+    "response_en": "Grateful you reached out to us for help with locating the invoice from {{Salutation}} {{Client Last Name}}. I understand how important it is to find this invoice for you. To assist you further, could you please provide me with additional details such as the date range or any specific information related to the invoice? This will enable me to find the invoice promptly and provide you with the necessary information or assistance. Rest assured, I'm here to support you in every step of this process.",
+    "response_cn": "感谢您联系我们，协助您查找 {{Salutation}} {{Client Last Name}} 的发票。我理解找到这张发票对您来说非常重要。为了进一步为您提供帮助，请您提供一些额外的信息，例如发票的日期范围或任何与发票相关的具体信息。这将使我能够迅速找到发票，并为您提供所需的信息或帮助。请放心，我会在整个过程中全力支持您。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I want to find my bill from {{Person Name}}, I need help",
+    "instruction_cn": "我想查找{{Person Name}}的账单，我需要帮助",
+    "response_en": "I'm with you, your need to find and view the invoice related to {{Salutation}} {{Client Last Name}}. Retrieving your bill information is essential, and I'm here to guide you through the process. To assist you better, could you please provide me with any additional details such as the date range or any specific keywords related to the bill? This information will help me narrow down the search and provide you with more accurate results. Rest assured, I'm committed to ensuring that you receive the necessary support to locate your bill successfully.",
+    "response_cn": "我来帮您查找并查看与{{Salutation}} {{Client Last Name}}相关的发票。获取您的账单信息非常重要，我会全程协助您完成这一过程。为了更好地为您提供帮助，请您提供一些额外的信息，例如日期范围或与账单相关的关键词。这些信息将有助于我缩小搜索范围，为您提供更准确的结果。请放心，我会全力确保您顺利找到所需的账单。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "i have to find my invoice #12588 how todo it",
+    "instruction_cn": "我需要找到我的发票 #12588，请问该怎么操作？",
+    "response_en": "Positively! I can assist you in finding your invoice with the number {{Invoice Number}}. To quickly locate it, you can navigate to the \"Billing\" or \"Invoices\" section on your account dashboard. Look for options like \"View Invoices\" or \"My Bill\" and click on them. From there, you should be able to search for or filter the invoices by invoice number. If you have any trouble or need further guidance, please don't hesitate to let me know, and I'll be happy to help you throughout the process.",
+    "response_cn": "当然可以！我可以帮您查找编号为 {{Invoice Number}} 的发票。要快速找到它，您可以前往账户仪表板上的\"账单\"或\"发票\"部分。查找\"查看发票\"或\"我的账单\"等选项并点击。从那里，您应该能够通过发票号码搜索或筛选发票。如果您遇到任何问题或需要进一步的指导，请随时告诉我，我很乐意在整个过程中为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I want to check the bill from {{Person Name}}, could you help me?",
+    "instruction_cn": "我想查询一下 {{Person Name}} 的账单，您能帮我吗？",
+    "response_en": "I'll make it happen! I completely understand your desire to check the bill from {{Salutation}} {{Client Last Name}}. I assure you, I'm here to assist you throughout this process. To better guide you, could you provide me with any additional details such as a {{Date Range}}, specific {{Invoice Number}}, or any other relevant information that might help us locate the bill more efficiently?",
+    "response_cn": "我来帮您处理！我完全理解您想查看{{Salutation}} {{Client Last Name}}的账单的心情。请放心，我会全程协助您完成这一流程。为了更好地为您提供指引，您能否提供一些额外的信息，例如{{Date Range}}、具体的{{Invoice Number}}，或者任何其他相关信息，以便我们更高效地找到该账单？"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I need assistance to dfownload my invoice #37777",
+    "instruction_cn": "我需要帮助下载我的发票 #37777",
+    "response_en": "I'll do my best! I completely understand your need to download invoice #{{Invoice Number}}. Allow me to guide you through the process step by step. First, please log in to your account on our website. Once logged in, navigate to the \"My Invoices\" section. You should be able to find a list of your invoices there. Look for invoice #{{Invoice Number}} and click on the \"Download\" button next to it. This will initiate the download of your invoice to your device. If you encounter any difficulties or have further questions during the process, please don't hesitate to reach out. I'm here to provide you with the guidance you need.",
+    "response_cn": "我会尽力帮您！我完全理解您需要下载发票 #{{Invoice Number}}。请允许我逐步为您引导操作流程。首先，请登录我们网站的账户。登录后，请前往\"我的发票\"页面。您应该能在那里找到您的发票列表。找到发票 #{{Invoice Number}}，然后点击旁边的\"下载\"按钮。这将开始将发票下载到您的设备中。如果您在操作过程中遇到任何困难或有其他问题，请随时联系我。我会随时为您提供所需的帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "get ibll #12588",
+    "instruction_cn": "获取 ibll #12588",
+    "response_en": "I completely understand your request to access bill #{{Invoice Number}}. Let me assist you with that. Please give me a moment to retrieve the invoice for you. While I work on this, feel free to let me know if there's anything else I can help you with.",
+    "response_cn": "我完全理解您想要查看账单 #{{Invoice Number}} 的请求。让我来帮您处理。请稍等，我为您查询该账单。在我为您处理的过程中，如果您还有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I want assistance downloading my invoices from {{Person Name}}",
+    "instruction_cn": "我需要协助下载我的发票，请问您能帮我从{{Person Name}}下载发票吗？",
+    "response_en": "Definitely! I completely understand your need for assistance in downloading your invoices from {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process step by step to ensure you can easily access your invoices and any other related information you may require. Together, we'll make sure you have everything you need at your fingertips.",
+    "response_cn": "当然可以！我非常理解您需要从 {{Salutation}} {{Client Last Name}} 下载发票的需求。请允许我逐步引导您完成整个流程，确保您能够轻松访问您的发票以及您可能需要的任何其他相关信息。我们将共同努力，确保您所需的一切信息都能触手可及。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "what do I have to do to download my invoice #37777?",
+    "instruction_cn": "我需要做什么才能下载我的发票 #37777？",
+    "response_en": "I understand your need to download your invoice with number {{Invoice Number}}. To download your invoice, please follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to the \"Billing\" or \"Invoices\" section.\n3. Look for the invoice with number {{Invoice Number}}.\n4. Click on the \"Download\" button or icon next to the invoice.\n5. Choose the desired file format (e.g., PDF or Excel) for the download.\n6. Save the downloaded file to your preferred location on your device.\n\nIf you encounter any difficulties during the process or have further questions, feel free to let me know. I'm here to assist you and ensure a smooth experience.",
+    "response_cn": "我理解您需要下载编号为 {{Invoice Number}} 的发票。要下载您的发票，请按照以下步骤操作：\n\n1. 登录我们网站的账户。\n2. 进入\"账单\"或\"发票\"页面。\n3. 找到编号为 {{Invoice Number}} 的发票。\n4. 点击发票旁边的\"下载\"按钮或图标。\n5. 选择您需要的文件格式（如 PDF 或 Excel）进行下载。\n6. 将下载的文件保存到您设备上的指定位置。\n\n如果您在操作过程中遇到任何困难或有其他疑问，请随时告诉我。我会为您提供协助，确保您获得顺畅的体验。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "where can I check my invoices from {{Person Name}}?",
+    "instruction_cn": "我可以在哪里查看来自 {{Person Name}} 的发票？",
+    "response_en": "Thank you for seeking assistance in locating your invoices from {{Salutation}} {{Client Last Name}}. To access your invoices, you can log in to your account on our website or app and navigate to the \"Billing\" or \"Invoices\" section. There, you will find a list of all your invoices, including the ones related to {{Salutation}} Smith. If you need any further guidance or encounter any difficulties, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "感谢您寻求帮助查找来自 {{Salutation}} {{Client Last Name}} 的发票。要查看您的发票，您可以登录我们网站或应用程序中的账户，然后导航至\"账单\"或\"发票\"部分。在那里，您将找到所有发票的列表，包括与 {{Salutation}} Smith 相关的发票。如果您需要进一步的指导或遇到任何困难，请随时告诉我。我随时为您提供帮助！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "seeing bill #12588",
+    "instruction_cn": "看到账单 #12588",
+    "response_en": "I understand your need to locate the details of bill #{{Invoice Number}}. To assist you further, could you please provide me with some additional information such as the date range or any specific details related to this bill? This will help me narrow down the search and expedite the process for you. Rest assured, I'm here to guide you every step of the way in finding the information you need.",
+    "response_cn": "我理解您需要查找账单 #{{Invoice Number}} 的详细信息。为了进一步协助您，您能否提供一些额外的信息，例如日期范围或与该账单相关的任何具体细节？这将帮助我缩小搜索范围并加快为您查找信息的进程。请放心，我会全程指导您找到所需的信息。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I have got to download bill #85632, help me",
+    "instruction_cn": "我需要下载账单 #85632，请帮我一下",
+    "response_en": "I get it your need to download bill #{{Invoice Number}}. Let me assist you with that. To download your bill, please follow these steps:\n\n1. Log in to your account on our website or app.\n2. Navigate to the billing section or account settings.\n3. Look for the option to download or view your invoices.\n4. Select the specific invoice with the number #{{Invoice Number}}.\n5. Click on the download button or the link provided.\n\nIf you encounter any difficulties or have further questions, feel free to let me know. I'm here to help!\"",
+    "response_cn": "我理解您需要下载账单 #{{Invoice Number}}。让我来协助您完成操作。要下载您的账单，请按照以下步骤操作：\n\n1. 登录我们的网站或应用程序。\n2. 进入账单部分或账户设置。\n3. 找到下载或查看账单的选项。\n4. 选择编号为 #{{Invoice Number}} 的账单。\n5. 点击提供的下载按钮或链接。\n\n如果您遇到任何困难或有其他问题，请随时告诉我。我很乐意为您提供帮助！"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "get_invoice",
+    "instruction_en": "I want help downloading the invoice #00108",
+    "instruction_cn": "我需要帮助下载发票 #00108",
+    "response_en": "Assuredly! I completely understand your request for assistance in downloading invoice #{{Invoice Number}}. Let me guide you through the process step by step. First, please log in to your account on our website. Once you're logged in, navigate to the \"Billing\" or \"Invoices\" section. Look for the invoice labeled with the number #{{Invoice Number}} and click on the download button next to it. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to help you every step of the way.",
+    "response_cn": "当然可以！我完全理解您需要下载发票 #{{Invoice Number}} 的帮助请求。让我逐步为您引导整个过程。首先，请登录我们网站的账户。登录后，导航至\"账单\"或\"发票\"部分。找到标有 #{{Invoice Number}} 号码的发票，然后点击旁边的下载按钮。如果您遇到任何困难或有任何其他问题，请随时告诉我。我会全程为您提供帮助。"
+  },
+  {
+    "category": "INVOICE",
+    "intent": "check_invoice",
+    "instruction_en": "I need help taking a quick look at my bill #37777",
+    "instruction_cn": "我需要帮忙快速查看一下我的账单 #37777",
+    "response_en": "No worries! I completely understand your need for assistance in quickly checking your bill with the number #{{Invoice Number}}. Let's dive right in and find the information you're looking for. Could you please provide me with some additional details such as the billing period or any specific sections of the bill you would like me to focus on? With these details, I'll be able to guide you more effectively. Feel free to let me know if you have encountered any challenges during your search. Your satisfaction is my top priority, and I'm here to help you every step of the way.",
+    "response_cn": "没问题！我非常理解您希望通过号码 #{{Invoice Number}} 快速查询账单的需求。让我们立即开始查找您需要的信息。请您提供一些额外的详细信息，例如账单周期或您希望我重点查看的账单中的任何特定部分？有了这些详细信息，我将能够更有效地为您提供指导。如果您在查询过程中遇到任何问题，请随时告诉我。您的满意是我的首要目标，我会全程为您提供帮助。"
+  }
+]

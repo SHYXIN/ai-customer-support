@@ -1,0 +1,19 @@
+# See https://fastapi.tiangolo.com/deployment/docker/#docker-compose
+# for a production-ready version
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/data:/app/data
+    env_file:
+      - ./backend/.env
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend

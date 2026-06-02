@@ -1,0 +1,802 @@
+[
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "where can I find information about the shipping period?",
+    "instruction_cn": "我在哪里可以找到关于配送周期的信息？",
+    "response_en": "We understand your curiosity about the shipping period and want to make sure you have access to the information you need. You can find detailed information about the shipping period on our website under the \"Shipping Information\" or \"Delivery\" section. Additionally, you can reach out to our customer support team through our live chat or phone support for any specific questions or concerns you may have regarding the shipping period. We are here to provide you with all the assistance you require to ensure a smooth and informed shipping experience.",
+    "response_cn": "我们理解您对配送周期的关注，并希望确保您能够获取所需的相关信息。您可以在我们网站的\"配送信息\"或\"配送\"栏目下查看配送周期的详细信息。此外，如果您对配送周期有任何具体问题或疑虑，也可以通过在线客服或电话客服联系我们的客服团队。我们将竭诚为您提供所需的全方位协助，确保您的配送体验顺畅无忧。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "can you help me checking when my order is going to arrive?",
+    "instruction_cn": "您好，请问您能帮我查一下我的订单什么时候能到吗？",
+    "response_en": "We understand your eagerness to receive your order and would be delighted to assist you in checking its estimated arrival time. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With that information, we can quickly track your order and give you an update on its status and expected delivery date. Your patience is greatly appreciated as we work to ensure a smooth delivery process for you.",
+    "response_cn": "我们非常理解您希望尽快收到订单的心情，也很乐意为您查询预计送达时间。为了给您提供最准确的信息，请问您能否提供一下您的 {{Order Number}} 或 {{Tracking Number}}？有了这些信息，我们就能快速追踪您的订单，并及时为您更新订单状态和预计送达日期。在此过程中，感谢您的耐心等待，我们会全力确保您的订单顺利送达。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "how could I check how long it takes for the item to arrive?",
+    "instruction_cn": "我该如何查询商品需要多长时间才能送达？",
+    "response_en": "We understand your curiosity and desire to track the progress of your delivery and determine its estimated arrival time. To provide you with accurate information, we kindly request you to provide us with the {{Tracking Number}} or {{Order Number}} for your package. Once we have this information, we can quickly access our system and provide you with the most up-to-date estimate of the delivery time. We appreciate your patience and cooperation in this matter.",
+    "response_cn": "我们理解您希望了解配送进度并确认预计送达时间的心情。为了向您提供准确的信息，烦请您提供包裹的 {{Tracking Number}} 或 {{Order Number}}。一旦收到相关信息，我们便可迅速查询系统，为您提供最新的预计送达时间。感谢您的耐心与配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "deliveries to {{Delivery City}}",
+    "instruction_cn": "配送至 {{Delivery City}}",
+    "response_en": "I'll take care of it! We are pleased to offer deliveries to {{Delivery City}}, ensuring that you can conveniently receive your items right at your doorstep. Let me provide you with an overview of our delivery options tailored to meet your needs:\n\n1. Standard Shipping: This option typically takes {{Date Range}} business days for delivery.\n2. Expedited Shipping: If you need your items sooner, you can choose expedited shipping, which guarantees delivery within {{Date Range}} business days.\n3. Overnight Shipping: For urgent needs, we offer overnight shipping, ensuring that your items arrive the next business day.\n4. In-Store Pickup: If you're near any of our local stores in {{Delivery City}}, you have the option to personally pick up your items.\n\nRemember, delivery times may vary based on factors such as holidays and item availability. If you have any specific inquiries or if there's anything else I can assist you with, please feel free to ask. We are here to make sure your delivery experience is nothing short of excellent!",
+    "response_cn": "我来为您处理！我们很高兴能够为{{Delivery City}}提供送货服务，确保您能够方便地在门口收到您的商品。让我为您介绍我们为满足您的需求量身定制的各种配送选项：\n\n1. 标准配送：此选项通常需要{{Date Range}}个工作日送达。\n2. 加急配送：如果您需要更快收到商品，可以选择加急配送，保证在{{Date Range}}个工作日内送达。\n3. 次日达配送：对于紧急需求，我们提供次日达配送，确保您的商品在下一个工作日送达。\n4. 门店自提：如果您在{{Delivery City]]附近有我们的门店，您可以选择亲自到店取货。\n\n请注意，配送时间可能会因节假日和商品库存情况等因素而有所不同。如果您有任何具体问题或需要我协助其他事项，请随时告知。我们致力于确保您的配送体验尽善尽美！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "could Iplace an order from {{Delivery City}}?",
+    "instruction_cn": "我可以在{{Delivery City}}下单吗？",
+    "response_en": "Ah, the enchanting city of {{Delivery City}}! No worries, my friend, you can indeed place an order from {{Delivery City}}. We offer shipping services to various locations, including {{Delivery City}}. So feel free to browse our products, select your desired items, and proceed with the checkout process. Just make sure to enter your {{Delivery City}} address as the shipping address, and we'll deliver your order right to your doorstep. Should you have any further inquiries or need assistance with anything else, please don't hesitate to ask. Happy shopping from {{Delivery City}}!",
+    "response_cn": "啊，迷人的{{Delivery City}}！别担心，我的朋友，您当然可以从{{Delivery City}}下单。我们为包括{{Delivery City}}在内的多个地区提供配送服务。所以请尽情浏览我们的产品，挑选您心仪的商品，然后进行结账即可。只需确保将您的{{Delivery City}}地址填写为收货地址，我们就会把您的订单直接送到您家门口。如果您还有其他疑问或需要任何帮助，请随时告诉我们。祝您在{{Delivery City}}购物愉快！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "can you help me see when my article is goong to arrive?",
+    "instruction_cn": "您好，请问您能帮我查看一下我的物品什么时候到？",
+    "response_en": "We understand your eagerness to track and know the estimated delivery time for your article. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}} associated with your article? With this information, we will be able to give you a precise estimate of when your article is going to arrive. Thank you for your cooperation in this matter.",
+    "response_cn": "我们理解您希望了解您物品的预计送达时间。为了向您提供准确的信息，请您提供与该物品相关的 {{Tracking Number}} 或 {{Order Number}。有了这些信息，我们将能够为您提供物品预计到达的准确时间。感谢您的配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I try to check what shipping methods I can choose",
+    "instruction_cn": "我尝试查看可以选择哪些配送方式",
+    "response_en": "For sure! I'm here to assist you in discovering the various shipping methods we offer. To view the available shipping methods, simply follow these steps:\n\n1. Go to our website homepage.\n2. Navigate to the \"Shipping\" section or look for a \"Delivery Options\" link.\n3. Click on the link to access detailed information about our shipping methods.\n4. You'll find a comprehensive list of shipping options, along with the estimated delivery times and any associated costs.\n\nIf you encounter any difficulties or have further questions while navigating our website, please don't hesitate to let me know. I'm here to provide you with all the assistance you need.",
+    "response_cn": "当然！我很乐意为您提供我们各种配送方式的详细信息。要查看可用的配送方式，只需按照以下步骤操作：\n\n1. 进入我们的网站首页。\n2. 找到\"配送\"部分或\"配送选项\"链接。\n3. 点击该链接，即可查看我们配送方式的详细信息。\n4. 您将看到一份完整的配送选项列表，其中包含预计送达时间及相关费用。\n\n如果您在浏览网站时遇到任何困难或有任何疑问，请随时告诉我。我将竭诚为您提供所需的帮助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I need help checking what bloody delivery methods are there",
+    "instruction_cn": "我想了解一下有哪些可用的配送方式",
+    "response_en": "Absolutely! Let's dive into the world of delivery methods together and explore the options available to you. Here are the different delivery methods we offer:\n\n1. Standard Shipping: This method typically takes {{Date Range}} business days to deliver your items. It's great for non-urgent purchases.\n2. Express Shipping: If you're in a hurry, this option ensures your items will arrive within {{Date Range}} business days.\n3. Same-Day Shipping: For those urgent needs, choose this option to receive your items on the same day.\n4. Store Pickup: If you prefer to collect your items in person, you can select this option and pick them up from our nearest store.\n\nI hope this helps! If you have any further questions or need assistance with anything else, feel free to let me know. I'm here to make your shopping experience a bloody good one!",
+    "response_cn": "当然可以！让我们一起了解各种配送方式，看看有哪些选择。以下是我们的配送方式：\n\n1. 标准配送：这种方式通常需要 {{Date Range}} 个工作日送达您的商品。适合不着急的订单。\n2. 快递配送：如果您比较着急，这种方式可以确保您的商品在 {{Date Range}} 个工作日内送达。\n3. 当日达：对于紧急需求，选择这种方式可以在当天收到您的商品。\n4. 门店自提：如果您更倾向于亲自到店取货，可以选择这种方式，到我们最近的门店领取。\n\n希望这些信息对您有帮助！如果您还有其他问题或需要任何帮助，随时告诉我。我会尽力让您的购物体验非常愉快！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "how do i check how son can i expect my item",
+    "instruction_cn": "我该如何查询，预计多久能收到我的商品？",
+    "response_en": "Understanding your curiosity about when you can expect your item to arrive, we have made tracking your order simple and convenient. To check the estimated delivery time, you can visit our website and log in to your account. Once you are logged in, navigate to the \"Order\" or \"My Account\" section, where you will find the details of your recent purchase, including the estimated delivery date. Additionally, you may also receive email updates with tracking information that will provide you with real-time updates on the status of your delivery. If you need any further assistance, please feel free to reach out to our customer support team, who will be happy to help you track your order.",
+    "response_cn": "理解您对商品何时送达的好奇，我们已让订单追踪变得简单便捷。要查看预计送达时间，您可以访问我们的网站并登录您的账户。登录后，前往\"订单\"或\"我的账户\"页面，在那里您可以找到最近购买的详细信息，包括预计送达日期。此外，您也可能会收到包含追踪信息的邮件更新，为您提供配送状态的实时更新。如果您需要进一步的帮助，请随时联系我们的客服团队，他们将很乐意协助您追踪订单。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "want help to see how long it takes fo the article to arrive",
+    "instruction_cn": "您好，您是想查询一下商品的预计送达时间吗？",
+    "response_en": "We understand your curiosity about the expected arrival time of your article. To provide you with an accurate estimate, could you please provide us with the {{Tracking Number}} or {{Order Number}}? This will allow us to track your shipment and give you the precise details regarding its delivery. Your patience is greatly appreciated, and we will do our best to assist you promptly.",
+    "response_cn": "我们理解您想了解物品的预计送达时间。为了给您提供准确的预估，请您提供 {{Tracking Number}} 或 {{Order Number}}，以便我们查询您的包裹并为您提供准确的配送详情。感谢您的耐心，我们将竭诚为您提供帮助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "how to check how soon can i expect the item",
+    "instruction_cn": "如何查询我大概多久能收到商品",
+    "response_en": "To determine how soon you can expect your item to arrive, you can track your order using the {{Order Tracking Method}}. Simply enter your {{Order Number}} or {{Tracking Number}} on our website or through our mobile app, and you will be able to see the estimated delivery date. If you have any difficulties or need further assistance, feel free to reach out to our customer support team. We're here to help!",
+    "response_cn": "为了了解您的商品预计何时到达，您可以通过{{Order Tracking Method}}查询订单状态。只需在我们的网站或移动应用程序中输入您的{{Order Number}}或{{Tracking Number}}，即可查看预计送达日期。如果您遇到任何困难或需要进一步帮助，请随时联系我们的客户支持团队。我们随时为您提供帮助！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "assistance seeing what options for delivery are there",
+    "instruction_cn": "请问有哪些配送方式可以选择？",
+    "response_en": "We're here for you to us for assistance with exploring our delivery options. Your satisfaction is our top priority, and I'm here to guide you in finding the perfect shipping method. Let's take a closer look at the various options available to you:\n\n1. Standard Shipping: This option typically arrives within {{Date Range}} business days, making it ideal for non-urgent deliveries.\n\n2. Expedited Shipping: If you need your items a bit faster, our expedited shipping option ensures delivery within {{Date Range}} business days.\n\n3. Overnight Shipping: For urgent needs, we offer overnight shipping, guaranteeing that your items will arrive on the next business day.\n\n4. In-Store Pickup: If you prefer the convenience of picking up your items in person, we have the option of in-store pickup available at our {{Store Location}}.\n\nPlease note that delivery times may vary based on factors such as location and product availability. If you have any specific questions or if there's anything else I can assist you with, please don't hesitate to let me know. I'm here to ensure that you have a seamless and satisfying shopping experience.",
+    "response_cn": "我们随时为您提供帮助，协助您了解我们的配送选项。您的满意是我们的首要任务，我将为您找到最合适的配送方式。让我们来详细了解以下几种可选方案：\n\n1. 标准配送：此选项通常在工作日 {{Date Range}} 天内送达，非常适合非紧急配送需求。\n\n2. 加急配送：如果您需要更快收到商品，我们的加急配送选项可确保在工作日 {{Date Range}} 天内送达。\n\n3. 次日达：对于紧急需求，我们提供次日达服务，保证您的商品在下一个工作日送达。\n\n4. 到店自提：如果您更倾向于亲自到店取货，我们提供到店自提服务，您可以在我们的 {{Store Location} 门店自提。\n\n请注意，配送时间可能会因地点和商品库存情况等因素而有所不同。如果您有任何具体问题，或者还有其他需要帮助的地方，请随时告诉我。我在这里确保您拥有顺畅且满意的购物体验。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "help me check how soon can I expect my delivery",
+    "instruction_cn": "您好，我想查询一下我的订单 {Order Number} 预计什么时候可以送达？",
+    "response_en": "We understand your eagerness to track the progress of your delivery and determine its estimated arrival time. To provide you with the most accurate information, we kindly ask you to provide us with your {{Order Number}} or {{Tracking Number}}. With that, we can check the status of your delivery and give you an estimated delivery window. Your patience is highly appreciated as we work together to ensure a smooth and timely delivery process.",
+    "response_cn": "我们非常理解您希望了解配送进度以及预计送达时间的心情。为了为您提供最准确的信息，烦请您提供您的 {{Order Number}} 或 {{Tracking Number}}。有了这些信息，我们即可为您查询配送状态，并告知您预计的送达时间范围。感谢您的耐心配合，我们将共同努力确保配送过程顺利且及时。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "show me what shipping methods I have",
+    "instruction_cn": "请问我有哪些可用的配送方式？",
+    "response_en": "Unquestionably! Let's dive into the world of our shipping methods, designed to cater to your needs:\n\n1. Standard Shipping: This is our most popular option, taking approximately {{Date Range}} business days to arrive at your doorstep. It's perfect for non-urgent items.\n2. Expedited Shipping: If you need your items a little quicker, choose expedited shipping. It typically delivers within {{Date Range}} business days.\n3. Overnight Shipping: For those in need of immediate gratification, our overnight shipping option ensures that your package arrives the next business day.\n4. In-Store Pickup: If you prefer a more hands-on approach, you can choose in-store pickup at one of our {{Store Location}}. You'll receive a notification when your items are ready, and you can collect them at your convenience.\n\nThese are our primary shipping methods, each catering to different requirements. We want to ensure your satisfaction, so if you have any specific preferences or questions about these options, feel free to let me know!",
+    "response_cn": "当然可以！让我们来了解一下我们为您精心设计的配送方式：\n\n1. 标准配送：这是我们最受欢迎的配送方式，大约需要 {{Date Range}} 个工作日送达您的家门口。非常适合非紧急物品。\n2. 加急配送：如果您希望更快收到商品，可以选择加急配送，通常在 {{Date Range}} 个工作日内送达。\n3. 次日达：对于急需商品的用户，我们的次日达服务确保您的包裹在下一个工作日送达。\n4. 门店自提：如果您更喜欢亲力亲为，可以选择到我们的 {{Store Location}} 门店自提。当您的商品准备好后，我们会通知您，您可以随时前往领取。\n\n以上是我们的主要配送方式，每种方式都针对不同的需求而设计。我们致力于确保您的满意，如果您对这些选项有任何特殊偏好或疑问，请随时告诉我！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "is it possible to order from {{Delivery City}}?",
+    "instruction_cn": "请问可以在{{Delivery City}下单吗？",
+    "response_en": "For sure! You can indeed place an order from {{Delivery City}}. We offer shipping services that allow customers to order from various locations, including {{Delivery City}}. Please note that shipping times and costs may vary depending on your specific location and the items you wish to purchase. If you have any specific concerns or questions, feel free to ask, and I'll be more than happy to assist you further.",
+    "response_cn": "当然可以！您确实可以从{{Delivery City}}下单。我们提供配送服务，允许客户从多个地点下单，包括{{Delivery City}}。请注意，配送时间和费用可能会因您的具体位置以及您所购买的商品而有所不同。如果您有任何具体的疑虑或问题，请随时提出，我非常乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "can you help me to check what delivery options I have?",
+    "instruction_cn": "您好，请问能帮我查一下有哪些配送方式可以选择吗？",
+    "response_en": "I'll get right on it! I'm more than happy to assist you in exploring the various delivery options available to you. To check the delivery options, please follow the simple steps below:\n\n1. Visit our website at {{Website URL}} and navigate to the \"Shipping\" or \"Delivery\" section.\n2. Look for a tab or menu option labeled \"Delivery Options\" or \"Shipping Methods.\"\n3. Click on the tab or menu option to access detailed information about the available delivery options.\n4. You will find a comprehensive list of our delivery options, along with the estimated delivery times and any additional charges associated with each option.\n5. Take your time to review each option and choose the one that best suits your needs.\n\nIf you encounter any difficulties or have any questions while checking the delivery options, do not hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the live chat feature on our website.\n\nRemember, your satisfaction is our top priority, and we're here to make your shopping experience seamless and enjoyable!",
+    "response_cn": "我马上为您处理！我非常乐意为您查看各种可用的配送选项。要查看配送选项，请按照以下简单步骤操作：\n\n1. 访问我们的网站 {{Website URL}}，然后找到\"配送\"或\"送货\"板块。\n2. 查找标有\"配送选项\"或\"配送方式\"的标签或菜单选项。\n3. 点击该标签或菜单选项，即可查看可用配送选项的详细信息。\n4. 您将看到我们所有配送选项的完整列表，以及每个选项的预估配送时间和相关附加费用。\n5. 请仔细查看每个选项，选择最适合您需求的那一项。\n\n如果您在查看配送选项时遇到任何困难或有任何疑问，请随时联系我们的客服团队。我们的客服热线时间为 {{Customer Support Hours}}，您可以通过 {{Customer Support Phone Number}} 致电，或通过我们网站的在线客服功能与我们取得联系。\n\n请记住，您的满意是我们的首要目标，我们将竭诚为您打造顺畅愉悦的购物体验！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "where do I see how soon can I expect my article?",
+    "instruction_cn": "我在哪里可以查看我的商品预计多久能送达？",
+    "response_en": "We understand your curiosity to track the progress of your article and determine its estimated arrival time. To check the expected delivery date, you can visit the \"Order Status\" or \"Track Your Order\" section on our website. Alternatively, you can refer to the confirmation email or SMS that was sent to you at the time of purchase. This message contains the necessary information to track your article and provide you with an accurate delivery estimate. Please let us know if you require any further assistance.",
+    "response_cn": "我们理解您希望了解文章进度并确定预计送达时间的心情。要查看预计送达日期，您可以访问我们网站上的\"订单状态\"或\"追踪您的订单\"页面。或者，您也可以参考购买时发送给您的确认邮件或短信。该消息包含追踪您的文章并提供准确送达预估所需的所有信息。如需进一步协助，请随时告知我们。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "want hel seeing how long the shipping takes",
+    "instruction_cn": "您好，我想了解一下大概需要多长时间才能收到货。",
+    "response_en": "We absolutely understand your desire to know the estimated shipping duration for your package. To assist you better, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can provide you with an accurate estimate of when your shipment will arrive. Your patience is greatly appreciated as we work on resolving this for you.",
+    "response_cn": "我们完全理解您希望了解包裹预计送达时间的心情。为了更好地为您提供帮助，请您提供 {{Tracking Number}} 或 {{Order Number}，以便我们为您准确预估包裹的送达时间。感谢您在此过程中的耐心等待，我们将尽快为您处理。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "could you help me seeing how soon can I expect the product ?",
+    "instruction_cn": "您好，请问您能帮我查一下，我大概多久可以收到产品呢？",
+    "response_en": "We understand that you're eager to know when you can expect your product to arrive. To provide you with an accurate estimate, may I please have your {{Order Number}} or {{Tracking Number}}? Once we have this information, we can give you the most up-to-date details on the expected delivery date. Thank you for your patience and cooperation in this matter.",
+    "response_cn": "我们理解您急切地想知道您的产品预计何时到货。为了给您提供准确的预估时间，请问您能提供一下您的{{Order Number}或{{Tracking Number}吗？一旦我们收到这些信息，我们就可以为您提供最新的预计送达日期详情。感谢您的耐心与配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "help me check what methods for delivery you offer",
+    "instruction_cn": "请问您提供哪些配送方式？",
+    "response_en": "For sure! I would be delighted to assist you in exploring the delivery methods we offer. Here are some of our convenient options:\n\n1. Standard Shipping: This method typically takes {{Date Range}} business days to deliver your items. It is an ideal choice if you are not in a hurry.\n2. Expedited Shipping: If you need your items a bit sooner, expedited shipping can deliver them to you within {{Date Range}} business days.\n3. Overnight Shipping: For urgent needs, we offer overnight shipping, ensuring your items arrive on the next business day.\n4. In-Store Pickup: If you prefer a more direct approach, you can select the in-store pickup option. You can shop online and collect your items from one of our {{Store Location}}.\n\nEach shipment option may have different delivery times and costs, so please let me know if you need more specific information. Our aim is to make sure you have a seamless delivery experience.",
+    "response_cn": "当然！我很乐意为您介绍我们提供的配送方式。以下是我们的一些便捷选择：\n\n1. 标准配送：这种方式通常需要 {{Date Range}} 个工作日将您的商品送达。如果您不着急收货，这是一个理想的选择。\n2. 加急配送：如果您希望更快收到商品，加急配送可在 {{Date Range}} 个工作日内送达。\n3. 次日达：对于紧急需求，我们提供次日达服务，确保您的商品在下一个工作日送达。\n4. 门店自提：如果您更喜欢直接到店取货，您可以选择门店自提选项。您可以在线上购物，然后到我们的 {{Store Location} 门店领取商品。\n\n每种配送方式可能有不同的配送时间和费用，如果您需要更详细的信息，请随时告诉我。我们的目标是确保您拥有顺畅的配送体验。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "help seeing what delivery options I can choose",
+    "instruction_cn": "请问我可以查看有哪些配送方式可供选择？",
+    "response_en": "Of course! I'll be more than happy to assist you in exploring the various delivery options available to you. Our company offers a range of delivery methods to cater to every customer's unique needs. Here are some options you can choose from:\n\n1. Standard Shipping: This is our most commonly used delivery option, which typically takes {{Date Range}} business days for your package to arrive at your doorstep.\n\n2. Expedited Shipping: If you need your items to arrive a bit faster, our expedited shipping option ensures delivery within {{Date Range}} business days.\n\n3. One-Day Shipping: For urgent needs, we offer the one-day shipping option. Your items will be delivered to you within the next business day.\n\n4. In-Store Pickup: If you prefer a more hands-on approach, you can choose in-store pickup. This allows you to collect your items from our {{Store Location}} at your convenience.\n\nFeel free to let me know if you have any specific preferences or requirements, and I'll be glad to assist you further. Your satisfaction is our top priority!",
+    "response_cn": "当然！我非常乐意为您介绍我们提供的各种配送方式。我们公司为满足每位客户的独特需求，提供多种配送选择。以下是您可以选择的几种方式：\n\n1. 标准配送：这是我们最常用的配送方式，您的包裹通常会在 {{Date Range}} 个工作日内送达您指定的地址。\n\n2. 加急配送：如果您希望商品更快送达，我们的加急配送服务可确保在 {{Date Range}} 个工作日内送达。\n\n3. 次日达：针对紧急需求，我们提供次日达服务，您的商品将在下一个工作日内送达。\n\n4. 门店自提：如果您更倾向于亲自到店取货，可以选择门店自提服务，您可以在方便的时候前往我们的 {{Store Location} 领取商品。\n\n如果您有任何特定的偏好或需求，请随时告诉我，我很乐意为您提供进一步的协助。您的满意是我们的首要目标！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "assistance checking what damn shipping methods I have",
+    "instruction_cn": "请问我可以帮您查询一下有哪些可用的配送方式吗？",
+    "response_en": "Oh, how interesting! Your enthusiasm in exploring our various shipping methods catches my attention. Let me guide you through our splendid options, tailored just for you...",
+    "response_cn": "哦，真有意思！您对我们各种配送方式的探索热情引起了我的注意。让我为您详细介绍我们出色的配送选项，专为您量身定制……"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "need help seeing when my shipment is gonna arrive",
+    "instruction_cn": "我需要查看一下我的货物什么时候能到",
+    "response_en": "We understand your eagerness to track the progress of your shipment and determine its estimated arrival time. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With these details, we'll swiftly locate your shipment in our system and give you an update on its expected delivery. Your patience is greatly appreciated as we work together to ensure a seamless shipping experience.",
+    "response_cn": "我们非常理解您希望了解货物运输进度和预计送达时间的心情。为了给您提供最准确的信息，请您提供 {{Tracking Number}} 或 {{Order Number}？有了这些信息，我们将迅速在系统中定位您的货物，并及时为您更新预计送达时间。感谢您的耐心配合，我们将共同努力确保您的运输体验顺畅无忧。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "i call to check how long it takes for the item to arrive",
+    "instruction_cn": "我打电话来查询一下商品需要多长时间才能送达",
+    "response_en": "We understand your curiosity and urgency in wanting to know the estimated delivery time for your item. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we will be able to provide you with the precise details of when you can expect your item to arrive. We appreciate your patience and look forward to assisting you further!",
+    "response_cn": "我们理解您希望了解商品预计送达时间的急切心情。为了给您提供准确的信息，能否请您提供一下 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们将能够为您提供您预计何时收到商品的详细信息。感谢您的耐心等待，我们期待进一步为您提供帮助！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "can I order from {{Delivery Country}}?",
+    "instruction_cn": "我可以从{{Delivery Country}}下单吗？",
+    "response_en": "I'm happy to help! We offer international shipping, including to {{Delivery Country}}. We believe in making our products accessible to customers worldwide. When you're ready to place your order, simply select the items you'd like, proceed to checkout, and enter your shipping address details. Our system will calculate the shipping cost and provide an estimated delivery timeframe for your convenience. If you have any specific questions or concerns about ordering from {{Delivery Country}}, feel free to let us know, and we'll be more than happy to assist you throughout the process. Happy shopping!",
+    "response_cn": "很高兴为您提供帮助！我们提供国际配送服务，包括配送至 {{Delivery Country}}。我们致力于让全球客户都能购买到我们的产品。当您准备好下单时，只需选择您想要的商品，进入结算页面，并填写您的配送地址信息即可。我们的系统将自动计算运费并为您提供预计送达时间，方便您参考。如果您对从 {{Delivery Country}} 下单有任何疑问或顾虑，请随时告知我们，我们将非常乐意在整个过程中为您提供协助。祝您购物愉快！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I want to see how long the shipment takes, can you help me?",
+    "instruction_cn": "我想了解一下货物运输需要多长时间，您能帮我查询一下吗？",
+    "response_en": "We understand your desire to know the estimated duration of the shipment's arrival. May I kindly ask for the {{Tracking Number}} or {{Order Number}}? With this information, we can provide you with precise details about the expected delivery time. Your patience is greatly appreciated as we work to determine the shipment's progress. Is there anything else we can assist you with in the meantime?",
+    "response_cn": "我们非常理解您希望了解预计送达时间的心情。请问您能否提供一下 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们就可以为您提供准确的预计送达时间。在我们查询物流进度的过程中，非常感谢您的耐心。在此期间，还有什么其他可以为您效劳的吗？"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I am looking for information about dselivery period",
+    "instruction_cn": "我想了解一下关于 {delivery period} 的相关信息。",
+    "response_en": "We understand that you are seeking information about the delivery period. To provide you with accurate details, could you please provide the {{Tracking Number}} or {{Order Number}}? This will enable us to determine the estimated delivery time for your package. Thank you for your cooperation in helping us assist you better.",
+    "response_cn": "我们理解您正在查询配送时间。为了向您提供准确的信息，请您提供{{Tracking Number}}或{{Order Number}}，以便我们为您查询包裹的预计送达时间。感谢您的配合，以便我们更好地为您服务。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "can i place an order frim {{Delivery Country}}",
+    "instruction_cn": "我可以在{{Delivery Country}}下单吗？",
+    "response_en": "I'll take care of it! When it comes to placing an order from {{Delivery Country}}, we have got you covered. Our online ordering system is available for customers worldwide, including {{Delivery Country}}. Simply visit our website, browse through our products, and add the items you wish to purchase to your cart. During the checkout process, you will be able to enter your shipping address in {{Delivery Country}}, and our system will calculate the shipping cost and estimated delivery time for you. If you have any specific questions or need assistance with the ordering process, our customer service team is always here to help. Happy shopping from {{Delivery Country}}!",
+    "response_cn": "我来帮您处理！关于从{{Delivery Country}}下单，我们完全为您服务。我们的在线订购系统面向全球客户开放，包括{{Delivery Country}}。只需访问我们的网站，浏览产品并将您想购买的商品添加到购物车。在结账过程中，您可以输入{{Delivery Country}}的收货地址，系统将为您计算运费和预计送达时间。如果您有任何具体问题或需要下单过程中的协助，我们的客服团队随时为您提供帮助。祝您在{{Delivery Country}}购物愉快！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "how to check how long it takes for the parcel to arrive?",
+    "instruction_cn": "如何查询包裹需要多长时间才能送达？",
+    "response_en": "We understand your desire to track the progress of your package and determine its estimated arrival time. To check the delivery status and estimated timeline, you can visit our website and log into your account. Navigate to the 'Order History' section, where you will find detailed information about your parcel's whereabouts and the expected delivery date. If you have any further questions or need additional assistance, our customer support team will be more than happy to help you.",
+    "response_cn": "我们理解您希望追踪包裹进度并了解预计送达时间。您可以登录我们的网站并进入您的账户，前往\"订单历史\"页面，在那里您可以找到包裹的当前位置和预计送达日期的详细信息。如果您有任何其他问题或需要进一步的帮助，我们的客服团队将非常乐意为您提供协助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I need help seeing the options for shipment",
+    "instruction_cn": "我需要帮助查看配送选项",
+    "response_en": "Ah, how wonderful! Your desire for assistance in exploring the myriad of shipment options sparks my curiosity. Let's embark on this journey together! Our array of shipment options includes the following:\n\n1. Standard Shipping: An ideal choice when time is not of the essence, with an estimated delivery of {{Date Range}} business days.\n2. Expedited Shipping: If you're looking for a faster delivery, our Expedited Shipping option guarantees delivery within {{Date Range}} business days.\n3. Overnight Shipping: When urgency is paramount, we offer Overnight Shipping, ensuring your package arrives at your doorstep the next business day.\n4. In-Store Pickup: For those who prefer convenience and immediate gratification, you can choose to pick up your items at our {{Store Location}}.\n\nAs you weigh your options, please be reminded that specific delivery times may be subject to location and other factors. If you have any further queries or require additional assistance, don't hesitate to let me know! I'm here to guide you every step of the way.\"",
+    "response_cn": "啊，太好了！您希望了解我们丰富的运输选择，这让我们非常乐意为您介绍！让我们一起探索吧！我们的运输选项包括以下几种：\n\n1. 标准运输：如果您时间充裕，这是理想的选择，预计送达时间为 {{Date Range}} 个工作日。\n2. 加急运输：如果您希望更快收到包裹，我们的加急运输服务可确保在 {{Date Range}} 个工作日内送达。\n3. 次日达：当时间紧迫时，我们提供次日达服务，确保您的包裹在下一个工作日送达您手中。\n4. 门店自提：如果您更倾向于便捷和即时满足，您可以选择到我们的 {{Store Location}} 门店自提。\n\n在您权衡各种选择时，请注意，具体的送达时间可能会因地理位置及其他因素而有所不同。如果您有任何疑问或需要进一步帮助，请随时告诉我！我将全程为您提供指导。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "where to see what delivery options uoffer",
+    "instruction_cn": "请问在哪里可以查看您提供的配送选项？",
+    "response_en": "Indeed! I'm here to guide you on where you can find information about our diverse range of delivery options. To explore our available delivery options, you can visit our website's shipping page. There, you will find detailed descriptions of each delivery method along with their estimated delivery times. You can also find information about any special shipping promotions or discounts that may be available.\n\nIf you prefer a more personal touch, our customer service team is also available to assist you. They can provide you with recommendations based on your specific needs and preferences. You can reach out to them through our live chat support or by calling our customer service hotline.\n\nRemember, we understand the importance of making an informed decision, and we're here to help you every step of the way. So feel free to explore our website or reach out to our customer service team for any further assistance. Together, let's ensure you have a delightful delivery experience!\"",
+    "response_cn": "当然！我很乐意为您指引在哪里可以找到我们多样化的配送选项信息。要查看我们可用的配送选项，您可以访问我们网站的配送页面。在那里，您将找到每种配送方式的详细说明以及预计送达时间。您还可以查看当前可用的任何特别配送促销或折扣信息。\n\n如果您希望获得更个性化的服务，我们的客服团队也随时为您提供帮助。他们可以根据您的具体需求和偏好为您提供建议。您可以通过我们的在线客服聊天支持或拨打我们的客服热线与我们取得联系。\n\n请记住，我们深知做出明智选择的重要性，我们将全程为您提供帮助。因此，请随时浏览我们的网站或联系我们的客服团队以获取进一步的协助。让我们一起确保您拥有愉快的配送体验！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "help me sde how soon can i expect my item",
+    "instruction_cn": "您好，请问我的商品预计多久能收到？",
+    "response_en": "We understand your eagerness to know when you can expect your item. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we will be able to give you a precise estimate of the delivery time. Thank you for your cooperation and your patience.",
+    "response_cn": "我们理解您迫切希望了解商品的预计送达时间。为了给您提供最准确的信息，请您提供 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们将能够为您提供精确的送达时间预估。感谢您的配合与耐心。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "can i order frlm {{Delivery City}}",
+    "instruction_cn": "我可以在{{Delivery City}下单吗？",
+    "response_en": "I'll make it happen! We are excited to let you know that you can place an order from {{Delivery City}} with ease. We offer delivery services to various locations, including {{Delivery City}}. Once you proceed to checkout, you can enter your address or select {{Delivery City}} as your delivery location. If you need any further assistance or have any specific concerns, please feel free to let me know. Your satisfaction is our priority!",
+    "response_cn": "没问题！我们很高兴地告诉您，您可以轻松地从{{Delivery City}下订单。我们提供配送服务到多个地点，包括{{Delivery City}。当您进入结账页面时，您可以输入您的地址，或者直接选择{{Delivery City}作为您的配送地点。如果您需要进一步的帮助或有任何具体的疑问，请随时告诉我。您的满意是我们的首要目标！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "is it possible to place an order from {{Delivery City}} ?",
+    "instruction_cn": "请问可以在{{Delivery City}}下单吗？",
+    "response_en": "I'll take care of it! You can absolutely place an order from {{Delivery City}}. We offer nationwide shipping, so you can conveniently order our products from anywhere in the United States, including {{Delivery City}}. Whether you're in {{Delivery City}}, New York, or any other city, we've got you covered. So go ahead and explore our website, browse through our products, and place your order with confidence. If you have any specific questions or need assistance with the ordering process, feel free to reach out to our customer service team, they will be more than happy to help you. Happy shopping!",
+    "response_cn": "我来帮您处理！您完全可以从{{Delivery City}}下单。我们提供全国配送服务，因此您可以方便地在美国任何地方订购我们的产品，包括{{Delivery City}}。无论您身在{{Delivery City}}、纽约还是其他任何城市，我们都能为您服务。请放心浏览我们的网站，挑选我们的产品并下单。如果您对订购流程有任何疑问或需要帮助，请随时联系我们的客户服务团队，他们将非常乐意为您提供帮助。祝您购物愉快！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "help me checking what shipping methods you offer",
+    "instruction_cn": "请问您提供哪些配送方式？",
+    "response_en": "I'll get right on it! I'm more than happy to assist you in exploring our range of shipping methods. Sit back, relax, and allow me to provide you with an overview of our available options:\n\n1. Standard Shipping: This is our reliable and cost-effective option that typically takes {{Date Range}} business days for delivery.\n\n2. Expedited Shipping: Need your items a bit faster? With expedited shipping, you can expect your package to arrive within {{Date Range}} business days.\n\n3. Overnight Shipping: For those urgent needs, we offer the overnight shipping service, ensuring your items are delivered the next business day.\n\n4. In-Store Pickup: If you prefer a more hands-on approach, you can choose in-store pickup at any of our convenient {{Store Location}}. Simply select this option during checkout, and we'll have your items ready when you arrive.\n\nThese are our primary shipping methods tailored to provide you with flexibility and convenience. If you have any specific questions or preferences, please feel free to let me know. I'm here to ensure your shipping experience is seamless and enjoyable!",
+    "response_cn": "我这就为您处理！我很乐意为您介绍我们的各种运输方式。请稍坐休息，让我为您概述一下我们目前提供的选项：\n\n1. 标准运输：这是我们可靠且经济实惠的选择，通常需要 {{Date Range}} 个工作日送达。\n\n2. 加急运输：需要更快收到您的物品？选择加急运输，您的包裹将在 {{Date Range}} 个工作日内送达。\n\n3. 次日达：对于紧急需求，我们提供次日达服务，确保您的物品在下一个工作日送达。\n\n4. 门店自提：如果您更喜欢亲力亲为的方式，您可以选择在我们任何一家便利的 {{Store Location}} 进行门店自提。只需在结账时选择此选项，我们会在您到达时准备好您的物品。\n\n这些是我们主要的运输方式，旨在为您提供灵活性和便利性。如果您有任何具体问题或偏好，请随时告诉我。我在这里确保您的运输体验顺畅愉快！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "i want help to check how long the shipping takes",
+    "instruction_cn": "我想查询一下配送需要多长时间",
+    "response_en": "We completely understand your desire to know the estimated shipping time for your order. To provide you with accurate information, may I please have your {{Order Number}} or {{Tracking Number}}? With this information, we can quickly check the status of your shipment and provide you with the expected delivery date. Thank you for your patience and cooperation!",
+    "response_cn": "我们完全理解您希望了解订单预计发货时间的心情。为了给您提供准确的信息，请问您能提供一下您的{{Order Number}}或{{Tracking Number}}吗？有了这些信息，我们可以快速查询您的物流状态，并为您提供预计送达日期。感谢您的耐心与配合！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I do not know how to check how soon can I expect the parcel",
+    "instruction_cn": "我不知道如何查询包裹预计什么时候能送达",
+    "response_en": "Understanding that tracking the delivery status of your parcel is important to you, let me guide you through the process. To check the estimated arrival time, you will need either the {{Tracking Number}} or {{Order Number}}. Once you have this information, you can go to your account on our website or use our tracking tool to get real-time updates on the status of your parcel and view the expected delivery time. If you need further assistance or encounter any difficulties, please feel free to let me know.",
+    "response_cn": "理解您希望追踪包裹的配送状态，让我为您介绍查询流程。要查看预计送达时间，您需要提供{{Tracking Number}}或{{Order Number}}。获取该信息后，您可以登录我们网站的账户或使用我们的追踪工具，实时查看包裹状态以及预计送达时间。如果您需要进一步的帮助或遇到任何问题，请随时告知我。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "can i place an order from {{Delivery City}}",
+    "instruction_cn": "我可以在{{Delivery City}下单吗？",
+    "response_en": "I'm happy to help! We are delighted to serve customers from {{Delivery City}} and provide you with the convenience of placing an order. Our seamless ordering process allows you to browse through our products and select your desired items. Once you have added them to your cart, simply proceed to the checkout page and enter your shipping address. You can easily input your location as {{Delivery City}}, and our system will identify it as your place of delivery. Rest assured that we will promptly process your order and ensure that it reaches you in a timely manner. If you have any further questions or need assistance with the ordering process, please don't hesitate to reach out. We're here to make your shopping experience enjoyable from start to finish!",
+    "response_cn": "很高兴为您提供帮助！我们非常荣幸能够为{{Delivery City}}的客户提供服务，并为您提供便捷的订购体验。我们流畅的订购流程让您轻松浏览我们的产品并选择心仪的商品。将商品添加到购物车后，只需前往结账页面并输入您的配送地址。您可以轻松输入{{Delivery City}}作为您的配送地点，我们的系统将自动识别为您的配送地址。请放心，我们将及时处理您的订单，确保商品准时送达。如果您还有任何问题或需要订购过程中的帮助，请随时联系我们。我们致力于让您的购物体验从头到尾都愉快顺畅！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "will you show me what delivery methods I can choose?",
+    "instruction_cn": "请问我可以查看一下有哪些配送方式可以选择吗？",
+    "response_en": "For sure! Let's embark on a journey through our exceptional delivery methods, designed to cater to your unique needs.\n\n1. Standard Shipping: Sit back and relax as your package gracefully arrives within {{Date Range}} business days. Perfect for non-urgent items.\n2. Expedited Shipping: Time-sensitive items? Fear not! Our expedited shipping ensures delivery within {{Date Range}} business days.\n3. Overnight Shipping: For those urgent requirements, we guarantee next business day delivery.\n4. In-Store Pickup: If you prefer the convenience of picking up your items, our {{Store Location}} are eagerly waiting to assist you.\n\nAs you ponder over these options, recall a past choice you made. What factors influenced your decision? Rest assured, I'm here to help with any further inquiries or provide additional information. Together, let's make your delivery experience extraordinary!",
+    "response_cn": "当然！让我们一同了解我们精心设计的配送方式，以满足您的独特需求。\n\n1. 标准配送：请放心，您的包裹将在 {{Date Range}} 个工作日内优雅送达。非常适合非紧急物品。\n2. 加急配送：有急需的物品？不用担心！我们的加急配送确保在 {{Date Range}} 个工作日内送达。\n3. 次日达：对于紧急需求，我们保证下一个工作日送达。\n4. 到店自提：如果您更倾向于亲自取货，我们的 {{Store Location} 随时准备为您提供帮助。\n\n在您考虑这些选项时，回想一下您过去的选择。是什么因素影响了您的决定？请放心，我随时准备为您解答任何疑问或提供更多信息。让我们一起让您的配送体验变得非凡！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "how can I get information about damn delivery  period?",
+    "instruction_cn": "如何查询{delivery period}的相关信息？",
+    "response_en": "We understand that you're frustrated and eager to obtain information about the delivery period. To assist you, we recommend reaching out to our customer support team. They have access to real-time tracking information and can provide you with the most accurate updates regarding your delivery. You can contact them through our {{Live Chat Support}} or visit our website's support page for assistance. We apologize for any inconvenience caused and appreciate your patience as we work to address your concerns.",
+    "response_cn": "我们理解您急于了解配送时间的心情。为了给您提供帮助，建议您联系我们的客服团队。他们可以查询实时物流信息，并为您提供关于配送的最新准确动态。您可以通过我们的{{在线客服}}联系我们，或访问我们网站的客服页面获取帮助。对于由此带来的不便，我们深表歉意，也感谢您在我们处理您的问题时所给予的耐心。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "is it plssible to order from {{Delivery Country}}?",
+    "instruction_cn": "请问可以配送到{{Delivery Country}}吗？",
+    "response_en": "Thank you for your interest in ordering from {{Delivery Country}}! We do offer international shipping options to many countries, including {{Delivery Country}}. However, please note that shipping times and costs may vary depending on the destination and the items you wish to order. To get the most accurate information regarding ordering from {{Delivery Country}}, I recommend reaching out to our Customer Service team who can provide you with the specific details and assist you with any questions or concerns you may have. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we'll do our best to make your ordering experience as smooth as possible!",
+    "response_cn": "感谢您有意从{{Delivery Country}}下单！我们确实为许多国家提供国际配送服务，其中也包括{{Delivery Country}}。不过请注意，配送时间和费用可能会因目的地和您订购的商品而有所不同。为了获取关于从{{Delivery Country}}下单的最准确信息，我建议您联系我们的客服团队，他们可以为您提供具体详情，并协助解答您的任何疑问。客服团队的服务时间为{{Customer Support Hours}}，联系电话为{{Customer Support Phone Number}}，您也可以通过我们官网{{Website URL}}上的在线客服进行咨询。请放心，我们将竭尽全力为您提供顺畅的订购体验！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "help me check what delivery methods I have",
+    "instruction_cn": "帮我查看一下有哪些配送方式可供选择",
+    "response_en": "Assuredly! I'm thrilled to assist you in discovering the array of delivery methods we have available for you. Let's navigate through the avenues of our delivery options:\n\n1. Standard Shipping: This is our reliable and cost-effective option that typically takes {{Date Range}} business days to arrive.\n2. Expedited Shipping: If you're in a bit more of a hurry, our expedited shipping will bring your items to you within {{Date Range}} business days.\n3. Overnight Shipping: For the utmost urgency, our overnight shipping service ensures that your items arrive promptly on the next business day.\n4. In-Store Pickup: If you're located near any of our {{Store Location}}, you can conveniently pick up your order in person.\n\nThese are the primary delivery methods we have at your disposal. If you have any specific concerns or questions, please don't hesitate to reach out. I'm here to assist you every step of the way!",
+    "response_cn": "当然！很高兴能帮您了解我们为您提供的各种配送方式。让我们一起来看看我们的配送选项：\n\n1. 标准配送：这是我们可靠且经济实惠的选择，通常需要 {{Date Range}} 个工作日送达。\n2. 加急配送：如果您比较着急，我们的加急配送服务将在 {{Date Range}} 个工作日内将您的商品送达。\n3. 次日达：针对最紧急的需求，我们的次日达配送服务确保您的商品在下一个工作日及时送达。\n4. 门店自提：如果您位于我们任意 {{Store Location}} 附近，您可以方便地到店自提您的订单。\n\n以上就是我们为您提供的几种主要配送方式。如果您有任何具体问题或疑虑，请随时联系我们。我会全程为您提供帮助！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I need to check what delivery options I have, help me",
+    "instruction_cn": "我需要查看一下有哪些配送选项，请帮我查一下",
+    "response_en": "Absolutely! Allow me to guide you through the spectrum of delivery options available to fulfill your needs:\n\n1. Standard Shipping: Delivering within {{Date Range}} business days, this option is perfect for non-urgent items.\n2. Expedited Shipping: Need your items a little faster? Opt for expedited shipping, and expect delivery within {{Date Range}} business days.\n3. Overnight Shipping: For urgent needs, overnight shipping ensures your items arrive the next business day.\n4. In-Store Pickup: If you prefer the convenience of collecting your items personally, we offer in-store pickup at our {{Store Location}}.\n\nAs you ponder over these options, feel free to share your preferences or any specific queries you have regarding our delivery services. Remember, I'm here to provide any assistance you might need!",
+    "response_cn": "当然可以！让我为您详细介绍我们提供的各种配送选项，以满足您的需求：\n\n1. 标准配送：在 {{Date Range}} 个工作日内送达，此选项非常适合非紧急物品。\n2. 加急配送：需要更快收到您的物品？选择加急配送，预计在 {{Date Range}} 个工作日内送达。\n3. 次日达配送：对于紧急需求，次日达配送可确保您的物品在下一个工作日送达。\n4. 到店自提：如果您更倾向于亲自到店取货，我们在 {{Store Location}} 提供到店自提服务。\n\n在您考虑这些选项的同时，欢迎随时分享您的偏好或对我们配送服务的任何具体问题。请记住，我随时为您提供所需的任何帮助！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "could utell me about the shipping periods",
+    "instruction_cn": "请问您能告诉我关于配送时间的信息吗？",
+    "response_en": "To provide you with accurate information regarding the shipping periods, we need a few more details. Could you please provide us with the {{tracking number}} or {{order number}}? With this information, we can determine the estimated shipping duration for your order. Your patience is greatly appreciated as we work to assist you further in tracking your shipment.",
+    "response_cn": "为了为您提供准确的发货周期信息，我们需要了解更多详情。请您提供 {{tracking number}} 或 {{order number}}，以便我们为您查询预计的发货时长。感谢您的耐心配合，我们将继续协助您跟进物流信息。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "do you shp to {{Delivery City}}?",
+    "instruction_cn": "请问您是配送到 {{Delivery City}} 吗？",
+    "response_en": "Ah, the allure of {{Delivery City}}! No worries, my friend, we most certainly ship to {{Delivery City}}. We deliver our exceptional products to various destinations worldwide, including {{Delivery City}}. So you can easily get your desired items right at your doorstep. If you have any further questions or if there's anything specific you would like to know about our shipping process, feel free to ask. It's my pleasure to assist you every step of the way!",
+    "response_cn": "啊，{{Delivery City}}的魅力！别担心，我的朋友，我们当然可以配送到{{Delivery City}}。我们将优质的产品配送到全球各个目的地，包括{{Delivery City}}。所以您可以轻松地将心仪的商品送到家门口。如果您还有任何疑问，或者想了解更多关于我们配送流程的具体信息，请随时提问。很高兴能为您提供全程帮助！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "could I see the shipment options?",
+    "instruction_cn": "请问可以查看一下配送选项吗？",
+    "response_en": "Absolutely! I'm delighted to assist you in exploring the shipment options available. Here are the diverse shipment options we offer:\n\n1. Standard Shipping: This option generally takes around {{Standard Shipping Days}} business days for delivery. It's perfect for non-urgent purchases.\n2. Express Shipping: If you're in a bit of a hurry, Express Shipping is the way to go. You can expect your package to arrive in approximately {{Express Shipping Days}} business days.\n3. Overnight Shipping: Need your purchase ASAP? Choose Overnight Shipping, and your package will be delivered to your doorstep the next business day.\n4. In-Store Pickup: If you prefer a more hands-on approach, we offer the convenience of In-Store Pickup at our designated pickup locations.\n\nEach delivery option may have different associated costs and availability depending on your specific location and the items you wish to purchase. If you have any additional questions or need further assistance, feel free to let me know. Together, we'll ensure your shipping experience is smooth and tailored to your needs!",
+    "response_cn": "当然！我很乐意为您介绍我们提供的各种配送方式。以下是我们提供的多种配送选项：\n\n1. 标准配送：此选项通常需要大约 {{Standard Shipping Days}} 个工作日送达。非常适合非紧急的购买需求。\n2. 快递配送：如果您比较着急，快递配送是理想之选。您的包裹预计将在大约 {{Express Shipping Days}} 个工作日内送达。\n3. 次日达：急需您的商品？选择次日达服务，您的包裹将在下一个工作日送达您指定的地址。\n4. 门店自提：如果您更倾向于亲力亲为，我们提供门店自提服务，您可以在我们指定的自提点自行取货。\n\n每种配送方式的相关费用和可用性可能因您的具体位置和所购买的商品而有所不同。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。我们将共同努力，确保您的配送体验顺畅且符合您的需求！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "i try to check how long it takes forf my product to arrive",
+    "instruction_cn": "我想查询一下我的产品需要多长时间才能送达",
+    "response_en": "We understand your desire to track the delivery time for your product. To provide you with the most accurate information, could you please share the {{Tracking Number}} or {{Order Number}} with us? With that, we will be able to give you an estimate of the expected arrival date. We appreciate your patience and cooperation in this matter.",
+    "response_cn": "我们理解您希望追踪产品交货时间的心情。为了为您提供最准确的信息，您能否将 {{Tracking Number}} 或 {{Order Number}} 提供给我们？有了这些信息，我们将能够为您预估预计到货日期。感谢您在此事上的耐心与配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "i want assistance to check the methods for shipping",
+    "instruction_cn": "我想咨询一下查询配送方式的方法",
+    "response_en": "I'll get right on it! I'm here to assist you in exploring our shipping methods. Let's delve into the details together:\n\n1. Standard Shipping: This option typically takes {{Date Range}} business days to deliver your order. It's ideal if you're not in a hurry.\n\n2. Expedited Shipping: With expedited shipping, you can expect your package in {{Date Range}} business days. It's a faster option for time-sensitive deliveries.\n\n3. Overnight Shipping: If you need your items urgently, our overnight shipping guarantees delivery by the next business day.\n\n4. In-Store Pickup: For those who prefer to collect their purchases personally, we offer the convenience of in-store pickup at our {{Store Location}}.\n\nPlease keep in mind that specific delivery times may vary depending on your location and other factors. If you have any questions or need further assistance, feel free to ask. I'm here to help make your shipping experience seamless and enjoyable!",
+    "response_cn": "我马上为您处理！我很乐意为您详细介绍我们的配送方式。让我们一起来了解一下：\n\n1. 标准配送：此选项通常需要 {{Date Range}} 个工作日送达您的订单。如果您不着急的话，这是理想的选择。\n\n2. 加急配送：选择加急配送，您的包裹将在 {{Date Range}} 个工作日内送达。这是针对时效性要求较高的配送的更快选择。\n\n3. 次日达配送：如果您急需商品，我们的次日达配送保证在下一个工作日送达。\n\n4. 门店自提：对于喜欢亲自到店取货的顾客，我们提供在 {{Store Location}} 门店自提的便捷服务。\n\n请注意，具体的配送时间可能会因您的地理位置及其他因素而有所不同。如果您有任何疑问或需要进一步的帮助，请随时告诉我。我随时为您提供帮助，让您的配送体验顺畅愉快！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I want to check how long the shipping takes",
+    "instruction_cn": "我想查询一下配送需要多长时间",
+    "response_en": "We understand your eagerness to know how long the shipping takes for your order. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we will be able to give you an estimated delivery date. Your patience is greatly appreciated, and we are here to assist you every step of the way.",
+    "response_cn": "我们理解您急切地想知道您的订单需要多长时间才能送达。为了给您提供准确的信息，您能否提供给我们{{Tracking Number}}或{{Order Number}}？有了这些信息，我们将能够为您提供预计的送达日期。非常感谢您的耐心，我们将全程为您提供帮助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "wanna know more about the shipping periods",
+    "instruction_cn": "想了解更多关于发货时间的信息吗？",
+    "response_en": "We completely understand your desire to gain more information about our shipping periods. Our shipping durations can vary based on several factors, including the destination, shipping method selected, and any potential customs procedures. To provide you with the most accurate estimate, could you please share the {{Tracking Number}} or {{Order Number}}? With this information, we'll be able to give you a precise timeline for your package's arrival. We appreciate your patience and look forward to assisting you further.",
+    "response_cn": "我们完全理解您希望了解更多关于配送周期的信息。我们的配送时长可能因多种因素而有所不同，包括目的地、所选择的配送方式以及可能的海关手续。为了为您提供最准确的预估时间，请您提供 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们将能够为您提供包裹到达的准确时间。感谢您的耐心等待，我们期待为您提供进一步的帮助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I need to see when will my package arrive, how can I do it?",
+    "instruction_cn": "我想查询一下我的包裹什么时候能到，该怎么操作？",
+    "response_en": "We understand that you're interested in tracking the delivery progress of your package. To check the estimated arrival time, you can visit our website and navigate to the \"Order Status\" or \"Track Package\" section. Once there, you'll need to enter the {{Order Number}} or {{Tracking Number}} to retrieve the latest updates. If you're unable to find this information or encounter any difficulties, our customer support team is available to assist you. Please don't hesitate to reach out!",
+    "response_cn": "我们理解您希望了解包裹的配送进度。如需查看预计送达时间，您可以访问我们的网站，进入\"订单状态\"或\"包裹追踪\"页面。在该页面中，您需要输入 {{Order Number}} 或 {{Tracking Number}} 以获取最新物流信息。如果您无法找到相关信息或遇到任何困难，我们的客服团队随时为您提供帮助，欢迎随时联系我们！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I want information about the delivery methods",
+    "instruction_cn": "我想了解配送方式的相关信息。",
+    "response_en": "Assuredly! I'm thrilled to provide you with detailed information about our delivery methods. Here are the options we offer:\n\n1. Standard Shipping: This is our standard delivery option, which typically arrives within {{Date Range}} business days. It's perfect for non-urgent items.\n\n2. Expedited Shipping: For those who need their items a bit faster, we offer expedited shipping. With this option, you can expect your items to arrive within {{Date Range}} business days.\n\n3. Overnight Shipping: If you require your items urgently, our overnight shipping option ensures delivery by the next business day.\n\n4. In-Store Pickup: For the ultimate convenience, you can also choose the in-store pickup option. Simply select this option during checkout and you can pick up your items from one of our {{Store Location}} at your convenience.\n\nWe strive to provide flexible and convenient delivery solutions for our valued customers. If you have any specific questions or if there's anything else I can assist you with, please feel free to let me know. Your satisfaction is our top priority!",
+    "response_cn": "当然！我很乐意为您提供我们配送方式的详细信息。以下是我们的配送选项：\n\n1. 标准配送：这是我们的标准配送方式，通常会在 {{Date Range}} 个工作日内送达。非常适合非紧急物品。\n\n2. 加急配送：如果您希望更快收到物品，我们提供加急配送服务。选择此选项，您的物品将在 {{Date Range}} 个工作日内送达。\n\n3. 次日达：如果您急需物品，我们的次日达配送选项可确保在下一个工作日送达。\n\n4. 门店自提：为了给您最大的便利，您还可以选择门店自提。只需在结账时选择此选项，即可在您方便时前往我们的 {{Store Location} 门店取货。\n\n我们努力为尊贵的客户提供灵活便捷的配送解决方案。如果您有任何具体问题或需要其他帮助，请随时告诉我。您的满意是我们的首要任务！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I need to see how long it takes for my item to arrive",
+    "instruction_cn": "我需要查看我的商品需要多长时间才能送达",
+    "response_en": "We understand that you are eager to know the estimated delivery time for your item. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we will be able to check the status of your delivery and give you a precise estimate. We appreciate your cooperation in helping us serve you better.",
+    "response_cn": "我们理解您急于了解商品的预计送达时间。为了给您提供最准确的信息，请您提供 {{Tracking Number}} 或 {{Order Number}，好吗？有了这些信息，我们就能查询您的配送状态并为您提供准确的送达时间预估。感谢您的配合，这将有助于我们为您提供更好的服务。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "can you show me how soon can I expect my delivery?",
+    "instruction_cn": "请问我的订单预计多久能送达？",
+    "response_en": "We understand your curiosity about the estimated arrival time of your delivery. To provide you with accurate information, may I please have your {{Tracking Number}} or {{Order Number}}? Once we have that, we can promptly check and provide you with an estimated delivery date. Your patience is greatly appreciated!",
+    "response_cn": "我们理解您对包裹预计送达时间的关切。为了给您提供准确的信息，请问您能提供一下您的{{Tracking Number}}或{{Order Number}}吗？一旦我们收到该信息，我们将立即为您查询并提供预计送达日期。非常感谢您的耐心等待！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "need assistance seeing when my shipment is gonna arrive",
+    "instruction_cn": "需要帮忙查看一下我的货物什么时候能到",
+    "response_en": "We understand your excitement to receive your shipment and the importance of knowing when it will arrive. To provide you with an accurate update, may I please have the {{Tracking Number}} or {{Order Number}}? Once I have that information, I'll be able to give you a precise estimate of your delivery date. Your patience is highly appreciated.",
+    "response_cn": "我们理解您期待收到货物的心情，也明白了解送达时间的重要性。为了给您提供准确的更新信息，请问您能提供一下{{Tracking Number}}或{{Order Number}}吗？一旦我获得这些信息，我将能够为您提供准确的预计送达日期。非常感谢您的耐心。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I am trying to find the delivery periods",
+    "instruction_cn": "我正在尝试查找配送时段",
+    "response_en": "We understand that you are seeking information about the delivery periods for our products. To provide you with the most accurate details, could you please share the {{Tracking Number}} or {{Order Number}}? With this information, we will be able to give you an estimate of when you can expect your delivery. Your patience and cooperation are greatly appreciated as we work together to meet your needs.",
+    "response_cn": "我们理解您想了解我们产品的交付周期信息。为了为您提供最准确的详情，您能否提供 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们将能够为您预估预计的交付时间。在我们共同努力满足您的需求过程中，非常感谢您的耐心与配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "would it be possible to check the shipping methods?",
+    "instruction_cn": "请问可以查询一下可用的配送方式吗？",
+    "response_en": "Sure! I'd be delighted to help you explore our range of shipping methods available. Our dedicated team has carefully curated a selection of options to cater to your unique shipping needs. Here are the methods we offer:\n\n1. Standard Shipping: Our reliable and cost-effective option, with an estimated delivery time of {{Date Range}} business days.\n2. Expedited Shipping: If you're in a hurry, this option ensures faster delivery within {{Date Range}} business days, but at a slightly higher cost.\n3. Next-Day Shipping: For those urgent situations, enjoy the convenience of receiving your package by the next business day.\n4. In-Store Pickup: If you prefer a more hands-on experience, you can choose to collect your order from one of our convenient store locations.\n\nThese options provide flexibility and convenience for our valued customers like yourself. if you have any specific requirements or if there's anything else I can assist you with, please don't hesitate to let me know. I'm here to ensure your satisfaction every step of the way!",
+    "response_cn": "当然！我很乐意为您介绍我们提供的各种运输方式。我们的专业团队精心挑选了多种选项，以满足您独特的运输需求。以下是我们的运输方式：\n\n1. 标准配送：我们可靠且经济实惠的选择，预计送达时间为 {{Date Range}} 个工作日。\n2. 加急配送：如果您时间紧迫，此选项可确保在 {{Date Range}} 个工作日内更快送达，但费用会稍高一些。\n3. 次日达：针对紧急情况，您可以在下一个工作日收到包裹。\n4. 门店自提：如果您更喜欢亲力亲为的体验，您可以选择从我们方便的门店位置领取订单。\n\n这些选项为我们尊贵的客户提供了灵活性和便利。如果您有任何具体需求或我可以协助您解决其他问题，请随时告诉我。我在这里确保您的每一步都满意！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "how to see the options for shipping?",
+    "instruction_cn": "如何查看配送选项？",
+    "response_en": "Sure! Allow me to enlighten you on how you can easily explore our delightful array of shipping options. To see the available options for shipping, simply visit our website's shipping page. There, you will find a comprehensive list of our shipping methods, along with all the relevant details you need to make an informed decision. We have designed the page to be user-friendly, making it effortless for you to browse through the various shipping options tailored to your specific needs. Should you require any further assistance or have any queries, I am here to provide you with all the support you need. Let the journey to find your perfect shipping option begin!",
+    "response_cn": "好的！请允许我为您介绍如何轻松了解我们丰富多样的配送选项。要查看可用的配送选项，只需访问我们网站的配送页面。在那里，您将找到我们所有配送方式的完整列表，以及您做出明智决定所需的所有相关信息。我们设计的页面非常友好，方便您轻松浏览各种适合您特定需求的配送选项。如果您需要进一步的帮助或有任何疑问，我随时为您提供所需的支持。让我们开始寻找您完美的配送选项之旅吧！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I have got to see what shipment options I can choose",
+    "instruction_cn": "我需要查看一下可以选择哪些配送方式。",
+    "response_en": "Oh, the excitement of exploring different options! It's wonderful to hear that you're eager to discover the shipment options available to you. Allow me to shed light on the array of choices that await you:\n\n1. Standard Shipping: Delighting you within {{Date Range}} business days, this option is perfect for non-urgent items.\n2. Expedited Shipping: Need your items sooner? Opt for this faster alternative, with delivery in {{Date Range}} business days.\n3. Overnight Shipping: For those urgent needs, rest assured your package will arrive the very next business day.\n4. In-Store Pickup: If convenience and personal touch are your preferences, this option allows you to collect your items from our {{Store Location}}.\n\nAs you consider the different shipment options, I'm here to answer any further questions you may have. Your satisfaction is of utmost importance to us, and I'm dedicated to making your experience a seamless and delightful one.",
+    "response_cn": "哦，探索不同选项真是令人兴奋！很高兴听到您渴望了解可用的配送方式。请允许我为您详细介绍以下几种选择：\n\n1. 标准配送：在 {{Date Range}} 个工作日内送达，非常适合非紧急物品。\n2. 加急配送：需要更快收到物品？选择这一更快速的替代方案，在 {{Date Range}} 个工作日内送达。\n3. 次日达配送：针对紧急需求，请放心，您的包裹将在下一个工作日送达。\n4. 门店自提：如果您更看重便利性和亲自体验，此选项允许您前往我们的 {{Store Location}} 自行取货。\n\n在您考虑不同的配送方式时，我随时准备解答您可能有的任何进一步问题。您的满意对我们至关重要，我将致力于让您的体验顺畅而愉快。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "how to check how long it takes for my delivery to arrive",
+    "instruction_cn": "如何查询我的订单配送需要多长时间才能送达",
+    "response_en": "We understand your curiosity about the estimated arrival time of your delivery. To assist you with checking the delivery period, you can visit our website and log in to your account. Once you're logged in, navigate to the \"Order History\" or \"Track Package\" section. There, you'll find the option to enter your {{Order Number}} or {{Tracking Number}} to track your package. This will provide you with the most up-to-date information regarding the estimated delivery time. If you need any further assistance, please don't hesitate to reach out. We're here to help!",
+    "response_cn": "我们理解您对包裹预计送达时间的关切。如需查询配送周期，您可以登录我们的网站并进入您的账户。登录后，请前往\"订单历史\"或\"追踪包裹\"页面。在该页面，您可以输入您的 {{Order Number}} 或 {{Tracking Number}} 来追踪包裹，获取最新的预计送达信息。如果您需要进一步的帮助，请随时联系我们。我们随时为您服务！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "can I see how long it usually takes for the item to arrive?",
+    "instruction_cn": "请问这个商品通常需要多长时间才能送达？",
+    "response_en": "We understand your curiosity about the typical delivery timeframe for your item. To provide you with an accurate estimate, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we'll be able to retrieve the necessary details and give you an estimated arrival time. Thank you for your cooperation in ensuring a timely response.",
+    "response_cn": "我们理解您对商品配送时效的好奇。为了给您提供准确的预估时间，请您提供 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们将能够查询相关详情并为您提供预计送达时间。感谢您的配合，以便我们及时为您回复。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "were can I see how long it takes for my package to arrive?",
+    "instruction_cn": "请问在哪里可以查看我的包裹需要多长时间到达？",
+    "response_en": "We understand your curiosity about the estimated arrival time of your package. To provide you with the most accurate information, may I please have your {{Tracking Number}} or {{Order Number}}? With this information, we can easily track your package and provide you with the expected delivery date. Your patience is greatly appreciated as we assist you in resolving your query.",
+    "response_cn": "我们理解您想了解包裹预计到达时间的心情。为了给您提供最准确的信息，请问您能提供一下您的{{Tracking Number}}或{{Order Number}}吗？有了这个信息，我们可以轻松追踪您的包裹，并为您提供预计送达日期。在为您解答问题的过程中，感谢您的耐心等待。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "do you ship to {{Delivery City}}?",
+    "instruction_cn": "请问您们是否配送到{{Delivery City}}？",
+    "response_en": "I'm on it! We have shipping services available for {{Delivery City}}, ensuring that our customers in that area can receive their orders promptly. We understand the importance of reliable and efficient delivery, and we're committed to making it happen for you. So go ahead and place your order with confidence, knowing that we can deliver it to {{Delivery City}} seamlessly. If you have any other questions or need further assistance, feel free to ask. We're here to help!",
+    "response_cn": "没问题！我们在{{Delivery City}}提供配送服务，确保该地区的客户能够及时收到订单。我们深知可靠高效配送的重要性，并致力于为您提供优质的配送服务。您可以放心下单，我们将确保您的订单顺利送达{{Delivery City}}。如果您还有其他问题或需要进一步帮助，请随时联系我们，我们随时为您服务！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I have got to check when will my parcel arrive, I need help",
+    "instruction_cn": "我需要查询一下我的包裹什么时候能到，请帮我处理一下",
+    "response_en": "We understand your eagerness to track the estimated delivery time of your parcel. To assist you better, could you please provide me with the {{Tracking Number}} or {{Order Number}}? Once I have that information, I will be able to give you an accurate update on your parcel's expected arrival date. Thank you for your patience and cooperation.",
+    "response_cn": "我们理解您急于了解包裹的预计送达时间。为了更好地为您提供帮助，请您提供 {{Tracking Number}} 或 {{Order Number}}？一旦我获得该信息，我将能够为您提供包裹预计到达日期的准确更新。感谢您的耐心与配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "how do i check how long it takes for my item to arrive",
+    "instruction_cn": "请问我如何查看我的商品需要多长时间才能送达？",
+    "response_en": "I appreciate your interest in tracking the delivery time of your item. To provide you with accurate information, could you please provide me with the {{Tracking Number}} or {{Order Number}} associated with your item? With that, I'll be able to give you a precise estimate of when you can expect your item to arrive. Thank you for your cooperation and patience in this matter.",
+    "response_cn": "感谢您关注您的商品配送时间。为了给您提供准确的信息，请您提供与您的商品相关的 {{Tracking Number}} 或 {{Order Number}}，以便我为您预估准确的到货时间。感谢您的配合与耐心等待。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I want to know more about the shipping period",
+    "instruction_cn": "我想了解更多关于配送周期的信息",
+    "response_en": "We appreciate your interest in learning more about our shipping period. Timely delivery is our top priority, and we understand that having accurate information about shipping times is essential for planning. To provide you with the most precise details, could you please provide us with your {{Order Number}}? With this information, we can give you an estimate of when you can expect your shipment to arrive. Your patience is greatly appreciated as we assist you further.",
+    "response_cn": "感谢您对我们配送周期的关注。及时送达是我们的首要任务，我们深知准确的配送时间信息对您的计划安排至关重要。为了为您提供最准确的信息，请问您能提供一下您的 {{Order Number}}？有了这个信息，我们可以为您预估您的货物预计何时到达。感谢您的耐心等待，我们将竭诚为您提供进一步的帮助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "help me check the shipment options",
+    "instruction_cn": "帮我查询一下配送选项",
+    "response_en": "I'll take care of it! I'm here to assist you in exploring the available shipment options. Let's dive right in:\n\n1. Standard Shipping: Our standard shipping option is perfect for non-urgent items, and it typically takes {{Date Range}} business days for delivery.\n2. Expedited Shipping: If you need your items sooner, our expedited shipping is a faster option that gets your items to you in {{Date Range}} business days.\n3. Overnight Shipping: For urgent needs, we offer overnight shipping, ensuring next business day delivery.\n4. In-Store Pickup: If you prefer to grab your items personally, we have the convenience of in-store pickup available at our {{Store Location}}.\n\nThese are the main options we offer, but keep in mind that shipping times may vary based on your location and other factors. If you have specific concerns or need assistance with anything else, please feel free to let me know. I'm here to ensure your satisfaction!",
+    "response_cn": "没问题！我来帮您了解现有的配送选项，让我们直接进入正题：\n\n1. 标准配送：我们的标准配送适用于非紧急物品，通常需要 {{Date Range}} 个工作日送达。\n2. 加急配送：如果您需要更快收到物品，我们的加急配送是更快的选择，可在 {{Date Range}} 个工作日内送达。\n3. 次日达：对于紧急需求，我们提供次日达服务，确保下一个工作日送达。\n4. 门店自提：如果您更倾向于亲自取货，我们提供门店自提服务，可在 {{Store Location} 门店} 取货。\n\n这些是我们提供的主要选项，但请注意，配送时间可能会因您的位置和其他因素而有所不同。如果您有任何具体问题或需要其他帮助，请随时告诉我。我在这里确保您满意！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I need to see how long it takes for the shipment to arrive",
+    "instruction_cn": "我需要查看一下货物到达需要多长时间",
+    "response_en": "We understand your desire to track the estimated delivery time of your shipment. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}} associated with your shipment? With this information, we will be able to assist you in tracking the progress of your package. Your satisfaction is our top priority.",
+    "response_cn": "我们理解您希望了解包裹的预计送达时间。为了给您提供最准确的信息，请您提供与您的包裹相关的 {{Tracking Number}} 或 {{Order Number}}。有了这些信息，我们将能够帮助您查询包裹的物流进度。您的满意是我们的首要任务。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I have to see how soon can I expect the item, help me",
+    "instruction_cn": "我需要知道最快什么时候能收到商品，请帮我查一下",
+    "response_en": "We understand your excitement about receiving your item and your desire to know when it will arrive. To provide you with an estimated delivery timeframe, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With this information, we will be able to track your item and give you a more accurate estimate. We appreciate your patience and look forward to assisting you further.",
+    "response_cn": "我们理解您对收到商品的期待以及想要了解商品何时送达的心情。为了为您提供预计的配送时间范围，能否请您提供您的 {{Order Number}} 或 {{Tracking Number}}？有了这些信息，我们将能够追踪您的商品并为您提供更准确的预计送达时间。感谢您的耐心，我们期待进一步为您提供帮助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "wanna check how long it takes for my delivery to arrive",
+    "instruction_cn": "我想查询一下我的配送需要多长时间才能送达",
+    "response_en": "We understand that you're eager to know the estimated delivery time for your package. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we can determine the progress of your delivery and give you an estimated arrival time. Your understanding and cooperation are greatly appreciated.",
+    "response_cn": "我们理解您迫切想知道包裹的预计送达时间。为了给您提供准确的信息，请您提供 {{Tracking Number}} 或 {{Order Number}}。有了这些信息，我们可以查询您包裹的配送进度，并为您提供预计到达时间。感谢您的理解与配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "d uship to {{Delivery City}}",
+    "instruction_cn": "使用 uShip 运送到 {{Delivery City}}",
+    "response_en": "Thank you for your interest in shipping to {{Delivery City}}! We do offer international shipping options to many countries, including Ireland. {{Delivery City}} is certainly within our shipping destinations, and we would be delighted to deliver your order to this vibrant city. Rest assured that we will take care of ensuring a smooth and efficient shipping process to {{Delivery City}}. If you have any specific questions or if there's anything else I can assist you with, please don't hesitate to ask. Your satisfaction is our priority!",
+    "response_cn": "感谢您咨询配送至 {{Delivery City}} 的相关事宜！我们确实为许多国家提供国际配送服务，爱尔兰也在其中。{{Delivery City} 当然在我们的配送范围之内，我们非常乐意将您的订单送到这座充满活力的城市。请放心，我们会确保您的订单顺利高效地配送至 {{Delivery City}}。如果您有任何其他问题，或需要进一步的帮助，请随时告诉我们。您的满意是我们的首要目标！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "delieries to {{Delivery City}}",
+    "instruction_cn": "配送至 {{Delivery City}",
+    "response_en": "Ah, {{Delivery City}}, a city rich in history and culture! Rest assured, we offer deliveries to {{Delivery City}}, Ireland. Our shipping options are designed to meet your needs and ensure a seamless delivery experience. From standard shipping to expedited and even in-store pickup, we have options that cater to your preferences. So whether you're ordering a special gift or treating yourself to something delightful, we've got you covered. Let me know if there's anything else I can assist you with during your shopping journey. Enjoy your delivery to beautiful {{Delivery City}}!",
+    "response_cn": "啊，{{Delivery City}}，一座历史悠久、文化底蕴深厚的城市！请放心，我们提供配送至{{Delivery City}}，爱尔兰的配送服务。我们的配送方案旨在满足您的需求，确保顺畅的配送体验。从标准配送到加急配送，甚至到店自提，我们提供多种选择以满足您的偏好。所以，无论您是在订购一份特别的礼物，还是犒赏自己选购心仪好物，我们都能为您保驾护航。如果您在购物过程中有任何其他需要帮助的地方，请随时告诉我。祝您享受配送至美丽的{{Delivery City}}的愉快体验！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I need help seeing how son can I expect my order",
+    "instruction_cn": "我需要帮助查看我的订单，我什么时候可以收到我的订单",
+    "response_en": "We understand your eagerness to receive your order and the importance of knowing when it will arrive. To provide you with accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With this information, we will be able to provide you with the estimated delivery date and any available tracking updates. Your patience is greatly appreciated as we assist you in tracking your order.",
+    "response_cn": "我们理解您急切收到订单的心情以及了解预计送达时间的重要性。为了给您提供准确的信息，请您提供您的 {{Order Number}} 或 {{Tracking Number}}。有了这些信息，我们将能够为您提供预计的送达日期以及任何可用的追踪更新。在协助您追踪订单的过程中，感谢您的耐心等待。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "can i place an order from {{Delivery City}}",
+    "instruction_cn": "我可以在{{Delivery City}下单吗？",
+    "response_en": "How delightful! You're considering placing an order from the vibrant city of {{Delivery City}}! I'm pleased to inform you that we accept orders from {{Delivery City}} and offer shipping to your location. You can place an order through our website or contact our customer service team for further assistance. We'll be more than happy to help you with your purchase. If there's anything else I can assist you with, please let me know!",
+    "response_cn": "太棒了！您考虑从充满活力的{{Delivery City}}下单！我很高兴地告诉您，我们接受来自{{Delivery City}}的订单，并且可以配送到您的所在地。您可以通过我们的网站下单，也可以联系我们的客服团队获取更多帮助。我们非常乐意协助您完成购买。如果还有其他需要帮助的地方，请随时告诉我！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I want help checking what methods for delivery are available",
+    "instruction_cn": "我想查询一下有哪些可用的配送方式",
+    "response_en": "Absolutely, I'd be delighted to assist you in exploring the diverse range of delivery methods available to you! Here are our options:\n\n1. Standard Shipping: Arrives within {{Date Range}} business days. It's the ideal choice for non-urgent items.\n2. Expedited Shipping: Get your items in {{Date Range}} business days with this faster option.\n3. Overnight Shipping: Need it urgently? You can rely on next business day delivery.\n4. In-Store Pickup: If you prefer a more personal touch, you can grab your items yourself from our convenient {{Store Location}}.\n\nThese options ensure flexibility and cater to different preferences and timelines. Should you require any additional information or have specific concerns, feel free to let me know. I'm here to make your delivery experience smooth and seamless!\"",
+    "response_cn": "当然，我很乐意为您详细介绍我们提供的多种配送方式！以下是我们的选择：\n\n1. 标准配送：在 {{Date Range}} 个工作日内送达，适合非紧急物品的理想之选。\n2. 加急配送：选择此更快选项，您的物品将在 {{Date Range}} 个工作日内送达。\n3. 次日达：急需吗？您可以信赖我们的下一个工作日送达服务。\n4. 到店自提：如果您更倾向于亲自体验，您可以方便地前往我们的 {{Store Location}} 自行取货。\n\n这些选项确保了灵活性，满足不同的偏好和时间安排。如果您需要更多信息或有具体问题，请随时告诉我。我在这里让您的配送体验顺畅无忧！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "want assistance checking when  will my package arrive",
+    "instruction_cn": "我想查询一下我的包裹什么时候能到",
+    "response_en": "We truly understand your excitement and curiosity to know when your package will arrive. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we will be able to check the status of your package and give you an estimated delivery date. We appreciate your patience and cooperation in this matter.",
+    "response_cn": "我们非常理解您对包裹何时到达的期待与好奇。为了为您提供最准确的信息，能否请您提供给我们{{Tracking Number}}或{{Order Number}}？有了这些信息，我们将能够查询您包裹的状态并为您提供预计送达日期。感谢您的耐心与配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I have to check the shipping options, will you help me?",
+    "instruction_cn": "我需要查看一下配送选项，您能帮我吗？",
+    "response_en": "No journey is complete without exploring the delightful assortment of shipping options. Fear not, for I am here to guide you through this expedition:\n\nTo indulge in a comprehensive look at our shipping options, simply visit our website and navigate to the \"Shipping\" or \"Delivery\" section. There, you'll find a treasure trove of details, including the shipping methods, estimated delivery times, and any additional services that may pique your interest.\n\nTake your time to navigate through the pages, reveling in the wealth of information that awaits you. Remember, should you require any assistance or have any specific questions, I'm always here to accompany you on this quest for exceptional shipping options. Let's make this journey enlightening and effortless!",
+    "response_cn": "不探索丰富多样的配送选择，旅程就不算完整。别担心，我将全程为您指引这次探索之旅：\n\n若想全面了解我们的配送选项，只需访问我们的网站，前往\"配送\"或\"配送方式\"页面。在那里，您将发现丰富的信息宝藏，包括配送方式、预计送达时间，以及任何可能引起您兴趣的附加服务。\n\n请花些时间浏览页面，尽情享受等待您的丰富信息。请记住，如果您需要任何帮助或有任何具体问题，我将始终陪伴您，一同探索卓越的配送选择。让我们让这段旅程既轻松又收获满满！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "i have got to see the delivery methods how do i do it",
+    "instruction_cn": "我需要查看配送方式，该怎么操作呢？",
+    "response_en": "I'll make it happen! Let me guide you through the process of exploring our delivery methods. Here's what you need to do:\n\n1. Visit our website at {{Website URL}}.\n2. Navigate to the \"Delivery Options\" section, usually found in the \"Shipping\" or \"FAQ\" category.\n3. Click on the \"Delivery Methods\" or \"Shipping Options\" link.\n4. You will find a comprehensive list of our available delivery methods, along with their details and estimated delivery times.\n\nIf you prefer, our customer service team is readily available to assist you in exploring our delivery methods. Just reach out to them through the Live Chat feature on our website or give them a call at {{Customer Support Phone Number}}.\n\nI hope this helps! Should you have any further questions or need additional assistance, feel free to let me know. Happy exploring!\"",
+    "response_cn": "没问题！让我来引导您了解我们的配送方式。以下是您需要做的：\n\n1. 访问我们的网站 {{Website URL}}。\n2. 找到\"配送选项\"部分，通常位于\"配送\"或\"常见问题\"分类下。\n3. 点击\"配送方式\"或\"配送选项\"链接。\n4. 您将看到我们所有可用的配送方式列表，以及详细信息和预计送达时间。\n\n如果您更倾向于人工帮助，我们的客服团队随时准备协助您了解我们的配送方式。您可以通过我们网站上的在线客服功能与他们联系，或致电 {{Customer Support Phone Number}}。\n\n希望这能帮到您！如果您有任何其他问题或需要进一步的帮助，请随时告诉我。祝您浏览愉快！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "is it possible to place an order from {{Delivery City}}",
+    "instruction_cn": "请问可以在{{Delivery City}下单吗？",
+    "response_en": "I'll take care of it! We offer order placement and delivery services to customers from various locations, including {{Delivery City}}. You can place an order with us, and our delivery options will ensure your items reach you in a timely manner. Just add the desired items to your cart, proceed to checkout, and provide your shipping address. Rest assured, we'll take care of the rest! If you have any specific concerns or questions about placing an order from {{Delivery City}}, please feel free to let me know. I'm here to help!",
+    "response_cn": "我来帮您处理！我们为包括{{Delivery City}}在内的各地客户提供下单和配送服务。您可以向我们下单，我们的配送选项将确保您的商品及时送达。只需将所需商品加入购物车，进入结账页面，并提供您的收货地址即可。请放心，其余的事情交给我们来处理！如果您对从{{Delivery City}}下单有任何具体疑问或顾虑，请随时告诉我。我随时为您服务！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "how soon can I expect my delivery?",
+    "instruction_cn": "请问我的包裹预计多久能送达？",
+    "response_en": "We completely understand your eagerness to receive your delivery and we are here to assist you with the estimated arrival time. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we will be able to check the status of your delivery and give you a precise estimate. Your patience is greatly appreciated as we work to provide you with the best possible service.",
+    "response_cn": "我们完全理解您急切收到包裹的心情，我们很乐意为您提供预计送达时间。为了给您提供最准确的信息，请问您能否提供您的 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们将能够查询您的包裹状态并为您提供准确的预计时间。感谢您在我们努力为您提供最佳服务过程中的耐心等待。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I want help checking when my delivery is going to arrive",
+    "instruction_cn": "我想查询一下我的配送预计什么时候到达",
+    "response_en": "I'll get right on it! I understand your eagerness to know the estimated arrival time of your delivery. To assist you further, could you please provide me with the {{Tracking Number}} or {{Order Number}} for your package? With this information, I'll be able to check the status of your delivery and provide you with an accurate estimate of when it is expected to arrive. Thank you for your cooperation and patience!",
+    "response_cn": "我马上为您处理！我理解您急切地想知道您包裹的预计送达时间。为了进一步协助您，请问您能否提供一下您包裹的 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我将能够查询您包裹的配送状态，并为您提供准确的预计送达时间。感谢您的配合与耐心等待！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "is it possible toorder from {{Delivery City}}",
+    "instruction_cn": "请问可以在 {{Delivery City}} 下单吗？",
+    "response_en": "Indeed! You can definitely place an order from {{Delivery City}}. We offer shipping services to various locations, including {{Delivery City}}. You can choose from our delivery options, such as Standard Shipping, Expedited Shipping, or even In-Store Pickup if it's convenient for you. Just select your desired items, add them to your cart, and proceed to checkout. During the checkout process, you will be able to enter your shipping address, including {{Delivery City}}, to ensure a smooth delivery. If you have any specific concerns or questions regarding ordering from {{Delivery City}} or any other location, please feel free to ask. We are here to assist you every step of the way!",
+    "response_cn": "当然可以！您完全可以从{{Delivery City}}下单。我们提供配送服务，覆盖多个地区，其中就包括{{Delivery City}}。您可以选择多种配送方式，例如标准配送、加急配送，或者如果方便的话，也可以选择到店自提。只需选择您想要的商品，加入购物车，然后进入结算流程即可。在结账过程中，您可以填写收货地址，包括{{Delivery City}}，以确保配送顺利进行。如果您对从{{Delivery City}}或其他地区的下单有任何疑问或顾虑，请随时告诉我们。我们将全程为您提供帮助！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "do ya deliver to {{Delivery Country}}",
+    "instruction_cn": "请问你们配送到 {{Delivery Country}} 吗？",
+    "response_en": "For sure! We offer shipping services to the {{Delivery Country}}, allowing you to conveniently receive your items in the land of opportunity. Whether you're in the bustling streets of New York City or the sunny beaches of California, we've got you covered. With our reliable delivery options, your package will make its way to your doorstep in no time. If you have any specific concerns or questions regarding our delivery services, feel free to let me know. I'm here to assist you every step of the way!",
+    "response_cn": "当然可以！我们提供配送至 {{Delivery Country}} 的运输服务，让您能够方便地在机遇之地收到您的商品。无论您是在纽约繁华的街头，还是在加利福尼亚阳光明媚的海滩，我们都能为您送达。凭借我们可靠的配送选择，您的包裹很快就会送到您的门口。如果您对我们的配送服务有任何具体的疑虑或问题，请随时告诉我。我随时准备为您提供全程协助！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "where can i see how long the shipping takes",
+    "instruction_cn": "我在哪里可以查看配送需要多长时间？",
+    "response_en": "We understand your curiosity about the shipping duration of your package. To provide you with accurate information, could you please share the {{Tracking Number}} or {{Order Number}}? With this information, we can track your package and provide you with the estimated time of arrival. Your patience is greatly appreciated as we strive to assist you. How can we further assist you today?",
+    "response_cn": "我们理解您对包裹运输时效的好奇。为了给您提供准确的信息，请您提供 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们就能为您查询包裹的物流状态，并告知预计送达时间。感谢您的耐心等待，我们将竭诚为您服务。请问今天还有什么可以帮到您的吗？"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I want help to check what options for delivery you offer",
+    "instruction_cn": "我想了解一下您提供哪些配送方式可供选择",
+    "response_en": "Ah, the quest for uncovering the secrets of our delivery options! Let me be your guide on this enlightening journey:\n\nTo explore the diverse range of delivery options we offer, I recommend visiting our website and navigating to the shipping and delivery section. There, you'll find detailed information about each option, including their estimated delivery times, availability in different regions, and any additional services that might be applicable.\n\nOur team has carefully curated these options to cater to various needs and preferences, ensuring that you find the perfect fit for your shipping requirements. Whether you seek swift and expedited delivery, standard shipping with cost-effectiveness in mind, or the convenience of in-store pickup, our options are designed to enhance your shopping experience.\n\nRest assured, our goal is to provide you with utmost convenience and satisfaction. If you have any specific queries or require assistance in choosing the most suitable delivery option for your order, please feel free to reach out. Together, we'll navigate the shipping seas and ensure that your order arrives on time, in perfect condition, and with a touch of happiness.",
+    "response_cn": "啊，探索我们配送选项的奥秘！让我为您指引这段充满启发的旅程：\n\n要探索我们提供的多种配送选项，建议您访问我们的网站，进入\"配送与运输\"页面。在那里，您将找到每个选项的详细信息，包括预计送达时间、不同地区的可用性以及可能适用的附加服务。\n\n我们的团队精心策划了这些选项，以满足各种需求和偏好，确保您能找到最适合您运输需求的方案。无论您追求快速加急配送、注重性价比的标准配送，还是便捷的到店自提，我们的选项旨在提升您的购物体验。\n\n请放心，我们的目标是为您提供最大的便利和满意度。如果您有任何具体问题，或需要帮助为您的订单选择最合适的配送选项，请随时联系我们。让我们一起在配送的海洋中航行，确保您的订单按时送达、完好无损，并带着一份喜悦。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I want to see when will my product arrive, help me",
+    "instruction_cn": "我想查询一下我的产品什么时候能到货，请帮我查一下。",
+    "response_en": "We understand your excitement to receive your product and we're here to provide you with all the information you need. To assist you in checking the estimated arrival time of your product, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can provide you with the most accurate details about your product's delivery date. We appreciate your patience and look forward to providing you with this information soon.",
+    "response_cn": "我们非常理解您期待收到产品的心情，我们会为您提供所需的所有信息。为了帮您查询产品的预计送达时间，请您提供 {{Tracking Number}} 或 {{Order Number}}，好吗？有了这些信息，我们就能为您提供关于产品配送日期的最准确详情。感谢您的耐心等待，我们期待尽快为您提供这些信息。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "I need assistance to see the delivery methods",
+    "instruction_cn": "我需要查看配送方式的相关帮助",
+    "response_en": "I'll make it happen! I'm here to provide you with all the information you need on our delivery methods. Allow me to walk you through our various shipping options:\n\n1. Standard Shipping: This is our most popular method, which typically delivers your items within {{Date Range}} business days.\n2. Expedited Shipping: For those who need their items a bit faster, we offer expedited shipping, with delivery in {{Date Range}} business days.\n3. Overnight Shipping: If you require your items urgently, our overnight shipping option ensures delivery by the next business day.\n4. In-Store Pickup: For added convenience, you can choose to pick up your items in-store if you're located near one of our {{Store Location}}.\n\nPlease note that actual delivery times may vary depending on factors such as the destination and any unforeseen circumstances. If you have any additional questions or if there's anything else I can assist you with, feel free to let me know. I'm here to make your shipping experience as smooth as possible!",
+    "response_cn": "没问题！我很乐意为您提供我们所有配送方式的详细信息。请允许我为您介绍我们提供的各种配送选项：\n\n1. 标准配送：这是我们最受欢迎的配送方式，通常会在 {{Date Range}} 个工作日内将您的商品送达。\n2. 加急配送：如果您希望更快收到商品，我们提供加急配送服务，可在 {{Date Range}} 个工作日内送达。\n3. 次日达：如果您急需商品，我们的次日达配送选项可确保在下一个工作日内送达。\n4. 门店自提：为了更加方便，如果您位于我们 {{Store Location}} 附近，您可以选择到店自提。\n\n请注意，实际送达时间可能会因目的地及其他不可预见的情况而有所差异。如果您还有其他问题，或者有任何我可以协助的地方，请随时告诉我。我会尽力让您的配送体验尽可能顺畅！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "can you help me checking when will my product arrive?",
+    "instruction_cn": "您好，您能帮我查一下我的产品什么时候能到？",
+    "response_en": "We understand your eagerness to know when your product will arrive. To provide you with an accurate estimate, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we will be able to check the status of your shipment and give you an estimated delivery date. Thank you for your cooperation!",
+    "response_cn": "我们非常理解您希望了解产品何时送达的心情。为了给您提供准确的预计送达时间，请您提供 {{Tracking Number}} 或 {{Order Number}}，好吗？有了这些信息，我们就能查询您的物流状态并告知您预计送达日期。感谢您的配合！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "i try to check how long the shipment atkes",
+    "instruction_cn": "我帮您查一下货物运输需要多长时间。",
+    "response_en": "We understand your need to track the progress of your shipment and determine its estimated delivery time. To provide you with accurate information, we kindly request the {{Tracking Number}} or {{Order Number}} associated with your shipment. With this information, we can quickly access the shipping details and provide you with an estimated delivery timeframe. Thank you for your cooperation and patience as we assist you with your query.",
+    "response_cn": "我们理解您需要了解货物的运输进度并确定预计送达时间。为了向您提供准确的信息，我们恳请您提供与货物相关的{{Tracking Number}}或{{Order Number}}。有了这些信息，我们可以快速查询运输详情，并为您提供预计的送达时间。感谢您的配合与耐心，我们将竭诚为您解答。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "can you help me check what options for delivery you offer?",
+    "instruction_cn": "您好，我想了解一下您提供哪些配送方式？",
+    "response_en": "Ah, the quest for delivery options! It's my pleasure to assist you in exploring the various options we offer. Let's dive in and uncover the array of possibilities we have in store for you:\n\n1. Standard Shipping: This reliable option typically takes {{Date Range}} business days for your eagerly awaited package to arrive. It's perfect if you’re not in a rush.\n2. Expedited Shipping: Need your items a little faster? With expedited shipping, you can expect delivery within {{Date Range}} business days.\n3. Overnight Shipping: When time is of the essence, our overnight shipping option guarantees next business day delivery, ensuring your package arrives right on your doorstep.\n4. In-Store Pickup: If you prefer the convenience of picking up your order in person, our {{Store Location}} are eager to provide a seamless shopping experience just for you.\n\nThese options may vary slightly depending on your location and the products you've chosen. If you have any specific concerns or questions, feel free to let me know. I'm here to guide you and ensure your satisfaction throughout the delivery process!",
+    "response_cn": "啊，您想了解配送选项！很高兴能为您介绍我们提供的各种配送方式。让我们一起来看看我们为您准备的多种选择：\n\n1. 标准配送：这个可靠的选择通常需要 {{Date Range}} 个工作日，您的包裹就会送达。如果您不着急的话，这是完美的选择。\n2. 加急配送：需要更快收到商品吗？选择加急配送，您可以在 {{Date Range}} 个工作日内收到包裹。\n3. 次日达配送：当时间紧迫时，我们的次日达配送选项保证下一个工作日送达，确保您的包裹准时送到您手中。\n4. 门店自提：如果您更倾向于亲自到店取货，我们的 {{Store Location} 随时准备为您提供顺畅的购物体验。\n\n这些选项可能会因您所在的地区和所选商品而略有不同。如果您有任何具体的疑虑或问题，请随时告诉我。我随时为您提供指导，确保您在整个配送过程中都能满意！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I am looking for the shipping periods, I need assistance",
+    "instruction_cn": "我想查询一下物流时效，需要客服协助",
+    "response_en": "We understand that you are seeking information about the shipping periods and we are here to assist you. To provide you with accurate details, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we can provide you with the estimated shipping periods for your order. We appreciate your patience and look forward to helping you.",
+    "response_cn": "我们理解您正在咨询有关配送时间的信息，我们很乐意为您提供帮助。为了给您提供准确的信息，请您提供您的 {{Tracking Number}} 或 {{Order Number}}。有了这些信息，我们就能为您查询订单的预计配送时间。感谢您的耐心，期待为您服务。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "could I order from {{Delivery Country}}?",
+    "instruction_cn": "我可以从{{Delivery Country}}下单吗？",
+    "response_en": "I'm on it! We understand your interest in ordering from {{Delivery Country}}. We do offer international shipping options to ensure that you can conveniently place your order and have it delivered to your desired location. However, please note that shipping fees and delivery times may vary depending on the exact location in {{Delivery Country}}. To get detailed information about the available shipping options and any potential restrictions, I recommend contacting our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we strive to make your shopping experience seamless and convenient, no matter where you are located.",
+    "response_cn": "我们正在处理中！我们理解您希望从{{Delivery Country}}订购的兴趣。我们确实提供国际配送选项，以确保您能够方便地下单并将商品配送到您指定的地点。但请注意，运费和配送时间可能会因{{Delivery Country}}的具体位置而有所不同。要获取有关可用配送选项和任何潜在限制的详细信息，我建议您联系我们的客服团队。他们可在{{Customer Support Hours}}通过电话{{Customer Support Phone Number}}或我们网站上的在线聊天{{Website URL}}为您提供帮助。请放心，无论您身在何处，我们都致力于为您提供顺畅便捷的购物体验。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "i want help seeing when will my itwm arrive",
+    "instruction_cn": "我想查询一下我的 {item} 什么时候能到货",
+    "response_en": "We completely understand your eagerness to track the delivery of your item and determine its estimated arrival time. In order to assist you better, could you please provide the {{Order Number}} or the {{Tracking Number}}? With this information, we will be able to provide you with the most accurate updates on the status of your item and its expected delivery date. Thank you for your cooperation and we appreciate your patience!",
+    "response_cn": "我们非常理解您急于追踪包裹并了解预计送达时间的心情。为了更好地为您提供帮助，请问您能提供一下 {{Order Number}} 或 {{Tracking Number}}？有了这些信息，我们将能够为您提供关于包裹状态和预计送达日期的最新准确信息。感谢您的配合，也感谢您的耐心等待！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "where to check what methods for delivery are available?",
+    "instruction_cn": "在哪里可以查看可用的配送方式？",
+    "response_en": "I'll do my best! I'm here to guide you on where to check the available delivery methods. To find out about our shipping options, you can visit our website and navigate to the \"Shipping\" or \"Delivery\" section. There, you'll be presented with a comprehensive list of the different delivery methods we offer, along with any additional details or restrictions that may apply.\n\nIf you prefer, you can also reach out to our customer support team through our website's live chat or by calling {{Customer Support Phone Number}}. Our dedicated representatives will be more than happy to provide you with the information you need and help you choose the most suitable delivery method for your specific requirements.\n\nRest assured, we're committed to making your shipping experience as convenient and seamless as possible. If you have any other questions or if there's anything else I can assist you with, please don't hesitate to let me know. It's my pleasure to assist you every step of the way!",
+    "response_cn": "我会尽力为您服务！我会引导您查看可用的配送方式。要了解我们的配送选项，您可以访问我们的网站，进入\"配送\"或\"配送方式\"页面。在那里，您将看到我们提供的各种配送方式的完整列表，以及可能适用的其他详细信息或限制条件。\n\n如果您愿意，也可以通过我们网站的在线客服或拨打 {Customer Support Phone Number} 联系我们的客服团队。我们的专业客服人员将非常乐意为您提供所需信息，并帮助您选择最适合您具体需求的配送方式。\n\n请放心，我们致力于让您的配送体验尽可能便捷顺畅。如果您还有其他问题，或者有任何其他需要我协助的地方，请随时告诉我。很高兴能为您提供全程协助！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "is it possible to place a order from {{Delivery Country}}?",
+    "instruction_cn": "请问可以从{{Delivery Country}}下单吗？",
+    "response_en": "Definitely! We proudly offer our services to customers from the {{Delivery Country}}. You can confidently place an order with us, and we'll ensure a seamless experience for you. Whether you're looking for the latest fashion trends, must-have gadgets, or unique gifts, we've got you covered. Simply browse our website or app, select the items you desire, and proceed to checkout. Our system will guide you through the process effortlessly, allowing you to complete your purchase and look forward to your new treasures. If you have any specific questions or need further assistance, feel free to let me know.",
+    "response_cn": "当然可以！我们很荣幸能为{{Delivery Country}}的客户提供服务。您可以放心在我们这里下单，我们将确保为您带来顺畅的购物体验。无论您是在寻找最新的时尚潮流、必备的科技小工具，还是独特的礼品，我们应有尽有。只需浏览我们的网站或应用程序，选择您心仪的商品，然后前往结账即可。我们的系统将轻松引导您完成整个流程，让您顺利完成购买，期待您的新宝贝到来。如果您有任何具体问题或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I have got to check how long the shipping takes, I need help",
+    "instruction_cn": "我需要查一下运输需要多长时间，我需要帮助",
+    "response_en": "We completely understand your need to check the estimated shipping time of your package. In order to assist you better, could you please provide the {{Tracking Number}} or {{Order Number}}? With this information, we will be able to provide you with an accurate estimate of the shipping duration. Thank you for your cooperation.",
+    "response_cn": "我们非常理解您想要查询包裹预计送达时间的需求。为了更好地为您提供帮助，请您提供 {{Tracking Number}} 或 {{Order Number}}？有了这些信息，我们将能够为您提供准确的预计配送时长。感谢您的配合。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "can I place an ordewr from {{Delivery Country}}?",
+    "instruction_cn": "我可以在{{Delivery Country}下单吗？",
+    "response_en": "I'm on it! Our global shipping services allow you to place an order from {{Delivery Country}}. We offer international shipping to various countries, including {{Delivery Country}}. However, please note that certain products may have specific shipping restrictions or additional customs fees. To ensure a seamless ordering experience, I recommend checking the shipping details and any applicable fees during the checkout process. If you have any specific concerns or need further assistance, please let me know. I'm here to help make your ordering process from {{Delivery Country}} as smooth as possible!",
+    "response_cn": "好的，我来为您处理！我们的全球配送服务允许您从{{Delivery Country}}下单。我们提供国际配送服务，配送范围涵盖多个国家，包括{{Delivery Country}}。不过请注意，部分产品可能存在特定的配送限制或额外的关税费用。为了确保您的购物体验顺畅无阻，建议您在结账过程中查看配送详情及相关费用。如果您有任何具体疑虑或需要进一步的帮助，请随时告诉我。我将竭诚为您服务，确保您从{{Delivery Country}}的购物体验尽可能顺畅便捷！"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I don't know how to see how soon can I expect my parcel",
+    "instruction_cn": "我不知道该如何查看我的包裹预计多久能送达",
+    "response_en": "We understand that tracking the estimated arrival time of your parcel is important to you. To provide you with the information you need, we kindly request you to share the {{Tracking Number}} or {{Order Number}} associated with your purchase. Once we have this information, we will be able to give you an accurate estimate of when you can expect your parcel. We appreciate your patience and look forward to assisting you further.",
+    "response_cn": "我们理解您希望了解包裹的预计送达时间。为了向您提供所需的信息，请您提供与您的购买相关的{{Tracking Number}}或{{Order Number}}。一旦我们获得这些信息，我们将能够为您提供准确的包裹预计送达时间。感谢您的耐心，我们期待为您提供进一步的帮助。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_options",
+    "instruction_en": "do you deliver to {{Delivery City}}?",
+    "instruction_cn": "请问您是否配送到{{Delivery City}}？",
+    "response_en": "Positively! We extend our delivery services to the vibrant city of {{Delivery City}}, ensuring that you can receive your packages conveniently at your doorstep. We understand the importance of reliable and efficient delivery, and we strive to meet your expectations every step of the way. Whether it's the Motor City or any other destination within our delivery network, we're here to make sure your packages arrive safely and on time. If you have any specific delivery preferences or requirements, feel free to let us know, and we'll do our best to accommodate them.",
+    "response_cn": "当然可以！我们的配送服务覆盖充满活力的{{Delivery City}}，确保您能够在家门口便捷地收到包裹。我们深知可靠高效配送的重要性，并致力于在每一步都满足您的期望。无论是汽车城还是我们配送网络内的任何其他目的地，我们都会确保您的包裹安全准时送达。如果您有任何特定的配送偏好或要求，请随时告知我们，我们将尽力满足您的需求。"
+  },
+  {
+    "category": "DELIVERY",
+    "intent": "delivery_period",
+    "instruction_en": "I need to see when will my package arrive, help me",
+    "instruction_cn": "我想知道我的包裹什么时候能到，请帮我查一下",
+    "response_en": "We understand your eagerness to track the progress of your package and receive an estimated arrival time. To provide you with the most accurate information, could you please share the {{Tracking Number}} or {{Order Number}} with us? With these details, we'll be able to provide you with a precise update on the expected delivery date. Thank you for your cooperation in helping us assist you effectively.",
+    "response_cn": "我们理解您希望了解包裹的进度并获取预计送达时间。为了给您提供最准确的信息，能否请您提供 {{Tracking Number}} 或 {{Order Number}？有了这些信息，我们将能够为您提供关于预计送达日期的精确更新。感谢您的配合，以便我们能够更有效地为您提供帮助。"
+  }
+]

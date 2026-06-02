@@ -1,0 +1,802 @@
+[
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "there is an error setting a secondary delivery address up",
+    "instruction_cn": "设置备用配送地址时出现错误",
+    "response_en": "I'm sorry to hear that you're experiencing errors while setting up your secondary delivery address. I understand how frustrating this can be. To better assist you, could you please provide more details about the specific error message or issue you're encountering? This information will help us identify the problem and find a solution for you as quickly as possible. Thank you for your patience and cooperation.",
+    "response_cn": "很抱歉您在设置备用收货地址时遇到了错误。我理解这可能会让您感到困扰。为了更好地协助您，能否请您提供更多关于您所遇到的错误信息或问题的详细信息？这些信息将帮助我们尽快为您找到问题所在并为您提供解决方案。感谢您的耐心与配合。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I have a trouble updating my shipping address",
+    "instruction_cn": "我在更新收货地址时遇到了问题",
+    "response_en": "I apologize for the difficulty you are experiencing in updating your shipping address. Our team is here to assist you with this issue. To resolve it, please provide us with the current and desired shipping address details, and we will gladly update it for you.",
+    "response_cn": "很抱歉您在更新收货地址时遇到了困难。我们的团队随时准备协助您解决此问题。为了解决这个问题，请向我们提供当前和期望的收货地址详情，我们将很乐意为您更新。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "there are errors changin my delivery address",
+    "instruction_cn": "更改我的配送地址时出现了错误",
+    "response_en": "I apologize for the inconvenience caused. If you're facing errors while changing your delivery address, please reach out to our customer service team for immediate assistance. They will be able to help you resolve any issues and ensure that your address is updated successfully.",
+    "response_cn": "对于由此给您带来的不便，我们深表歉意。如果您在更改配送地址时遇到任何错误，请联系我们的客户服务团队以获得即时帮助。他们将能够协助您解决问题，并确保您的地址成功更新。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "there are issues trying to edit the shipping address",
+    "instruction_cn": "在尝试修改收货地址时遇到了问题",
+    "response_en": "I apologize for the difficulties you're experiencing while trying to edit your shipping address. Let me help you resolve this issue.",
+    "response_cn": "很抱歉您在尝试修改收货地址时遇到了困难。让我来帮您解决这个问题。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i have to enter my secondary shipping address",
+    "instruction_cn": "我需要输入我的备用收货地址",
+    "response_en": "I've picked up that you need to enter your secondary shipping address. Rest assured, I'm here to guide you through the process. To do so, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. There should be an option to 'Add a New Address' or 'Edit Shipping Addresses'. Click on it.\n5. Enter the details of your secondary shipping address in the provided fields.\n6. Make sure to double-check all the information you entered.\n7. Save the changes.\n\nIf you encounter any difficulties during this process or have any questions, please don't hesitate to let me know. I'm here to assist you every step of the way.",
+    "response_cn": "我了解到您需要输入您的备用收货地址。请放心，我会全程指导您完成此操作。具体步骤如下：\n\n1. 登录您的账户。\n2. 进入\"我的账户\"或\"个人资料\"页面。\n3. 找到\"收货地址\"或类似选项。\n4. 应该会有一个\"添加新地址\"或\"编辑收货地址\"的选项，请点击它。\n5. 在提供的字段中输入您的备用收货地址的详细信息。\n6. 请务必仔细核对您输入的所有信息。\n7. 保存更改。\n\n如果您在此过程中遇到任何困难或有任何疑问，请随时告诉我。我会全程为您提供帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "help with an address modification",
+    "instruction_cn": "地址修改帮助",
+    "response_en": "I'll get right on it! We are here to assist you with any address modifications you need. Please provide us with the details of the changes you would like to make, and we will help you update your address accordingly.",
+    "response_cn": "我马上为您处理！我们随时协助您进行任何地址修改。请提供您希望更改的详细信息，我们将帮助您相应地更新您的地址。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "setting new shipping address up",
+    "instruction_cn": "设置新的收货地址",
+    "response_en": "I can definitely assist you in setting up a new shipping address. It's important to follow the correct steps to ensure accuracy:\n\n1. Login to your account on our website.\n2. Navigate to the \"My Account\" or \"Profile\" section, where you can manage your shipping details.\n3. Look for the option to add a new shipping address or edit your existing address.\n4. Fill in the required fields with the details of your new shipping address, such as the street, city, state, and postal code.\n5. Double-check the information you've provided to make sure it's correct.\n6. Save the changes to complete the process.\n\nIf you encounter any issues or need further assistance, don't hesitate to let me know. I'm here to help you every step of the way in setting up your new shipping address!",
+    "response_cn": "我当然可以帮您设置新的收货地址。按照正确的步骤操作以确保准确性非常重要：\n\n1. 登录我们网站的账户。\n2. 进入\"我的账户\"或\"个人资料\"页面，在那里您可以管理您的收货地址信息。\n3. 找到添加新收货地址或编辑现有地址的选项。\n4. 填写新收货地址的必填信息，例如街道、城市、州和邮政编码。\n5. 仔细核对您提供的信息，确保准确无误。\n6. 保存更改以完成操作。\n\n如果您遇到任何问题或需要进一步的帮助，请随时告诉我。我会全程协助您完成新收货地址的设置！"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "can utell me more about updating my addfess",
+    "instruction_cn": "您能告诉我更多关于更新地址的信息吗？",
+    "response_en": "I'm on it! Updating your address is a simple process. You can change your shipping address by logging into your account and navigating to the \"Shipping\" section. From there, you can edit your address details and save the changes. If you're having any difficulties, feel free to reach out to our customer service team for further assistance.",
+    "response_cn": "没问题！更新您的地址是一个简单的流程。您可以通过登录账户并进入\"配送\"部分来更改您的配送地址。在那里，您可以编辑您的地址详情并保存更改。如果您遇到任何困难，请随时联系我们的客服团队以获得进一步协助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I want to enter the delivery address, how to do it?",
+    "instruction_cn": "我想输入配送地址，该怎么做呢？",
+    "response_en": "Thank you for expressing your desire to enter your delivery address! I'm here to guide you through the process step by step. Let's get started:\n\n1. Begin by logging in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the option labeled 'Shipping Addresses' or something similar.\n4. Select the option, and you will be presented with the list of your current addresses.\n5. To enter a new delivery address, click on 'Add New Address' or a similar option.\n6. Fill in the required fields with the details of your delivery address, including the street, city, state, and zip code.\n7. Double-check the information for accuracy and click on 'Save' or 'Submit'.\n\nIf you encounter any difficulties or if the process looks different for you, please provide more specific information about where you're facing challenges, and I'll be glad to assist you further!\"",
+    "response_cn": "感谢您表达您希望输入配送地址的意愿！我将逐步引导您完成整个过程。让我们开始吧：\n\n1. 首先，请登录您的账户。\n2. 进入\"我的账户\"或\"个人资料\"部分。\n3. 查找标有\"收货地址\"或类似名称的选项。\n4. 选择该选项，您将看到当前地址列表。\n5. 要输入新的配送地址，请点击\"添加新地址\"或类似选项。\n6. 填写必填字段，包括街道、城市、州/省和邮政编码等配送地址详细信息。\n7. 仔细核对信息无误后，点击\"保存\"或\"提交\"。\n\n如果您遇到任何困难，或者您看到的流程有所不同，请提供更多关于您遇到困难的具体信息，我很乐意为您提供进一步的帮助！"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i cant modify my delivery address",
+    "instruction_cn": "我无法修改我的收货地址",
+    "response_en": "I apologize for any inconvenience caused. To help you modify your delivery address, please follow these steps:\n1. Log in to your account on our website.\n2. Go to the \"My Account\" or \"Account Settings\" section.\n3. Look for the \"Delivery Address\" or \"Shipping Address\" option.\n4. Click on it and update the necessary fields with the correct address information.\n5. Save the changes and proceed to check out.\n\nIf you encounter any further issues or need additional assistance, please don't hesitate to reach out to our customer support team.",
+    "response_cn": "对于由此给您带来的不便，我们深表歉意。如需修改您的配送地址，请按照以下步骤操作：\n1. 登录我们网站的账户。\n2. 进入\"我的账户\"或\"账户设置\"页面。\n3. 找到\"配送地址\"或\"收货地址\"选项。\n4. 点击进入并更新正确的地址信息。\n5. 保存更改后继续完成结账。\n\n如果您遇到任何问题或需要进一步帮助，请随时联系我们的{Customer Support Phone Number}。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I cannot set up a different delivery address",
+    "instruction_cn": "我无法设置其他配送地址",
+    "response_en": "I understand your frustration with not being able to set up a different delivery address. It's important to have a smooth process when it comes to updating your address information. Let's work together to resolve this.\n\nTo set up a different delivery address, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar section.\n4. You should see an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Enter the details of your new delivery address in the provided fields.\n6. Save the changes.\n\nIf you continue to encounter difficulties or if the process appears different for you, please provide more information about the specific problem you're facing, such as error messages or any other details you think would be helpful. This will allow me to assist you further and ensure your delivery address is successfully updated.",
+    "response_cn": "我理解您对无法设置不同配送地址感到沮丧。在更新地址信息时，拥有一个流畅的流程非常重要。让我们一起来解决这个问题。\n\n要设置不同的配送地址，请按照以下步骤操作：\n\n1. 登录您的账户。\n2. 进入\"我的账户\"或\"个人资料\"部分。\n3. 找到\"收货地址\"或类似的部分。\n4. 您应该会看到\"添加新地址\"或\"编辑收货地址\"的选项，请选择。\n5. 在提供的字段中输入您的新配送地址详情。\n6. 保存更改。\n\n如果您仍然遇到困难，或者流程看起来与上述不同，请提供更多关于您所面临的具体问题的信息，例如错误消息或您认为有帮助的任何其他细节。这将使我能够进一步协助您，并确保您的配送地址成功更新。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "help me to enter my new delivery address",
+    "instruction_cn": "请帮我录入新的收货地址",
+    "response_en": "I've ascertained that you need assistance in entering your new delivery address, and I'm here to guide you through the process. Please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Choose the 'Add a New Address' or 'Edit Shipping Addresses' option.\n5. Fill in the required details of your new delivery address.\n6. Double-check the accuracy of the entered information.\n7. Save your changes.\n\nIf you encounter any issues while following these steps or if you need further clarification, please don't hesitate to let me know. I'll be more than happy to assist you till the issue is resolved successfully.",
+    "response_cn": "我已确认您需要协助输入新的收货地址，我将全程指导您完成此操作。请按照以下步骤进行：\n\n1. 登录您的账户。\n2. 进入\"我的账户\"或\"个人资料\"页面。\n3. 找到\"收货地址\"或类似选项。\n4. 选择\"添加新地址\"或\"编辑收货地址\"选项。\n5. 填写您新收货地址的必填信息。\n6. 仔细核对所填信息的准确性。\n7. 保存您的更改。\n\n如果您在操作过程中遇到任何问题，或需要进一步的说明，请随时告知我。我将非常乐意协助您，直至问题圆满解决。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "information about updating the shipping address",
+    "instruction_cn": "关于更新收货地址的信息",
+    "response_en": "Sure! To update your shipping address, you can log into your account and go to the \"Shipping Address\" section. From there, you'll be able to edit or add a new address. If you encounter any issues during the process, feel free to reach out to our customer service team for assistance.",
+    "response_cn": "好的！要更新您的收货地址，您可以登录您的账户，然后进入\"收货地址\"页面。在那里，您可以编辑或添加新的地址。如果您在操作过程中遇到任何问题，请随时联系我们的客服团队寻求帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "support editing my address",
+    "instruction_cn": "support editing my address\n\n中文翻译：支持修改我的地址",
+    "response_en": "I'll take care of it! I can assist you with editing your address. Please provide me with your current address details along with the changes you would like to make, and I will help you update it in our system.",
+    "response_cn": "我来帮您处理！我可以协助您修改地址。请您提供当前的地址详情以及您希望进行的更改，我会帮您在系统中为您更新。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i need support editing my shipping adress",
+    "instruction_cn": "我需要支持来修改我的收货地址",
+    "response_en": "Sure! We're here to help you with editing your shipping address. To get started, could you please provide us with your current shipping address and the updated address you would like to change it to?",
+    "response_cn": "好的！我们很乐意帮您修改您的收货地址。为了开始处理，请您提供一下您当前的收货地址以及您想要更改的新地址，好吗？"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "can I set up a new shipping address?",
+    "instruction_cn": "我可以设置一个新的收货地址吗？",
+    "response_en": "Of course! I'll be glad to guide you through the process of setting up a new shipping address. Here's what you can do:\n\n1. Log in to your account on our website or app.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. You should see an option to 'Add a New Address'. Select it.\n5. Fill in the necessary details, including the recipient's name, address, and contact information.\n6. Double-check the accuracy of the information and save the changes.\n\nIf you encounter any difficulties or have further questions while setting up the new shipping address, feel free to let me know. I'm here to help!\"",
+    "response_cn": "当然！我很乐意为您介绍设置新收货地址的具体步骤，您可以按照以下流程操作：\n\n1. 登录我们网站或应用程序上的账户。\n2. 进入\"我的账户\"或\"个人资料\"页面。\n3. 找到\"收货地址\"或类似选项。\n4. 您应该会看到\"添加新地址\"的选项，请选择它。\n5. 填写必要的信息，包括收件人姓名、地址和联系方式。\n6. 仔细核对信息的准确性，然后保存更改。\n\n如果您在设置新收货地址时遇到任何困难或有其他问题，随时告诉我，我随时为您提供帮助！"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i have an issue setting an different shipping address up",
+    "instruction_cn": "我在设置不同的收货地址时遇到了问题",
+    "response_en": "I'm on your side your frustration with setting up a different shipping address. This is an important step in ensuring smooth and accurate deliveries. Let's work together to resolve this issue.\n\nTo set up a different shipping address, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the \"Profile\" or \"My Account\" section.\n3. Look for the option labeled \"Shipping Addresses\" or something similar.\n4. Click on it to access your current shipping address details.\n5. Find the option to \"Add a New Address\" or \"Edit Shipping Addresses.\"\n6. Fill in the necessary information for the new shipping address, including the recipient name, street address, city, state, postal code, and contact information.\n7. Double-check the details to ensure accuracy.\n8. Save the changes and make sure the new address is selected as the default shipping address, if applicable.\n\nIf you encounter any specific error messages or face difficulties at any step, please provide more details about the issue you're experiencing. This will help me assist you more effectively.",
+    "response_cn": "我完全理解您对设置不同收货地址感到的困扰。这是确保顺利准确收货的重要步骤。让我们一起来解决这个问题。\n\n要设置不同的收货地址，请按照以下步骤操作：\n\n1. 登录您的账户。\n2. 进入\"个人资料\"或\"我的账户\"页面。\n3. 找到\"收货地址\"或类似的选项。\n4. 点击进入查看您当前的收货地址详情。\n5. 找到\"添加新地址\"或\"编辑收货地址\"的选项。\n6. 填写新收货地址的必要信息，包括收件人姓名、街道地址、城市、州、邮政编码和联系方式。\n7. 仔细核对信息以确保准确无误。\n8. 保存更改，并确保将新地址设为默认收货地址（如适用）。\n\n如果您在任何步骤中遇到具体的错误信息或遇到困难，请提供更多关于您所遇到问题的详细信息。这将帮助我更有效地协助您。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i want supports changing my address",
+    "instruction_cn": "您好，我需要更改我的地址，请问可以协助处理吗？",
+    "response_en": "I'm happy to help! I'm here to assist you with changing your address. To update your address, you can log into your account and navigate to the \"Account Settings\" or \"Profile\" section. From there, you should see an option to edit your address information. If you have any trouble, feel free to reach out to our customer support team for further assistance.",
+    "response_cn": "很高兴为您提供帮助！我可以协助您更改地址。要更新您的地址，您可以登录您的账户，然后进入\"账户设置\"或\"个人资料\"部分。在那里，您应该可以看到编辑地址信息的选项。如果您遇到任何问题，请随时联系我们的{Customer Support Phone Number}寻求进一步帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I cannot correct the shipping address",
+    "instruction_cn": "我无法修改收货地址",
+    "response_en": "We apologize for the inconvenience, but we are unable to make changes to the shipping address at this time. Please ensure that the address provided is correct and contact the carrier for any further assistance with the delivery.",
+    "response_cn": "非常抱歉给您带来不便，目前我们无法对配送地址进行更改。请确保所提供的地址正确无误，如需进一步协助配送事宜，请联系承运商。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "their is an issue trying to update my address",
+    "instruction_cn": "在更新我的地址时遇到了一个问题",
+    "response_en": "I apologize for the inconvenience. Can you please provide me with more details about the issue you are facing while trying to update your address? This will help me assist you better in resolving the problem.",
+    "response_cn": "很抱歉给您带来不便。能否请您提供更多关于您在更新地址时遇到的问题的详细信息？这将有助于我更好地协助您解决问题。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i try to change my shipping address",
+    "instruction_cn": "我尝试更改我的收货地址",
+    "response_en": "We understand that you would like to update your shipping address. To do so, please follow these steps:\n1. Log in to your account on our website.\n2. Navigate to the \"My Account\" section.\n3. Look for the \"Shipping Address\" tab and click on it.\n4. Update your address information with the new details.\n5. Save the changes.\n6. Double-check that the updated address is correct before proceeding with your order.\n\nIf you encounter any issues or need further assistance, please don't hesitate to reach out to our customer support team. We'll be more than happy to help you with the process.",
+    "response_cn": "我们理解您希望更新您的收货地址。为此，请按照以下步骤操作：\n1. 登录我们网站上的您的账户。\n2. 进入\"我的账户\"页面。\n3. 找到\"收货地址\"标签并点击。\n4. 用新信息更新您的地址信息。\n5. 保存更改。\n6. 在继续下单前，请仔细核对更新后的地址是否正确。\n\n如果您遇到任何问题或需要进一步帮助，请随时联系我们的客服团队。我们将非常乐意为您提供协助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I have troubles setting up a new shipping address",
+    "instruction_cn": "我在设置新收货地址时遇到了问题",
+    "response_en": "I grasp that you're facing troubles while setting up a new shipping address. I apologize for any inconvenience this may have caused you. To assist you with this, I recommend following these steps:\n\n1. Log in to your account on our website.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or a similar option.\n4. Select 'Add a New Address' or 'Edit Shipping Addresses'.\n5. Fill in the required details for your new shipping address, such as the street, city, state, and zip code.\n6. Verify that all the information is correct and save the changes.\n\nIf you continue to experience difficulties, please provide more details about the specific issues you're encountering. Our team is dedicated to resolving this matter for you and ensuring smooth delivery to your new address.",
+    "response_cn": "我理解您在设置新收货地址时遇到了麻烦，对此给您带来的不便深表歉意。为了协助您解决此问题，我建议您按照以下步骤操作：\n\n1. 登录我们网站上的账户。\n2. 进入\"我的账户\"或\"个人资料\"页面。\n3. 找到\"收货地址\"或类似的选项。\n4. 选择\"添加新地址\"或\"编辑收货地址\"。\n5. 填写新收货地址所需的详细信息，例如街道、城市、省份和邮政编码。\n6. 确认所有信息无误后保存更改。\n\n如果您仍然遇到问题，请提供更多关于您所遇到的具体问题的详细信息。我们的团队致力于为您解决此问题，并确保您的包裹能够顺利送达新地址。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I want help to modify the address",
+    "instruction_cn": "我需要帮助修改地址",
+    "response_en": "Indeed! If you need assistance in modifying your address, you can easily update it by logging into your account on our website. From there, navigate to the account settings or profile section and look for the option to edit your shipping address. Once you've made the necessary changes, make sure to save them before completing your order. If you encounter any issues or have any specific questions, feel free to reach out to our customer service team for further assistance.",
+    "response_cn": "当然可以！如果您需要修改地址，您可以登录我们的网站，进入账户后，前往账户设置或个人资料页面，找到编辑收货地址的选项即可轻松更新。完成修改后，请确保在提交订单前保存更改。如果您遇到任何问题或有其他疑问，欢迎随时联系我们的客服团队获取进一步帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "can ugive me information about changing my delivery address",
+    "instruction_cn": "您好，请问您是想了解如何更改配送地址的相关信息吗？",
+    "response_en": "I'm happy to help! I'd be happy to provide you with information on how to change your delivery address. When you want to update your address, you can either contact our customer support team or access your account settings on our website. They will guide you through the process step-by-step, ensuring that your new address is accurately recorded. If you have any specific questions or concerns about changing your delivery address, please let me know and I'll be glad to assist you further.",
+    "response_cn": "很高兴为您提供帮助！我很乐意为您提供更改配送地址的相关信息。当您想要更新地址时，您可以联系我们的客服团队，或者登录我们网站的账户设置进行操作。他们会逐步引导您完成整个流程，确保您的新地址被准确记录。如果您对更改配送地址有任何具体问题或疑虑，请随时告诉我，我很乐意为您提供进一步的协助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I have entered a wrong address by mistake, how do I edit it?",
+    "instruction_cn": "我不小心填错了地址，请问如何修改？",
+    "response_en": "No worries! If you have accidentally entered the wrong address, you can easily edit it. Simply log in to your account on our website and navigate to the delivery address section. From there, you should be able to update or modify your address information. If you need any further assistance, feel free to reach out to our customer support team.",
+    "response_cn": "别担心！如果您不小心填错了地址，可以轻松修改。只需登录我们网站上的账户，然后进入收货地址部分。在那里，您应该能够更新或修改您的地址信息。如果您需要进一步的帮助，请随时联系我们的 {Customer Support Phone Number} 客服团队。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i have got to set a new shipping address up",
+    "instruction_cn": "我需要设置一个新的收货地址。",
+    "response_en": "I've understood, you need assistance with setting up a new shipping address. Don't worry, I'm here to help! To set up a new shipping address, follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Select the option to 'Add a New Address' or 'Edit Shipping Addresses'.\n5. Fill in the required details for your new shipping address such as the recipient's name, street address, city, state, and ZIP code.\n6. Save the changes.\n\nIf you encounter any issues or have any questions during the process, please let me know, and I'll be glad to assist you further!\"",
+    "response_cn": "我明白了，您需要设置新的收货地址。别担心，我来帮您！要设置新的收货地址，请按照以下步骤操作：\n\n1. 登录您的账户。\n2. 进入\"我的账户\"或\"个人资料\"部分。\n3. 找到\"收货地址\"或类似的选项。\n4. 选择\"添加新地址\"或\"编辑收货地址\"选项。\n5. 填写新收货地址所需的详细信息，例如收件人姓名、街道地址、城市、州和邮政编码。\n6. 保存更改。\n\n如果您在操作过程中遇到任何问题或有任何疑问，请随时告诉我，我很乐意为您提供进一步的帮助！"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "information about a delivery address correction",
+    "instruction_cn": "关于配送地址更正的信息",
+    "response_en": "Absolutely! If you need information about a delivery address correction, please provide me with the details of the correction you would like to make, such as the old address and the new address. I will assist you in the process and provide any necessary information.",
+    "response_cn": "当然可以！如果您需要修改配送地址，请提供您希望修改的详细信息，例如旧地址和新地址。我将协助您完成修改流程，并提供任何必要的信息。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "can you help me to enter my shipping address ?",
+    "instruction_cn": "请问您能帮我填写收货地址吗？",
+    "response_en": "Positively! I'd be more than happy to assist you in entering your shipping address. Here's a step-by-step guide to help you through the process:\n\n1. Log in to your account on our website.\n2. Once logged in, navigate to your account settings or profile section.\n3. Look for an option related to \"Shipping Addresses\" or \"Delivery Address.\"\n4. Click on that option to add or edit your shipping address.\n5. Fill in the necessary fields with accurate and complete information, such as your street address, city, state, and ZIP code.\n6. Double-check all the entered details for accuracy and make any necessary corrections.\n7. Finally, save your changes.\n\nIf you encounter any issues or need further assistance, please don't hesitate to let me know. I'm here to help you make the process as smooth as possible.",
+    "response_cn": "当然可以！我非常乐意协助您输入您的收货地址。以下是帮助您完成此操作的详细步骤：\n\n1. 登录我们网站的账户。\n2. 登录后，进入您的账户设置或个人资料页面。\n3. 找到与\"收货地址\"或\"配送地址\"相关的选项。\n4. 点击该选项以添加或编辑您的收货地址。\n5. 在相应字段中填写准确完整的信息，例如街道地址、城市、省份和邮政编码。\n6. 仔细核对所有输入的信息，如有需要请进行更正。\n7. 最后，保存您的更改。\n\n如果您遇到任何问题或需要进一步的帮助，请随时告诉我。我会尽力让整个过程尽可能顺利。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I put the old address by mistake, how do I modify it?",
+    "instruction_cn": "我不小心填了旧地址，请问怎么修改呢？",
+    "response_en": "I apologize for the inconvenience. To modify your shipping address, you can follow these steps. First, log in to your account and navigate to the \"My Account\" section. Then, select the \"Shipping Address\" tab, where you will find the option to edit your existing address. Make the necessary changes and save the updated address. If you encounter any difficulties, please don't hesitate to reach out to our customer support team, and they will be more than happy to assist you further.",
+    "response_cn": "很抱歉给您带来不便。要修改您的收货地址，您可以按照以下步骤操作。首先，登录您的账户，进入\"我的账户\"页面。然后，选择\"收货地址\"选项卡，您可以在那里找到编辑现有地址的选项。进行必要的更改并保存更新后的地址。如果您遇到任何困难，请随时联系我们的客服团队，他们将非常乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I need assistance entering my secondary shipping address",
+    "instruction_cn": "我需要输入我的备用收货地址，请问该如何操作？",
+    "response_en": "I've been informed that you're seeking assistance in entering your secondary shipping address, and I'm here to help you through the process. To ensure I provide you with accurate guidance, could you please provide me with more details on the exact issue you're facing while entering the address? Are you encountering any error messages or facing difficulties with a specific step? The more information you can share, the better I can assist you.",
+    "response_cn": "我了解到您正在寻求帮助以输入您的备用收货地址，我将全程协助您完成此操作。为了确保我能为您提供准确的指导，能否请您详细说明一下在输入地址时遇到的具体问题？您是否遇到了任何错误提示，还是在某个特定步骤上遇到了困难？您提供的信息越多，我就能更好地为您提供帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i want supports trying to correct the address",
+    "instruction_cn": "我需要客服人员帮忙更正地址。",
+    "response_en": "We're here to help! If you're trying to correct your address, please provide us with the necessary details, such as your order number and the correct address information. Our customer service team will assist you in updating your shipping address.",
+    "response_cn": "我们随时为您提供帮助！如果您需要更正地址，请向我们提供必要的信息，例如您的 {Order Number} 和正确的地址信息。我们的客服团队将协助您更新收货地址。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i cannot set up my new shipping address",
+    "instruction_cn": "我无法设置新的收货地址",
+    "response_en": "I understand the frustration you're experiencing while trying to set up your new shipping address. Let's work together to overcome this roadblock. Here are a few things you can try to troubleshoot the issue:\n\n1. Double-check the format: Ensure that you're entering the address in the correct format, including all the necessary details such as street number, street name, city, state, and ZIP code.\n\n2. Clear cache and cookies: Sometimes, browser cache and cookies can interfere with the submission process. Try clearing your cache and cookies, then refresh the page and attempt to set up the shipping address again.\n\n3. Use a different browser or device: It's possible that the issue is specific to the browser or device you're using. Switch to a different browser or device, and see if you can successfully set up your new shipping address.\n\n4. Contact customer support: If none of the above steps resolve the issue, it's best to reach out to our dedicated customer support team. They have the expertise to investigate the problem further and provide personalized assistance to set up your new shipping address.\n\nRemember, your satisfaction is our priority, and we're committed to helping you successfully set up your new shipping address.",
+    "response_cn": "我理解您在尝试设置新收货地址时遇到的困扰。让我们一起来解决这个问题。以下是您可以尝试的一些排查方法：\n\n1. 仔细核对格式：请确保您输入的地址格式正确，包含所有必要的信息，如街道号码、街道名称、城市、州/省和邮政编码。\n\n2. 清除缓存和Cookie：有时浏览器的缓存和Cookie可能会干扰提交过程。请尝试清除缓存和Cookie，然后刷新页面，再次尝试设置收货地址。\n\n3. 更换浏览器或设备：问题可能与您当前使用的浏览器或设备有关。请尝试切换到其他浏览器或设备，看看能否成功设置新的收货地址。\n\n4. 联系客服支持：如果以上步骤均无法解决问题，建议您联系我们的专业客服团队。他们具备专业的能力来进一步调查问题，并为您提供个性化的帮助，以协助您成功设置新的收货地址。\n\n请记住，您的满意是我们的首要目标，我们致力于帮助您顺利完成新收货地址的设置。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I need to edit the delivery  address",
+    "instruction_cn": "我需要修改收货地址",
+    "response_en": "Indeed! We're here to assist you in updating your delivery address. Please provide us with the new address details so we can make the necessary changes for you.",
+    "response_cn": "当然！我们随时为您提供配送地址的更新服务。请提供您的新地址详情，以便我们为您进行相应的更改。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "need assistance to enter my new shipping address",
+    "instruction_cn": "我需要协助输入我的新收货地址",
+    "response_en": "I've observed that you need assistance with entering your new shipping address. I'm here to guide you through the process. Please follow these steps:\n\n1. Log in to your account or navigate to the 'My Account' section.\n2. Look for the 'Shipping Addresses' or a similar option.\n3. Select 'Add New Address' or 'Edit Shipping Addresses'.\n4. Fill in the required details for your new shipping address, such as the street address, city, state, and postal code.\n5. Double-check the accuracy of the information before saving the changes.\n6. Once you've saved the new address, it should be available for future use.\n\nIf you encounter any issues or if the process differs on our platform, please provide additional details, and I'll be glad to assist you further!\"",
+    "response_cn": "我注意到您需要协助输入新的收货地址。我来为您指导操作流程。请按照以下步骤进行：\n\n1. 登录您的账户或进入\"我的账户\"页面。\n2. 找到\"收货地址\"或类似的选项。\n3. 选择\"添加新地址\"或\"编辑收货地址\"。\n4. 填写新收货地址的必填信息，例如街道地址、城市、省份和邮政编码。\n5. 在保存更改之前，请仔细核对信息的准确性。\n6. 保存新地址后，该地址即可在后续订单中使用。\n\n如果您在操作过程中遇到任何问题，或者我们平台的流程有所不同，请提供更多详细信息，我将很乐意为您提供进一步的帮助！"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I cannot edit my shipping address",
+    "instruction_cn": "我无法修改我的收货地址",
+    "response_en": "I'm sorry to hear that you're having trouble editing your shipping address. Please reach out to our customer support team for further assistance with modifying your address. They will be able to guide you through the process and help you update your shipping details.",
+    "response_cn": "很抱歉听到您在修改收货地址时遇到了问题。请联系我们的{Customer Support Phone Number}客服团队，寻求进一步协助修改地址。他们将能够指导您完成流程并帮助您更新收货信息。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I have an error editing the delivery address",
+    "instruction_cn": "我在修改收货地址时遇到了错误",
+    "response_en": "I'm sorry to hear that you're experiencing an error while editing your delivery address. To better assist you, could you please provide more details about the error message or issue you're encountering? This will help us troubleshoot and find a solution for you as quickly as possible.",
+    "response_cn": "很抱歉听到您在编辑收货地址时遇到了错误。为了更好地协助您，能否请您提供更多关于您遇到的错误信息或问题的详情？这将帮助我们尽快为您排查问题并找到解决方案。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "supports editing the shipping address",
+    "instruction_cn": "支持修改收货地址",
+    "response_en": "I'll make it happen! Our system supports editing the shipping address for your convenience. Please provide us with the updated address details, and we'll make sure it's updated for your delivery.",
+    "response_cn": "没问题！我们的系统支持修改配送地址，为您提供便利。请提供更新后的地址详情，我们会确保及时更新，以便您的包裹顺利送达。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "supports editnig my delivery address",
+    "instruction_cn": "支持修改我的收货地址",
+    "response_en": "I'll get right on it! We are here to assist you with editing your delivery address. Please provide us with the necessary details, and we'll make sure your address is updated correctly.",
+    "response_cn": "我马上为您处理！我们很乐意协助您修改配送地址。请提供相关详细信息，我们会确保您的地址被正确更新。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I have issues trying to update the shipping address",
+    "instruction_cn": "我在更新收货地址时遇到了问题",
+    "response_en": "I'm sorry to hear about the issues you're facing with updating your shipping address. Can you please provide me with more details about the problem? This will help me assist you better and provide a solution.",
+    "response_cn": "很抱歉听到您在更新收货地址时遇到了问题。能否请您提供更多关于这个问题的详细信息？这将有助于我更好地协助您并为您提供解决方案。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I try to edit my address",
+    "instruction_cn": "我尝试修改我的地址",
+    "response_en": "Absolutely! To edit your address, you can go to your account settings and select the option to update your shipping address. Alternatively, you can reach out to our customer service team, and they will be glad to assist you with making the necessary changes.",
+    "response_cn": "当然可以！要修改您的地址，您可以进入账户设置，然后选择更新收货地址的选项。或者，您也可以联系我们的客服团队，他们会很乐意协助您进行必要的更改。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I do not know how I could enter my new delivery address",
+    "instruction_cn": "我不知道该如何输入新的收货地址",
+    "response_en": "I'm aware that you're unsure about how to enter your new delivery address. Allow me to guide you through the process and provide the necessary support. Follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Select the option to 'Add a New Address' or 'Edit Shipping Addresses'.\n5. Fill in the required fields with the details of your new delivery address.\n6. Double-check the information you entered for accuracy.\n7. Save the changes.\n\nIf you encounter any difficulties or if the steps appear different on your account, please provide more specific details about where you are facing the problem, and I'll be glad to assist you further in resolving it.",
+    "response_cn": "我了解您不确定如何输入新的收货地址。请允许我为您提供指导和支持。请按照以下步骤操作：\n\n1. 登录我们网站上的您的账户。\n2. 进入\"我的账户\"或\"个人资料\"部分。\n3. 找到\"收货地址\"或类似的选项。\n4. 选择\"添加新地址\"或\"编辑收货地址\"选项。\n5. 在所需字段中填写您的新收货地址详细信息。\n6. 仔细检查您输入的信息是否准确。\n7. 保存更改。\n\n如果您遇到任何困难，或者您在账户中看到的步骤与此不同，请提供更多具体细节，说明您在哪个环节遇到了问题，我很乐意进一步协助您解决。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "my shipping address is invalid, I need help",
+    "instruction_cn": "我的收货地址无效，我需要帮助",
+    "response_en": "I'm cognizant of the fact that you're having difficulties with an invalid shipping address, and I'm here to provide the support you need. To address this issue, we'll need to ensure that your shipping address is accurate and updated in our system. Here are the steps we can take to resolve this:\n\n1. Log in to your account on our website or app.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Select the shipping address that is currently marked as invalid.\n5. Edit the address, making sure to enter the correct information and format.\n6. Save the changes and confirm that the updated address is now valid.\n\nIf you're still facing issues after following these steps, or if you need further assistance, please let me know. I'm here to help you throughout this process and ensure a smooth experience with your shipping address.",
+    "response_cn": "我了解到您遇到了收货地址无效的问题，我会为您提供所需的支持。为了解决这个问题，我们需要确保您的收货地址准确无误并在我们的系统中更新。以下是我们可以采取的步骤：\n\n1. 登录我们的网站或应用程序。\n2. 进入\"我的账户\"或\"个人资料\"部分。\n3. 找到\"收货地址\"或类似的选项。\n4. 选择当前标记为无效的收货地址。\n5. 编辑地址，确保输入正确的信息和格式。\n6. 保存更改并确认更新后的地址现在有效。\n\n如果您在按照这些步骤操作后仍然遇到问题，或者需要进一步的帮助，请告诉我。我会全程协助您，确保您的收货地址问题得到顺利解决。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i have a problem entering a secondary shipping address",
+    "instruction_cn": "我在输入备用收货地址时遇到了问题",
+    "response_en": "I apologize for the inconvenience you're experiencing while trying to enter a secondary shipping address. Our team is here to assist you in resolving this issue. To help you further, could you please provide more details about the problem you're encountering? Are you receiving any error messages or facing any specific challenges during the process? Once we have more information, we can provide you with the appropriate guidance to successfully enter your secondary shipping address. Thank you for your cooperation, and we look forward to assisting you.",
+    "response_cn": "很抱歉您在尝试输入备用收货地址时遇到了不便。我们的团队随时准备协助您解决此问题。为了更好地帮助您，能否请您提供更多有关您所遇到问题的详细信息？您是否收到了任何错误提示，或在操作过程中遇到了任何具体困难？一旦我们获得更多信息，我们将为您提供相应的指导，以便您成功输入备用收货地址。感谢您的配合，我们期待为您提供帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I want to submit my secondary shipping address, help me",
+    "instruction_cn": "我想提交我的备用收货地址，请帮我处理一下",
+    "response_en": "Certainly! I understand that you're seeking assistance in submitting your secondary shipping address. To help you with this process, please follow these steps:\n\n1. Log in to your account using your credentials.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Click on 'Add a New Address' or 'Edit Shipping Addresses'.\n5. Fill in the required details for your secondary shipping address, such as the street name, city, state, and zip code.\n6. Once you have entered all the necessary information, click on the 'Submit' or 'Save' button to save your changes.\n\nIf you encounter any difficulties or need further guidance, please don't hesitate to let me know. I'm here to assist you every step of the way!",
+    "response_cn": "好的！我理解您希望获得帮助来提交您的备用收货地址。为了协助您完成此流程，请按照以下步骤操作：\n\n1. 使用您的账户凭据登录账户。\n2. 进入\"我的账户\"或\"个人资料\"页面。\n3. 找到\"收货地址\"或类似选项。\n4. 点击\"添加新地址\"或\"编辑收货地址\"。\n5. 填写备用收货地址所需的详细信息，例如街道名称、城市、州和邮政编码。\n6. 填写完所有必要信息后，点击\"提交\"或\"保存\"按钮以保存您的更改。\n\n如果您遇到任何困难或需要进一步的帮助，请随时告诉我。我会全程为您提供协助！"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I need help correcting my address",
+    "instruction_cn": "我需要帮助更正我的地址",
+    "response_en": "Sure, I can assist you with correcting your address. Please provide me with the correct address details and I will update it for you right away.",
+    "response_cn": "好的，我可以帮您更正地址信息。请提供正确的地址详情，我会立即为您更新。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I have an error updating my fucking shipping address",
+    "instruction_cn": "我在更新收货地址时遇到了问题",
+    "response_en": "I apologize for any frustration caused by the error you encountered while trying to update your shipping address. Please provide me with your order details and the correct shipping address, and I'll personally ensure that your information is updated promptly.",
+    "response_cn": "对于您在尝试更新收货地址时遇到的错误，我深表歉意。请提供您的订单详情和正确的收货地址，我将亲自确保您的信息得到及时更新。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i cannot set up my shipping address",
+    "instruction_cn": "我无法设置我的收货地址",
+    "response_en": "I appreciate that you're having difficulties setting up your shipping address. I apologize for the inconvenience caused. To assist you better, could you please provide more information about the specific issues you are facing? Are you receiving any error messages or encountering any obstacles during the process? With more details, I'll be able to provide you with the most accurate guidance and solutions to resolve the issue promptly. Your satisfaction is our priority, and I'm here to ensure a smooth and hassle-free experience.",
+    "response_cn": "感谢您反馈在设置收货地址时遇到的问题，对此给您带来的不便，我们深表歉意。为了更好地协助您，能否请您提供更多关于您所面临的具体问题？您是否收到任何错误提示，或者在操作过程中遇到了哪些障碍？有了更详细的信息，我将能够为您提供最准确的指导和解决方案，以便尽快解决问题。您的满意是我们的首要目标，我将竭诚为您确保顺畅无忧的体验。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I do not know how I can update the address",
+    "instruction_cn": "我不知道该如何更新地址",
+    "response_en": "No problem! I'm here to help you with that. To update your address, please follow these steps: \n\n1. Log in to your account on our website.\n2. Go to your account settings or profile page.\n3. Look for the option to edit your address or shipping information.\n4. Click on that option and enter the new address details.\n5. Make sure to save the changes before exiting.\n6. If you encounter any issues, please don't hesitate to reach out to our customer support for further assistance.\n\nI hope this helps! Let me know if there's anything else I can assist you with.",
+    "response_cn": "没问题！我很乐意为您提供帮助。要更新您的地址，请按照以下步骤操作：\n\n1. 登录我们网站上的账户。\n2. 进入您的账户设置或个人资料页面。\n3. 找到编辑地址或配送信息的选项。\n4. 点击该选项并输入新的地址信息。\n5. 退出前请务必保存更改。\n6. 如果遇到任何问题，请随时联系我们的 {Customer Support Phone Number} 客服寻求进一步帮助。\n\n希望这对您有所帮助！如果还有其他需要协助的地方，请随时告诉我。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i have a problem with a delivery address modification",
+    "instruction_cn": "我有一个关于修改收货地址的问题",
+    "response_en": "We apologize for any inconvenience you are experiencing with modifying your delivery address. Please provide us with your order details and the correct address, and we will assist you in updating it.",
+    "response_cn": "We apologize for any inconvenience you are experiencing with modifying your delivery address. Please provide us with your order details and the correct address, and we will assist you in updating it."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i chose a wrong address by mistake colud ya modify it",
+    "instruction_cn": "我不小心选错了地址，能帮我修改一下吗？",
+    "response_en": "Positively! I can assist you in modifying your shipping address. Please provide the correct address details, and I'll make sure to update it for you.",
+    "response_cn": "Positively! I can assist you in modifying your shipping address. Please provide the correct address details, and I'll make sure to update it for you."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i have errors setting up my shipping address",
+    "instruction_cn": "我在设置收货地址时遇到了错误",
+    "response_en": "I apologize for the difficulties you're experiencing in setting up your shipping address. I'm here to help you overcome these errors and ensure a smooth process. To better assist you, could you please provide more details about the specific errors you're encountering? Are you receiving any error messages or facing issues with certain fields? With this information, I can offer you tailored solutions and guide you step-by-step to successfully set up your shipping address. Your satisfaction is my top priority, and I'm committed to making this process as seamless as possible for you.",
+    "response_cn": "I apologize for the difficulties you're experiencing in setting up your shipping address. I'm here to help you overcome these errors and ensure a smooth process. To better assist you, could you please provide more details about the specific errors you're encountering? Are you receiving any error messages or facing issues with certain fields? With this information, I can offer you tailored solutions and guide you step-by-step to successfully set up your shipping address. Your satisfaction is my top priority, and I'm committed to making this process as seamless as possible for you."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I have an error setting up another delivery address",
+    "instruction_cn": "我在设置另一个收货地址时遇到了错误",
+    "response_en": "I've got that you're encountering an error while setting up another delivery address, and I'm here to help you troubleshoot this issue. To resolve this, please try the following steps:\n\n1. Double-check the information you've entered for the new delivery address, ensuring that all details, such as the street name, unit number, city, and postal code, are accurate.\n\n2. Verify that the format of the address you're entering is correct. Make sure to include all the necessary information required for your delivery, such as building numbers, apartment numbers, or any other relevant details.\n\n3. Clear your browser cache and cookies and try accessing the address setup page again. Sometimes, temporary data stored in your browser can interfere with the process.\n\n4. If you're using a mobile app, make sure you've updated the app to the latest version. Outdated versions of the app can sometimes cause compatibility issues.\n\n5. If the issue persists, try accessing the address setup page from a different device or browser to see if the problem is device-specific.\n\n6. If none of the above steps solve the problem, please reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They have access to additional tools and resources that can assist in resolving this issue.\n\nI apologize for the inconvenience caused, and I appreciate your patience. We'll work together to ensure your delivery address is set up correctly.",
+    "response_cn": "I've got that you're encountering an error while setting up another delivery address, and I'm here to help you troubleshoot this issue. To resolve this, please try the following steps:\n\n1. Double-check the information you've entered for the new delivery address, ensuring that all details, such as the street name, unit number, city, and postal code, are accurate.\n\n2. Verify that the format of the address you're entering is correct. Make sure to include all the necessary information required for your delivery, such as building numbers, apartment numbers, or any other relevant details.\n\n3. Clear your browser cache and cookies and try accessing the address setup page again. Sometimes, temporary data stored in your browser can interfere with the process.\n\n4. If you're using a mobile app, make sure you've updated the app to the latest version. Outdated versions of the app can sometimes cause compatibility issues.\n\n5. If the issue persists, try accessing the address setup page from a different device or browser to see if the problem is device-specific.\n\n6. If none of the above steps solve the problem, please reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They have access to additional tools and resources that can assist in resolving this issue.\n\nI apologize for the inconvenience caused, and I appreciate your patience. We'll work together to ensure your delivery address is set up correctly."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I have issues trying to change the damn address",
+    "instruction_cn": "我在更改地址时遇到了问题",
+    "response_en": "I apologize for the difficulties you're experiencing in changing the address. In order to assist you better, could you please provide more details about the issue you're facing?",
+    "response_cn": "I apologize for the difficulties you're experiencing in changing the address. In order to assist you better, could you please provide more details about the issue you're facing?"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I'm trying to enter an shipping address",
+    "instruction_cn": "我正在尝试输入一个收货地址",
+    "response_en": "No worries, I'm here to assist you with entering your shipping address. Let's get started:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. You should find a button to 'Add New Address' or 'Edit Shipping Addresses'. Select it.\n5. Fill in the required details for your new shipping address, such as the street, city, state, and ZIP code.\n6. Double-check the entered information for accuracy.\n7. Save the changes.\n\nIf you encounter any difficulties or if the process seems different for you, please provide me with more specific details about where you're facing challenges, and I'll be more than happy to guide you through it.",
+    "response_cn": "No worries, I'm here to assist you with entering your shipping address. Let's get started:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. You should find a button to 'Add New Address' or 'Edit Shipping Addresses'. Select it.\n5. Fill in the required details for your new shipping address, such as the street, city, state, and ZIP code.\n6. Double-check the entered information for accuracy.\n7. Save the changes.\n\nIf you encounter any difficulties or if the process seems different for you, please provide me with more specific details about where you're facing challenges, and I'll be more than happy to guide you through it."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "would ugive me information about editing my delivery address",
+    "instruction_cn": "请问您能提供关于修改收货地址的相关信息吗？",
+    "response_en": "Definitely! If you need to edit your delivery address, you can easily do so by going to your account settings. From there, navigate to the \"Shipping Address\" section and click on the \"Edit\" button next to your current address. Make the necessary changes and save them. Your new delivery address will be updated for future orders. Let me know if you have any further questions or if there's anything else I can assist you with!",
+    "response_cn": "Definitely! If you need to edit your delivery address, you can easily do so by going to your account settings. From there, navigate to the \"Shipping Address\" section and click on the \"Edit\" button next to your current address. Make the necessary changes and save them. Your new delivery address will be updated for future orders. Let me know if you have any further questions or if there's anything else I can assist you with!"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "give me information about changing my address",
+    "instruction_cn": "请提供有关更改地址的信息",
+    "response_en": "Unquestionably! To change your address, you can follow these steps:\n\n1. Log in to your account on our website.\n2. Go to the \"Account\" or \"Profile\" section.\n3. Look for the option to update your address or shipping information.\n4. Click on it and enter the new address details.\n5. Make sure to double-check all the information before saving the changes.\n6. If you're unable to find the option or need further assistance, please reach out to our customer support team.\n\nWe hope this helps! Let us know if you have any other questions.",
+    "response_cn": "Unquestionably! To change your address, you can follow these steps:\n\n1. Log in to your account on our website.\n2. Go to the \"Account\" or \"Profile\" section.\n3. Look for the option to update your address or shipping information.\n4. Click on it and enter the new address details.\n5. Make sure to double-check all the information before saving the changes.\n6. If you're unable to find the option or need further assistance, please reach out to our customer support team.\n\nWe hope this helps! Let us know if you have any other questions."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "is it possible to submit my delivery adress",
+    "instruction_cn": "请问可以提交我的收货地址吗？",
+    "response_en": "I've deduced from your message that you are inquiring about submitting your delivery address. Absolutely! We have made the process as seamless as possible to ensure your convenience. Here's how you can submit your delivery address:\n\n1. Log in to your account on our website.\n2. Navigate to the \"My Account\" or \"Profile\" section.\n3. Look for the \"Shipping Addresses\" or a similar option.\n4. Select the option to \"Add a New Address\" or \"Edit Shipping Addresses\".\n5. Enter the details of your delivery address, including your name, street, city, state, and zip code.\n6. Double-check the accuracy of the information you entered and save the changes.\n\nBy following these steps, you will successfully submit your delivery address. If you encounter any difficulties or have questions along the way, please don't hesitate to reach out. Your satisfaction is our priority, and we are here to assist you every step of the way.",
+    "response_cn": "I've deduced from your message that you are inquiring about submitting your delivery address. Absolutely! We have made the process as seamless as possible to ensure your convenience. Here's how you can submit your delivery address:\n\n1. Log in to your account on our website.\n2. Navigate to the \"My Account\" or \"Profile\" section.\n3. Look for the \"Shipping Addresses\" or a similar option.\n4. Select the option to \"Add a New Address\" or \"Edit Shipping Addresses\".\n5. Enter the details of your delivery address, including your name, street, city, state, and zip code.\n6. Double-check the accuracy of the information you entered and save the changes.\n\nBy following these steps, you will successfully submit your delivery address. If you encounter any difficulties or have questions along the way, please don't hesitate to reach out. Your satisfaction is our priority, and we are here to assist you every step of the way."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i submitted an wrong address how can i edit it",
+    "instruction_cn": "我提交了一个错误的地址，请问如何修改？",
+    "response_en": "I apologize for the inconvenience caused. To edit your address, please follow these steps: \n1. Log in to your account and go to the \"Shipping Address\" section.\n2. Locate the incorrect address and click on the \"Edit\" button next to it.\n3. Make the necessary changes and click on the \"Save\" button to update your address.\nIf you encounter any issues or need further assistance, feel free to reach out to our support team.",
+    "response_cn": "I apologize for the inconvenience caused. To edit your address, please follow these steps: \n1. Log in to your account and go to the \"Shipping Address\" section.\n2. Locate the incorrect address and click on the \"Edit\" button next to it.\n3. Make the necessary changes and click on the \"Save\" button to update your address.\nIf you encounter any issues or need further assistance, feel free to reach out to our support team."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I want help entering the delivery address",
+    "instruction_cn": "我需要帮助输入收货地址",
+    "response_en": "I appreciate that you're seeking assistance with entering your delivery address. Don't worry, I'm here to guide you through the process. To enter your delivery address, please follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to your account settings or profile section.\n3. Look for the option to manage your shipping addresses.\n4. Click on \"Add New Address\" or a similar button.\n5. Fill in the required fields with your new delivery address details, such as the street, city, state, and postal code.\n6. Double-check the information you entered to ensure its accuracy.\n7. Save the changes you made to your address.\n\nIf you encounter any difficulties or have further questions during this process, feel free to reach out to our customer support team, who will be more than happy to assist you. We're dedicated to making sure your delivery address is correctly entered and that you have a smooth experience with our service.",
+    "response_cn": "I appreciate that you're seeking assistance with entering your delivery address. Don't worry, I'm here to guide you through the process. To enter your delivery address, please follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to your account settings or profile section.\n3. Look for the option to manage your shipping addresses.\n4. Click on \"Add New Address\" or a similar button.\n5. Fill in the required fields with your new delivery address details, such as the street, city, state, and postal code.\n6. Double-check the information you entered to ensure its accuracy.\n7. Save the changes you made to your address.\n\nIf you encounter any difficulties or have further questions during this process, feel free to reach out to our customer support team, who will be more than happy to assist you. We're dedicated to making sure your delivery address is correctly entered and that you have a smooth experience with our service."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "supports trying to edit the address",
+    "instruction_cn": "支持尝试修改地址",
+    "response_en": "Indeed! We are here to provide support for editing your address. Please provide us with the updated information and we will gladly assist you in making the necessary changes.",
+    "response_cn": "Indeed! We are here to provide support for editing your address. Please provide us with the updated information and we will gladly assist you in making the necessary changes."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "tell me about a shipping address correction",
+    "instruction_cn": "您好，请问您是想了解如何修改配送地址吗？",
+    "response_en": "Certainly! If you need to make a correction to your shipping address, you can easily do so by accessing your account settings. Simply navigate to the \"Shipping Address\" section, and you will be able to update or modify your address as needed. If you encounter any difficulties during this process, feel free to reach out to our customer support team for further assistance.",
+    "response_cn": "Certainly! If you need to make a correction to your shipping address, you can easily do so by accessing your account settings. Simply navigate to the \"Shipping Address\" section, and you will be able to update or modify your address as needed. If you encounter any difficulties during this process, feel free to reach out to our customer support team for further assistance."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "supportsetting a new shipping address up",
+    "instruction_cn": "supportsetting a new shipping address up\n\n中文翻译：设置新的收货地址",
+    "response_en": "I'm glad you contacted us regarding support for setting up a new shipping address. I'm here to assist you with the process. Please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Click on 'Add New Address' or 'Edit Shipping Addresses'.\n5. Enter the details of your new shipping address in the provided fields.\n6. Save the changes.\n\nIf you encounter any difficulties while following these steps or have any other questions, please don't hesitate to let me know. I'm here to ensure that your experience in setting up your new shipping address is seamless and hassle-free.",
+    "response_cn": "I'm glad you contacted us regarding support for setting up a new shipping address. I'm here to assist you with the process. Please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Click on 'Add New Address' or 'Edit Shipping Addresses'.\n5. Enter the details of your new shipping address in the provided fields.\n6. Save the changes.\n\nIf you encounter any difficulties while following these steps or have any other questions, please don't hesitate to let me know. I'm here to ensure that your experience in setting up your new shipping address is seamless and hassle-free."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I want to submit my new delivery address, can you help me?",
+    "instruction_cn": "我想提交新的收货地址，您能帮我处理吗？",
+    "response_en": "I'll get right on it! I'm here to assist you with submitting your new delivery address. Let's proceed step by step:\n\n1. Log in to your account on our website.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. You should find an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Fill in the necessary details of your new delivery address in the provided fields.\n6. Once you have entered all the required information, double-check the accuracy of the address.\n7. Finally, click on the 'Submit' or 'Save' button to save your new delivery address.\n\nIf you encounter any issues while following these steps or need further assistance, please let me know. I'm here to help you throughout the process!\"",
+    "response_cn": "I'll get right on it! I'm here to assist you with submitting your new delivery address. Let's proceed step by step:\n\n1. Log in to your account on our website.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. You should find an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Fill in the necessary details of your new delivery address in the provided fields.\n6. Once you have entered all the required information, double-check the accuracy of the address.\n7. Finally, click on the 'Submit' or 'Save' button to save your new delivery address.\n\nIf you encounter any issues while following these steps or need further assistance, please let me know. I'm here to help you throughout the process!\""
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I need to submit a shipping address, can you help me?",
+    "instruction_cn": "我需要提交一个收货地址，您能帮我吗？",
+    "response_en": "I'm here to assist you in submitting your shipping address. Rest assured, we'll work together to ensure a seamless process. To help you with this, could you please provide me with more details? Are you encountering any specific issues or facing any error messages while trying to submit your shipping address? Once I have a better understanding of your situation, I'll be able to provide you with the most accurate guidance and support.",
+    "response_cn": "I'm here to assist you in submitting your shipping address. Rest assured, we'll work together to ensure a seamless process. To help you with this, could you please provide me with more details? Are you encountering any specific issues or facing any error messages while trying to submit your shipping address? Once I have a better understanding of your situation, I'll be able to provide you with the most accurate guidance and support."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I want assistance modifying my shippimg address",
+    "instruction_cn": "我需要协助修改我的收货地址",
+    "response_en": "I'm on it! We are here to assist you in modifying your shipping address. Please provide us with the necessary details, such as your current address and the new address you would like to change it to.",
+    "response_cn": "I'm on it! We are here to assist you in modifying your shipping address. Please provide us with the necessary details, such as your current address and the new address you would like to change it to."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "the address has changed, help me modify it",
+    "instruction_cn": "地址已变更，帮我修改一下",
+    "response_en": "We understand that your address has changed and you need assistance with modifying it. Our customer service team will be happy to help you with this. Please contact them either through our website's chat support or by calling our helpline. They will guide you through the process and make sure your updated address is correctly reflected in our system. Thank you for reaching out to us!",
+    "response_cn": "We understand that your address has changed and you need assistance with modifying it. Our customer service team will be happy to help you with this. Please contact them either through our website's chat support or by calling our helpline. They will guide you through the process and make sure your updated address is correctly reflected in our system. Thank you for reaching out to us!"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I have a problem setting a delivery address up",
+    "instruction_cn": "我在设置配送地址时遇到了问题",
+    "response_en": "I apologize for the difficulties you're experiencing while setting up your delivery address. Your satisfaction is our top priority, and I'm here to assist you. To better understand and resolve the issue, could you please provide more details about the problem you're encountering? Are you receiving any error messages or facing any specific challenges? By sharing this information, I'll be able to provide you with a tailored solution and guide you through the process step by step.",
+    "response_cn": "I apologize for the difficulties you're experiencing while setting up your delivery address. Your satisfaction is our top priority, and I'm here to assist you. To better understand and resolve the issue, could you please provide more details about the problem you're encountering? Are you receiving any error messages or facing any specific challenges? By sharing this information, I'll be able to provide you with a tailored solution and guide you through the process step by step."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "wanna set my secondary delivery address up",
+    "instruction_cn": "我想设置我的备用收货地址",
+    "response_en": "I've realized that you want to set up your secondary delivery address, and I'm here to assist you. Setting up a secondary delivery address can be done through your account settings. Here are the steps you can follow:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Within the shipping addresses section, you should find an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Fill in the details of your secondary delivery address in the appropriate fields.\n6. Once you have entered all the necessary information, click on 'Save' or a similar button to confirm the changes.\n\nIf you encounter any difficulties or need further assistance during this process, please let me know. I'm here to help you make the process as smooth as possible.",
+    "response_cn": "I've realized that you want to set up your secondary delivery address, and I'm here to assist you. Setting up a secondary delivery address can be done through your account settings. Here are the steps you can follow:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Within the shipping addresses section, you should find an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Fill in the details of your secondary delivery address in the appropriate fields.\n6. Once you have entered all the necessary information, click on 'Save' or a similar button to confirm the changes.\n\nIf you encounter any difficulties or need further assistance during this process, please let me know. I'm here to help you make the process as smooth as possible."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I try to submit the secondary delivery address",
+    "instruction_cn": "我尝试提交备用收货地址",
+    "response_en": "Thank you for reaching out and sharing your concern about submitting the secondary delivery address. I understand how important it is for you to successfully complete this step. Let me kindly assist you in resolving this issue.\n\nTo submit the secondary delivery address, please follow these straightforward steps:\n\n1. Log in to your account on our website.\n2. Navigate to your account settings or profile.\n3. Look for the section labeled \"Shipping Addresses\" or something similar.\n4. Click on the option to \"Add New Address\" or \"Edit Addresses.\"\n5. Enter the details of your secondary delivery address accurately and completely.\n6. Double-check all the information to ensure its accuracy.\n7. Once you are confident that everything is correct, click the \"Submit\" or \"Save\" button to complete the process.\n\nIf you encounter any difficulties or if the process appears different from what I described, please provide specific details about where you are facing issues, and I'll be more than happy to provide further assistance. Remember, we are here to support you every step of the way.",
+    "response_cn": "Thank you for reaching out and sharing your concern about submitting the secondary delivery address. I understand how important it is for you to successfully complete this step. Let me kindly assist you in resolving this issue.\n\nTo submit the secondary delivery address, please follow these straightforward steps:\n\n1. Log in to your account on our website.\n2. Navigate to your account settings or profile.\n3. Look for the section labeled \"Shipping Addresses\" or something similar.\n4. Click on the option to \"Add New Address\" or \"Edit Addresses.\"\n5. Enter the details of your secondary delivery address accurately and completely.\n6. Double-check all the information to ensure its accuracy.\n7. Once you are confident that everything is correct, click the \"Submit\" or \"Save\" button to complete the process.\n\nIf you encounter any difficulties or if the process appears different from what I described, please provide specific details about where you are facing issues, and I'll be more than happy to provide further assistance. Remember, we are here to support you every step of the way."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I can't edit my damn shipping address",
+    "instruction_cn": "我无法修改我的收货地址",
+    "response_en": "I apologize for the frustration you're facing while trying to edit your shipping address. Please provide me with your order details, and I'll personally assist you in updating the address.",
+    "response_cn": "I apologize for the frustration you're facing while trying to edit your shipping address. Please provide me with your order details, and I'll personally assist you in updating the address."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "there is an error trying to update my shipping address",
+    "instruction_cn": "我在更新收货地址时出现错误",
+    "response_en": "I apologize for the inconvenience. To resolve the error you encountered while updating your shipping address, I recommend reaching out to our customer support team directly. They will be able to assist you in resolving the issue and updating your address successfully.",
+    "response_cn": "I apologize for the inconvenience. To resolve the error you encountered while updating your shipping address, I recommend reaching out to our customer support team directly. They will be able to assist you in resolving the issue and updating your address successfully."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "help to submit a secondary delivery address",
+    "instruction_cn": "协助提交备用配送地址",
+    "response_en": "Sure, I'd be happy to help you submit a secondary delivery address! Here are the steps you can follow:\n\n1. Log in to your account on our website or app.\n2. Navigate to the \"My Account\" or \"Profile\" section.\n3. Look for the \"Shipping Addresses\" or similar option.\n4. Select the \"Add a New Address\" or \"Edit Shipping Addresses\" button.\n5. Fill in the required fields with the details of your secondary delivery address.\n6. Double-check the information for accuracy.\n7. Click on the \"Submit\" or \"Save\" button to save your changes.\n\nIf you encounter any issues or have any additional questions, please don't hesitate to let me know. I'm here to assist you every step of the way!",
+    "response_cn": "Sure, I'd be happy to help you submit a secondary delivery address! Here are the steps you can follow:\n\n1. Log in to your account on our website or app.\n2. Navigate to the \"My Account\" or \"Profile\" section.\n3. Look for the \"Shipping Addresses\" or similar option.\n4. Select the \"Add a New Address\" or \"Edit Shipping Addresses\" button.\n5. Fill in the required fields with the details of your secondary delivery address.\n6. Double-check the information for accuracy.\n7. Click on the \"Submit\" or \"Save\" button to save your changes.\n\nIf you encounter any issues or have any additional questions, please don't hesitate to let me know. I'm here to assist you every step of the way!"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I would like to enter my shipping address , how to do it?",
+    "instruction_cn": "我想输入我的收货地址，该怎么操作？",
+    "response_en": "I've grasped that you would like guidance on how to enter your shipping address. Rest assured, I'm here to assist you.\n\nTo enter your shipping address, please follow these steps:\n\n1. Log in to your account on our website.\n2. Go to the \"My Account\" section.\n3. Look for the \"Shipping Addresses\" or similar option.\n4. Select the option to \"Add a New Address\" or \"Edit Shipping Addresses\".\n5. Fill in the required fields with the details of your shipping address, such as the street address, city, state, and postal code.\n6. Double-check the accuracy of the entered information.\n7. Click on the \"Save\" or \"Update\" button to confirm and save the shipping address.\n\nIf you encounter any issues during the process or have any further questions, please don't hesitate to reach out. Our dedicated support team is here to provide you with any necessary assistance.",
+    "response_cn": "I've grasped that you would like guidance on how to enter your shipping address. Rest assured, I'm here to assist you.\n\nTo enter your shipping address, please follow these steps:\n\n1. Log in to your account on our website.\n2. Go to the \"My Account\" section.\n3. Look for the \"Shipping Addresses\" or similar option.\n4. Select the option to \"Add a New Address\" or \"Edit Shipping Addresses\".\n5. Fill in the required fields with the details of your shipping address, such as the street address, city, state, and postal code.\n6. Double-check the accuracy of the entered information.\n7. Click on the \"Save\" or \"Update\" button to confirm and save the shipping address.\n\nIf you encounter any issues during the process or have any further questions, please don't hesitate to reach out. Our dedicated support team is here to provide you with any necessary assistance."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "issue submitting the secondary delivery address",
+    "instruction_cn": "提交备用配送地址时出现问题",
+    "response_en": "I've realized that you're experiencing difficulties while submitting your secondary delivery address. I apologize for the inconvenience caused. To resolve this issue, please ensure that you have followed the correct steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar section.\n4. Select the option to 'Add a New Address' or 'Edit Shipping Addresses'.\n5. Carefully enter all the required details for your secondary delivery address.\n6. Double-check the entered information to ensure accuracy.\n7. Finally, click on the 'Submit' or 'Save' button to save your address.\n\nIf the issue persists or if you encounter any error messages during the process, please provide more specific details or error messages so that we can assist you better. Our customer support team is also available to help you through this process. You can reach out to them at {{Customer Support Phone Number}} or contact them via Live Chat on our website at {{Website URL}}. Rest assured, we are here to support you until the issue is resolved.",
+    "response_cn": "I've realized that you're experiencing difficulties while submitting your secondary delivery address. I apologize for the inconvenience caused. To resolve this issue, please ensure that you have followed the correct steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar section.\n4. Select the option to 'Add a New Address' or 'Edit Shipping Addresses'.\n5. Carefully enter all the required details for your secondary delivery address.\n6. Double-check the entered information to ensure accuracy.\n7. Finally, click on the 'Submit' or 'Save' button to save your address.\n\nIf the issue persists or if you encounter any error messages during the process, please provide more specific details or error messages so that we can assist you better. Our customer support team is also available to help you through this process. You can reach out to them at {{Customer Support Phone Number}} or contact them via Live Chat on our website at {{Website URL}}. Rest assured, we are here to support you until the issue is resolved."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "can you tell me about a shipping address update?",
+    "instruction_cn": "请问您是想了解如何更新配送地址吗？",
+    "response_en": "Absolutely! If you need to update your shipping address, you can easily do so by accessing your account settings on our website. Simply log in, navigate to the \"Shipping Address\" section, and update the necessary information. Alternatively, you can contact our customer support team and they will be happy to assist you with updating your shipping address.",
+    "response_cn": "Absolutely! If you need to update your shipping address, you can easily do so by accessing your account settings on our website. Simply log in, navigate to the \"Shipping Address\" section, and update the necessary information. Alternatively, you can contact our customer support team and they will be happy to assist you with updating your shipping address."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "support setting another shipping address up",
+    "instruction_cn": "支持设置另一个收货地址",
+    "response_en": "I acknowledge that you need support in setting up another shipping address. I'm here to help you with this process. To add a new shipping address to your account, please follow these steps:\n\n1. Log in to your account and navigate to the \"My Account\" or \"Profile\" section.\n2. Look for the \"Shipping Addresses\" or similar option within this section.\n3. Click on the option to \"Add a New Address\" or \"Edit Shipping Addresses.\"\n4. Enter the details of your new shipping address, including the recipient's name, street address, city, state, and zip code.\n5. Review the information you've entered to ensure its accuracy and completeness.\n6. Save the changes made to your shipping address.\n\nIf you encounter any difficulties or require further assistance during this process, please don't hesitate to reach out. I'm here to provide you with the support you need to successfully set up your new shipping address.",
+    "response_cn": "I acknowledge that you need support in setting up another shipping address. I'm here to help you with this process. To add a new shipping address to your account, please follow these steps:\n\n1. Log in to your account and navigate to the \"My Account\" or \"Profile\" section.\n2. Look for the \"Shipping Addresses\" or similar option within this section.\n3. Click on the option to \"Add a New Address\" or \"Edit Shipping Addresses.\"\n4. Enter the details of your new shipping address, including the recipient's name, street address, city, state, and zip code.\n5. Review the information you've entered to ensure its accuracy and completeness.\n6. Save the changes made to your shipping address.\n\nIf you encounter any difficulties or require further assistance during this process, please don't hesitate to reach out. I'm here to provide you with the support you need to successfully set up your new shipping address."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "i want help modifying the address",
+    "instruction_cn": "我需要帮助修改地址",
+    "response_en": "Certainly, I can assist you with modifying your address. To do so, you can either go to your account settings and update the address or reach out to our customer support team for further guidance. Let me know if you need any further assistance!",
+    "response_cn": "Certainly, I can assist you with modifying your address. To do so, you can either go to your account settings and update the address or reach out to our customer support team for further guidance. Let me know if you need any further assistance!"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "there is an issue trying to change my shipping address",
+    "instruction_cn": "我在尝试更改收货地址时遇到了问题",
+    "response_en": "I'm sorry to hear that you are experiencing issues with changing your shipping address. I'll do my best to assist you with resolving this problem. Please provide me with more details about the issue you are facing so that I can help you better.",
+    "response_cn": "I'm sorry to hear that you are experiencing issues with changing your shipping address. I'll do my best to assist you with resolving this problem. Please provide me with more details about the issue you are facing so that I can help you better."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I have got to set my secondary shipping address up",
+    "instruction_cn": "我需要设置我的备用收货地址",
+    "response_en": "I recognize that you need to set up your secondary shipping address, and I'm here to help you with that. To ensure a smooth process, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to your profile or account settings.\n3. Locate the shipping addresses section.\n4. Look for an option to add a new address or edit existing addresses.\n5. Click on the option to add a new address.\n6. Fill in the required details for your secondary shipping address, such as the street, city, state, and ZIP code.\n7. Double-check the information you've entered for accuracy.\n8. Save the changes.\n\nIf you encounter any issues during this process or if you need further assistance, please let me know, and I'll be glad to assist you further.",
+    "response_cn": "I recognize that you need to set up your secondary shipping address, and I'm here to help you with that. To ensure a smooth process, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to your profile or account settings.\n3. Locate the shipping addresses section.\n4. Look for an option to add a new address or edit existing addresses.\n5. Click on the option to add a new address.\n6. Fill in the required details for your secondary shipping address, such as the street, city, state, and ZIP code.\n7. Double-check the information you've entered for accuracy.\n8. Save the changes.\n\nIf you encounter any issues during this process or if you need further assistance, please let me know, and I'll be glad to assist you further."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i have got to set u a bloody delivery address i need help",
+    "instruction_cn": "我需要设置一个配送地址，但我搞不定，能帮帮我吗？",
+    "response_en": "I've realized that you're feeling frustrated and eager to set up your delivery address. I apologize for any inconvenience you've encountered so far. Rest assured, I'm here to assist you every step of the way. Let's get started:\n\n1. Log in to your account on our website.\n2. Look for the 'My Account' or 'Profile' section.\n3. Within that section, navigate to the 'Shipping Addresses' or a similar option.\n4. There should be an option to 'Add a New Address' or 'Edit Shipping Addresses'. Click on it.\n5. Fill in the required details for your delivery address, ensuring accuracy and completeness.\n6. Don't forget to save the changes once you've entered the address.\n\nIf you encounter any difficulties or have further questions during the process, please let me know. I'm committed to resolving any issue you may face with utmost dedication and care.",
+    "response_cn": "I've realized that you're feeling frustrated and eager to set up your delivery address. I apologize for any inconvenience you've encountered so far. Rest assured, I'm here to assist you every step of the way. Let's get started:\n\n1. Log in to your account on our website.\n2. Look for the 'My Account' or 'Profile' section.\n3. Within that section, navigate to the 'Shipping Addresses' or a similar option.\n4. There should be an option to 'Add a New Address' or 'Edit Shipping Addresses'. Click on it.\n5. Fill in the required details for your delivery address, ensuring accuracy and completeness.\n6. Don't forget to save the changes once you've entered the address.\n\nIf you encounter any difficulties or have further questions during the process, please let me know. I'm committed to resolving any issue you may face with utmost dedication and care."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i have a trouble entering my secondary delivery address",
+    "instruction_cn": "我在输入备用配送地址时遇到了问题",
+    "response_en": "I hear you're experiencing difficulty entering your secondary delivery address, and I'm here to assist you in resolving this issue. Let's work together to troubleshoot this problem:\n\n1. Start by logging in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Ensure that you have entered all the necessary details correctly in the provided fields for your secondary delivery address.\n5. If you're encountering any error messages or if the system isn't allowing you to save your changes, double-check the format of your address and make sure it meets the required criteria (e.g., correct postal code format, valid street number, etc.).\n6. If the issue persists, try using a different web browser or clearing your browser cache and cookies. Sometimes, these steps can help resolve technical issues.\n7. If none of the above steps work, please reach out to our customer support team via our {{Contact Us}} page or call our support hotline at {{Customer Support Phone Number}}. They will be able to provide further assistance and determine if there are any known technical issues that may be affecting the entry of secondary delivery addresses.\n\nRemember, we're here to support you every step of the way, so don't hesitate to let us know if there's anything else we can do to help.",
+    "response_cn": "I hear you're experiencing difficulty entering your secondary delivery address, and I'm here to assist you in resolving this issue. Let's work together to troubleshoot this problem:\n\n1. Start by logging in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Ensure that you have entered all the necessary details correctly in the provided fields for your secondary delivery address.\n5. If you're encountering any error messages or if the system isn't allowing you to save your changes, double-check the format of your address and make sure it meets the required criteria (e.g., correct postal code format, valid street number, etc.).\n6. If the issue persists, try using a different web browser or clearing your browser cache and cookies. Sometimes, these steps can help resolve technical issues.\n7. If none of the above steps work, please reach out to our customer support team via our {{Contact Us}} page or call our support hotline at {{Customer Support Phone Number}}. They will be able to provide further assistance and determine if there are any known technical issues that may be affecting the entry of secondary delivery addresses.\n\nRemember, we're here to support you every step of the way, so don't hesitate to let us know if there's anything else we can do to help."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "where to edit my shipping address?",
+    "instruction_cn": "在哪里修改我的收货地址？",
+    "response_en": "To edit your shipping address, you can follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to the \"Account Settings\" section.\n3. Look for the \"Shipping Address\" tab or option.\n4. Click on it to access your shipping address details.\n5. Update the necessary fields with your new address information.\n6. Save the changes.\n\nIf you encounter any issues or need further assistance, feel free to reach out to our customer support team. We're here to help!",
+    "response_cn": "To edit your shipping address, you can follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to the \"Account Settings\" section.\n3. Look for the \"Shipping Address\" tab or option.\n4. Click on it to access your shipping address details.\n5. Update the necessary fields with your new address information.\n6. Save the changes.\n\nIf you encounter any issues or need further assistance, feel free to reach out to our customer support team. We're here to help!"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "I don't know what to do to correct my shipping address",
+    "instruction_cn": "我不知道该怎么修改我的收货地址",
+    "response_en": "No worries! I'm here to help you with correcting your shipping address. To make the necessary changes, you can contact our customer support team and provide them with the correct address details. They will assist you in updating the shipping address for your order. Don't hesitate to reach out to them, as they are available 24/7 to provide you with the best possible assistance.",
+    "response_cn": "No worries! I'm here to help you with correcting your shipping address. To make the necessary changes, you can contact our customer support team and provide them with the correct address details. They will assist you in updating the shipping address for your order. Don't hesitate to reach out to them, as they are available 24/7 to provide you with the best possible assistance."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "my secondary delivery address is not valid",
+    "instruction_cn": "我的备用收货地址无效",
+    "response_en": "I can relate to the understanding that you're facing issues with your secondary delivery address not being valid. I apologize for the inconvenience this may have caused. To resolve this, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Select the option to edit your secondary delivery address.\n5. Double-check the details entered for accuracy, including the street name, city, state, and postal code. Ensure that there are no typos or missing information.\n6. Save the changes.\n\nIf you continue to encounter difficulties or if you need further assistance, please provide specific details about the error message or issue you're facing, and I'll be more than happy to assist you further. Our goal is to ensure that your secondary delivery address is updated correctly in our system.",
+    "response_cn": "I can relate to the understanding that you're facing issues with your secondary delivery address not being valid. I apologize for the inconvenience this may have caused. To resolve this, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar option.\n4. Select the option to edit your secondary delivery address.\n5. Double-check the details entered for accuracy, including the street name, city, state, and postal code. Ensure that there are no typos or missing information.\n6. Save the changes.\n\nIf you continue to encounter difficulties or if you need further assistance, please provide specific details about the error message or issue you're facing, and I'll be more than happy to assist you further. Our goal is to ensure that your secondary delivery address is updated correctly in our system."
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "where do I change my shipping address?",
+    "instruction_cn": "我在哪里可以修改我的收货地址？",
+    "response_en": "To update your shipping address, you can log into your account and go to the \"Shipping Address\" section. From there, you can make the necessary changes to ensure your order gets delivered to the correct location. If you encounter any difficulties, please feel free to reach out to our customer support team for further assistance.",
+    "response_cn": "如需更新您的收货地址，您可以登录您的账户，进入\"收货地址\"部分。在那里，您可以进行必要的更改，以确保您的订单能够送达正确的地址。如果您遇到任何困难，请随时联系我们的 {Customer Support Phone Number} 客服团队以获得进一步帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I try to submit the new delivery address",
+    "instruction_cn": "我尝试提交新的收货地址",
+    "response_en": "I'm conscious of the reality that you've been attempting to submit your new delivery address. Let's work through this together. \n\nFirst, please ensure that you have entered all the required information correctly, including the street address, city, state, and ZIP code. Check for any typos or missing details that might be causing the submission error.\n\nIf you're still encountering difficulties, try clearing your browser cache and cookies and attempt the submission again. Sometimes outdated or conflicting data can interfere with the submission process.\n\nIf the problem persists, I recommend reaching out to our customer support team directly. They have the expertise to troubleshoot technical issues and provide personalized assistance with submitting your new delivery address. You can contact them by phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to resolve any further concerns.\n\nPlease let me know if there's anything else I can assist you with.",
+    "response_cn": "我注意到您一直在尝试提交新的收货地址。让我们一起来解决这个问题。\n\n首先，请确保您已正确填写了所有必填信息，包括街道地址、城市、州和邮政编码。检查是否有任何拼写错误或遗漏的细节，这些都可能导致提交失败。\n\n如果您仍然遇到问题，请尝试清除浏览器的缓存和Cookie，然后再次尝试提交。有时过时或冲突的数据可能会干扰提交过程。\n\n如果问题仍然存在，我建议您直接联系我们的客服团队。他们具备专业的技术故障排除能力，可以为您提供提交新收货地址的个性化协助。您可以通过电话 {{Customer Support Phone Number}} 或我们网站上的在线聊天 {{Website URL}} 联系他们。客服服务时间为 {{Customer Support Hours}}，他们会为您解决任何后续问题。\n\n如果还有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i need assistance to set the new delivery address up",
+    "instruction_cn": "我需要协助设置新的配送地址。",
+    "response_en": "I'm on it! I understand that you require guidance in setting up a new delivery address. Let's walk through the process together:\n\n1. Log in to your account.\n2. Navigate to your profile or account settings.\n3. Look for the option to manage your shipping addresses.\n4. Select the option to add a new address.\n5. Fill in the necessary details for your new delivery address, such as recipient name, street address, city, state, and postal code.\n6. Double-check all the information for accuracy.\n7. Save the changes.\n\nIf you encounter any difficulties or need further assistance at any point, please don't hesitate to let me know. I'll be here to support you throughout the process.",
+    "response_cn": "好的，我明白了！我了解您需要设置新的配送地址的指导。让我们一起来完成以下步骤：\n\n1. 登录您的账户。\n2. 进入您的个人资料或账户设置页面。\n3. 找到管理收货地址的选项。\n4. 选择添加新地址。\n5. 填写新配送地址的详细信息，例如收件人姓名、街道地址、城市、州/省和邮政编码。\n6. 仔细核对所有信息的准确性。\n7. 保存更改。\n\n如果您在过程中遇到任何困难或需要进一步的帮助，请随时告诉我。我会全程为您提供支持。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i want help to enter a new delivery address",
+    "instruction_cn": "我需要帮助添加一个新的收货地址",
+    "response_en": "I grasp that you're seeking assistance in entering a new delivery address. Rest assured, I'm here to guide you through the process. To enter a new delivery address, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or a similar option.\n4. You should see an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Enter the specific details of your new delivery address in the provided fields.\n6. Double-check the accuracy of the information and save the changes.\n\nIf you encounter any issues or if the process appears different for you, please provide more details so that I can further assist you. Your satisfaction is our top priority.\"",
+    "response_cn": "I grasp that you're seeking assistance in entering a new delivery address. Rest assured, I'm here to guide you through the process. To enter a new delivery address, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or a similar option.\n4. You should see an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Enter the specific details of your new delivery address in the provided fields.\n6. Double-check the accuracy of the information and save the changes.\n\nIf you encounter any issues or if the process appears different for you, please provide more details so that I can further assist you. Your satisfaction is our top priority.\""
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "i dont know how to set up the new delivery addresd",
+    "instruction_cn": "我不知道如何设置新的收货地址",
+    "response_en": "No problem! I'm here to guide you through the process of setting up a new delivery address. To get started, please follow these steps:\n\n1. Log in to your account on our website.\n2. Navigate to your account settings or profile section.\n3. Look for the option to manage your addresses or shipping information.\n4. Click on the option to add a new address.\n5. Fill in the required details for the new delivery address, including the recipient's name, street address, city, state, and ZIP code.\n6. Double-check the information you entered to ensure its accuracy.\n7. Save the new address.\n\nIf you encounter any difficulties during these steps or have any questions, please don't hesitate to let me know. I'm here to assist you every step of the way!",
+    "response_cn": "没问题！我来引导您完成设置新收货地址的流程。请按照以下步骤操作：\n\n1. 登录我们网站的账户。\n2. 进入账户设置或个人资料页面。\n3. 找到管理地址或配送信息的选项。\n4. 点击添加新地址的选项。\n5. 填写新收货地址的必填信息，包括收件人姓名、街道地址、城市、州和邮政编码。\n6. 仔细核对您填写的信息，确保准确无误。\n7. 保存新地址。\n\n如果您在操作过程中遇到任何困难或有任何疑问，请随时告诉我。我会全程为您提供帮助！"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "issues changing shipping address",
+    "instruction_cn": "更改收货地址的问题",
+    "response_en": "We apologize for any difficulties you may have encountered while trying to update your shipping address. Our customer service team is available to assist you in resolving this issue promptly. Please provide us with the details of the problem, and we will make sure to address it as soon as possible.",
+    "response_cn": "对于您在尝试更新收货地址时遇到的任何不便，我们深表歉意。我们的客服团队随时准备协助您尽快解决此问题。请向我们提供问题的详细信息，我们将确保尽快处理。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I need to set up my new delivery address",
+    "instruction_cn": "我需要设置新的收货地址",
+    "response_en": "Assuredly! I'm here to guide you through setting up your new delivery address. Here's a step-by-step process:\n\n1. Log in to your account on our website or app.\n2. Navigate to the \"My Account\" or \"Profile\" section.\n3. Look for the \"Shipping Addresses\" or similar tab.\n4. There should be an option to \"Add a New Address\" or \"Edit Shipping Addresses\". Click on it.\n5. Fill in the required fields with the details of your new delivery address, such as street name, city, state, and zip code.\n6. Make sure to double-check the information for accuracy.\n7. Click on the \"Save\" or \"Submit\" button to save your new delivery address.\n\nIf you encounter any issues or have any questions during the process, don't hesitate to reach out. We're more than happy to assist you further.",
+    "response_cn": "当然！我很乐意为您介绍如何设置新的配送地址。以下是详细步骤：\n\n1. 登录我们网站或应用程序上的您的账户。\n2. 进入\"我的账户\"或\"个人资料\"页面。\n3. 找到\"收货地址\"或类似的标签页。\n4. 应该会有一个\"添加新地址\"或\"编辑收货地址\"的选项，请点击它。\n5. 在相应字段中填写您的新配送地址信息，例如街道名称、城市、州和邮政编码。\n6. 请务必仔细核对信息，确保准确无误。\n7. 点击\"保存\"或\"提交\"按钮以保存您的新配送地址。\n\n如果您在操作过程中遇到任何问题或有任何疑问，请随时联系我们。我们非常乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "want help settinh up my secondary shipping address",
+    "instruction_cn": "我想帮我设置备用收货地址",
+    "response_en": "I can relate to the understanding that you're seeking assistance in setting up your secondary shipping address, and I'm here to help. I apologize for any confusion or frustration this may have caused you. To set up your secondary shipping address, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar section.\n4. There should be an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Enter the details of your secondary shipping address in the provided fields.\n6. Save the changes.\n\nIf you encounter any issues or have any questions during the process, please don't hesitate to reach out. I'm here to provide further guidance and ensure a smooth experience for you.",
+    "response_cn": "我理解您正在寻求设置备用收货地址的帮助，我很乐意为您提供协助。对于由此可能给您带来的任何困惑或不便，我深表歉意。要设置您的备用收货地址，请按照以下步骤操作：\n\n1. 登录您的账户。\n2. 进入\"我的账户\"或\"个人资料\"部分。\n3. 找到\"收货地址\"或类似的选项。\n4. 应该会有一个\"添加新地址\"或\"编辑收货地址\"的选项，请选择它。\n5. 在提供的字段中输入您的备用收货地址的详细信息。\n6. 保存更改。\n\n如果您在操作过程中遇到任何问题或有任何疑问，请随时联系我。我将为您提供进一步的指导，确保您的体验顺畅无忧。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "could I set up the shipping address?",
+    "instruction_cn": "我可以设置收货地址吗？",
+    "response_en": "I'm with you, your desire to set up the shipping address, and I'm here to guide you through the process. Please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the \"My Account\" or \"Profile\" section.\n3. Look for the \"Shipping Addresses\" or similar option.\n4. Select the option to \"Add a New Address\" or \"Set Up a Shipping Address\".\n5. Fill in the required details for the shipping address, such as the recipient's name, street address, city, state, and ZIP code.\n6. Double-check the accuracy of the information entered.\n7. Save the changes to finalize the setup of your shipping address.\n\nIf you encounter any difficulties or have any questions during the process, please don't hesitate to reach out. Our support team is always ready to assist you in ensuring the smooth setup of your shipping address.",
+    "response_cn": "我来帮您设置发货地址，我会全程指导您完成以下步骤：\n\n1. 登录您的账户。\n2. 进入\"我的账户\"或\"个人资料\"页面。\n3. 找到\"收货地址\"或类似选项。\n4. 选择\"添加新地址\"或\"设置收货地址\"。\n5. 填写收货地址的必填信息，包括收件人姓名、街道地址、城市、州和邮政编码。\n6. 仔细核对所填信息的准确性。\n7. 保存更改以完成收货地址的设置。\n\n如果您在操作过程中遇到任何问题或有任何疑问，请随时联系我们。我们的客服团队随时准备协助您顺利完成收货地址的设置。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "there is an issue trying to update the shipping address",
+    "instruction_cn": "更新收货地址时出现了问题",
+    "response_en": "We apologize for the trouble you are facing while trying to update your shipping address. Our customer service team is available to assist you with this issue. Please reach out to them and provide them with the necessary details, and they will help resolve the problem. Your satisfaction is our top priority, and we are committed to ensuring a seamless experience for you.",
+    "response_cn": "很抱歉您在更新收货地址时遇到了问题。我们的客服团队随时准备为您提供帮助。请与他们联系并提供相关详细信息，他们将协助您解决此问题。您的满意是我们的首要目标，我们致力于为您确保顺畅的体验。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "their are errors submitting my fucking shipping address",
+    "instruction_cn": "提交我的收货地址时出现错误",
+    "response_en": "I apologize for the errors you're encountering while trying to submit your shipping address. I completely understand how frustrating this can be. To assist you further, could you please provide more details about the specific errors you're facing? This will help us identify the issue and provide you with a tailored solution. Rest assured, our team is dedicated to resolving this matter promptly and ensuring a smooth experience for you.",
+    "response_cn": "非常抱歉您在提交收货地址时遇到了错误，我完全理解这给您带来的困扰。为了进一步协助您，能否请您提供更多关于您所遇到的具体错误详情？这将有助于我们确定问题并为您提供针对性的解决方案。请放心，我们的团队致力于及时解决此问题，确保您获得顺畅的体验。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "how can i find information about correcting the address",
+    "instruction_cn": "如何查询修改地址的相关信息",
+    "response_en": "To find information about correcting your address, you can visit our website and navigate to the \"Contact Us\" or \"Customer Support\" page. There, you will find our contact information, including phone numbers, email addresses, and live chat options. You can reach out to our customer service team and they will be able to guide you through the process of correcting your address.",
+    "response_cn": "要查找有关更正地址的信息，您可以访问我们的网站，进入\"联系我们\"或\"客户支持\"页面。在那里，您可以找到我们的联系方式，包括电话号码、电子邮件地址和在线聊天选项。您可以联系我们的客服团队，他们将能够指导您完成地址更正的流程。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "I need to submit my delivery address",
+    "instruction_cn": "我需要提交我的收货地址",
+    "response_en": "I've been informed that you need to submit your delivery address. This is an important step to ensure that your order is sent to the correct location. To submit your delivery address, please follow these steps:\n\n1. Log in to your account.\n2. Navigate to the 'My Account' or 'Profile' section.\n3. Look for the 'Shipping Addresses' or similar section.\n4. There should be an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.\n5. Enter the details of your delivery address in the provided fields.\n6. Make sure to double-check the accuracy of the information.\n7. Save the changes.\n\nIf you encounter any difficulties while submitting your delivery address or if you have any further questions, please don't hesitate to reach out. We're here to assist you every step of the way.",
+    "response_cn": "我已收到通知，您需要提交您的收货地址。这是确保您的订单被发送到正确位置的重要步骤。要提交您的收货地址，请按照以下步骤操作：\n\n1. 登录您的账户。\n2. 进入\"我的账户\"或\"个人资料\"部分。\n3. 找到\"收货地址\"或类似的栏目。\n4. 应该会有一个\"添加新地址\"或\"编辑收货地址\"的选项，请选择它。\n5. 在提供的字段中填写您的收货地址详细信息。\n6. 请务必仔细核对信息的准确性。\n7. 保存更改。\n\n如果您在提交收货地址时遇到任何困难，或者有任何其他问题，请随时联系我们。我们随时为您提供全程协助。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "set_up_shipping_address",
+    "instruction_en": "issues entering the new shipping address",
+    "instruction_cn": "输入新收货地址时遇到问题",
+    "response_en": "I'm sorry to hear that you're experiencing difficulties when entering your new shipping address. Rest assured, I'm here to help you overcome this obstacle.\n\nTo assist you effectively, I will need some additional information. Could you please provide more details about the specific issues you are encountering? Are you receiving any error messages? Is the system not accepting the address format? Any specific fields causing confusion?\n\nOnce I have a better understanding of your concerns, I'll be able to provide you with tailored guidance to resolve the issue and successfully enter your new shipping address. Your satisfaction is my priority, and I'm committed to ensuring a smooth and hassle-free experience for you.",
+    "response_cn": "很抱歉听到您在输入新收货地址时遇到了困难。请放心，我会全力协助您解决这个问题。\n\n为了更有效地为您提供帮助，我需要了解一些额外信息。能否请您详细说明一下具体遇到了哪些问题？是否收到了任何错误提示？是系统不接受地址格式，还是某些特定字段让您感到困惑？\n\n一旦我更好地了解了您所遇到的问题，我将能够为您提供针对性的指导，帮助您顺利输入新的收货地址。您的满意是我的首要目标，我会致力于确保您获得顺畅无忧的体验。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "error editing shipping address",
+    "instruction_cn": "编辑配送地址时出错",
+    "response_en": "I apologize for the error you encountered while trying to edit your shipping address. Let me assist you with resolving this issue. Please provide me with the specific details of the error so that I can guide you through the correct process of editing your shipping address.",
+    "response_cn": "很抱歉您在尝试编辑收货地址时遇到了错误。让我来协助您解决此问题。请提供该错误的具体详情，以便我引导您完成正确的收货地址修改流程。"
+  },
+  {
+    "category": "SHIPPING",
+    "intent": "change_shipping_address",
+    "instruction_en": "tell me about correcting the shipping address",
+    "instruction_cn": "请告诉我如何更正收货地址",
+    "response_en": "Unquestionably! If you need to correct the shipping address, please reach out to our customer service team as soon as possible. They will assist you in making the necessary changes to ensure your package is delivered to the correct location. It's important to provide them with accurate and updated information to avoid any issues with the delivery. Our team is available 24/7 and ready to help you with any modifications you need to make to your shipping address.",
+    "response_cn": "当然可以！如果您需要修改收货地址，请尽快联系我们的客服团队。他们将协助您进行必要的更改，以确保您的包裹能够送达正确的地址。请务必向他们提供准确且最新的信息，以避免任何配送问题。我们的团队全天候24小时在线，随时准备帮助您对收货地址进行任何所需的修改。"
+  }
+]

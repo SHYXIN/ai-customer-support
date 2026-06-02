@@ -1,0 +1,802 @@
+[
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "tell me about subscribing to your newsletter",
+    "instruction_cn": "您好，我想了解订阅你们的通讯。",
+    "response_en": "For sure! I'm thrilled that you're interested in subscribing to our newsletter. Our newsletter is designed to keep you informed about the latest updates, promotions, and valuable insights related to our company. By subscribing, you'll be the first to know about exciting new products, upcoming events, and exclusive offers. It's a great way to stay connected and be part of our community. To subscribe, simply visit our website and navigate to the newsletter section, where you can enter your email address and confirm your subscription. We take your privacy seriously and promise to handle your information with the utmost care. Should you ever wish to unsubscribe or modify your subscription preferences, you can easily do so by clicking on the unsubscribe link provided in every newsletter. Don't miss out on the valuable content and exciting opportunities waiting for you in our newsletter. Subscribe today and embark on a journey of knowledge and discovery!",
+    "response_cn": "当然可以！很高兴您有兴趣订阅我们的新闻通讯。我们的新闻通讯旨在为您提供有关我们公司的最新更新、促销活动和有价值见解。通过订阅，您将第一时间了解令人兴奋的新产品、即将举行的活动和独家优惠。这是保持联系并成为我们社区成员的好方法。要订阅，只需访问我们的网站并导航到新闻通讯部分，在那里您可以输入您的电子邮件地址并确认订阅。我们非常重视您的隐私，并承诺以最大的谨慎处理您的信息。如果您希望取消订阅或修改订阅偏好，您可以轻松点击每封新闻通讯中提供的取消订阅链接。不要错过我们新闻通讯中等待您的有价值内容和激动人心的机会。今天就订阅，踏上知识和发现的旅程！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "want help to cancel my newsletter subscriotion",
+    "instruction_cn": "您好，我想取消我的新闻订阅。",
+    "response_en": "I've understood you would like assistance with canceling your newsletter subscription. Your decision to unsubscribe is regrettable, but we respect your choice. To proceed with the cancellation, I kindly request you to provide me with the email address you used to subscribe to our newsletter. Once I have the necessary information, I will promptly initiate the cancellation process. Additionally, I would appreciate any feedback or suggestions you may have regarding our newsletter to help us improve our content and better serve our subscribers. Thank you for reaching out to us, and I'm here to assist you every step of the way.",
+    "response_cn": "我理解您需要取消我们的新闻通讯订阅。虽然我们对您的退订决定感到遗憾，但我们会尊重您的选择。为了完成取消操作，烦请提供您订阅新闻通讯时使用的邮箱地址。一旦收到相关信息，我将立即为您处理取消。此外，如果您对我们的新闻通讯有任何反馈或建议，欢迎告知，这将帮助我们改进内容，更好地服务订阅者。感谢您联系我们，我将全程为您提供协助。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "could you help me unsubscribe from your bloody newsletter?",
+    "instruction_cn": "您好，请问您能帮我取消订阅你们的邮件吗？",
+    "response_en": "Definitely! I apologize if our newsletter has been causing you any inconvenience or frustration. I understand that you would like to unsubscribe from our newsletter. To assist you with this, could you please provide me with the email address you used to subscribe? Once I have the necessary information, I will ensure that you are promptly and permanently removed from our mailing list. Your feedback is valuable to us, and we appreciate you taking the time to let us know your preferences.",
+    "response_cn": "当然可以！如果我们的订阅邮件给您带来了任何不便或困扰，我深表歉意。我理解您希望取消订阅我们的邮件。为了帮您处理此事，请问您能提供一下您订阅时使用的邮箱地址吗？一旦我获得相关信息，我会确保您及时且永久地从我们的邮件列表中移除。您的反馈对我们非常重要，感谢您抽出时间告知您的偏好。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "where to unsubscribe from the fucking corporate newsletter",
+    "instruction_cn": "请问您想取消订阅我们的企业通讯吗？您可以点击邮件底部的\"取消订阅\"链接，或联系我们的客服团队协助处理。",
+    "response_en": "I apologize for any inconvenience you may have experienced regarding our corporate newsletter. I understand that you would like to unsubscribe from it. To ensure your privacy and preference, please provide me with your email address so that I can assist you in canceling your subscription promptly. Rest assured, we value your feedback and will take appropriate measures to address any concerns you may have had. Your satisfaction is of utmost importance to us, and we welcome any further insights or feedback from you.",
+    "response_cn": "对于您在使用我们企业通讯过程中可能遇到的任何不便，我深表歉意。我理解您希望取消订阅。为了确保您的隐私和偏好，请提供您的电子邮件地址，以便我协助您及时取消订阅。请放心，我们重视您的反馈，并将采取适当措施解决您可能遇到的任何问题。您的满意对我们至关重要，我们欢迎您的任何进一步的意见或反馈。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "ihave got to receive ur damn company newsletter i need help",
+    "instruction_cn": "我需要取消订阅你们公司的新闻通讯，请帮我处理一下。",
+    "response_en": "I'm attuned to the idea that you're eager to receive our company newsletter and are seeking assistance. I apologize for any frustration you may have experienced. Rest assured, I'm here to help you with the subscription process. Could you please provide me with your email address so that I can ensure you're added to our newsletter mailing list? We'll make sure you receive all the latest updates and valuable content from us. Thank you for your enthusiasm, and I appreciate your patience as we work together to assist you with your subscription.",
+    "response_cn": "我理解您希望订阅我们的公司通讯并寻求帮助。对于您可能经历的任何困扰，我深表歉意。请放心，我将协助您完成订阅流程。能否请您提供您的电子邮件地址，以便我确保您将加入我们的通讯邮件列表。我们将确保您收到我们所有的最新更新和优质内容。感谢您的热情，也感谢您的耐心，我们将共同努力协助您完成订阅。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "is it possible to unsubscribe from the company newsletter",
+    "instruction_cn": "请问是否可以取消订阅公司新闻通讯？",
+    "response_en": "I've ascertained that you may no longer want to receive our company newsletter. I apologize for any inconvenience caused. To assist you with unsubscribing, please provide me with your email address or any other details associated with your subscription. Rest assured, your privacy is of utmost importance to us, and we will process your request promptly. Additionally, if there's any specific feedback or reason behind your decision to unsubscribe, we would greatly appreciate your insights as they help us improve our newsletters and better cater to our subscribers' preferences.",
+    "response_cn": "我已确认您可能不再希望接收我们的公司通讯。对于由此带来的任何不便，我深表歉意。为了协助您取消订阅，请提供您的电子邮件地址或与您的订阅相关的任何其他信息。请放心，您的隐私对我们至关重要，我们将及时处理您的请求。此外，如果您有任何具体的反馈或取消订阅的原因，我们将非常感谢您的见解，因为这些反馈有助于我们改进我们的通讯内容，更好地满足订阅者的偏好。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "could you help me unsubscribe from the corporate newsletter?",
+    "instruction_cn": "您好！我来帮您取消企业新闻通讯的订阅。",
+    "response_en": "Of course! I understand that you no longer wish to receive our corporate newsletter. I apologize for any inconvenience caused. To proceed with the unsubscribe process, I would kindly ask for your email address or any other relevant information you used for subscribing. Once I have that, I'll make sure to promptly remove you from our newsletter distribution list. Please note that it may take up to 24 hours for the changes to be fully processed. If you have any other questions or concerns, feel free to let me know, as I'm here to assist you every step of the way.",
+    "response_cn": "当然可以！我理解您不再希望接收我们的企业通讯。对于由此带来的任何不便，我深表歉意。为了继续退订流程，烦请您提供您订阅时使用的邮箱地址或其他相关信息。一旦收到您的信息，我会立即将您从我们的通讯列表中移除。请注意，更改可能需要最多24小时才能完全生效。如果您还有其他问题或疑虑，请随时告诉我，我将全程为您提供帮助。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I try to cancel my subscription to the corporate newsletter",
+    "instruction_cn": "我尝试取消公司新闻订阅",
+    "response_en": "Grateful you reached out to us regarding your desire to cancel your subscription to the corporate newsletter. I apologize for any inconvenience caused, and I'm here to help you with the process. To proceed with the cancellation, please provide me with your email address or any other relevant information related to your subscription. Once I have the necessary details, I will ensure that your newsletter subscription is canceled promptly. If you have any further questions or need assistance with any other matter, please feel free to let me know.",
+    "response_cn": "感谢您就取消企业新闻通讯订阅事宜与我们联系。对于由此带来的任何不便，我深表歉意，我将协助您完成取消流程。为了继续处理取消操作，请提供您的电子邮件地址或与您的订阅相关的任何其他信息。一旦我获得必要的信息，将确保您的新闻通讯订阅被及时取消。如果您有任何其他问题或需要任何其他方面的帮助，请随时告知。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "want help unsubscribing to your company newsletter",
+    "instruction_cn": "想要帮助取消订阅贵公司的新闻通讯",
+    "response_en": "I'm sorry to hear that you no longer wish to receive our company newsletter. I understand that preferences change over time, and I'm here to assist you with unsubscribing. To process your request, could you please provide me with the email address you used to subscribe? This will help me locate your subscription information and ensure a successful and prompt unsubscribe process. Rest assured, we respect your decision and will promptly remove you from our mailing list. If you have any further questions or need any assistance, please feel free to let me know.",
+    "response_cn": "很遗憾得知您不再希望接收我们公司的通讯邮件。我理解偏好会随时间改变，我将协助您完成退订。为了处理您的请求，能否请您提供订阅时使用的电子邮件地址？这将帮助我找到您的订阅信息，确保快速顺利完成退订流程。请放心，我们尊重您的决定，会立即将您从邮件列表中移除。如有任何疑问或需要帮助，请随时告知。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want to know more about my newsletter subscription",
+    "instruction_cn": "我想了解更多关于我的电子报订阅的信息。",
+    "response_en": "Thank you for expressing your interest in learning more about your newsletter subscription. I'm here to provide you with all the information you need. Subscribing to our newsletter ensures that you stay up-to-date with the latest news, promotions, and product updates. Our team works diligently to curate valuable content tailored to your preferences and interests. By subscribing, you'll have access to exclusive offers, educational resources, and exciting company announcements. If you have any specific questions regarding your subscription, feel free to ask, and I'll be happy to assist you further.",
+    "response_cn": "感谢您表达了对了解更多关于新闻通讯订阅的兴趣。我很乐意为您提供所需的所有信息。订阅我们的新闻通讯，可以确保您及时了解最新的新闻、促销活动和产品更新。我们的团队精心策划了符合您偏好和兴趣的宝贵内容。通过订阅，您将获得独家优惠、教育资源以及令人兴奋的公司公告。如果您对订阅有任何具体问题，请随时提出，我很乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help me checking the status of my newsletter subscription",
+    "instruction_cn": "我来帮您查询您的新闻通讯订阅状态。",
+    "response_en": "Absolutely! I'll be more than happy to assist you in checking the status of your newsletter subscription. To do that, could you please provide me with the email address you used to subscribe to our newsletter? With this information, I'll be able to quickly look up your subscription status and provide you with an update. Rest assured, we value your privacy and will handle your information with the utmost confidentiality.",
+    "response_cn": "当然可以！我非常乐意帮您查询新闻通讯的订阅状态。为此，请问您能提供一下您订阅我们新闻通讯时使用的邮箱地址吗？有了这个信息，我就能快速查询您的订阅状态并为您提供更新。请放心，我们非常重视您的隐私，会以最高保密标准处理您的信息。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I need to cancel my company newsletter subscription",
+    "instruction_cn": "我需要取消公司新闻通讯的订阅。",
+    "response_en": "I've noticed that you would like to cancel your subscription to our company newsletter. I apologize for any inconvenience it may have caused. To proceed with the cancellation, could you please provide me with the email address you used to subscribe to the newsletter? This will help me locate your account and ensure a smooth cancellation process. Rest assured, your request will be processed promptly and your email address will be removed from our newsletter mailing list. If there's anything else I can assist you with, please feel free to let me know.",
+    "response_cn": "我注意到您希望取消订阅我们公司的时事通讯。对于可能给您带来的任何不便，我深表歉意。为了继续处理取消订阅，请提供您订阅时事通讯时使用的电子邮件地址。这将帮助我找到您的账户，并确保取消过程顺利进行。请放心，您的请求将得到及时处理，您的电子邮件地址将从我们的时事通讯邮件列表中删除。如果您还有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "information about signing up to your company newsletter",
+    "instruction_cn": "关于订阅我们公司新闻通讯的信息",
+    "response_en": "I appreciate your interest in signing up for our company newsletter! To get started, you can visit our website and navigate to the newsletter subscription section. There, you will find a form where you can enter your email address and select your preferences for the types of content you'd like to receive. By subscribing to our newsletter, you'll be among the first to receive updates, news, promotions, and exclusive content from our company. If you have any further questions or need assistance during the sign-up process, please don't hesitate to let me know.",
+    "response_cn": "感谢您对我们公司通讯订阅感兴趣！要开始订阅，您可以访问我们的网站并导航到通讯订阅页面。在那里，您可以找到一份表单，输入您的电子邮件地址并选择您希望接收的内容类型。通过订阅我们的通讯，您将第一时间收到我们公司的最新动态、新闻、促销活动和独家内容。如果您在订阅过程中有任何疑问或需要帮助，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "what do I need to do to subscribe to the newsletter?",
+    "instruction_cn": "我需要做什么才能订阅新闻通讯？",
+    "response_en": "Thank you for your interest in subscribing to our newsletter! To get started, all you need to do is provide us with your email address. Once you've shared your email with us, we'll add you to our mailing list so that you can start receiving our latest news, updates, and exclusive offers right in your inbox. Rest assured, we deeply value your privacy and will handle your information with the utmost care. We look forward to keeping you informed and connected with our company!",
+    "response_cn": "感谢您对我们的订阅通讯感兴趣！您只需提供您的电子邮箱地址即可开始订阅。一旦您与我们分享您的邮箱，我们就会将您加入我们的邮件列表，这样您就可以直接在收件箱中接收我们的最新资讯、动态更新和独家优惠。请放心，我们非常重视您的隐私，会以最谨慎的方式处理您的信息。我们期待与您保持联系，及时为您传递公司的最新动态！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help me unsubscribe from your newsletter",
+    "instruction_cn": "您好，请帮我取消订阅你们的通讯邮件。",
+    "response_en": "I've understood that you're looking for assistance with unsubscribing from our newsletter. I apologize if the content no longer meets your expectations. To unsubscribe, please click on the \"Unsubscribe\" link located at the bottom of any of our newsletter emails. This will ensure that you are successfully removed from our mailing list. If you require any further assistance or have any concerns, please feel free to let me know.",
+    "response_cn": "我理解您希望取消订阅我们的邮件简报。如果内容不再符合您的期望，我深表歉意。如需取消订阅，请点击我们任意一封邮件简报底部的\"取消订阅\"链接，这将确保您成功从我们的邮件列表中移除。如果您需要进一步的帮助或有任何疑问，请随时告知我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I have to receive your corporate newsletter",
+    "instruction_cn": "我需要接收贵公司的新闻通讯。",
+    "response_en": "We appreciate your interest in receiving our corporate newsletter! Subscribing to our newsletter is a great way to stay informed about the latest news, updates, and promotions from our company. To ensure that you receive the newsletter, let's get you subscribed right away. May I have your email address, please? Rest assured that we prioritize your privacy and will handle your information with the utmost care.",
+    "response_cn": "感谢您有兴趣订阅我们的企业通讯！订阅我们的通讯是了解我们公司最新资讯、动态和促销信息的绝佳方式。为了确保您能收到通讯，我们这就为您订阅。请问您的邮箱地址是什么？请放心，我们高度重视您的隐私，并将以最大的谨慎处理您的信息。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "wanna sign up to the corporate newsletter can uhelp me",
+    "instruction_cn": "您好！想注册企业通讯，我可以帮您。",
+    "response_en": "Thank you for expressing your interest in signing up for our corporate newsletter! I'm here to guide you through the process. To subscribe, simply visit our website and navigate to the newsletter section. You'll find a signup form where you can provide your email address and submit your subscription request. Once you're subscribed, you'll receive our latest news, updates, and exclusive offers directly in your inbox. Rest assured that your privacy is of utmost importance to us, and we will handle your data securely. Should you have any further questions, feel free to reach out to us. We're thrilled to have you as part of our newsletter community!",
+    "response_cn": "感谢您表达了对订阅我们企业通讯的兴趣！我很乐意为您介绍订阅流程。要订阅，只需访问我们的网站并导航至通讯版块。您会看到一个注册表单，在那里您可以提供您的电子邮箱地址并提交订阅请求。一旦订阅成功，您将直接在收件箱中收到我们的最新资讯、动态更新和独家优惠。请放心，您的隐私对我们至关重要，我们将安全地处理您的数据。如有任何进一步的问题，请随时联系我们。我们非常高兴您成为我们通讯社区的一员！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help to cancel the subscription to the corporate newsletter",
+    "instruction_cn": "帮您取消企业通讯订阅",
+    "response_en": "I've got that you'd like assistance with canceling your subscription to our corporate newsletter. I apologize for any inconvenience this may cause. To proceed with canceling your subscription, I kindly request that you provide me with the email address you used to subscribe. Once I have this information, I will promptly initiate the cancellation process for you. Please rest assured that your privacy is of utmost importance to us, and we will handle your request with the highest regard for your data.",
+    "response_cn": "我了解到您希望取消订阅我们的企业通讯。对此可能给您带来的不便，我深表歉意。为了帮您完成取消订阅的操作，烦请您提供订阅时使用的电子邮件地址。一旦收到该信息，我将立即为您启动取消流程。请放心，您的隐私对我们至关重要，我们会以最高标准妥善处理您的请求。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I need help canceling my subscription to the newsletter",
+    "instruction_cn": "我需要帮助取消我的新闻通讯订阅。",
+    "response_en": "I've realized you're looking for assistance in canceling your subscription to our newsletter. I apologize for any inconvenience this may cause. To proceed with the cancellation, could you please provide me with the email address or any other details associated with your subscription? This will help me locate your subscription record and process the cancellation swiftly. Rest assured, we respect your decision, and your privacy remains of utmost importance to us. Once I have the necessary information, I'll ensure that your newsletter subscription is canceled promptly.",
+    "response_cn": "我了解到您希望取消我们的订阅。对于由此带来的不便，我深表歉意。为了帮您完成取消订阅，请提供您订阅时使用的邮箱地址或其他相关信息，以便我快速定位您的订阅记录并处理取消操作。请放心，我们尊重您的决定，您的隐私对我们至关重要。一旦获取到必要信息，我将立即为您取消订阅。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I have got to receive your corporate newsletter, I need help",
+    "instruction_cn": "我需要订阅贵公司的企业通讯，请问有什么可以帮您？",
+    "response_en": "How fantastic to hear that you're eager to receive our corporate newsletter! I appreciate your interest and enthusiasm. I'm here to assist you with whatever help you need in regards to subscribing to our newsletter. Please feel free to let me know how I can be of assistance, whether it's guiding you through the subscription process, answering any questions you may have, or providing any other support. You're a valued member of our community, and we're excited to have you on board!",
+    "response_cn": "很高兴得知您对我们的企业通讯充满期待！感谢您的关注和热情。无论您在订阅通讯方面需要任何帮助，我都很乐意为您提供协助。请随时告诉我如何为您提供帮助，无论是引导您完成订阅流程、回答您可能遇到的任何问题，还是提供其他支持。您是我们社区的重要成员，我们非常高兴能有您的加入！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help to check the status of my subscription to ur newsletter",
+    "instruction_cn": "您好，我想查询一下我的{{newsletter_name}}订阅状态。",
+    "response_en": "I'll be more than happy to assist you in checking the status of your subscription to our newsletter. To proceed, could you please provide me with the email address associated with your subscription? With this information, I'll quickly verify the status and provide you with an update. Your engagement with our newsletter means a lot to us, and we want to ensure that you stay informed and connected. Thank you for your cooperation!",
+    "response_cn": "我很乐意帮您查询您订阅我们通讯的状态。为了继续操作，请提供与您的订阅相关的邮箱地址。有了这个信息，我将快速为您核实状态并提供更新。您对我们通讯的关注对我们意义重大，我们希望确保您保持信息畅通并保持联系。感谢您的配合！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "assistance subscribing to your newsletter",
+    "instruction_cn": "感谢您对订阅我们的新闻通讯感兴趣！",
+    "response_en": "Absolutely! I'm thrilled to assist you with subscribing to our newsletter. It's great to see your interest in staying connected with our latest updates and promotions. To get started, could you please provide me with your email address? Once I have that, I'll ensure you're added to our subscriber list promptly. Rest assured, we value your privacy and will handle your information with the utmost care and security. Additionally, I'd love to know what motivated you to subscribe to our newsletter. Is there something specific you're looking forward to receiving or any particular topics you'd like us to cover? Your feedback helps us tailor our content to suit your interests better!",
+    "response_cn": "当然可以！非常高兴能帮您订阅我们的 Newsletter。看到您有兴趣了解我们的最新动态和促销活动，真是太棒了。要开始订阅，请提供您的电子邮件地址。一旦收到您的邮箱地址，我会立即将您添加到我们的订阅者名单中。请放心，我们非常重视您的隐私，会以最高的安全标准妥善处理您的信息。此外，我还想了解一下是什么促使您订阅我们的 Newsletter？是否有您特别期待收到的内容或希望我们涉及的特定话题？您的反馈将帮助我们更好地定制内容，以满足您的兴趣！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "how can I subscribe to the company newsletter?",
+    "instruction_cn": "如何订阅公司的新闻通讯？",
+    "response_en": "It's wonderful to hear that you're interested in subscribing to our company newsletter! Staying informed about our latest updates and promotions is a fantastic way to engage with our brand and enjoy exclusive content. To subscribe, simply visit our website and navigate to the newsletter subscription section. There, you'll find a quick and easy form to fill out with your name and email address. Once you've submitted the form, you'll start receiving our newsletter directly in your inbox. We appreciate your enthusiasm and assure you that we'll provide you with valuable insights and exciting news. If you have any questions or need further assistance, please don't hesitate to let us know!",
+    "response_cn": "很高兴您有兴趣订阅我们的公司简报！了解我们的最新优惠和促销活动是与我们品牌互动并享受独家内容的绝佳方式。要订阅，只需访问我们的网站并导航到简报订阅页面。在那里，您会找到一个快速简便的表格，只需填写您的姓名和电子邮件地址。提交表格后，您将开始直接在收件箱中收到我们的简报。我们感谢您的热情，并保证我们将为您提供有价值的见解和令人兴奋的新闻。如果您有任何疑问或需要进一步的帮助，请随时告诉我们！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "need assistance cancelling my subscription to ur newsletter",
+    "instruction_cn": "需要帮助取消订阅你们的新闻通讯",
+    "response_en": "I'm sorry to hear that you no longer wish to receive our newsletter. I understand that you would like assistance in canceling your subscription. I'll be happy to help you with that. To proceed with the cancellation, could you please provide me with the email address you used to subscribe? This will allow me to locate your subscription details and take the necessary steps to cancel it. Your privacy is of utmost importance to us, and I assure you that your information will be handled with utmost care. Thank you for giving us the opportunity to assist you with this matter. Is there anything else I can help you with?",
+    "response_cn": "很抱歉得知您不再希望接收我们的电子通讯。我理解您需要取消订阅方面的协助，我很乐意为您提供帮助。为了进行取消操作，请问您能提供订阅时使用的电子邮件地址吗？这将帮助我找到您的订阅信息并采取必要的取消步骤。您的隐私对我们至关重要，我向您保证您的信息将得到最妥善的处理。感谢您给我们机会为您提供这方面的协助。请问还有其他我可以帮您的吗？"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "where to sign up to your newsletter?",
+    "instruction_cn": "您在哪里可以订阅我们的通讯？",
+    "response_en": "It's fantastic that you're interested in signing up for our newsletter! We offer a seamless and convenient way for you to subscribe. To get started, you can visit our website and navigate to the \"Newsletter\" section. There, you'll find a sign-up form where you can enter your email address and submit your subscription request. Alternatively, you may come across a pop-up or banner on our website inviting you to subscribe. Simply provide your email address in the designated field, and you'll be all set to receive our newsletter directly to your inbox. We appreciate your eagerness to stay connected and informed, and we look forward to delivering valuable content right to you!",
+    "response_cn": "很高兴您对我们的订阅通讯感兴趣！我们为您提供便捷的订阅方式。您可以访问我们的网站，进入\"订阅通讯\"页面，在那里您会看到一个订阅表单，只需输入您的电子邮箱地址并提交订阅请求即可。此外，您也可能会在网站上看到订阅弹窗或横幅，只需在指定字段中输入您的电子邮箱地址，即可轻松完成订阅。我们非常期待为您提供有价值的内容！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "how can i cancel the subscription to the company newsletter",
+    "instruction_cn": "如何取消订阅公司通讯",
+    "response_en": "I'm sorry to hear that you want to cancel your subscription to our company newsletter. We value your feedback and would like to assist you in the best possible way. To cancel your subscription, please visit our website and navigate to the newsletter section. You should see an option to unsubscribe from the company newsletter. If you're unable to locate it or face any difficulties, our customer service team is available to guide you through the process. Just give us a call at {{Customer Support Phone Number}} or reach out to us through the live chat on our website at {{Website URL}}. We'll ensure that your subscription is canceled promptly. Can we assist you with anything else today?",
+    "response_cn": "很抱歉听到您想要取消订阅我们公司的新闻通讯。我们非常重视您的反馈，并希望为您提供最好的协助。要取消订阅，请访问我们的网站并导航至新闻通讯部分。您应该可以看到取消订阅公司新闻通讯的选项。如果您无法找到该选项或遇到任何困难，我们的客服团队随时可以为您提供指导。请拨打我们的客服电话 {{Customer Support Phone Number}}，或通过我们网站 {{Website URL}} 上的在线客服联系我们。我们会确保您的订阅及时取消。请问今天还有什么其他可以帮您的吗？"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can you help md unsubscribing to your company newsletter?",
+    "instruction_cn": "您好，我可以帮您取消订阅我们公司的电子报。",
+    "response_en": "I'll make it happen! I'm here to assist you with unsubscribing from our company newsletter. I apologize if the content didn't meet your expectations or if you no longer wish to receive updates from us. To proceed with the unsubscription, I kindly request your email address. Once I have the necessary information, I will ensure that you are promptly removed from our newsletter distribution list. Your privacy and preferences are important to us, and we respect your decision. If there's anything else I can do to improve your experience, please let me know.",
+    "response_cn": "好的，我来帮您处理！很抱歉我们的内容未能达到您的期望，或者您不再希望收到我们的更新。为了帮您取消订阅我们的公司通讯，我需要您提供您的邮箱地址。一旦我获得必要的信息，我会确保您能及时从我们的通讯订阅名单中移除。您的隐私和偏好对我们很重要，我们尊重您的决定。如果还有其他可以改善您体验的地方，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want help to sign up to your corporate newsletter",
+    "instruction_cn": "我想订阅贵公司的企业通讯。",
+    "response_en": "Thanks for dropping us a line and expressing your interest in signing up for our corporate newsletter! We're excited to have you join our community and stay updated on all the latest news and updates. To get started with the subscription process, please provide us with the email address you'd like to use for receiving the newsletter. Rest assured, we value your privacy and ensure that your information will be treated with the highest level of security. Once you've subscribed, you can expect to receive regular newsletters packed with valuable content, offers, and exclusive updates tailored to your interests. We truly appreciate your decision to be a part of our newsletter family, and we look forward to keeping you informed and engaged!",
+    "response_cn": "感谢您联系我们并表达了对订阅我们企业通讯的兴趣！我们非常高兴您能加入我们的社区，及时了解所有最新资讯和动态。要开始订阅流程，请提供您希望用于接收通讯的电子邮箱地址。请放心，我们高度重视您的隐私，并将以最高级别的安全标准保护您的信息。订阅后，您将定期收到包含有价值内容、优惠信息以及根据您的兴趣量身定制的独家资讯。我们衷心感谢您选择成为我们通讯大家庭的一员，并期待与您保持紧密联系，为您提供最新资讯！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "where can I receive the corporate newsletter?",
+    "instruction_cn": "您可以在哪里接收企业通讯？",
+    "response_en": "I appreciate your interest in receiving our corporate newsletter! To make sure you receive it promptly, we offer multiple channels for newsletter delivery. You can receive the newsletter directly in your email inbox by subscribing with your email address on our website. Alternatively, you can also find the newsletter on our company blog or social media platforms, where we regularly share updates and links to the latest edition. If you prefer a physical copy, we also offer the option of mailing the newsletter to your preferred address. Please let me know if you have any further questions or if there's anything specific you'd like assistance with regarding the newsletter subscription.",
+    "response_cn": "感谢您对我们公司通讯的订阅兴趣！为了确保您能及时收到我们的通讯，我们提供了多种通讯获取渠道。您可以通过在网站上使用您的电子邮件地址订阅，直接将通讯发送到您的电子邮箱。此外，您也可以在我们的公司博客或社交媒体平台上找到通讯，我们会定期分享更新内容以及最新一期的链接。如果您更倾向于纸质版，我们也提供将通讯邮寄到您指定地址的服务。如果您还有其他问题，或需要关于通讯订阅方面的具体帮助，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I cannot sign up to your corporate newsledtter",
+    "instruction_cn": "I cannot sign up to your corporate newsletter.\n\n我无法订阅您的企业新闻通讯。",
+    "response_en": "I'm sorry to hear that you're experiencing difficulties signing up for our corporate newsletter. We strive to make the process as smooth as possible, and I would be more than happy to assist you in resolving this issue. Could you please provide me with the details of the problem you encountered during the sign-up process? This information will help us identify any potential technical issues and find a swift solution for you.",
+    "response_cn": "很抱歉您在订阅我们的企业通讯时遇到了困难。我们致力于让这一过程尽可能顺畅，我非常乐意协助您解决这个问题。能否请您提供一下您在订阅过程中遇到问题的具体细节？这些信息将帮助我们识别任何潜在的技术问题，并为您找到快速的解决方案。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help to receive your newslettyer",
+    "instruction_cn": "{{help to receive your newsletter}}",
+    "response_en": "Thank you for your message and expressing your interest in receiving our newsletter! I'd be more than happy to assist you with the subscription process. To subscribe to our newsletter, you can visit our website and navigate to the newsletter section. There, you'll find a simple and user-friendly form where you can enter your email address and submit your subscription request. Once you're subscribed, you'll start receiving our newsletter directly to your inbox, filled with exciting updates, promotions, and valuable content. We're thrilled to have you as part of our newsletter community, and we're here to support you every step of the way. Should you have any further questions or need any assistance, please don't hesitate to let me know!",
+    "response_cn": "感谢您发来的消息，也感谢您表达了对我们通讯订阅的兴趣！我非常乐意协助您完成订阅流程。要订阅我们的通讯，您可以访问我们的网站并导航至通讯版块。在那里，您会找到一个简洁易用的表单，只需输入您的电子邮箱地址并提交订阅请求即可。订阅成功后，您将开始直接在收件箱中收到我们的通讯，其中包含精彩的最新动态、促销活动和优质内容。我们非常高兴您能加入我们的通讯社区，并将全程为您提供支持。如果您有任何其他问题或需要任何帮助，请随时告知我！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "need to receive the newsletter can ya help me",
+    "instruction_cn": "您好！您是想订阅我们的通讯吗？我很乐意帮您完成订阅。请问您的邮箱地址是什么呢？",
+    "response_en": "Positively! I'd be delighted to assist you in receiving our newsletter. It's great to see your interest in staying updated with our latest news and updates. To subscribe, could you please provide me with your email address? This way, I can ensure that you receive the newsletter promptly. Rest assured, we value your privacy and will handle your information with the utmost care. Thank you for choosing to be a part of our mailing list!",
+    "response_cn": "当然可以！我很高兴能帮助您订阅我们的资讯。很高兴看到您希望及时了解我们的最新动态和资讯更新。为了完成订阅，请您提供您的电子邮件地址，这样我就能确保您及时收到我们的资讯。请放心，我们非常重视您的隐私，会以最谨慎的方式处理您的信息。感谢您选择加入我们的订阅列表！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help to subscribe  to your newsletter",
+    "instruction_cn": "您好，请问有什么可以帮您订阅我们的新闻通讯吗？",
+    "response_en": "I appreciate your interest in subscribing to our newsletter! It's great to see that you want to stay connected and up-to-date with our latest news, updates, and offers. To assist you with the subscription process, please provide me with your email address, and I'll ensure that you start receiving our newsletter promptly. Rest assured that we value your privacy and will handle your personal information with the utmost care and security. Is there anything specific you're hoping to gain from our newsletters, or any topics you'd like us to cover? Your input is valuable to us as we continuously strive to deliver valuable content to our subscribers.",
+    "response_cn": "感谢您对我们通讯订阅的关注！很高兴看到您希望与我们保持联系，及时了解我们的最新动态、更新和优惠信息。为了协助您完成订阅流程，请提供您的电子邮箱地址，我将确保您能及时收到我们的通讯。请放心，我们高度重视您的隐私，将以最谨慎和安全的方式处理您的个人信息。您是否希望从我们的通讯中获得特定的内容，或者是否有您希望我们涵盖的主题？您的意见对我们非常重要，我们将持续努力为订阅者提供有价值的内容。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "how to unsubscribe from ur corporate newsletter",
+    "instruction_cn": "如何取消订阅贵公司的企业通讯？",
+    "response_en": "I've picked up that you're seeking guidance on how to unsubscribe from our corporate newsletter. Your privacy and preferences are extremely important to us, and we want to make sure you have full control over the emails you receive. To unsubscribe from our newsletter, you can simply click on the \"Unsubscribe\" link located at the bottom of any newsletter email we send. This will direct you to a page where you can confirm your unsubscription. Alternatively, you can reply to any newsletter email with the word \"Unsubscribe\" in the subject line, and our team will manually remove you from the subscription list. If you have any further questions or need additional assistance, please let me know.",
+    "response_cn": "我注意到您正在寻求有关如何取消订阅我们企业通讯的指导。您的隐私和偏好对我们来说非常重要，我们希望能够确保您对收到的电子邮件拥有完全的控制权。要取消订阅我们的通讯，您可以直接点击我们发送的任何通讯邮件底部的\"取消订阅\"链接，这将引导您进入一个确认取消订阅的页面。或者，您也可以回复任何通讯邮件，在主题栏中写上\"Unsubscribe\"，我们的团队将手动将您从订阅列表中移除。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can you help me subscribe to your newsletter?",
+    "instruction_cn": "您好！我很乐意帮您订阅我们的新闻资讯。请问您希望订阅我们的新闻通讯吗？我可以协助您完成订阅。",
+    "response_en": "I appreciate your interest in subscribing to our newsletter! I'd be more than happy to assist you with that. To proceed with the subscription, I will need your email address. Once you provide it, I will ensure that you start receiving our informative newsletters filled with the latest updates and exclusive offers. Rest assured that we value your privacy, and your email address will be handled with the utmost care. Thank you for choosing to stay connected with us through our newsletter!",
+    "response_cn": "感谢您订阅我们的新闻资讯！我很乐意为您提供协助。为了完成订阅，我需要您提供您的邮箱地址。一旦您提供邮箱地址，我将确保您开始收到我们内容丰富的新闻资讯，其中包含最新更新和独家优惠。请放心，我们非常重视您的隐私，您的邮箱地址将被妥善保管。感谢您选择通过我们的新闻资讯与我们保持联系！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I have to cancel my subscription to the newsletter, help me",
+    "instruction_cn": "我需要取消订阅这份新闻通讯，请帮我处理。",
+    "response_en": "I'm sorry to hear that you no longer wish to receive our newsletter. I understand that circumstances change, and it's completely fine if you decide to cancel your subscription. To assist you with this, could you please provide me with the email address you used to subscribe to our newsletter? With this information, I'll be able to locate your subscription and promptly cancel it for you. Rest assured, your request will be processed efficiently and your privacy will be respected throughout the process. Thank you for reaching out to us, and we appreciate your understanding in this matter.",
+    "response_cn": "很抱歉得知您不再希望接收我们的电子通讯。我理解情况会有所变化，如果您决定取消订阅，这完全没有问题。为了协助您完成此操作，请问您能否提供您订阅电子通讯时使用的电子邮件地址？有了这些信息，我将能够找到您的订阅并立即为您取消。请放心，您的请求将被高效处理，并且在此过程中您的隐私将始终受到尊重。感谢您与我们联系，并感谢您的理解。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I need to unsubscribe from the newsletter, how can I do it?",
+    "instruction_cn": "我需要取消订阅新闻通讯，请问该如何操作？",
+    "response_en": "I've deduced from your message that you're looking to unsubscribe from our newsletter. We appreciate your interest in our content and respect your decision to opt-out. To unsubscribe, you can simply click on the 'Unsubscribe' link at the bottom of any newsletter email you receive from us. Alternatively, you can visit our website and navigate to the 'My Account' section, where you can manage your subscription preferences. If you encounter any difficulties or have any further questions, please don't hesitate to let me know.",
+    "response_cn": "从您的消息中，我了解到您希望取消订阅我们的电子报。我们感谢您对我们内容的关注，也尊重您选择退订的决定。要取消订阅，您只需点击我们发送的任何电子报邮件底部的\"取消订阅\"链接即可。或者，您也可以访问我们的网站，进入\"我的账户\"页面，在那里管理您的订阅偏好。如果您遇到任何困难或有任何其他问题，请随时告知我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want to know more about the subscription to the newsletter",
+    "instruction_cn": "我想了解更多关于订阅新闻通讯的信息。",
+    "response_en": "Thank you for your interest in learning more about our newsletter subscription! Our newsletter keeps you updated on the latest news, promotions, and exclusive content from our company. Subscribing to our newsletter is a great way to stay connected and receive valuable information directly in your inbox. To provide you with detailed information on our subscription process, could you kindly let me know if you have any specific questions or concerns regarding the subscription? I'm here to assist you every step of the way!",
+    "response_cn": "感谢您有兴趣了解更多关于我们订阅我们资讯通讯！我们的资讯通讯让您及时了解我们公司的最新动态、促销活动和独家内容。订阅我们的资讯通讯是保持联系并直接在您的收件箱中接收有价值信息的好方法。为了为您提供有关我们订阅流程的详细信息，您能否告诉我您对订阅有任何具体问题或疑虑吗？我将全程为您提供帮助！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "how can I unsubscribe from the corporate newsletter?",
+    "instruction_cn": "如何取消订阅企业新闻通讯？",
+    "response_en": "We appreciate your inquiry and expressing your desire to unsubscribe from our corporate newsletter. I can certainly assist you with this process. To unsubscribe, you can simply click on the \"Unsubscribe\" link at the bottom of any newsletter email you receive from us. Alternatively, you can visit our website's subscription page and enter your email address to unsubscribe. We want to ensure that you have complete control over the information you receive from us. If there's anything else I can assist you with, please let me know.",
+    "response_cn": "感谢您的咨询以及您希望取消订阅我们的企业通讯。我很乐意为您提供帮助。要取消订阅，您可以直接点击我们发送的任何通讯邮件底部的\"取消订阅\"链接。或者，您也可以访问我们的订阅页面并输入您的邮箱地址来取消订阅。我们希望确保您能够完全掌控所接收的信息。如果还有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I need to receive your company newsletter, how to do it?",
+    "instruction_cn": "我想订阅贵公司的通讯，该如何操作？",
+    "response_en": "Thank you for expressing your interest in receiving our company newsletter! I'm glad you're eager to stay updated with our latest news and updates. To subscribe to our newsletter, simply visit our website and look for the newsletter subscription section. There, you'll find a form where you can provide your email address and other necessary information. Once you've subscribed, you'll start receiving our newsletter directly in your inbox. If you have any issues or need further assistance, please don't hesitate to let me know.",
+    "response_cn": "感谢您对我们公司通讯简报的关注！很高兴您希望及时了解我们的最新动态和资讯。要订阅我们的通讯简报，只需访问我们的网站，找到通讯简报订阅区域。在那里，您可以填写表格，提供您的电子邮件地址和其他必要信息。订阅完成后，您将开始直接在收件箱中收到我们的通讯简报。如果您有任何问题或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want assistance cancelling the newsletter subscription",
+    "instruction_cn": "我需要帮助取消新闻通讯订阅。",
+    "response_en": "For sure! I understand that you need assistance with canceling your subscription to our newsletter. I apologize for any inconvenience this may cause. In order to assist you further, could you please provide me with the email address associated with your subscription? This will allow us to locate your account and process the cancellation promptly. Rest assured, your request will be handled with utmost attention and your privacy will be respected.",
+    "response_cn": "当然！我理解您需要取消我们的新闻通讯订阅。对于可能给您带来的不便，我深表歉意。为了进一步协助您，能否请您提供与订阅相关的电子邮件地址？这将帮助我们定位您的账户并迅速处理取消事宜。请放心，您的请求将得到最妥善的处理，您的隐私也将受到充分尊重。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I am trying to unsubscribe to the newsletter",
+    "instruction_cn": "我正在尝试取消订阅该新闻通讯。",
+    "response_en": "I've understood, you're looking to unsubscribe from our newsletter, and I appreciate you reaching out to clarify this. Your enthusiasm for our content has been remarkable, and we value your interest. To assist you with unsubscribing, could you please provide me with the email address you used to subscribe to our newsletter? With that information, I will swiftly process your request and ensure that you no longer receive our updates.",
+    "response_cn": "我理解您希望取消订阅我们的资讯邮件，感谢您主动联系我们确认此事。您对我们内容的关注让我们倍感珍惜。为了帮您完成取消订阅，请问您能提供一下订阅时使用的邮箱地址吗？有了这个信息，我会立即为您处理，确保您不再收到我们的更新邮件。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I havve to sign up to the newsletter, I need assistance",
+    "instruction_cn": "我需要注册订阅新闻通讯，我需要帮助。",
+    "response_en": "That's fantastic! I appreciate your interest in signing up for our newsletter. It's a great way to stay updated with all the latest news and promotions. To assist you, could you please provide me with your email address? This way, I can ensure you receive our newsletter directly in your inbox. Rest assured, your information will be handled with the utmost care and privacy. Thank you for choosing to be a part of our community!",
+    "response_cn": "太好了！非常感谢您有兴趣订阅我们的新闻通讯。这是了解我们所有最新资讯和促销活动的绝佳方式。为了协助您完成订阅，请问您能提供一下您的电子邮件地址吗？这样我就可以确保您能直接在收件箱中收到我们的新闻通讯。请放心，您的信息将被严格保密并妥善处理。感谢您选择加入我们的社区！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "where can I sign up to the newsletter?",
+    "instruction_cn": "您在哪里可以订阅我们的新闻通讯？",
+    "response_en": "That's great that you're interested in signing up for our newsletter! To subscribe, you can simply visit our website and look for the newsletter sign-up form. It's usually located on the homepage or in the footer section. Once you find the sign-up form, all you need to do is provide your email address and click the subscribe button. It's quick and easy! By subscribing, you'll stay up-to-date with all the latest news, promotions, and special offers from our company. We value your interest and can't wait to have you as part of our newsletter community!",
+    "response_cn": "很高兴您对我们的订阅通讯感兴趣！要订阅，您只需访问我们的网站，找到通讯订阅表单。该表单通常位于首页或页脚区域。找到订阅表单后，您只需提供您的电子邮箱地址并点击订阅按钮即可。整个过程快捷简便！通过订阅，您将及时了解我们公司的最新资讯、促销活动和特别优惠。我们非常感谢您的关注，期待您成为我们通讯社区的一员！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can you help me to cancel the newsletter subscription?",
+    "instruction_cn": "您好，我可以帮您取消新闻通讯订阅。请问您能提供一下您的订阅邮箱地址吗？这样我就能为您处理取消订阅的请求了。",
+    "response_en": "I gather that you would like assistance in canceling your newsletter subscription. \n\nTo cancel your subscription, you can follow these steps:\n\n1. Visit our website and log in to your account.\n2. Navigate to the \"Account Settings\" or \"Preferences\" section.\n3. Look for the option to manage your newsletter subscription.\n4. Click on the option to unsubscribe or cancel your subscription.\n\nIf you encounter any difficulties during this process, please don't hesitate to let me know, and I'll be here to guide you further. We appreciate your feedback and are here to ensure a seamless experience for you.",
+    "response_cn": "我了解到您希望取消新闻通讯订阅。\n\n要取消订阅，您可以按照以下步骤操作：\n\n1. 访问我们的网站并登录您的账户。\n2. 进入\"账户设置\"或\"偏好设置\"部分。\n3. 找到管理新闻通讯订阅的选项。\n4. 点击取消订阅或终止订阅的选项。\n\n如果您在此过程中遇到任何困难，请随时告诉我，我会为您提供进一步的指导。我们感谢您的反馈，并致力于为您提供顺畅的体验。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "how can I subscribe to the corporate newsletter?",
+    "instruction_cn": "如何订阅企业通讯简报？",
+    "response_en": "That's great to hear that you're interested in subscribing to our corporate newsletter! It's an excellent way to stay up-to-date with the latest news, updates, and exclusive offers. To subscribe, simply visit our website and navigate to the newsletter subscription page. There, you'll find a form where you can enter your email address and select your preferences. Once you've completed the form, click the \"Subscribe\" button, and you'll be all set to receive our newsletter directly in your inbox. Thank you for subscribing, and we look forward to keeping you informed and engaged!",
+    "response_cn": "很高兴您有兴趣订阅我们的企业简报！这是获取最新资讯、动态更新和独家优惠的绝佳方式。如需订阅，只需访问我们的网站并进入简报订阅页面。在那里，您可以填写表格，输入您的电子邮件地址并选择您的偏好设置。完成表格后，点击\"订阅\"按钮，您就可以直接在收件箱中收到我们的简报。感谢您的订阅，我们期待与您保持联系并为您提供最新资讯！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "where can I unsubscribe to your company newsletter?",
+    "instruction_cn": "请问在哪里可以取消订阅贵公司的新闻通讯？",
+    "response_en": "Glad you got in touch to us regarding unsubscribing from our company newsletter. I completely understand that preferences and interests can change over time, and we respect your decision. To unsubscribe from our newsletter, you can click on the \"Unsubscribe\" link provided at the bottom of any newsletter email you have received from us. Alternatively, you can also visit our website and navigate to the \"Preferences\" or \"Email Subscriptions\" section, where you will find the option to unsubscribe. If you encounter any difficulties, please let me know, and I'll be more than happy to assist you further. Your satisfaction is our top priority, and we appreciate your trust and support.",
+    "response_cn": "很高兴您就退订我公司新闻通讯事宜与我们联系。我完全理解，随着时间的推移，偏好和兴趣可能会发生变化，我们尊重您的决定。要退订我们的新闻通讯，您可以点击我们发送的任何新闻通讯邮件底部提供的\"退订\"链接。或者，您也可以访问我们的网站，进入\"偏好设置\"或\"邮件订阅\"部分，在那里您可以找到退订选项。如果您遇到任何困难，请告诉我，我将非常乐意为您提供进一步的协助。您的满意是我们的首要任务，感谢您的信任与支持。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I am trying to cancel my subscription to your newsletter",
+    "instruction_cn": "我正在尝试取消订阅你们的新闻通讯。",
+    "response_en": "I can relate to the understanding that you no longer wish to receive our newsletter. I apologize if it hasn't met your expectations or if there's any inconvenience caused. I will assist you in canceling your subscription promptly. To ensure accurate and efficient processing, could you please provide me with the email address you used to subscribe to the newsletter? Once I have this information, I will promptly remove you from our mailing list. Thank you for reaching out, and if you change your mind in the future, we'd be more than happy to welcome you back to our newsletter community.",
+    "response_cn": "我理解您不再希望接收我们的通讯。如果我们的通讯未能达到您的期望或给您带来了任何不便，我深表歉意。我将立即协助您取消订阅。为了确保准确高效地处理，请提供您订阅通讯时使用的电子邮件地址。一旦收到此信息，我将立即将您从我们的邮件列表中移除。感谢您的反馈，如果您将来改变主意，我们非常欢迎您重新加入我们的通讯社区。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "i have to cancel the company newsletter subscription help me",
+    "instruction_cn": "我需要取消公司通讯订阅，请帮我处理。",
+    "response_en": "I'm cognizant of the fact that you're looking to cancel your company newsletter subscription and I'm here to assist you. We appreciate your engagement with our newsletter, but if you no longer wish to receive it, I can help you with the cancellation process. Please provide me with your email address or any other relevant information associated with your subscription, and I will ensure that your request is processed promptly. Our goal is to make this process as convenient for you as possible. Thank you for reaching out and allowing us to assist you with this.",
+    "response_cn": "我了解到您希望取消公司通讯订阅，我很乐意为您提供协助。我们非常感谢您一直以来对我们通讯的关注，但如果您不再希望收到我们的通讯，我可以帮您完成取消订阅流程。请提供您的电子邮件地址或与您的订阅相关的任何其他信息，我将确保您的请求得到及时处理。我们的目标是让这个过程尽可能方便您。感谢您联系我们并允许我们为您提供帮助。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "wanna know about cancelling the newsletter subscription",
+    "instruction_cn": "Here is the translation:\n\n我想了解如何取消订阅新闻通讯\n\nOr in a more natural customer service context:\n\n我想了解取消新闻通讯订阅的方式",
+    "response_en": "I've ascertained that you're interested in learning about canceling your newsletter subscription. We value your choice and respect your decision. To cancel your subscription, you can simply click on the \"unsubscribe\" link provided at the bottom of any newsletter you receive from us. Alternatively, you can reach out to our customer support team, and they will be happy to assist you in canceling your subscription. Please keep in mind that it may take a few days for the cancellation to take effect. If there's any specific reason you're considering canceling, I'd appreciate hearing your feedback. We're always working to improve our newsletter and would love to address any concerns you may have.",
+    "response_cn": "我了解到您想取消我们的新闻通讯订阅。我们尊重您的决定。要取消订阅，只需点击我们发送的任何新闻通讯底部的\"取消订阅\"链接即可。或者，您也可以联系我们的客服团队，他们会很乐意协助您完成取消订阅的操作。请注意，取消订阅可能需要几天时间才能生效。如果您取消订阅有具体原因，我非常希望听取您的反馈意见。我们一直在努力改进我们的新闻通讯内容，很乐意解决您可能存在的任何疑虑。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "where could I receive the fucking company newsletter?",
+    "instruction_cn": "请问我在哪里可以收到公司通讯？",
+    "response_en": "I can see that you're interested in receiving our company newsletter. Our newsletter is typically sent via email to subscribers like yourself. To ensure you don't miss out on any updates, promotions, or valuable content, please provide me with your email address, and I'll make sure you're added to our mailing list. Remember, we value your privacy, and your information will be treated with the utmost care and security.",
+    "response_cn": "我看到您对我们的公司通讯很感兴趣。我们的通讯通常通过电子邮件发送给像您这样的订阅者。为了确保您不会错过任何更新、促销活动或有价值的内容，请提供您的电子邮件地址，我会确保将您添加到我们的邮件列表中。请记住，我们重视您的隐私，您的信息将被给予最谨慎和安全的处理。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help subscribing to your corporate newsletter",
+    "instruction_cn": "您好，请问您是想订阅我们的企业通讯吗？我很乐意为您提供帮助。",
+    "response_en": "I appreciate your interest in subscribing to our corporate newsletter. To get started, simply visit our website and look for the newsletter subscription section. You'll likely find it on the homepage or in the footer section of the website. Once you locate it, you can enter your email address and click the \"Subscribe\" button. If you encounter any difficulties during the process, please don't hesitate to reach out to our customer support team, who will be more than happy to assist you with the subscription. We believe our newsletter will provide you with valuable insights and updates, and we look forward to keeping you informed about our latest news and offerings.",
+    "response_cn": "感谢您有兴趣订阅我们的企业通讯。要开始订阅，只需访问我们的网站，找到通讯订阅部分。您通常可以在网站首页或页脚区域找到该功能。找到后，您可以输入您的电子邮箱地址，然后点击\"订阅\"按钮。如果在订阅过程中遇到任何问题，请随时联系我们的客户支持团队，他们将非常乐意为您提供订阅方面的帮助。我们相信我们的通讯将为您提供有价值的见解和最新资讯，我们期待为您持续传递我们的最新动态和产品信息。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I have to receive the newsletter, help me",
+    "instruction_cn": "我需要接收这份通讯，请帮帮我。",
+    "response_en": "I appreciate your interest in receiving our newsletter! It seems like you're excited to stay up-to-date with the latest news and updates. Don't worry, I'm here to help you with the subscription process. Could you please provide me with your email address? Once I have that, I'll ensure you are subscribed to our newsletter right away. And remember, we value your privacy and will handle your information with utmost care. Let's get you connected to our exciting content and community!",
+    "response_cn": "感谢您对我们通讯的关注！看起来您很期待获取我们的最新资讯和动态。别担心，我很乐意协助您完成订阅流程。请问您能提供一下您的电子邮件地址吗？一旦收到您的邮箱地址，我会立即为您完成订阅。请放心，我们非常重视您的隐私，会以最谨慎的方式处理您的个人信息。让我们帮您连接精彩内容和社区！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I have to sign up to your corporate newsletter, help me",
+    "instruction_cn": "我需要订阅你们的企业通讯，请帮我处理一下。",
+    "response_en": "That's fantastic to hear that you're interested in signing up for our corporate newsletter! We appreciate your enthusiasm and look forward to keeping you informed about the latest updates, promotions, and news related to our company. To proceed with the subscription, could you please provide me with your email address? Rest assured, we value your privacy and will handle your information with the utmost care. Once I have your email address, I'll quickly process your subscription and ensure you receive our newsletter. Thank you for choosing to stay connected with us!",
+    "response_cn": "很高兴您有兴趣订阅我们的企业通讯！我们非常感谢您的热情，并期待为您提供有关我们公司的最新动态、促销活动和新闻资讯。为了完成订阅，请问您能提供一下您的电子邮件地址？请放心，我们非常重视您的隐私，会妥善处理您的信息。一旦收到您的邮箱地址，我会立即为您处理订阅事宜，确保您能收到我们的通讯。感谢您选择与我们保持联系！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can you help me unsubscribing from the newsletter?",
+    "instruction_cn": "您好，请问您是想取消订阅我们的电子报吗？很乐意为您提供帮助。",
+    "response_en": "Happy to get your message to us with your request to unsubscribe from our newsletter. I completely understand that you may have changed your preferences or simply wish to discontinue receiving our updates. So that I can assist you more effectively, could you please provide me with the email address you used to subscribe to our newsletter? Once I have this information, I will ensure that you are promptly unsubscribed from our mailing list. I appreciate your patience and cooperation as we work towards resolving this matter.",
+    "response_cn": "很高兴收到您的来信，您希望取消订阅我们的资讯通讯。我完全理解您可能已经改变了偏好，或者只是希望停止接收我们的更新。为了能够更有效地为您提供帮助，请问您能否提供您订阅资讯通讯时使用的电子邮件地址？一旦我获得此信息，我将确保您会立即从我们的邮件列表中取消订阅。感谢您的耐心与配合，我们将尽快解决此事。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can I receive the company newsletter?",
+    "instruction_cn": "我可以收到公司的新闻通讯吗？",
+    "response_en": "Indeed! I'm delighted to hear that you're interested in receiving our company newsletter. Our newsletter is filled with valuable content, including the latest updates, exclusive offers, and exciting news about our products and services. To ensure that you stay informed, I can assist you in subscribing to our newsletter. Could you please provide me with your email address, and I'll take care of the rest? Rest assured, your privacy is of utmost importance to us, and we adhere to strict data protection policies. Thank you for choosing to stay connected with us!",
+    "response_cn": "确实如此！很高兴您有兴趣订阅我们的公司新闻通讯。我们的新闻通讯内容丰富，包括最新资讯、独家优惠以及关于我们产品和服务的精彩动态。为了确保您能及时了解这些信息，我可以帮您订阅我们的新闻通讯。请提供您的电子邮件地址，其余的事情交给我们来处理。请放心，您的隐私对我们至关重要，我们严格遵守数据保护政策。感谢您选择与我们保持联系！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I try to cancel the subscription to the corporate newsletter",
+    "instruction_cn": "我尝试取消企业新闻订阅。",
+    "response_en": "I've come to understand that you're attempting to cancel your subscription to our corporate newsletter. Your decision is respected, and I'm here to assist you with the process. To proceed with the cancellation, please provide me with the email address under which you originally subscribed. Rest assured, your privacy remains our utmost priority, and we're committed to handling your request promptly and securely.",
+    "response_cn": "我了解到您希望取消我们企业通讯的订阅。我们尊重您的决定，并很乐意协助您完成取消流程。为了继续处理取消请求，请提供您最初订阅时使用的电子邮箱地址。请放心，您的隐私始终是我们的首要考虑，我们将及时且安全地处理您的请求。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I cannot receive your corporate newsletter",
+    "instruction_cn": "我无法收到您公司的通讯邮件。",
+    "response_en": "We apologize for any inconvenience caused by not receiving our corporate newsletter. To assist you further, could you please provide us with the email address you used to subscribe? This will allow us to investigate and resolve the issue promptly. Additionally, please double-check your spam or junk folder to ensure that our newsletter emails haven't been filtered there accidentally. We appreciate your cooperation and will do our utmost to rectify the situation and ensure you start receiving our newsletter without any further interruptions.",
+    "response_cn": "对于未能收到我们的企业通讯，我们深表歉意。为了进一步协助您，烦请提供您订阅时使用的电子邮件地址，以便我们及时调查并解决问题。此外，请同时检查您的垃圾邮件或垃圾箱文件夹，以确保我们的通讯邮件未被意外过滤。感谢您的配合，我们将竭尽全力纠正此问题，确保您能够顺利收到我们的通讯，不再出现任何中断。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want information about cancel my newsletter subscription",
+    "instruction_cn": "我想了解如何取消我的新闻订阅。",
+    "response_en": "I realized that you would like information about canceling your newsletter subscription. We value your feedback and respect your decision. To assist you further, could you please provide me with the email address you used to subscribe to our newsletter? This will help me locate your subscription details and guide you through the cancellation process smoothly. Rest assured, your privacy is important to us, and we will handle your request promptly and securely.",
+    "response_cn": "我了解到您希望获取有关取消订阅我们新闻通讯的信息。我们非常重视您的反馈，也尊重您的决定。为了进一步为您提供帮助，请问您能否提供一下您订阅我们新闻通讯时使用的邮箱地址？这将帮助我找到您的订阅信息，并引导您顺利完成取消订阅的流程。请放心，您的隐私对我们非常重要，我们会及时、安全地处理您的请求。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "could you help me unsubscribe to your newsletter?",
+    "instruction_cn": "请问您能帮我取消订阅你们的新闻通讯吗？",
+    "response_en": "I fathom that you're seeking assistance in unsubscribing from our newsletter. I apologize if you no longer find value in our content. To unsubscribe, there are a few different options available to you. One option is to click on the \"Unsubscribe\" link located at the bottom of any of our newsletter emails. This will direct you to a page where you can confirm your unsubscribe request. Another option is to reach out to our customer support team directly, and they will be happy to assist you with the unsubscribe process. Please let me know which option you would prefer, and I'll guide you through the necessary steps. We appreciate your feedback and hope to serve you better in the future.",
+    "response_cn": "我理解您希望取消订阅我们的邮件简报。如果您觉得我们的内容不再符合您的需求，我们深表歉意。取消订阅有以下几种方式供您选择：\n\n第一种方式是点击我们任意一封邮件简报底部的\"取消订阅\"链接，这将引导您进入一个页面，您可以在该页面确认取消订阅请求。另一种方式是直接联系我们的客服团队，他们将很乐意协助您完成取消订阅流程。\n\n请告诉我您更倾向于哪种方式，我将为您详细说明相应的操作步骤。感谢您的反馈，我们期待在未来为您提供更好的服务。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I cannotcancel my subscription to your corporate newsletter",
+    "instruction_cn": "我无法取消贵公司企业新闻通讯的订阅。",
+    "response_en": "I'm sorry to hear that you're having trouble canceling your subscription to our corporate newsletter. I completely understand how important it is to have control over the communications you receive. To assist you further, could you please provide me with the email address or any other information associated with your subscription? This will help me locate your account and process your cancellation request promptly. Rest assured, I'll do my best to resolve this issue for you as quickly as possible.",
+    "response_cn": "很抱歉听到您在取消我们的企业通讯订阅时遇到了困难。我完全理解掌控您所接收的通信内容有多么重要。为了进一步协助您，能否请您提供与您的订阅相关的电子邮件地址或其他信息？这将帮助我找到您的账户并尽快处理您的取消请求。请放心，我会尽我所能尽快为您解决这个问题。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I do not know how to sign up to the newsletter",
+    "instruction_cn": "我不知道如何订阅新闻通讯。",
+    "response_en": "No problem at all! I'd be happy to assist you with signing up for our newsletter. To get started, you can visit our website and navigate to the newsletter subscription section. There, you'll find a form where you can enter your email address and opt-in to receive our newsletter. If you need any further guidance or encounter any difficulties during the process, please don't hesitate to let me know. I'm here to ensure a seamless experience for you.",
+    "response_cn": "没问题！我很乐意协助您注册订阅我们的时事通讯。您可以访问我们的网站，找到时事通讯订阅页面，在那里您会看到一个表单，可以输入您的电子邮件地址并选择接收我们的时事通讯。如果您在过程中需要进一步的指导或遇到任何困难，请随时告诉我。我会确保为您提供顺畅的体验。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "i want help unsubscribnig from ur corporate newsletter",
+    "instruction_cn": "我想取消订阅贵公司的企业通讯。",
+    "response_en": "I appreciate that you would like assistance in unsubscribing from our corporate newsletter. We value your feedback and respect your decision. To unsubscribe, you can simply click on the \"Unsubscribe\" link located at the bottom of the newsletter email. If you are facing any difficulties or if you have any additional questions, please let me know, and I'll be more than happy to assist you further. We appreciate your time as our subscriber, and we hope to continue providing valuable content to you in the future.",
+    "response_cn": "感谢您希望取消订阅我们的企业通讯。我们珍视您的反馈，并尊重您的决定。要取消订阅，您只需点击通讯邮件底部的\"取消订阅\"链接即可。如果您遇到任何困难或有任何其他问题，请随时告知，我将非常乐意为您提供进一步的协助。我们感谢您作为订阅用户所付出的时间，并希望未来继续为您提供有价值的内容。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "i have to sign up to the corporae newsletter help me",
+    "instruction_cn": "我需要注册企业通讯，请帮我处理一下。",
+    "response_en": "We appreciate your interest in subscribing to our corporate newsletter! We're here to assist you in the sign-up process to keep you informed about the latest updates and news. To get started, please provide me with your email address, and I'll make sure you receive our valuable content straight to your inbox. Rest assured, we prioritize your privacy and maintain the highest data protection standards. Is there anything specific you're hoping to gain from our newsletter? Your insights would be incredibly valuable to us as we strive to deliver content tailored to your needs and interests.",
+    "response_cn": "感谢您订阅我们的企业通讯！我们很乐意协助您完成注册流程，以便您及时了解最新资讯。请提供您的邮箱地址，我们将确保您能直接收到我们的优质内容。请放心，我们高度重视您的隐私，并遵循最高的数据保护标准。您希望通过我们的通讯获得哪些具体信息？您的见解对我们来说非常宝贵，我们将努力为您提供符合您需求和兴趣的内容。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I don't know how to cancel my newsletter subscription",
+    "instruction_cn": "我不知道如何取消我的新闻通讯订阅",
+    "response_en": "I'm sorry to hear that you're facing difficulties canceling your newsletter subscription. Let me assist you with that. To cancel your subscription, could you please provide me with the email address you used to subscribe to the newsletter? Once I have that information, I will ensure your subscription is promptly canceled. We appreciate your support and hope to improve our services based on your feedback.",
+    "response_cn": "很抱歉您在取消新闻通讯订阅时遇到了困难，让我来协助您处理。为了帮您取消订阅，请问您能提供一下订阅新闻通讯时使用的邮箱地址吗？一旦我获得该信息，将确保您的订阅会被及时取消。感谢您的支持，我们期待根据您的反馈来改进服务。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "need to unsubscribe from the newsletter",
+    "instruction_cn": "需要取消订阅新闻通讯",
+    "response_en": "I get that you would like to unsubscribe from our newsletter. Your decision is important to us, and we want to ensure that you have a seamless experience with us. To proceed with the unsubscribe process, could you please provide me with the email address that you used to subscribe? This information will help us locate your subscription details and promptly remove you from our mailing list. Rest assured that your privacy remains our top priority, and we appreciate the opportunity to improve our offerings based on your feedback.",
+    "response_cn": "我理解您希望取消订阅我们的邮件通讯。您的决定对我们很重要，我们希望确保您拥有顺畅的体验。为了继续取消订阅流程，能否请您提供您用于订阅的邮箱地址？此信息将帮助我们找到您的订阅详情，并迅速将您从我们的邮件列表中移除。请放心，您的隐私始终是我们的首要任务，我们感谢您提供反馈以帮助我们改进服务。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can you help me cancelling my newsletter subscription?",
+    "instruction_cn": "您好，我可以帮您取消新闻通讯订阅。请问您希望我现在就为您处理取消订阅吗？",
+    "response_en": "For sure! I'm here to assist you with canceling your newsletter subscription. I understand that sometimes preferences change, and it's important to unsubscribe from newsletters that no longer interest you. To cancel your subscription, please provide me with the email address you used to sign up for the newsletter. Once I have that information, I'll promptly proceed with canceling your subscription. Rest assured, your privacy remains a top priority, and we'll handle your request with the utmost care. Is there anything specific you're looking for in terms of newsletter content that led to your decision to cancel? Your insights are valuable to us as we strive to continuously improve our offerings.",
+    "response_cn": "当然可以！我很乐意协助您取消新闻通讯订阅。我理解有时喜好会发生变化，取消不再感兴趣的新闻通讯订阅是很重要的。为了取消您的订阅，请提供您用于注册新闻通讯的电子邮件地址。一旦我获得该信息，我将立即为您取消订阅。请放心，您的隐私始终是我们的首要任务，我们将以最谨慎的方式处理您的请求。请问您对新闻通讯内容有什么具体的期望导致了您取消订阅的决定？您的见解对我们来说非常宝贵，我们将不断努力改进我们的服务。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I need to cancel the company newsletter subscription",
+    "instruction_cn": "我需要取消公司新闻通讯订阅",
+    "response_en": "I'm sorry to hear that you would like to cancel your subscription to our company newsletter. Your interests and preferences are essential to us, and we would love to better understand why you wish to unsubscribe. Is there any specific feedback or concern you have regarding the content or frequency of our newsletter? We value your input and would be happy to make any necessary adjustments to meet your needs. If you still wish to proceed with canceling your subscription, please provide us with the email address you used to subscribe, and we will promptly process your request.",
+    "response_cn": "很抱歉得知您希望取消订阅我们公司的新闻资讯。您的兴趣和偏好对我们至关重要，我们非常希望更好地了解您想要取消订阅的原因。您是否对新闻资讯的内容或发送频率有任何具体的反馈或顾虑？我们非常重视您的意见，并很乐意做出必要的调整以满足您的需求。如果您仍然希望继续取消订阅，请提供您用于订阅的电子邮箱地址，我们将立即为您处理。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "want help canceling the corporate newsletter subscription",
+    "instruction_cn": "需要帮您取消企业新闻通讯订阅吗？",
+    "response_en": "I appreciate that you're looking for assistance in canceling your subscription to our corporate newsletter. I apologize for any inconvenience this may cause and I'm here to help you with this process. To proceed with the cancellation, could you please provide me with your email address or any other identifying information associated with your subscription? This will allow us to locate your account and promptly process the cancellation request. Rest assured that your privacy and preferences are of utmost importance to us. If you have any additional questions or if there's anything else I can assist you with, please let me know.",
+    "response_cn": "感谢您希望取消订阅我们的企业通讯。对于可能给您带来的任何不便，我深表歉意，我很乐意协助您完成取消流程。为了继续处理取消请求，请您提供与您的订阅相关的电子邮件地址或其他识别信息。这将使我们能够找到您的账户并迅速处理您的取消请求。请放心，您的隐私和偏好对我们来说至关重要。如果您有任何其他问题或需要我提供其他帮助，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I need assistance unsubscribing to your fucking newsletter",
+    "instruction_cn": "我需要协助取消订阅你们的{{newsletter_name}}。",
+    "response_en": "I've realized that you are frustrated and would like to unsubscribe from our newsletter. I apologize for any inconvenience caused. To assist you with the process, could you please provide me with the email address you used to subscribe to our newsletter? Once I have that information, I will ensure that your subscription is canceled promptly. We value your feedback, and if there is anything else I can do to further assist you, please let me know.",
+    "response_cn": "我理解您感到不满，并希望取消订阅我们的订阅。对于由此带来的任何不便，我深表歉意。为了协助您完成取消订阅，请问您能否提供您用于订阅我们订阅服务的电子邮件地址？一旦我获得该信息，我将确保立即取消您的订阅。我们重视您的反馈，如果您还有其他需要我协助的事项，请随时告知。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "need to receive the newsletter",
+    "instruction_cn": "需要接收新闻通讯",
+    "response_en": "I'll take care of it! It's great to hear that you're interested in receiving our newsletter. To ensure you receive it, all you need to do is provide us with your email address. Once you've subscribed, you can look forward to receiving the latest updates, promotions, and exclusive content directly to your inbox. Don't worry, we respect your privacy and promise not to share your information with any third parties. Subscribe today and stay in the loop with all the exciting news from our company!",
+    "response_cn": "我来帮您处理！很高兴您对我们的订阅通讯感兴趣。要确保您能收到我们的邮件，您只需提供您的电子邮箱地址即可。订阅后，您将可以期待直接在收件箱中收到最新资讯、促销活动和独家内容。请放心，我们尊重您的隐私，承诺不会与任何第三方分享您的信息。立即订阅，随时了解我们公司的所有精彩动态！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "i need  information about receiving ur newsletter",
+    "instruction_cn": "我需要了解关于接收您们新闻通讯的信息。",
+    "response_en": "Thank you for expressing your interest in receiving our newsletter! I'm more than happy to provide you with the necessary information. To start receiving our newsletter, you can either subscribe through our website by entering your email address in the designated field or provide your email address to a customer service representative who can assist you in subscribing manually. Once subscribed, you'll start receiving regular updates on our latest news, promotions, and valuable content straight to your inbox. If you have any specific preferences regarding the frequency or content of the newsletter, please let me know, and I'll ensure your subscription is tailored to your needs.",
+    "response_cn": "感谢您表达对我们通讯简报的兴趣！我很乐意为您提供所需的信息。要开始接收我们的通讯简报，您可以通过我们的网站在指定字段中输入您的电子邮件地址进行订阅，或者向客服代表提供您的电子邮件地址，他们可以协助您手动完成订阅。订阅后，您将开始定期收到我们最新的新闻、促销活动和有价值的内容，直接发送到您的收件箱。如果您对通讯简报的频率或内容有任何特定偏好，请告诉我，我将确保您的订阅根据您的需求进行定制。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want to unsubscribe from the newsleter",
+    "instruction_cn": "我想取消订阅{{newsletter}}。",
+    "response_en": "I've understood, you're looking to unsubscribe from our newsletter. I apologize if our content hasn't met your expectations. To proceed with the cancellation, could you please provide me with the email address you used to subscribe? Once I have the necessary details, I'll ensure that your newsletter subscription is successfully canceled. We appreciate your feedback and if there's anything we can do to improve your experience, please let us know.",
+    "response_cn": "我明白了，您希望取消我们的订阅。如果我们的内容未能达到您的期望，我深表歉意。为了继续取消订阅，请问您能否提供您用于订阅的电子邮件地址？一旦我获得必要的信息，我将确保您的订阅成功取消。我们非常感谢您的反馈，如果有什么我们可以改进您体验的地方，请随时告诉我们。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I try to subscribe to the company newsletter",
+    "instruction_cn": "我想订阅公司的新闻通讯。",
+    "response_en": "Thank you for your interest in subscribing to our company newsletter! We appreciate your efforts to stay connected and informed. To assist you with the subscription process, could you please provide me with your email address? Once I have that information, I will ensure that you are added to our newsletter distribution list. Rest assured that we prioritize the privacy and security of your personal information.",
+    "response_cn": "感谢您对我们公司通讯订阅服务感兴趣！我们非常高兴您愿意保持联系并获取最新资讯。为了协助您完成订阅流程，请问您能否提供您的邮箱地址？一旦收到您的信息，我会确保将您添加到我们的通讯订阅名单中。请放心，我们高度重视您的个人信息隐私和安全。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "where can i receive the company newsletter",
+    "instruction_cn": "您可以在哪里接收公司通讯？",
+    "response_en": "It's great to hear that you're interested in receiving our newsletter! You can easily receive our newsletter by subscribing on our website. Simply visit our website homepage and look for the newsletter subscription form. Fill in your email address, and you'll start receiving our newsletter directly in your inbox. We make sure to provide valuable content and keep you updated on the latest news, promotions, and events related to our company. If you have any questions or need further assistance, please don't hesitate to let me know!",
+    "response_cn": "很高兴您对我们的订阅通讯感兴趣！您可以通过在我们的网站上订阅来轻松接收我们的订阅通讯。只需访问我们的网站主页，找到订阅通讯的表单，填写您的电子邮件地址，即可开始在您的收件箱中直接收到我们的订阅通讯。我们确保提供有价值的内容，让您及时了解与我们公司相关的最新资讯、促销活动和活动信息。如果您有任何问题或需要进一步的帮助，请随时告诉我！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "would it be possible to sign up to the company newsletter?",
+    "instruction_cn": "请问可以订阅公司的新闻通讯吗？",
+    "response_en": "Thank you for your interest in signing up for our company newsletter! We appreciate your enthusiasm for staying up to date with our latest news and updates. To subscribe, please provide me with your email address, and I will ensure that you receive our newsletter promptly. Rest assured, we value your privacy and will handle your information with the utmost care. If you have any questions or need assistance with the subscription process, feel free to let me know.",
+    "response_cn": "感谢您有兴趣订阅我们公司的通讯简报！我们非常高兴您希望及时了解我们的最新动态和资讯。如需订阅，请提供您的邮箱地址，我将确保您能及时收到我们的简报。请放心，我们高度重视您的隐私，并将妥善处理您的信息。如果您对订阅流程有任何疑问或需要帮助，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can you help me to sign up to the company newsletter?",
+    "instruction_cn": "当然可以！我很乐意帮您订阅公司的时事通讯。请问您能提供一下您的邮箱地址吗？这样我就可以为您完成订阅了。",
+    "response_en": "Indeed! I'm here to assist you in signing up for our company newsletter. It's great to see your interest in staying connected with the latest news and updates from our organization. To start the subscription process, please visit our website and navigate to the newsletter signup page. Once you're there, you'll find a form where you can provide your email address and any other required information. After you've submitted the form, you'll receive a confirmation email to verify your subscription. If you encounter any difficulties during the signup process or have any questions, please don't hesitate to let me know.",
+    "response_cn": "当然！我很高兴能协助您订阅我们的公司通讯。很高兴看到您有兴趣了解我们组织的最新动态。要开始订阅流程，请访问我们的网站并导航至通讯订阅页面。在那里，您会看到一个表单，可以填写您的电子邮件地址及其他所需信息。提交表单后，您将收到一封确认邮件以验证您的订阅。如果在订阅过程中遇到任何困难或有任何问题，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help me cancelling my newsletter subscription",
+    "instruction_cn": "您好，我来帮您取消{{newsletter}}订阅。\n\n请问您能提供一下您的订阅邮箱地址吗？这样我就可以帮您处理取消订阅的请求了。",
+    "response_en": "Indeed! I understand that you would like assistance with canceling your newsletter subscription. To ensure that I provide you with the necessary support, could you please provide me with the email address or any other relevant details associated with your subscription? This will help me locate your account and proceed with canceling the newsletter subscription for you. Rest assured, your request will be handled promptly and your privacy will be respected throughout the process.",
+    "response_cn": "当然！我理解您希望取消订阅我们的新闻资讯。为了能够为您提供必要的协助，请您提供与订阅相关的电子邮件地址或其他相关信息。这将帮助我找到您的账户，并为您取消订阅服务。请放心，您的请求将得到及时处理，在整个过程中您的隐私将受到充分保护。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "assistance to unsubscribe to your corporate newsletter",
+    "instruction_cn": "取消订阅公司企业通讯的协助",
+    "response_en": "Certainly, I'm here to assist you with unsubscribing from our corporate newsletter. Your request to opt out is completely understandable, as individual preferences can change over time. To proceed with the unsubscribe process, could you please provide me with the email address you used to subscribe to the newsletter? Rest assured, your privacy and data protection are our utmost priorities, and we will handle your request promptly and securely. Additionally, may I ask if there was a specific reason or feedback that led you to make this decision? Your insights are valuable to us, as they help us improve our offerings and ensure that our communications align with your expectations.",
+    "response_cn": "当然，我很乐意协助您取消订阅我们的企业通讯。我们完全理解您选择退订的请求，因为个人偏好可能会随时间而变化。为了继续退订流程，请问您能否提供您订阅通讯时使用的电子邮件地址？请放心，您的隐私和数据保护是我们的首要任务，我们将及时且安全地处理您的请求。此外，请问是否有具体的原因或反馈促使您做出这个决定？您的见解对我们非常宝贵，因为它们有助于我们改进服务，并确保我们的沟通符合您的期望。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want to cancel my subscription to your newsletter",
+    "instruction_cn": "我想取消订阅你们的电子报。",
+    "response_en": "I've understood you no longer wish to receive our newsletter, and I apologize if it hasn't met your expectations. I'll be glad to assist you with canceling your subscription promptly. To proceed with the cancellation, could you please provide me with the email address you used to subscribe? This will help me locate your subscription details accurately and ensure a smooth cancellation process. Your feedback is important to us, and we'll take it into account as we continuously improve our newsletter content. Thank you for your understanding, and I'll do my best to resolve this for you as quickly as possible.",
+    "response_cn": "我已了解到您不再希望接收我们的订阅邮件，如果我们的内容未能达到您的期望，我对此深表歉意。我很乐意协助您尽快取消订阅。\n\n为了完成取消操作，能否请您提供订阅时使用的邮箱地址？这将帮助我准确找到您的订阅信息，确保取消流程顺利进行。您的反馈对我们非常重要，我们会将其纳入考量，持续改进我们的订阅邮件内容。感谢您的理解，我会尽我所能尽快为您处理此事。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "i have got to unsubscrikbe from ur newsletter",
+    "instruction_cn": "我需要取消订阅你们的电子报。",
+    "response_en": "I've got that you would like to unsubscribe from our newsletter, and I apologize for any inconvenience it may have caused. Your satisfaction is our priority, and we respect your decision. To unsubscribe, could you please provide the email address that you used to subscribe? This will allow us to locate your account and process your request promptly. Thank you for reaching out to us, and we appreciate your understanding.",
+    "response_cn": "我了解到您希望取消订阅我们的新闻通讯，对此可能给您带来的不便深表歉意。您的满意是我们的首要目标，我们尊重您的决定。为了完成取消订阅，请问您能否提供您订阅时使用的电子邮箱地址？这将帮助我们找到您的账户并及时处理您的请求。感谢您与我们联系，感谢您的理解。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can I unsubscribe from the goddamn newsletter?",
+    "instruction_cn": "我可以取消订阅这个该死的通讯吗？",
+    "response_en": "I've understood that you're feeling frustrated and would like to unsubscribe from our newsletter. I apologize if the newsletter has been causing any inconvenience. I'll assist you with unsubscribing right away. Could you please provide me with the email address associated with your subscription? Rest assured, once you're unsubscribed, you won't receive any further newsletters from us.",
+    "response_cn": "我理解您感到困扰，并且希望取消我们的订阅。如果我们的订阅邮件给您带来了不便，我深表歉意。我会立即协助您取消订阅。请您提供与订阅相关的电子邮件地址。请放心，一旦您取消订阅，您将不会再收到我们的任何订阅邮件。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I can't sign up to your goddamn company newsletter",
+    "instruction_cn": "我无法注册你们公司的新闻通讯。",
+    "response_en": "I apologize for any inconvenience caused by the difficulty you're experiencing in signing up for our newsletter. I assure you that I'm here to assist you in resolving this issue promptly. To better understand the problem, could you please provide me with more details about the problem you encountered during your attempt to sign up? This will enable me to address the issue effectively and ensure that your subscription to our newsletter is successful. Thank you for bringing this to my attention, and I appreciate your patience as we work towards a solution.",
+    "response_cn": "对于您在订阅我们新闻简报时遇到的困难，我深表歉意。我保证会尽快协助您解决此问题。为了更好地了解具体情况，能否请您提供更多关于您在尝试订阅时遇到的问题细节？这将使我能够有效地处理问题，并确保您成功订阅我们的新闻简报。感谢您告知此事，也感谢您在我们共同解决问题过程中的耐心等待。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "give me information about cancel the newsletter subscription",
+    "instruction_cn": "Here is the translation:\n\n提供有关取消{{newsletter_subscription}}的信息",
+    "response_en": "I'm on it! I understand that you would like to receive information about canceling your newsletter subscription. To proceed with canceling your subscription, please provide me with the email address or any relevant details associated with your subscription. Once I have the required information, I will assist you in canceling the newsletter subscription promptly. Rest assured that we respect your decision and will process your request with the utmost care.",
+    "response_cn": "好的，我明白了！您希望了解如何取消我们的新闻资讯订阅。为了帮您完成取消订阅，请提供与您的订阅相关的电子邮箱地址或其他相关信息。一旦我收到所需信息，我将立即协助您取消订阅。请放心，我们尊重您的决定，并将认真处理您的请求。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want to unsubscribe from the newsletter",
+    "instruction_cn": "我想退订这份电子报",
+    "response_en": "I've understood that you'd like to unsubscribe from our newsletter. I apologize if it is not meeting your expectations. Your feedback is important to us, and we always strive to improve our content and offerings. To assist you with unsubscribing, could you please provide me with the email address you used for your subscription? Once I have that information, I will promptly remove you from our newsletter list. Additionally, if you have any specific feedback regarding the newsletter that you would like to share, I would be more than happy to hear it. Our goal is to ensure that our subscribers have the best experience possible.",
+    "response_cn": "我了解到您希望取消订阅我们的电子报。如果我们的内容未能达到您的期望，我深表歉意。您的反馈对我们非常重要，我们始终致力于改进我们的内容和产品。为了协助您取消订阅，能否请您提供您订阅时使用的电子邮件地址？一旦我获得该信息，我将立即将您从我们的电子报订阅名单中移除。此外，如果您有任何关于电子报的具体反馈想要分享，我非常乐意倾听。我们的目标是确保订阅用户获得最佳的体验。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want information about the subscription to your newsletter",
+    "instruction_cn": "我想了解关于订阅您们新闻通讯的信息。",
+    "response_en": "Thank you for your interest in our newsletter subscription! Our newsletter provides you with the latest updates, promotions, and valuable content tailored specifically for our subscribers. To subscribe, simply visit our website and navigate to the Newsletter section. There, you will find a subscription form where you can enter your email address and confirm your subscription. Once you're subscribed, you'll start receiving our newsletter directly in your inbox. Should you have any questions or need further assistance, please don't hesitate to reach out. We're here to help!",
+    "response_cn": "感谢您对我们的新闻通讯订阅感兴趣！我们的新闻通讯为您提供最新资讯、促销活动以及专为订阅者精心策划的优质内容。如需订阅，只需访问我们的网站并进入\"新闻通讯\"栏目，您将在那里找到订阅表单，输入您的电子邮箱地址并确认订阅即可。订阅成功后，您将开始直接在收件箱中收到我们的新闻通讯。如有任何疑问或需要进一步帮助，请随时联系我们。我们随时为您服务！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "where do I cancel my corporate newsletter subscription?",
+    "instruction_cn": "请问我在哪里可以取消公司新闻订阅？",
+    "response_en": "I'm clearly cognizant that you want to cancel your corporate newsletter subscription. Your peace of mind is of utmost importance to us. To unsubscribe from our newsletter, you can visit the subscription preferences section on our website. Once you're there, you'll find a dedicated option to cancel your subscription. If you prefer, I can guide you through the process step by step. Just let me know, and I'll be glad to assist you further.",
+    "response_cn": "我完全理解您希望取消企业通讯订阅的需求。您的安心对我们来说至关重要。要取消我们的通讯订阅，您可以访问我们网站上的订阅偏好设置部分。进入该页面后，您会看到一个专门的取消订阅选项。如果您愿意，我可以逐步指导您完成整个流程。请随时告诉我，我很乐意为您提供进一步的协助。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I need to unsubscribe from your newsletter, how can I do it?",
+    "instruction_cn": "我需要取消订阅你们的简报，该如何操作？",
+    "response_en": "Glad you contacted regarding your desire to unsubscribe from our newsletter. I completely understand that preferences may change over time, and it's important for us to honor your decision. To proceed with the unsubscribing process, could you please provide me with your email address or any relevant account information? This will enable me to quickly locate your subscription details and assist you in removing your email address from our newsletter recipient list. Rest assured, your privacy and satisfaction are our top priorities, and I'll ensure that your request is promptly and properly handled.",
+    "response_cn": "很高兴您联系我们，表达希望退订我们的资讯邮件。我完全理解，个人偏好可能会随时间变化，我们非常重视您的决定。为了完成退订流程，请您提供您的邮箱地址或相关账户信息。这将帮助我快速找到您的订阅详情，协助您将邮箱地址从我们的资讯邮件收件人列表中移除。请放心，您的隐私和满意度是我们的首要任务，我会确保您的请求得到及时妥善的处理。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can I unsubscribe from the corporate newsletter?",
+    "instruction_cn": "我可以取消订阅企业通讯吗？",
+    "response_en": "Certainly! I understand that you would like to unsubscribe from our corporate newsletter. I apologize if the content hasn't met your expectations or if you're receiving it unintentionally. To assist you with unsubscribing, could you please provide me with your email address or any other relevant information so that I can locate your subscription and handle the process efficiently? Rest assured that your request will be processed promptly, and we respect your decision to opt-out. Your feedback on our newsletter is also valuable to us, so if there's anything specific you'd like to share regarding its content or frequency, please feel free to let me know.",
+    "response_cn": "当然可以！我理解您希望取消订阅我们的企业通讯。如果内容未能满足您的期望，或者您并非有意订阅，我深表歉意。为了协助您完成退订，能否请您提供您的电子邮件地址或其他相关信息，以便我找到您的订阅记录并高效处理您的请求。请放心，您的退订请求将得到及时处理，我们尊重您选择退订的决定。同时，您对我们通讯内容的反馈对我们也非常宝贵，如果您对内容或发送频率有任何具体意见，也欢迎随时告知。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "i cannot subscribe to the newsletter",
+    "instruction_cn": "我无法订阅新闻通讯。",
+    "response_en": "I'm sorry to hear that you're having trouble subscribing to our newsletter. Let's find a solution together. Could you please provide me with some more details about the issue you're experiencing? Are you encountering any error messages or specific difficulties while trying to subscribe? With a better understanding of the problem, I'll be able to assist you more effectively.",
+    "response_cn": "很抱歉您在订阅我们的时事通讯时遇到了问题。让我们一起来解决这个问题。您能否提供更多关于您所遇到问题的详细信息？您在尝试订阅时是否遇到了任何错误信息或具体的困难？通过更好地了解问题，我将能够更有效地为您提供帮助。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I want help subscribing to your newsletter",
+    "instruction_cn": "我想订阅你们的通讯。",
+    "response_en": "I appreciate your interest in subscribing to our newsletter! It shows that you value staying updated on our latest news and offers. Allow me to guide you through the subscription process seamlessly. To begin, could you please provide me with your email address? This will enable me to add you to our mailing list promptly. Rest assured, we prioritize your privacy and ensure that your information is handled with utmost care. Moreover, our newsletter is packed with valuable content, exclusive promotions, and exciting updates tailored to keep you engaged. I'm thrilled to have you on board!",
+    "response_cn": "感谢您对我们订阅通讯的关注！这表明您重视及时了解我们的最新资讯和优惠活动。接下来，我将为您顺畅地引导订阅流程。首先，请问您能提供一下您的电子邮件地址吗？这样我就能及时将您加入我们的邮件列表。请放心，我们高度重视您的隐私，并确保您的信息得到最妥善的处理。此外，我们的通讯内容丰富，包含独家优惠和令人兴奋的更新，旨在让您始终保持参与。非常期待您的加入！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "tell me more about subscribing to your corporate newsletter",
+    "instruction_cn": "{{tell me more about subscribing to your corporate newsletter}}",
+    "response_en": "I appreciate your interest in subscribing to our corporate newsletter. Subscribing to our newsletter is a great way to stay updated on the latest company news, product launches, promotions, and helpful tips. You'll receive regular email updates delivered directly to your inbox, ensuring that you're always in the loop. Our newsletter is designed to provide valuable insights and exclusive content to our subscribers. If you have any specific questions or concerns about our newsletter, feel free to let me know. I'm here to assist you every step of the way.",
+    "response_cn": "感谢您有意订阅我们的企业通讯。订阅我们的通讯是了解公司最新动态、产品发布、促销活动以及实用技巧的最佳方式。您将定期收到直接发送到您邮箱的更新，确保您时刻掌握最新资讯。我们的通讯旨在为订阅者提供有价值的见解和独家内容。如果您对我们的通讯有任何具体问题或疑虑，请随时告诉我。我将全程为您提供协助。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can uhelp me to unsubscribe from the corporate newsletter",
+    "instruction_cn": "您好，请问您是想取消订阅我们的企业通讯吗？我可以帮您处理。请问您的邮箱地址是什么？",
+    "response_en": "I recognize that you're seeking assistance with unsubscribing from our corporate newsletter. I apologize for any inconvenience this may cause you. To facilitate the process, could you please provide me with the email address you used to subscribe to the newsletter? Rest assured, once I have the necessary information, I will take immediate action to ensure you no longer receive our corporate newsletter. Thank you for bringing this to our attention, and I appreciate your cooperation in resolving this matter.",
+    "response_cn": "我理解您希望取消订阅我们的企业通讯。对此可能给您带来的不便，我深表歉意。为了帮您完成取消订阅，请问您能否提供订阅时使用的邮箱地址？请放心，一旦我获得所需信息，将立即采取措施，确保您不再收到我们的企业通讯。感谢您向我们反馈此事，也非常感谢您的配合。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "i do not know what to do to receive the corporate newsletter",
+    "instruction_cn": "我不知道该怎么做才能收到企业通讯。",
+    "response_en": "I've become conscious that you're unsure about how to receive our corporate newsletter. No worries, I'm here to guide you through the process! To subscribe, you can visit our company website and look for the \"Newsletter\" section, usually found at the bottom of the page. You can enter your email address there and click the \"Subscribe\" button. Alternatively, you can also reach out to our customer support team and they will be more than happy to assist you with the subscription process. Rest assured, once you're subscribed, you'll receive regular updates on the latest news, promotions, and exclusive offers from our company. Let me know if there's anything else I can assist you with!",
+    "response_cn": "我注意到您对我们公司通讯的订阅方式不太确定。别担心，我来为您详细介绍订阅流程！您可以通过访问我们公司的官网，在页面底部找到\"通讯\"栏目，输入您的电子邮箱地址，然后点击\"订阅\"按钮即可完成订阅。或者，您也可以联系我们的客服团队，他们会非常乐意协助您完成订阅。请放心，订阅成功后，您将定期收到我们公司的最新资讯、促销活动以及独家优惠信息。如果还有其他需要帮助的地方，请随时告诉我！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "I have to subscribe to the newsletter, I need help",
+    "instruction_cn": "我需要订阅通讯，请提供帮助。",
+    "response_en": "I'm here to assist you with subscribing to our newsletter! It's great to see your interest in staying updated with the latest news and promotions from our company. I can guide you through the process step by step and ensure your subscription is set up successfully. Let's get started!",
+    "response_cn": "我来协助您订阅我们的资讯通讯！很高兴您有兴趣了解我们公司的最新资讯和促销活动。我可以逐步指导您完成订阅流程，确保您的订阅设置成功。让我们开始吧！"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "can I unsubscribe to your corporate newsletter?",
+    "instruction_cn": "请问我可以取消订阅贵公司的企业通讯吗？",
+    "response_en": "Of course, I understand that you would like to unsubscribe from our corporate newsletter. Our newsletters are designed to provide valuable information and updates to our subscribers, but I completely respect your decision if you no longer wish to receive them. To unsubscribe, you can simply click on the \"Unsubscribe\" link at the bottom of any newsletter email you receive from us. Alternatively, you can let me know your email address, and I'll make sure to remove you from our mailing list right away. Your feedback is important to us, so if there's any specific reason why you wish to unsubscribe, please feel free to share it with me. We're always striving to improve our content and tailor it to our subscribers' preferences. Thank you for your understanding and support.",
+    "response_cn": "当然，我理解您希望取消订阅我们的企业通讯。我们的通讯旨在为订阅者提供有价值的信息和最新动态，但如果您不再希望收到这些邮件，我完全尊重您的决定。要取消订阅，您可以直接点击我们发送的任何通讯邮件底部的\"取消订阅\"链接。或者，您也可以告诉我您的邮箱地址，我会立即将您从我们的邮件列表中移除。您的反馈对我们非常重要，如果您有任何特定的取消订阅原因，请随时与我分享。我们始终致力于改进内容，并根据订阅者的偏好进行调整。感谢您的理解与支持。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "help to unsubscribe frmo your company newsletter",
+    "instruction_cn": "Here is the translation:\n\n帮助取消订阅贵公司通讯\n\nNote: The original English text contains a typo (\"frmo\" instead of \"from\"), which I've corrected in the translation to \"from\" before translating. The Chinese translation maintains the polite and professional customer service tone as requested.",
+    "response_en": "I'm conscious of the reality that you would like assistance in unsubscribing from our company newsletter. I apologize for any inconvenience this may cause. To proceed with the cancellation, I kindly request you to provide me with the email address you used to subscribe to the newsletter. Once I have the necessary information, I will personally ensure that your subscription is cancelled promptly. Please keep in mind that by unsubscribing, you may miss out on valuable updates and exclusive offers. If there's anything else I can assist you with, please let me know.",
+    "response_cn": "我理解您希望取消订阅我们公司的时事通讯，对此可能带来的不便我深表歉意。为了为您办理取消订阅，烦请您提供您订阅时事通讯时使用的邮箱地址。一旦收到相关信息，我将亲自确保您的订阅会被及时取消。请注意，取消订阅后，您可能会错过一些有价值的更新和专属优惠。如果您还有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "want help to subscribe to your company newsletter",
+    "instruction_cn": "想要订阅贵公司的新闻通讯，需要帮助。",
+    "response_en": "I'm happy to help! I'm thrilled to assist you in subscribing to our company newsletter. It's great to see your interest in staying updated on the latest news and updates. To get started, could you please provide me with your email address? Once I have that, I'll make sure you're added to our mailing list right away. Rest assured, your privacy is our top priority, and we'll handle your information with the utmost care. Additionally, if there's any specific type of content or topics you're interested in, feel free to let me know. We want to ensure that our newsletter provides you with valuable information tailored to your preferences.",
+    "response_cn": "我很高兴能为您提供帮助！非常荣幸能协助您订阅我们的公司资讯通讯。看到您希望及时了解最新资讯和动态，我们感到十分欣喜。为了开始订阅，请您提供您的邮箱地址。一旦收到您的邮箱，我会立即将您加入我们的邮件列表。请放心，您的隐私是我们的首要考虑，我们会以最高标准保护您的个人信息。此外，如果您对特定类型的内容或主题感兴趣，请随时告知我们。我们希望确保我们的资讯通讯为您提供符合您偏好的有价值信息。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "i want helpunsubscribing to the corporate newsletter",
+    "instruction_cn": "我需要帮助取消订阅企业新闻通讯。",
+    "response_en": "I understood that you would like assistance with unsubscribing from our corporate newsletter. I apologize if the content or frequency of our newsletter no longer meets your expectations. To process your request, could you please provide me with the email address you used to subscribe to our newsletter? Once I have this information, I will promptly remove you from our mailing list. We value your feedback and want to ensure that you have the best experience with our company. If there is anything else we can assist you with, please let me know.",
+    "response_cn": "我理解您希望取消订阅我们的企业通讯。如果我们的通讯内容或发送频率不再符合您的期望，我深表歉意。为了处理您的请求，请您提供您订阅我们通讯时使用的电子邮件地址。一旦我收到此信息，我将立即将您从我们的邮件列表中移除。我们重视您的反馈，并希望确保您获得与我们公司合作的最佳体验。如果您还有其他需要协助的事项，请随时告知。"
+  },
+  {
+    "category": "SUBSCRIPTION",
+    "intent": "newsletter_subscription",
+    "instruction_en": "how do i cancel the subscription to ur company newsletter",
+    "instruction_cn": "如何取消贵公司新闻订阅？",
+    "response_en": "Thank you for contacting to us about canceling your subscription to our company newsletter. I understand that you would like to opt-out from receiving our newsletters. To cancel your subscription, please provide me with the email address you used to subscribe so that I can locate your account and proceed with the cancellation. Rest assured, your privacy and preferences are of utmost importance to us, and we will promptly honor your request.",
+    "response_cn": "感谢您联系我们取消公司简报订阅。我理解您希望不再接收我们的简报。为了帮您取消订阅，请提供您订阅时使用的邮箱地址，以便我找到您的账户并为您办理取消。请放心，您的隐私和偏好对我们至关重要，我们会立即处理您的请求。"
+  }
+]

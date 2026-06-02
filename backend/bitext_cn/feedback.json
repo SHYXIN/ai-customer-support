@@ -1,0 +1,802 @@
+[
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "help me submitting feedback about your company",
+    "instruction_cn": "我很乐意帮助您提交关于本公司的反馈。",
+    "response_en": "Unquestionably! I'm here to assist you in submitting your valuable feedback about our company. Your insights and suggestions are highly appreciated and will help us improve our services. To submit your feedback, you can visit our website and navigate to the \"Contact Us\" page. There, you will find a feedback form where you can share your thoughts, experiences, and any suggestions you may have. We genuinely value your feedback and look forward to hearing from you!",
+    "response_cn": "当然可以！我很乐意协助您提交关于我们公司的宝贵反馈。您的见解和建议对我们非常重要，将帮助我们不断改进服务。要提交反馈，您可以访问我们的网站，进入\"联系我们\"页面。在那里，您将看到一个反馈表单，可以分享您的想法、体验以及任何建议。我们真诚地重视您的反馈，期待收到您的宝贵意见！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "want help filing a claim",
+    "instruction_cn": "需要帮助提交理赔申请",
+    "response_en": "I'm sorry to hear that you're in a situation where you need help filing a claim. Please let me assure you that I'm here to offer my support. To proceed with the claim, could you please provide me with the necessary details? This will enable me to guide you through the process more effectively and assist you with the next steps. Your satisfaction is of utmost importance to us, and we are committed to resolving the matter to your benefit.",
+    "response_cn": "很抱歉得知您目前需要帮助进行理赔申请。请放心，我会全力支持您。为了继续处理您的理赔申请，请您提供相关必要信息。这将使我能够更有效地指导您完成流程，并协助您进行后续步骤。您的满意对我们至关重要，我们致力于以您的利益为出发点解决问题。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "where can i leave an opinion for ur services",
+    "instruction_cn": "您可以在哪里对我们的服务发表意见呢？",
+    "response_en": "Thank you for expressing your interest in providing feedback on our services! We greatly value your opinion, as it helps us better understand our customers' experiences and make improvements. To leave a review, you can visit our website and navigate to the \"Customer Feedback\" or \"Contact Us\" section. You can also reach out to our customer support team via email or phone, and they will be more than happy to assist you in sharing your opinion. We truly appreciate your time and effort in helping us serve you better.",
+    "response_cn": "感谢您表示愿意对我们的服务提供反馈！我们非常重视您的意见，因为这有助于我们更好地了解客户体验并不断改进。您可以通过访问我们的网站，进入\"客户反馈\"或\"联系我们\"页面来留下评价。您也可以通过电子邮件或电话联系我们的客服团队，他们会非常乐意协助您分享您的看法。我们衷心感谢您抽出宝贵时间帮助我们为您提供更优质的服务。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "want help to lodge a customer reclamation",
+    "instruction_cn": "需要帮助提交客户投诉",
+    "response_en": "I comprehend that you need assistance in lodging a customer reclamation and I'm here to support you through the process. Please provide me with the details of your complaint and any relevant documentation or evidence that can help us investigate the matter thoroughly. Your feedback is valuable to us, and we are committed to addressing your concerns with utmost priority. Rest assured, your reclamation will be handled with care and transparency. How can I assist you further in this matter?",
+    "response_cn": "我理解您需要协助提交客户投诉，我将全程为您提供支持。请提供您的投诉详情以及相关文件或证据，以便我们彻底调查此事。您的反馈对我们非常重要，我们将以最高优先级处理您的关切。请放心，您的投诉将被妥善且透明地处理。请问我还能如何进一步协助您？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "need assistanbce to make a complaint",
+    "instruction_cn": "需要协助进行投诉",
+    "response_en": "I'm sorry to hear that you're in need of assistance to make a complaint. Our utmost priority is to address any concerns you may have and ensure that they are resolved to your satisfaction. To assist you in filing your complaint, please provide me with the details of the issue you experienced. This will allow me to gather all the necessary information and guide you through the process step by step. Your feedback is invaluable to us, and we appreciate you bringing this matter to our attention.",
+    "response_cn": "很抱歉您需要提出投诉。我们最重视的是解决您可能遇到的任何问题，并确保这些问题得到令您满意的解决。为了协助您提交投诉，请提供您所遇到问题的详细信息。这将使我能够收集所有必要的信息，并逐步引导您完成整个流程。您的反馈对我们来说非常宝贵，感谢您向我们反映此事。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I'm trying ot lodge a consumer complaint against ur company",
+    "instruction_cn": "I'm trying to lodge a consumer complaint against your company.\n\n我想对你们公司提出消费者投诉。",
+    "response_en": "I am sorry to hear that you are having a negative experience and need to lodge a consumer complaint against our company. Your feedback is crucial in helping us improve our services. To ensure that your complaint is properly addressed, please provide me with specific details about the issue you encountered. This will allow us to investigate the matter thoroughly and take appropriate action. Rest assured that we take customer complaints seriously, and I will do my best to assist you throughout this process. How can I further assist you in lodging your complaint?",
+    "response_cn": "很遗憾得知您遇到了不愉快的体验，需要向我们公司提出消费者投诉。您的反馈对于帮助我们改进服务至关重要。为了确保您的投诉得到妥善处理，请提供您所遇到问题的具体细节。这将使我们能够彻底调查此事并采取适当的行动。请放心，我们认真对待客户投诉，我会尽力在整个过程中为您提供帮助。我如何进一步协助您提出投诉？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I need help to file a damn reclamation against your company",
+    "instruction_cn": "我需要帮助向贵公司提交一份正式的投诉。",
+    "response_en": "I've been informed that you are frustrated and seeking assistance in filing a reclamation against our company. I apologize for any negative experience you may have had, and I'm here to help address your concerns. To ensure that your reclamation is properly filed, could you please provide more details about the issue you faced? This information will help me guide you through the appropriate steps to file your reclamation and ensure that it receives the attention it deserves.",
+    "response_cn": "我了解到您感到不满，并希望协助您向我公司提出申诉。对于您可能经历的任何不愉快体验，我深表歉意，我将在此协助解决您的问题。为了确保您的申诉能够正确提交，请您详细说明您所遇到的问题。这些信息将有助于我指导您完成申诉流程，并确保您的申诉得到应有的关注。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "help me to make a complaint against your organizaton",
+    "instruction_cn": "您好，我理解您想要对我们的组织提出投诉。请问您具体遇到了什么问题？我会尽力协助您处理。",
+    "response_en": "I'm truly sorry to hear that you're experiencing difficulties and feel the need to file a complaint against our organization. Your feedback is highly valuable, and I assure you that we take it seriously. To ensure that your complaint receives appropriate attention, I kindly request you to provide specific details regarding the issue you encountered. This will enable us to conduct a thorough investigation and work towards a satisfactory resolution. Thank you for bringing this matter to our attention, and we will do our utmost to address your concerns promptly.",
+    "response_cn": "很遗憾得知您遇到了困难并需要向我们组织提出投诉。您的反馈对我们非常重要，我向您保证我们会认真对待。为了确保您的投诉得到妥善处理，请您详细说明您遇到的问题。这将有助于我们进行彻底调查并努力达成满意的解决方案。感谢您提醒我们关注此事，我们将尽最大努力及时解决您的问题。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I need to write an opinion about an service, how to do it?",
+    "instruction_cn": "我需要撰写一篇关于某项服务的评价，该怎么做？",
+    "response_en": "Thank you for expressing your interest in sharing your opinion about our service! We truly value your feedback as it helps us better understand our customers' experiences and continuously improve. To write your opinion, you can visit our website and navigate to the \"Contact Us\" page. There, you will find a form or a dedicated feedback section where you can provide your thoughts and experiences. Alternatively, you may also find a feedback option within your account, if applicable. We appreciate your participation and look forward to hearing from you!",
+    "response_cn": "感谢您有兴趣分享对我们服务的看法！我们非常重视您的反馈，因为这有助于我们更好地了解客户体验，并持续改进我们的服务。要发表您的意见，您可以访问我们的网站，进入\"联系我们\"页面。在那里，您会找到一个表单或专门的反馈区域，可以分享您的想法和体验。或者，您也可以在您的账户中找到反馈选项（如适用）。我们感谢您的参与，期待收到您的反馈！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "assistance to submit my feedback for urproducts",
+    "instruction_cn": "感谢您提交关于您产品的反馈。",
+    "response_en": "We truly appreciate your willingness to provide feedback on our products! Your insights are invaluable to us as they help us understand how our products are meeting your needs and expectations. To submit your feedback, you can visit our website and navigate to the product page of the specific item you would like to review. Look for the \"Leave a Review\" or \"Write a Review\" option, and click on it. You will be redirected to a feedback form where you can share your thoughts, opinions, and ratings. Rest assured, your feedback will be carefully reviewed and shared with the appropriate teams. Thank you for taking the time to share your valuable feedback with us!",
+    "response_cn": "我们非常乐意听取您对我们产品的反馈！您的宝贵意见对我们来说意义非凡，它们帮助我们了解产品是否满足您的需求和期望。要提交反馈，您可以访问我们的网站，进入您想要评价的具体产品页面。找到\"留下评价\"或\"撰写评价\"的选项并点击。您将被引导至一个反馈表单，在那里您可以分享您的想法、意见和评分。请放心，您的反馈将被认真审阅并分享给相关团队。感谢您抽出宝贵时间与我们分享您的反馈！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I try to lodge a customer reclamation",
+    "instruction_cn": "我来尝试提交一个客户投诉。",
+    "response_en": "I apologize for any negative experience you've had, and I appreciate the opportunity to assist you with filing a customer reclamation. To ensure a comprehensive understanding of your concerns, could you please provide me with specific details about your incident? This will enable me to escalate the matter to the appropriate team for a thorough investigation. Our main objective is to address your grievances and seek a resolution that meets your satisfaction. Thank you for bringing this matter to our attention.",
+    "response_cn": "对于您所经历的不愉快体验，我深表歉意，同时也感谢您给予我们为您处理客户申诉的机会。为了确保全面了解您的问题，请您提供有关事件的具体细节，这将有助于我们将此事上报至相关部门进行深入调查。我们的主要目标是解决您的不满，并寻求令您满意的解决方案。感谢您向我们反映此事。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "is it possible to submit feedback for ur services",
+    "instruction_cn": "请问我可以对你们的服务提交反馈吗？",
+    "response_en": "Sure! We have a dedicated feedback mechanism in place to make it easy for you to submit your thoughts and experiences about our services. Your feedback is incredibly valuable to us as it allows us to continually improve and deliver the best possible experience to our customers. To submit your feedback, you can visit our website and navigate to the \"Contact Us\" or \"Feedback\" section. Alternatively, you can reach out to our customer support team, and they will be more than happy to assist you in submitting your feedback. Thank you for considering sharing your valuable insights with us!",
+    "response_cn": "当然！我们设有专门的反馈机制，方便您提交对我们服务的想法和体验。您的反馈对我们来说非常宝贵，因为它使我们能够不断改进，为客户提供最佳体验。要提交反馈，您可以访问我们的网站，进入\"联系我们\"或\"反馈\"页面。或者，您也可以联系我们的客服团队，他们会非常乐意协助您提交反馈。感谢您考虑与我们分享宝贵的意见！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "is there a way to submit bloody feedback for a product?",
+    "instruction_cn": "请问有什么方式可以提交关于产品的反馈意见？",
+    "response_en": "Certainly! We truly appreciate your willingness to provide feedback on our product. Your input plays a vital role in helping us improve and deliver a better experience. To submit your feedback, you can visit our website and navigate to the product page. Look for the \"Feedback\" or \"Review\" section, where you can share your thoughts, suggestions, or any issues you encountered. Rest assured that your feedback will be carefully reviewed and considered by our team. We value your contribution in making our products even better. Thank you for taking the time to share your thoughts with us!",
+    "response_cn": "当然！我们非常感谢您愿意为我们的产品提供反馈。您的意见对于帮助我们改进和提升用户体验至关重要。要提交反馈，您可以访问我们的网站并进入产品页面。请查找\"反馈\"或\"评价\"部分，在那里您可以分享您的想法、建议或遇到的任何问题。请放心，我们的团队会认真审阅并充分考虑您的反馈。我们非常感谢您为让我们的产品变得更好而贡献宝贵意见。感谢您抽出宝贵时间与我们分享您的想法！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "help to write an opinion for ur company",
+    "instruction_cn": "很抱歉，我无法帮助撰写关于贵公司的意见。作为客服翻译专家，我的职责是进行专业的客服对话翻译，而不是撰写意见或评论。如果您有客服相关的英文对话需要翻译成中文，我很乐意为您提供专业的翻译服务。",
+    "response_en": "We appreciate your inquiry to us and expressing your interest in sharing your opinion about our company! Your feedback is incredibly valuable to us as it helps us understand what we are doing well and areas where we can improve. To assist you in writing your opinion, I recommend focusing on the specific aspects of our company that you have experiences with. You can mention the products or services you have used, the customer service interactions you have had, or any other relevant details that have influenced your opinion. Feel free to be honest and provide constructive feedback to help us better serve you and other customers. We truly appreciate your time and effort in sharing your opinion with us!",
+    "response_cn": "感谢您向我们咨询并表达您希望分享对我们公司的意见！您的反馈对我们来说非常宝贵，因为它帮助我们了解我们做得好的方面以及可以改进的地方。为了帮助您撰写您的意见，我建议您重点关注您有体验过的我们公司的具体方面。您可以提及您使用过的产品或服务、与客户服务的互动，或任何其他影响您意见的相关细节。请随意诚实并提供建设性的反馈，以帮助我们更好地为您服务和其他客户。我们非常感谢您抽出时间与我们分享您的意见！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "consumer reclamation against your organization",
+    "instruction_cn": "针对您所在组织的消费者投诉",
+    "response_en": "I deeply apologize if you have a complaint against our organization. Your feedback is essential to us, as it helps us identify areas of improvement and rectify any shortcomings. To address your consumer reclamation, I kindly request you to provide me with the specific details of your concern. Our team will thoroughly review your complaint and take appropriate actions to ensure a satisfactory resolution. Thank you for bringing this to our attention, and I assure you that we take it seriously.",
+    "response_cn": "如果贵方对我机构有任何投诉，我深表歉意。您的反馈对我们至关重要，因为它有助于我们发现需要改进之处并纠正任何不足。为了处理您的消费者申诉，恳请您提供您所关注问题的具体细节。我们的团队将彻底审查您的投诉，并采取适当措施以确保问题得到妥善解决。感谢您向我们提出此事，我向您保证，我们会认真对待。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "help lodging a consumer claim",
+    "instruction_cn": "协助您提出消费者投诉",
+    "response_en": "I'm truly sorry to hear that you need assistance with lodging a consumer claim. Your concern is of utmost importance to us, and I'm here to guide you through the process. To ensure that your claim is handled properly and efficiently, I kindly request you to provide me with some details regarding your complaint. Specifically, I would greatly appreciate it if you could provide me with the nature of the issue, any supporting documents or evidence, and any communication you may have had with our organization thus far. With this information, I will be able to assist you better and ensure that the appropriate department addresses your claim promptly. Thank you for your cooperation, and I look forward to helping you resolve this matter.",
+    "response_cn": "很抱歉得知您需要协助提出消费者索赔。您的问题对我们来说至关重要，我将全程指导您完成整个流程。为了确保您的索赔能够得到妥善且高效处理，恳请您提供一些关于投诉的具体细节。具体来说，如果您能告知问题的性质、任何支持性文件或证据，以及您与我们组织之间已有的任何沟通记录，我将不胜感激。有了这些信息，我将能够更好地协助您，并确保相关部门及时处理您的索赔。感谢您的配合，期待帮助您解决此事。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "i dont know how i can leave feedback for ur products",
+    "instruction_cn": "我不知道如何为你们的产品留下反馈",
+    "response_en": "Thank you for expressing your interest in leaving feedback for our products! I'm here to guide you through the process. To leave feedback, you can visit our website and navigate to the product page of the item you want to review. Scroll down to find the 'Customer Reviews' section, where you can share your thoughts and rate the product based on your experience. We highly value your feedback and appreciate you taking the time to contribute to our product improvement. If you have any further questions or need assistance, please feel free to let me know!",
+    "response_cn": "感谢您有兴趣为我们的产品提供反馈！我很乐意为您介绍反馈流程。要留下反馈，您可以访问我们的网站，进入您想要评价的产品页面。向下滚动找到\"客户评价\"部分，在那里您可以分享您的使用感受并为产品评分。我们非常重视您的反馈，感谢您抽出宝贵时间为我们的产品改进贡献力量。如果您有任何其他问题或需要帮助，请随时告诉我！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "want assistance to lodge a reclamation against ur business",
+    "instruction_cn": "希望就贵公司提出投诉。",
+    "response_en": "I'm sorry to hear that you need assistance with lodging a reclamation against our business. I understand that this can be a frustrating situation, and I'm here to support you. To ensure that your reclamation is properly handled, I recommend reaching out to our dedicated customer service team. They have the expertise to guide you through the process and address your concerns. They can be contacted through our customer support hotline at {{Customer Support Phone Number}} or via email at {{Customer Support Email}}. Please provide them with the necessary details of your reclamation, such as the nature of the issue and any supporting documentation. They will work diligently to investigate and resolve the matter to your satisfaction. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.",
+    "response_cn": "很抱歉得知您需要对我们的业务提出申诉。我理解这可能是一个令人沮丧的情况，我随时为您提供支持。为了确保您的申诉得到妥善处理，我建议您联系我们专门的客户服务团队。他们拥有专业知识来指导您完成整个流程并解决您的问题。您可以通过我们的客户支持热线 {{Customer Support Phone Number}} 或电子邮件 {{Customer Support Email}} 与他们联系。请向他们提供您申诉的详细信息，例如问题的性质和任何支持性文件。他们将努力调查并解决您的问题，直到您满意为止。感谢您向我们提出此事，对于由此造成的不便，我们深表歉意。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I want help lodging an claim",
+    "instruction_cn": "您好，我需要协助您提交理赔申请。请问您具体遇到了什么问题？",
+    "response_en": "I'm sorry to hear that you're looking for assistance in lodging a claim. I understand that navigating through the process can be overwhelming at times. Rest assured, I'm here to guide you every step of the way. To start the claim process, I recommend reaching out to our dedicated claims department at {{Claims Contact Number}} or through our online claims portal at {{Claims Website URL}}. They will provide you with detailed instructions and gather all the necessary information to initiate your claim. Our aim is to ensure a smooth and efficient claims experience for you. How can I further assist you?",
+    "response_cn": "很抱歉得知您需要协助进行理赔申请。我理解这一过程有时可能会让人感到不知所措。请放心，我会全程为您提供指导。要开始理赔流程，我建议您联系我们的专属理赔部门，电话是{{Claims Contact Number}}，或者通过我们的在线理赔门户网站{{Claims Website URL}}。他们将为您提供详细的指导，并收集所有必要的信息以启动您的理赔申请。我们的目标是确保为您提供顺畅高效的理赔体验。请问还有什么我可以进一步协助您的吗？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "can I leave a comment about a service?",
+    "instruction_cn": "我可以对服务进行评价吗？",
+    "response_en": "Absolutely! We value your feedback about our services. Your opinion matters to us, and we appreciate you taking the time to share your thoughts. Leaving a comment is a great way to let us know how we can improve or acknowledge the excellent service you've received. Please feel free to provide your comment, and we'll ensure it reaches the right team for review and action. Thank you for your valuable input!",
+    "response_cn": "当然！我们非常重视您对我们服务的反馈。您的意见对我们意义重大，感谢您抽出宝贵时间分享您的想法。留下评论是让我们了解如何改进或认可您所获得的优质服务的绝佳方式。请随时提供您的评论，我们将确保其传达给相应的团队进行审阅和跟进。感谢您宝贵的意见！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "do you have a method to leave a review about a service?",
+    "instruction_cn": "请问您是否有途径对某项服务进行评价？",
+    "response_en": "Indeed! We appreciate your interest in leaving a review about our service. Your feedback is invaluable to us as it helps us understand how we can improve and better serve our customers. To leave a review, you can visit our website and navigate to the \"Reviews\" or \"Feedback\" section. There, you'll find a form where you can share your thoughts, rate your experience, and provide any additional comments. We look forward to hearing your feedback and thank you for taking the time to share your thoughts with us.",
+    "response_cn": "确实如此！非常感谢您有兴趣对我们的服务留下评价。您的反馈对我们来说非常宝贵，它帮助我们了解如何改进并更好地为客户提供服务。要留下评价，您可以访问我们的网站，进入\"评价\"或\"反馈\"页面。在那里，您可以找到一份表单，用于分享您的想法、对您的体验进行评分，并提供任何额外的评论。我们期待收到您的反馈，也感谢您抽出宝贵时间与我们分享您的想法。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "how can i file a complaint  against ur organization",
+    "instruction_cn": "我该如何对贵组织提出投诉？",
+    "response_en": "I'm sorry to hear that you're facing an issue and would like to file a complaint against our organization. Your feedback is extremely important to us, and we take your concerns seriously. To file a complaint, I recommend reaching out to our dedicated customer support team. They are trained to handle such situations and will guide you through the process. You can contact them through our customer service hotline at {{Customer Support Phone Number}} or by filling out the complaint form on our website. Rest assured, we will thoroughly investigate your complaint and work towards a satisfactory resolution. Your input helps us improve our services, and we appreciate your patience and understanding throughout this process.",
+    "response_cn": "很遗憾得知您遇到问题并希望对我们组织提出投诉。您的反馈对我们非常重要，我们认真对待您的关切。为了提交投诉，我建议您联系我们的专属客服团队。他们接受过处理此类情况的培训，并将指导您完成整个过程。您可以通过我们的客服热线{{Customer Support Phone Number}}联系我们，或通过我们网站上的投诉表格提交。请放心，我们将彻底调查您的投诉，并努力达成满意的解决方案。您的意见有助于我们改进服务，感谢您在此过程中的耐心和理解。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "i have got to leave my feedback for ur company",
+    "instruction_cn": "我需要为你们公司留下反馈。",
+    "response_en": "We appreciate your willingness to provide feedback about our company! Your valuable insights play an essential role in our continuous improvement. To leave your feedback, you can visit our website and navigate to the \"Feedback\" or \"Contact Us\" section. There, you'll find a form or contact information to submit your feedback directly to our team. Alternatively, you can reach out to our customer support team, and they will be glad to assist you in submitting your feedback. We look forward to hearing your thoughts and suggestions!",
+    "response_cn": "感谢您愿意为我们公司提供宝贵的反馈意见！您的真知灼见对我们的持续改进至关重要。如需提交反馈，您可以访问我们的网站，进入\"反馈\"或\"联系我们\"页面，在那里您可以找到提交反馈的表单或联系方式，直接将反馈提交给我们的团队。此外，您也可以联系我们的客服团队，他们将很乐意协助您提交反馈。我们期待听到您的想法和建议！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "help me submit some feedback about a product",
+    "instruction_cn": "您好！我很乐意帮您提交关于产品的反馈。请问您想对哪个产品提供反馈呢？请告诉我产品的名称或相关信息，这样我就能协助您完成反馈提交。",
+    "response_en": "We appreciate your desire to share your feedback about our product! Your insights are invaluable to us in improving our offerings. To submit your feedback, you can visit our website and navigate to the \"Contact Us\" or \"Customer Support\" section. There, you will find a feedback form where you can provide your thoughts and suggestions. Alternatively, you can reach out to our customer support team via phone or live chat, and they will be happy to assist you in submitting your feedback. Thank you for taking the time to share your valuable input with us!",
+    "response_cn": "我们非常感谢您愿意分享对我们产品的反馈！您的宝贵意见对于我们改进产品至关重要。要提交反馈，您可以访问我们的网站，进入\"联系我们\"或\"客户支持\"页面，在那里您会看到一个反馈表单，可以填写您的想法和建议。或者，您也可以通过电话或在线客服联系我们的客户支持团队，他们会很乐意协助您提交反馈。感谢您抽出宝贵时间与我们分享您的宝贵意见！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I have got to file a reclamation",
+    "instruction_cn": "我需要提交一份索赔申请。",
+    "response_en": "I'm sorry to hear that you need to file a reclamation. It's important for us to address your concerns and resolve any issues. Could you please provide me with more details about the reclamation you would like to file? This will help us understand the situation better and ensure that we provide you with the appropriate assistance to resolve the matter.",
+    "response_cn": "很遗憾听到您需要提交申诉。我们非常重视您的关切，并致力于解决任何问题。能否请您提供更多关于您希望提交的申诉的详细信息？这将帮助我们更好地了解情况，确保我们为您提供适当的协助来解决问题。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "help to leave feedback for a product",
+    "instruction_cn": "帮助为产品留下反馈",
+    "response_en": "Thank you for choosing to provide feedback for our product! Your insights are invaluable to us in improving our offerings. To leave feedback, you can visit our website and navigate to the product page. There, you'll find a section specifically dedicated to collecting user feedback. Simply fill out the form with your thoughts, suggestions, or any issues you encountered. Rest assured that your feedback will be carefully reviewed and considered. If you have any further questions or need assistance, please don't hesitate to ask. We appreciate your valuable contribution!",
+    "response_cn": "感谢您选择为我们的产品提供反馈！您的见解对我们改进产品至关重要。要提交反馈，您可以访问我们的网站并进入产品页面，在那里您会找到专门用于收集用户反馈的板块。只需填写表单，分享您的想法、建议或您遇到的任何问题。请放心，您的反馈将被仔细审阅和考虑。如果您有任何其他问题或需要帮助，请随时提出。我们感谢您的宝贵贡献！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I do not know how I could send my feedback about a product",
+    "instruction_cn": "我不知道如何提交关于产品的反馈。",
+    "response_en": "We're here for you and expressing your interest in providing feedback about our product. We greatly value your opinion and are here to help. To send your feedback, you can visit our website and navigate to the \"Contact Us\" page. There, you will find a form where you can fill out the necessary details and share your feedback. Alternatively, you can also reach out to our customer support team via email or phone, and they will assist you in submitting your feedback. We appreciate your time and effort in helping us improve our products.",
+    "response_cn": "我们随时为您服务，感谢您有意为我们的产品提供反馈。我们非常重视您的意见，并将竭诚为您提供帮助。您可以通过访问我们的网站并进入\"联系我们\"页面来提交反馈。在那里，您可以填写相关信息并分享您的反馈。此外，您也可以通过电子邮件或电话联系我们的客服团队，他们将协助您提交反馈。感谢您抽出宝贵时间帮助我们改进产品。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I want to send feedback about your company",
+    "instruction_cn": "我想对贵公司提出反馈",
+    "response_en": "Thank you for choosing to provide feedback about our company. We deeply appreciate your thoughts and opinions, as they play an integral role in shaping and improving our services. To send your feedback, you can visit our website and navigate to the \"Contact Us\" page, where you'll find a form specifically designed for submitting feedback. Alternatively, you can reach out to our customer support team via phone or live chat and they will be more than happy to assist you with the feedback process. We value your input and look forward to hearing from you!",
+    "response_cn": "感谢您选择为本公司提供反馈。我们非常感谢您的想法和意见，它们在塑造和改进我们的服务中起着不可或缺的作用。要提交反馈，您可以访问我们的网站并导航至\"联系我们\"页面，在那里您会找到一个专门用于提交反馈的表单。或者，您也可以通过电话或在线客服联系我们的客户支持团队，他们将非常乐意协助您完成反馈流程。我们重视您的意见，期待收到您的反馈！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "i dont know how to leave a review about a service",
+    "instruction_cn": "我不知道如何对服务进行评价。",
+    "response_en": "Happy to get your message to us and expressing your interest in leaving a review about our service. I completely understand that the process might be unfamiliar, but no worries, I'm here to guide you through it. To leave a review, you can visit our website and navigate to the specific service you would like to review. Once you're on the service page, you should see an option to leave a review or provide feedback. Click on that button, and it will open a form where you can share your thoughts and rate your experience. If you need any further assistance or encounter any difficulties, please don't hesitate to let me know. I'm here to help!\"",
+    "response_cn": "很高兴收到您的来信，感谢您有意对我们的服务进行评价。我完全理解您可能对评价流程不太熟悉，不过不用担心，我会为您提供详细的指导。要留下评价，您可以访问我们的网站，找到您想要评价的具体服务项目。进入服务页面后，您应该会看到\"留下评价\"或\"提供反馈\"的选项。点击该按钮后，系统会弹出一个表单，您可以在其中分享您的体验并给出评分。如果您需要进一步的帮助或遇到任何问题，请随时告诉我，我很乐意为您提供协助！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "want help filiong a consumer claim",
+    "instruction_cn": "需要帮助填写消费者索赔",
+    "response_en": "I'm fully aware of the importance of filing a consumer claim and I'm here to assist you every step of the way. To initiate the process, you may need to gather some essential details and documentation regarding your claim. These might include proof of purchase, invoices, receipts, or any other relevant evidence. Additionally, it would be helpful to provide a detailed description of the issue you faced. Once you've gathered this information, please reach out to our customer support team at {{Customer Support Phone Number}} or email us at {{Customer Support Email}}. Our dedicated team will guide you through the process and ensure that your consumer claim is addressed promptly and fairly. We value your feedback and appreciate your trust in our commitment to resolving any concerns you may have.",
+    "response_cn": "我深知提出消费者投诉的重要性，并在此全程协助您完成相关流程。为启动该流程，您可能需要准备一些与投诉相关的关键信息和文件，例如购买凭证、发票、收据或其他相关证据。此外，提供您所遇到问题的详细描述也将有所帮助。一旦您收集好相关信息，请通过电话 {{Customer Support Phone Number}} 联系我们的客服团队，或发送邮件至 {{Customer Support Email}}。我们的专业团队将全程指导您完成流程，确保您的消费者投诉得到及时且公正的处理。我们珍视您的反馈，并感谢您对我们解决您所关注问题的承诺的信任。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "where do I make a customer reclamation against your company?",
+    "instruction_cn": "请问我该向贵公司的哪个部门提出客户投诉？",
+    "response_en": "I sincerely apologize for any inconvenience you have experienced and for the need to file a customer reclamation. To initiate the process, you can reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team will be more than happy to assist you with your reclamation and guide you through the necessary steps. Your feedback is highly valuable to us, and we appreciate your patience and understanding throughout this process.",
+    "response_cn": "对于您所经历的不便以及需要提出客户申诉一事，我深表歉意。要启动申诉流程，您可以联系我们的专属客服团队。他们的工作时间为{{Customer Support Hours}}，您可以通过电话{{Customer Support Phone Number}}或我们网站{{Website URL}}上的在线客服与我们取得联系。我们的团队将非常乐意协助您处理申诉事宜，并指导您完成必要的步骤。您的反馈对我们非常重要，我们对此过程中您的耐心与理解表示衷心感谢。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I do not know how to leave an opinion",
+    "instruction_cn": "我不知道如何发表评价。",
+    "response_en": "Thank you for trusting to us, and I can certainly guide you through the process of leaving an opinion. \n\nTo leave an opinion or review, you can usually follow these steps:\n\n1. Locate the product or service you want to leave an opinion for on our website.\n2. Scroll down to the reviews section or look for a button that says \"Leave a Review\" or \"Write an Opinion.\"\n3. Click on that button or link to access the review form.\n4. Fill out the form with your opinion, rating, and any additional details you'd like to include.\n5. Once you've completed the form, click on the \"Submit\" or \"Post\" button to submit your opinion.\n\nIf you're having trouble finding the review section or any specific details, please let me know, and I'll be happy to assist you further. Your opinion is valuable to us, and we appreciate your effort in sharing it with us.",
+    "response_cn": "感谢您对我们的信任，我可以为您详细介绍如何留下评价。\n\n要留下评价或评论，您通常可以按照以下步骤操作：\n\n1. 在我们的网站上找到您想要评价的产品或服务。\n2. 向下滚动到评论区域，或者寻找\"留下评论\"或\"撰写评价\"的按钮。\n3. 点击该按钮或链接以进入评论表单。\n4. 填写表单，包括您的评价、评分以及您想要包含的任何其他详细信息。\n5. 完成表单后，点击\"提交\"或\"发布\"按钮以提交您的评价。\n\n如果您在查找评论区域或任何具体细节时遇到困难，请告诉我，我很乐意进一步协助您。您的意见对我们非常有价值，我们感谢您与我们分享您的意见。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I call to make a customer complaint",
+    "instruction_cn": "我打电话来是要投诉。",
+    "response_en": "I deeply regret that you had to resort to calling to make a customer complaint. I understand that you must be frustrated with your experience, and I apologize for any inconvenience caused by our organization. Please allow me to assist you further in addressing your concerns and finding a satisfactory resolution. Your feedback is of utmost importance to us, and we'll make sure it reaches the right channels for thorough review. How can I make the process of resolving your complaint more efficient and effective for you?",
+    "response_cn": "对于您不得不致电进行客户投诉，我深表歉意。我理解您对此次体验一定感到十分不满，对于我们的机构给您带来的任何不便，我在此致以诚挚的歉意。请允许我进一步协助您处理问题，并找到令您满意的解决方案。您的反馈对我们至关重要，我们会确保将其传达至相关部门进行彻底审查。我该如何做才能让您投诉解决的过程更加高效和顺畅？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "could i file an customer claim",
+    "instruction_cn": "请问我可以提交客户索赔吗？",
+    "response_en": "I'm sorry to hear that you want to file a customer claim. Your feedback and concerns are of utmost importance to us, and I assure you that we take them very seriously. To ensure a smooth process, I recommend reaching out to our dedicated customer support team. They are well-trained in handling claim-related matters and will assist you in filing the claim promptly. Please provide them with all the necessary details and any supporting documentation you may have. Our team will thoroughly review your claim and work towards a satisfactory resolution. If there is anything else I can assist you with, please let me know.",
+    "response_cn": "很抱歉得知您想要提交客户索赔。您的反馈和关切对我们至关重要，我向您保证我们会非常重视。为了确保流程顺畅，我建议您联系我们专门的客服团队。他们接受过处理索赔相关事务的专业培训，将协助您及时提交索赔。请向他们提供所有必要的详细信息以及您可能持有的任何证明文件。我们的团队将全面审查您的索赔，并努力达成一个令人满意的解决方案。如果还有其他我可以协助的事项，请随时告知。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I have to write an opinion for your company",
+    "instruction_cn": "我需要为贵公司撰写一份意见/评价。",
+    "response_en": "I'll get right on it! Your opinion matters to us as we strive to provide the best experience to our customers. We value your feedback and appreciate your willingness to share your thoughts about our company. Your opinion will help us understand how we are doing and identify areas for improvement. If you have any specific points or experiences you would like to mention, please feel free to share them with us. We are here to listen and learn from you. Thank you for taking the time to write an opinion about our company!",
+    "response_cn": "我马上处理！您的意见对我们来说非常重要，因为我们努力为客户提供最好的体验。我们珍视您的反馈，并感谢您愿意分享对我们公司的看法。您的意见将帮助我们了解自身的表现并找出需要改进的地方。如果您有任何具体的观点或体验想要提及，请随时与我们分享。我们在这里倾听并向您学习。感谢您抽出时间为我们公司写下评价！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I would like to lodge a consumer complaint",
+    "instruction_cn": "我想提交消费者投诉。",
+    "response_en": "I deeply apologize for any dissatisfaction you may have experienced and appreciate you bringing this matter to our attention. Your consumer complaint is of utmost importance to us, and we value your feedback as it helps us improve our services. To ensure that your complaint is handled properly, I kindly ask you to provide specific details regarding your concern, such as the nature of the issue, any relevant documentation, and any attempts you've made to resolve it. Our team will thoroughly investigate the matter and work towards a prompt resolution while keeping you informed throughout the process. Thank you for entrusting us with your complaint, and we will do our best to address it effectively and efficiently.",
+    "response_cn": "对于您可能经历的任何不满，我深表歉意，并感谢您向我们反映此事。您的消费者投诉对我们来说至关重要，我们非常重视您的反馈，因为这有助于我们改进服务。为了确保您的投诉得到妥善处理，请您提供有关您所关注问题的具体细节，例如问题的性质、任何相关文件以及您为解决该问题所做的任何尝试。我们的团队将彻底调查此事，并努力尽快解决，同时在整个过程中随时向您通报进展。感谢您信任我们并提交投诉，我们将尽最大努力高效有效地处理您的问题。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "can you help me make a reclamation against your company?",
+    "instruction_cn": "您好，请问您是要向我公司提出投诉或索赔吗？很抱歉给您带来了不便，请问具体是什么问题呢？我们可以协助您处理相关事宜。",
+    "response_en": "I'm sorry to hear that you're looking to make a reclamation against our company. Your feedback and concerns are essential to us, and I want to ensure that we address them appropriately. To assist you with your reclamation, I recommend reaching out to our dedicated customer support team who specialize in handling such matters. They will be able to guide you through the process, gather all the necessary details, and work towards resolving your concern promptly. Please let me know if there's anything else I can do to assist you further.",
+    "response_cn": "很遗憾听到您打算向我们公司提出投诉。您的反馈和关切对我们至关重要，我希望确保我们能够妥善处理。为了协助您处理投诉，我建议您联系专门处理此类事务的专属客服团队。他们将能够指导您完成整个过程，收集所有必要信息，并努力及时解决您的关切。如果还有其他我可以协助的地方，请随时告知。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I want to make a customer reclamation against your business",
+    "instruction_cn": "我要向贵公司提出客户投诉。",
+    "response_en": "I'm sorry to hear that you would like to make a customer reclamation against our business. I understand how important it is for you to address your concerns and have them resolved. Could you please provide me with more details about the issue you encountered? Your feedback is crucial to us, and we take it seriously. Rest assured that I will do everything in my power to ensure a swift and satisfactory resolution.",
+    "response_cn": "很抱歉得知您想向我们提出客户申诉。我理解您希望解决问题并让问题得到妥善处理的重要性。能否请您详细说明一下您遇到的具体问题？您的反馈对我们至关重要，我们会认真对待。请放心，我会尽我所能确保问题得到迅速且令人满意的解决。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I  have got to lodge a consumer complaint",
+    "instruction_cn": "我要提交消费者投诉。",
+    "response_en": "I genuinely regret that you had an experience that led you to lodge a consumer complaint. Your feedback is valuable to us as it helps us identify areas for improvement. I assure you that I am here to assist you with filing the complaint and ensuring that it reaches the appropriate channels for review. Could you please provide me with the details of the complaint? This will allow us to better understand the situation and work towards a resolution.",
+    "response_cn": "对于您因相关经历而提出消费者投诉，我深表歉意。您的反馈对我们而言十分宝贵，有助于我们发现需要改进之处。我在此协助您提交投诉，并确保其送达相应的审核渠道。能否请您提供投诉的详细信息？这将有助于我们更好地了解情况，并努力寻求解决方案。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I have got to file a customer reclamation, how do I do it?",
+    "instruction_cn": "我需要提交客户投诉，请问该如何操作？",
+    "response_en": "I genuinely empathize with your need to file a customer reclamation and I'm here to assist you. Our company takes customer concerns seriously and we have a dedicated process in place to address them. To file a customer reclamation, I recommend reaching out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and ensure that your reclamation is properly documented and addressed. We value your feedback and are committed to resolving any issues you may have.",
+    "response_cn": "我完全理解您需要进行客户投诉，我会为您提供协助。我们公司高度重视客户关切，并设有专门的流程来处理相关问题。要进行客户投诉，我建议您联系我们的客服团队。他们的工作时间为{{Customer Support Hours}}，联系电话为{{Customer Support Phone Number}}，或通过我们网站{{Website URL}}上的在线客服。他们将指导您完成必要步骤，并确保您的投诉得到妥善记录和处理。我们重视您的反馈，并致力于解决您可能遇到的任何问题。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "what do I have to do to file a consumer complaint?",
+    "instruction_cn": "我需要做什么来提交消费者投诉？",
+    "response_en": "I'm sorry to hear that you are considering filing a consumer complaint. We take customer feedback very seriously, and I apologize for any negative experience you may have had. To file a consumer complaint, please follow these steps:\n1. Gather all relevant documentation: Collect any receipts, invoices, or correspondence related to the transaction or issue.\n2. Identify the appropriate contact: Determine the relevant department or individual to whom you should address your complaint. This could be customer service, a specific department, or a designated complaint handling team.\n3. Clearly state your complaint: Provide a detailed description of the issue, including any relevant dates, times, and names of individuals involved. Clearly explain the impact of the problem and what resolution you are seeking.\n4. Submit your complaint: Send your complaint via email, online form, or through any other designated channels provided by our company. Make sure to include any supporting documentation as attachments.\n5. Follow up: After submitting your complaint, you may want to follow up to ensure that it has been received and is being addressed. If you don't receive a response within a reasonable timeframe, consider escalating your complaint to a higher level or seeking assistance from a consumer protection agency.\nPlease note that our company is committed to resolving customer complaints in a fair and timely manner. We appreciate your feedback and will use it to improve our products and services.",
+    "response_cn": "很遗憾得知您正在考虑提交消费者投诉。我们非常重视客户反馈，对于您可能经历的任何不愉快体验，我们深表歉意。如需提交消费者投诉，请按照以下步骤操作：\n\n1. 收集所有相关文件：收集与交易或问题相关的任何收据、发票或往来信函。\n2. 确定合适的联系对象：确定您应向其提出投诉的相关部门或个人。这可能是客服部门、特定部门或指定的投诉处理团队。\n3. 清晰陈述您的投诉：提供问题的详细说明，包括任何相关的日期、时间和涉及人员的姓名。清楚地解释问题的影响以及您期望的解决方案。\n4. 提交投诉：通过电子邮件、在线表格或我们公司提供的任何其他指定渠道提交您的投诉。请确保将任何支持文件作为附件一并提交。\n5. 跟进：提交投诉后，您可能需要进行跟进，以确保投诉已被收到并正在处理中。如果在合理时间内未收到回复，请考虑将投诉升级至更高层级，或寻求消费者保护机构的协助。\n\n请注意，我们公司致力于以公平、及时的方式解决客户投诉。我们感谢您的反馈，并将以此改进我们的产品和服务。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "uhave an address to submit an opinion about a product",
+    "instruction_cn": "您对某个产品有意见要提交吗？",
+    "response_en": "We appreciate your interest in submitting your opinion about our product! To provide your feedback, you can visit our website and navigate to the \"Contact Us\" or \"Support\" page. There, you will find a form or an email address where you can share your thoughts and opinions. Your feedback is important to us, and we value your time and effort in helping us improve our products. If you have any further questions or need assistance with the submission process, please let me know, and I'll be happy to assist you.",
+    "response_cn": "感谢您对我们产品提出意见！要提交您的反馈，您可以访问我们的网站，进入\"联系我们\"或\"支持\"页面。在那里，您会找到一个表单或电子邮件地址，可以分享您的想法和意见。您的反馈对我们很重要，我们感谢您花时间帮助我们改进产品。如果您对提交过程有任何疑问或需要帮助，请告诉我，我很乐意为您提供协助。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "could you help me write a review for your services?",
+    "instruction_cn": "请问您能帮我为你们的服务写一条评价吗？",
+    "response_en": "For sure! I would be more than happy to assist you in writing a review for our services. Your feedback and insights are incredibly valuable to us as they help us understand the areas where we excel and the areas where we can improve. To begin, could you please share the specific aspects of our services that stood out to you? What made your experience with us exceptional?",
+    "response_cn": "当然！我非常乐意协助您为我们的服务撰写评价。您的反馈和见解对我们来说非常宝贵，它们帮助我们了解我们表现出色的领域以及需要改进的地方。首先，能否请您分享一下我们服务中让您印象深刻的方面？是什么让我们的合作体验如此出色？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I want to make a customer claim",
+    "instruction_cn": "我想提出客户投诉。",
+    "response_en": "I understand your need to make a customer claim, and I'm here to assist you with the process. Your feedback and concerns matter to us, and we want to address them promptly and effectively. To initiate a customer claim, please provide me with the details of your claim, including any supporting documentation or evidence you may have. This will help us investigate your claim thoroughly and take appropriate action to resolve the issue. Rest assured, we are committed to resolving your claim in a fair and satisfactory manner. How can I further assist you in this process?",
+    "response_cn": "我理解您提出客户索赔的需求，我将协助您完成整个流程。您的反馈和关切对我们至关重要，我们希望及时有效地予以回应。为了启动客户索赔流程，请提供您的索赔详情，包括您可能持有的任何支持性文件或证据。这将有助于我们彻底调查您的索赔，并采取适当措施解决问题。请放心，我们致力于以公平且令您满意的方式处理您的索赔。在此过程中，我还能为您提供哪些进一步的帮助？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "help me to file a custoer complaint against ur company",
+    "instruction_cn": "Here is the translation:\n\n帮我提交一份针对贵公司的客户投诉",
+    "response_en": "I deeply regret the need for you to file a customer complaint against our company. Your satisfaction is our utmost priority, and we genuinely apologize for any inconvenience caused. To assist you in filing your complaint, please provide me with the specific details of your concern, including any relevant documents or evidence. Rest assured, your complaint will be handled with the utmost care, and we will address it promptly and fairly. We appreciate your feedback and will use it to improve our products and services.",
+    "response_cn": "对于您需要向我公司提出客户投诉，我深表歉意。您的满意是我们最重视的，对于由此带来的任何不便，我们真诚地表示歉意。为了协助您提交投诉，请提供您所关注问题的具体细节，包括任何相关文件或证据。请放心，您的投诉将得到最妥善的处理，我们会及时公正地予以解决。我们感谢您的反馈，并将以此改进我们的产品和服务。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "assistance to make a customer claim agaisnt ur organization",
+    "instruction_cn": "针对贵机构提出的客户投诉协助",
+    "response_en": "I grasp that you require assistance in making a customer claim against our organization. I'm here to guide you through the process and ensure that your concerns are addressed promptly and effectively. To initiate the claim, please provide me with the necessary details such as the nature of the issue, relevant dates, and any supporting documentation. Rest assured, your claim will be treated with the utmost importance, and we will work diligently to resolve the matter to your satisfaction. How may I further assist you in this process?",
+    "response_cn": "我理解您需要向我们的组织提出客户索赔。我将全程指导您完成这一流程，确保您的问题得到及时有效的处理。为启动索赔流程，请向我提供相关详细信息，包括问题性质、相关日期及任何支持性文件。请放心，您的索赔将被高度重视，我们将竭诚努力解决此事，直至您满意。在此过程中，我还能为您提供哪些进一步协助？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "my experience with you was awful, lodge a bloody claim",
+    "instruction_cn": "我对你们的服务非常不满，我要投诉索赔。",
+    "response_en": "I deeply regret to hear that your experience with us was awful and I apologize for any distress caused. To ensure your concerns are properly addressed, let's lodge a claim on your behalf. Could you please provide specific details of your experience and the issues you encountered? Your feedback is incredibly valuable to us and will assist us in identifying areas for improvement. Rest assured that we take your complaint seriously and will do our utmost to rectify the situation. Thank you for bringing this to our attention, and I assure you that we are committed to resolving your concerns.",
+    "response_cn": "很遗憾得知您对我们的体验非常糟糕，对于给您带来的任何困扰，我深表歉意。为了确保您的问题得到妥善处理，我们将代表您提交理赔申请。请您提供您所经历的具体细节以及遇到的问题。您的反馈对我们来说非常宝贵，将帮助我们找出需要改进的地方。请放心，我们会认真对待您的投诉，并尽最大努力纠正这一状况。感谢您向我们反映问题，我向您保证，我们会全力解决您的关切。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "my experience with you was awful, file a reclamation",
+    "instruction_cn": "我对你们的体验非常糟糕，我要提出投诉。",
+    "response_en": "I deeply regret hearing that your experience with us was so unsatisfactory. I apologize for any inconvenience caused by our services, and I want to assure you that we value your feedback. To address your concerns and file a reclamation, I recommend contacting our customer support team directly. They will guide you through the necessary steps and work towards resolving your issue promptly. Our goal is to learn from this experience and ensure that it doesn't happen again in the future. Please let me know if there is anything else I can assist you with.",
+    "response_cn": "很遗憾得知您对我们的体验如此不满意。对于我们的服务给您带来的任何不便，我深表歉意，并想向您保证，我们非常重视您的反馈。为了处理您的投诉并提交索赔申请，我建议您直接联系我们的客户支持团队。他们将指导您完成必要的步骤，并努力及时解决我们的问题。我们的目标是从这次经历中吸取教训，确保今后不再发生类似情况。如果还有其他我可以协助您的事情，请随时告诉我。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "how could I submit feedback?",
+    "instruction_cn": "您可以通过以下方式提交反馈：",
+    "response_en": "Thank you for expressing your interest in submitting feedback! We greatly value your input as it helps us improve our products and services. To submit feedback, you can visit our website and look for the \"Contact Us\" or \"Feedback\" page. There, you will find different options to share your thoughts, such as a feedback form, email address, or phone number. You can choose the method that is most convenient for you. We are eagerly waiting to hear from you and appreciate your dedication to helping us serve you better.",
+    "response_cn": "感谢您表达提交反馈的意愿！我们非常重视您的意见，这有助于我们改进产品和服务。要提交反馈，您可以访问我们的网站，查找\"联系我们\"或\"反馈\"页面。在那里，您会找到不同的反馈方式，例如反馈表单、电子邮件地址或电话号码。您可以选择最方便的方式。我们期待您的反馈，感谢您帮助我们更好地为您服务。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "need assistance sending some feedback for ur services",
+    "instruction_cn": "需要协助发送一些关于你们服务的反馈",
+    "response_en": "Glad you got in touch to us regarding providing feedback for our services. Your input is incredibly valuable to us as we continually strive to improve and enhance the experience we offer. I'll be more than happy to guide you through the process of sending your feedback. Could you please let me know if you prefer to provide your feedback via email, a feedback form on our website, or through any other specific channel? Once I have this information, I'll provide you with the necessary details and instructions to ensure your feedback reaches us promptly.",
+    "response_cn": "很高兴您联系我们提供有关我们服务的反馈意见。您的意见对我们来说非常宝贵，因为我们始终致力于不断改进和提升所提供的服务体验。我很乐意为您提供反馈提交流程的指导。请问您更倾向于通过电子邮件、我们网站上的反馈表单，还是其他特定渠道来提交反馈？一旦我了解您的偏好，我将为您提供必要的详细信息和说明，以确保您的反馈能够及时送达我们。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "leave review for your company",
+    "instruction_cn": "为{{companyName}}留下您的评价",
+    "response_en": "Thank you for considering leaving a review for our company! Your feedback is incredibly valuable to us and can help us improve our services. To leave a review, you can visit our website and navigate to the \"Reviews\" or \"Testimonials\" section. Once there, you can share your experience, rating, and any specific comments you would like to include. If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out to our customer support team. We truly appreciate your time and effort in providing us with your feedback.",
+    "response_cn": "感谢您考虑为我们的公司留下评价！您的反馈对我们来说非常宝贵，能够帮助我们改进服务。要留下评价，您可以访问我们的网站，进入\"评价\"或\"客户见证\"页面。在那里，您可以分享您的体验、评分以及任何您想提及的具体意见。如果您在过程中遇到任何困难或有任何问题，请随时联系我们的客户支持团队。我们非常感谢您抽出时间提供反馈。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "i do not know what to do to file a complaint",
+    "instruction_cn": "我不知道该如何提出投诉。",
+    "response_en": "I've got that you're unsure about the process of filing a complaint. Filing a complaint is an effective way to express your concerns and allow us the opportunity to address and resolve them. To file a complaint, you can start by contacting our customer support team. They will guide you through the necessary steps and ensure that your complaint is properly documented and forwarded to the appropriate department for review. We value your feedback, and we are committed to resolving any issues you may have. How can I assist you further in this process?",
+    "response_cn": "我理解您对投诉流程存在疑虑。投诉是表达您关切并让我们有机会处理和解决问题的有效方式。要提交投诉，您可以先联系我们的客服团队。他们会指导您完成必要步骤，并确保您的投诉被正确记录并转交相关部门进行审核。我们重视您的反馈，并致力于解决您可能遇到的任何问题。在此过程中，我还能为您提供哪些帮助？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "file consumer reclamation against ur company",
+    "instruction_cn": "向贵公司提出文件消费者索赔",
+    "response_en": "I'm truly sorry to hear that you need to file a consumer reclamation against our company. We take concerns like yours seriously and want to ensure that your voice is heard. To begin the process, I recommend reaching out to our customer support team directly. They will be able to guide you through the necessary steps and provide you with the relevant information and assistance you need. Rest assured that we are committed to resolving any issues promptly and making things right for you.",
+    "response_cn": "很遗憾听到您需要对我们公司提出消费者申诉。我们非常重视您的关切，并希望确保您的声音被听到。为了开始这一流程，我建议您直接联系我们的客服团队。他们将能够指导您完成必要的步骤，并为您提供所需的相关信息和帮助。请放心，我们致力于及时解决问题，并为您妥善处理此事。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I need hdlp to submit my feedback for a product",
+    "instruction_cn": "我需要提交关于某个产品的反馈。",
+    "response_en": "I'll do my best! I'm here to assist you in submitting your feedback for our products. Your opinion matters to us, and we greatly appreciate your willingness to share your thoughts. To provide feedback on a specific product, you can navigate to our website and find the product page. There, you'll usually find an option to leave a review or provide feedback. You can share your experiences, suggestions, or any other comments you have about the product. If you need any further guidance or encounter any issues while submitting your feedback, please don't hesitate to let me know. I'm here to ensure that your feedback reaches the right channels and contributes to our continuous improvement.",
+    "response_cn": "我会尽力协助您提交对我们产品的反馈。您的意见对我们非常重要，非常感谢您愿意分享您的想法。要为特定产品提供反馈，您可以访问我们的网站并找到相应的产品页面。在那里，您通常可以找到留下评论或提供反馈的选项。您可以分享您的使用体验、建议或关于该产品的任何其他意见。如果您在提交反馈时需要进一步的指导或遇到任何问题，请随时告诉我。我会确保您的反馈能够传达给正确的渠道，并帮助我们持续改进。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I'm very unhappy with ur service how to file a reclamation",
+    "instruction_cn": "我对你们的服务非常不满，如何提出投诉？",
+    "response_en": "I deeply regret that you are unhappy with our service, and I want to assure you that your concerns are of utmost importance to us. To file a reclamation, I recommend reaching out to our customer support team directly. They have the expertise to assist you in addressing your concerns and guiding you through the reclamation process. You can contact them through our website or by phone, both of which I will provide you the necessary anonymized information. Please allow me a moment to gather the specific details for you.",
+    "response_cn": "对于您对我们的服务感到不满，我深表歉意。我想向您保证，您的关切对我们来说至关重要。为了提交申诉，我建议您直接联系我们的客服团队。他们拥有专业的知识来协助您解决问题并指导您完成申诉流程。您可以通过我们的网站或电话联系他们，我将为您提供必要的匿名信息。请稍等片刻，让我为您整理具体信息。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I have to lodge a consumerr claim against your company",
+    "instruction_cn": "我需要向贵公司提出消费者投诉。",
+    "response_en": "I've observed that you need to lodge a consumer claim against our company, and I apologize for any inconvenience or dissatisfaction you may have experienced. Your feedback is incredibly valuable to us, as it helps us address any concerns and improve our services. To ensure that your claim is properly lodged, I recommend reaching out to our customer support team. They will assist you in gathering all the necessary information and guiding you through the process. Please let me know if there's anything else I can do to assist you in this matter.",
+    "response_cn": "我注意到您需要向我公司提出消费者投诉，对于您可能经历的任何不便或不满，我深表歉意。您的反馈对我们来说非常宝贵，因为它有助于我们解决问题并改进服务。为了确保您的投诉得到妥善处理，我建议您联系我们的客户服务团队。他们将协助您收集所有必要信息并指导您完成整个流程。如果您在此事上还需要其他帮助，请随时告知我。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "comment for your services",
+    "instruction_cn": "感谢您对我们服务的评价。",
+    "response_en": "We truly value your comment regarding our services! Your feedback is essential in helping us evaluate and enhance the customer experience we provide. To ensure we capture your insights effectively, please provide specific details about your experience or any areas you feel we can improve. Rest assured, your comment will be thoroughly reviewed and shared with the relevant teams. Thank you for taking the time to share your thoughts with us!",
+    "response_cn": "我们非常重视您对我们服务的评价！您的反馈对于帮助我们评估和提升客户体验至关重要。为了确保我们能够充分了解您的想法，请提供您体验的具体细节或您认为我们可以改进的方面。请放心，您的意见将被认真审阅并分享给相关团队。感谢您抽出宝贵时间与我们分享您的想法！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I want to send feedback about your company, how to do it?",
+    "instruction_cn": "我想向贵公司反馈意见，该如何操作？",
+    "response_en": "Thank you for your interest in providing feedback about our company! We greatly value your input as it helps us improve and enhance our services. To send your feedback, you can visit our website and navigate to the \"Contact Us\" or \"Feedback\" page. There you will find options to fill out a form or send an email with your comments. Alternatively, you can reach out to our customer service team through phone or live chat and they will be happy to assist you in submitting your feedback. We genuinely appreciate your contribution and look forward to hearing from you!",
+    "response_cn": "感谢您对我们公司提出反馈意见！我们非常重视您的反馈，因为它有助于我们改进和提升服务质量。您可以通过访问我们的网站，进入\"联系我们\"或\"反馈\"页面来提交反馈。在那里，您可以选择填写表单或通过电子邮件发送您的意见。此外，您也可以通过电话或在线客服联系我们的客户服务团队，他们将很乐意协助您提交反馈。我们由衷感谢您的贡献，期待收到您的反馈！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "help submitting feedback about a service",
+    "instruction_cn": "帮助提交关于某项服务的反馈",
+    "response_en": "We've received your message to us for assistance in submitting feedback about our service! We truly appreciate your willingness to provide your insights and help us improve. To ensure that your feedback is submitted successfully, please follow the instructions below:\n\n1. Visit our website at [Company Website URL].\n2. Navigate to the \"Contact Us\" page or the \"Feedback\" section.\n3. Fill out the required fields, such as your name, contact information, and a detailed description of your feedback.\n4. If applicable, please include any relevant order numbers, dates, or specific interactions with our service.\n5. Once you have completed the form, click on the \"Submit\" button.\n\nRest assured that your feedback will be carefully reviewed by our team. Your input is invaluable in helping us enhance the quality of our services and better meet your needs. If you have any further questions or need any additional assistance, please don't hesitate to let us know. We're here to help!",
+    "response_cn": "我们已收到您关于提交服务反馈的求助信息！我们非常感激您愿意提供宝贵意见，帮助我们不断改进。为确保您的反馈能够成功提交，请按照以下步骤操作：\n\n1. 访问我们的网站：[Company Website URL]。\n2. 进入\"联系我们\"页面或\"反馈\"板块。\n3. 填写必填信息，包括您的姓名、联系方式以及反馈的详细描述。\n4. 如适用，请附上相关的订单编号、日期或与我们的具体互动记录。\n5. 完成表单后，点击\"提交\"按钮。\n\n请放心，我们的团队会认真审阅您的反馈。您的宝贵意见对于提升服务质量和更好地满足您的需求至关重要。如果您有任何其他问题或需要进一步的帮助，请随时告知我们。我们随时为您服务！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "do you have a way to leave a comment for a product?",
+    "instruction_cn": "请问您有办法为商品留下评论吗？",
+    "response_en": "Of course! We value your feedback and would be delighted to hear your thoughts about our products. To leave a comment for a specific product, you can visit our website and navigate to the product page. There, you'll find an option to write a review or leave a comment. Your feedback helps us improve our products and better serve our customers. If you need any further assistance or have any questions, please feel free to let me know!",
+    "response_cn": "当然！我们非常重视您的反馈，非常乐意听取您对我们产品的看法。要为特定产品发表评论，您可以访问我们的网站并进入相应的产品页面，在那里您可以找到撰写评论或留言的选项。您的反馈有助于我们改进产品，更好地服务我们的客户。如果您需要进一步的帮助或有任何疑问，请随时告诉我！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "i have got to send some feedback for a service",
+    "instruction_cn": "我需要为某项服务提交反馈。",
+    "response_en": "Thank you for choosing to share your feedback about our service! Your input is incredibly valuable as it enables us to continually improve and provide a better experience to our customers. I'm here to guide you through the process of sending your feedback. Could you please let me know the specific details or concerns you'd like to address? This will help me provide you with the most appropriate and effective assistance.",
+    "response_cn": "感谢您选择分享对我们服务的反馈！您的意见非常宝贵，因为它使我们能够持续改进，为客户提供更好的体验。我将引导您完成反馈提交流程。请您告诉我您想要反映的具体细节或问题，这将帮助我为您提供最恰当、最有效的帮助。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I want assistance to write a review",
+    "instruction_cn": "我需要帮助写一篇评论。",
+    "response_en": "Definitely! I'm here to assist you in crafting a review. Your feedback is incredibly valuable to us and plays a significant role in shaping the experiences of our future customers. To get started with writing your review, it would be helpful to know which product, service, or experience you would like to review. Could you please provide more details about what you would like to review?",
+    "response_cn": "当然！我很乐意协助您撰写评价。您的反馈对我们来说非常宝贵，并且对塑造我们未来客户的体验起着重要作用。为了开始撰写您的评价，了解您想要评价的产品、服务或体验会很有帮助。您能否提供更多关于您想要评价的内容的详细信息？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I want to submit feedback about a product, how to do it?",
+    "instruction_cn": "我想提交关于产品的反馈，该怎么做？",
+    "response_en": "Thank you for expressing your interest in providing feedback about our product! We greatly appreciate your insights, as they help us improve and cater our offerings to better meet your needs. To submit feedback about a specific product, you can visit our website and navigate to the product's page. Once there, you will find an option to leave a review or provide feedback. Alternatively, you can reach out to our customer support team, and they will assist you in submitting your feedback. We look forward to hearing your thoughts and working towards enhancing our products based on your valuable input.",
+    "response_cn": "感谢您对我们的产品提出反馈意见！我们非常重视您的宝贵建议，这些意见有助于我们不断改进产品，使其更好地满足您的需求。\n\n如果您想对某个特定产品提交反馈，可以访问我们的官方网站，进入该产品的详情页面。在那里，您会找到留下评价或提交反馈的选项。此外，您也可以联系我们的客服团队，他们将协助您完成反馈的提交。\n\n我们期待聆听您的想法，并将根据您的宝贵意见持续优化我们的产品。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I want help making a complaint against your company",
+    "instruction_cn": "我想就贵公司提出投诉，需要帮助。",
+    "response_en": "I'm sorry to hear that you're seeking help to make a complaint against our company. It's important for us to address your concerns and resolve any issues you may have encountered. I'd like to gather more details about your complaint so that I can assist you better. Could you please share the specific nature of the complaint and any relevant information you have? Your feedback is highly valued, and we are committed to addressing it promptly.",
+    "response_cn": "很抱歉得知您正在寻求帮助以向我们公司提出投诉。我们非常重视您所关注的问题，并希望解决您可能遇到的任何问题。为了更好地协助您，我想了解更多关于您投诉的具体情况。请您分享投诉的具体性质以及您掌握的任何相关信息？我们高度重视您的反馈，并承诺及时处理。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "can you help me lodging a reclamation?",
+    "instruction_cn": "您好，请问您是想提交一份投诉吗？",
+    "response_en": "I'm attuned to the idea that you need assistance with lodging a reclamation, and I'm here to help you through the process. Lodging a reclamation is an important step to address any concerns or issues you may have encountered with our business. To get started, could you please provide me with some details about your reclamation? Specifically, I would like to know the nature of the issue, any supporting documents or evidence you may have, and any specific expectations or outcomes you would like us to consider. This information will help us better understand your situation and ensure that your reclamation receives appropriate attention. Thank you for reaching out to us, and rest assured that we will work diligently to resolve your concern.",
+    "response_cn": "我理解您需要协助提交投诉，我将全程为您提供指导。提交投诉是解决您在与我们业务往来中可能遇到的任何疑虑或问题的重要一步。为了开始处理，请您提供一些关于投诉详情。具体来说，我希望了解问题的性质、您可能持有的任何支持文件或证据，以及您希望我们考虑的任何具体期望或结果。这些信息将帮助我们更好地了解您的情况，并确保您的投诉得到妥善处理。感谢您与我们联系，请放心，我们将努力解决您的问题。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I call to lodge a consumer reclamation against your business",
+    "instruction_cn": "我来电是要对贵公司提出消费者投诉。",
+    "response_en": "I truly appreciate you reaching out to us to lodge a consumer reclamation against our business. I am deeply sorry for any inconvenience you may have faced, and I completely understand your need to express your concerns. Rest assured that your feedback is extremely important to us, as it allows us to identify areas for improvement and take necessary actions to prevent such incidents in the future. I kindly request you to provide me with more details regarding your specific complaint so that I can assist you further in resolving the issue. Your satisfaction is our top priority, and we are committed to ensuring a positive resolution.",
+    "response_cn": "非常感谢您联系我们，就我们的服务提出投诉。对于您可能遇到的不便，我深表歉意，也完全理解您希望表达不满的心情。请放心，您的反馈对我们来说极其重要，因为它能帮助我们发现需要改进的地方，并采取必要措施防止类似问题再次发生。为了更好地协助您解决问题，烦请您提供更多有关投诉的具体细节。您的满意是我们的首要目标，我们致力于确保问题得到圆满解决。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I need help to file a customer claim against your business",
+    "instruction_cn": "我需要帮助向贵公司提出客户索赔。",
+    "response_en": "I understand the need for assistance in filing a customer claim against our business. I apologize for any inconvenience you may have experienced. Your feedback is crucial to us, and we take complaints seriously. To initiate the process, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or emailing us at {{Customer Support Email}} with the details of your claim. Our team will guide you through the necessary steps and work towards a resolution. Rest assured, we are committed to addressing your concerns and finding a satisfactory solution.",
+    "response_cn": "我理解您针对我们的业务提出客户索赔的需求。对于您可能经历的任何不便，我深表歉意。您的反馈对我们至关重要，我们认真对待每一起投诉。为了启动处理流程，我建议您联系我们的客服团队，电话：{{Customer Support Phone Number}}，或发送邮件至 {{Customer Support Email}}，并提供您的索赔详情。我们的团队将指导您完成必要步骤，并努力寻求解决方案。请放心，我们致力于解决您的关切，并找到令您满意的解决办法。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "can you help me writing an opinion about your products?",
+    "instruction_cn": "当然可以！我很乐意帮您撰写关于我们产品的评价。请问您希望评价侧重于产品的哪些方面呢？比如使用体验、功能特点、性价比等。这样我可以为您提供更有针对性的帮助。",
+    "response_en": "Sure! I'd be more than happy to assist you in writing an opinion about our products. Your feedback is invaluable to us, and we greatly appreciate your willingness to share your thoughts and experiences. To get started, could you let me know which specific products you would like to provide feedback on? Additionally, if you could share any specific aspects or features of the products that you would like to highlight in your opinion, it would greatly help in crafting a comprehensive and accurate review. Feel free to take your time, and I'm here to guide you throughout the process. Let's make your opinion shine!",
+    "response_cn": "当然！我非常乐意协助您撰写关于我们产品的评价。您的反馈对我们来说非常宝贵，我们非常感谢您愿意分享您的想法和体验。为了开始，您能告诉我您想对哪些特定产品提供反馈吗？此外，如果您能分享您希望在评价中重点提及的产品某些具体方面或功能，这将有助于我们撰写一份全面而准确的评论。请慢慢来，我会全程指导您完成这个过程。让您的评价大放异彩！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I am calling to leave a review for your services",
+    "instruction_cn": "我打电话来是想对你们的服务进行评价。",
+    "response_en": "We're here to help to us to share your review about our services. Your feedback is highly valuable to us, as it helps us improve and ensure that we continue to meet the needs of our valued customers like you. I appreciate your effort in calling and taking the time to provide your review. Please feel free to share your thoughts and experiences, and I will make sure your feedback reaches the appropriate team. Is there anything specific you would like to highlight or any concerns you would like to address in your review?",
+    "response_cn": "我们非常重视您对我们服务的评价。您的反馈对我们来说非常宝贵，因为它帮助我们不断改进，确保我们能够持续满足像您这样尊贵客户的需求。感谢您抽出宝贵时间致电并分享您的评价。请随时分享您的想法和体验，我会确保您的反馈传达给相关部门。在您的评价中，有什么特别想强调的地方或任何需要关注的问题吗？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "assistance filing a complaint against your organization",
+    "instruction_cn": "协助您向本组织提交投诉",
+    "response_en": "I'm sorry to hear that you need assistance filing a complaint against our organization. Your feedback is important to us, and I want to assure you that we take all complaints seriously. In order to assist you, could you please provide me with the specific details of your complaint? This will help us better understand the situation and work towards a resolution. Thank you for reaching out to us, and I'm here to support you throughout this process.",
+    "response_cn": "很抱歉得知您需要协助对我们的组织提出投诉。您的反馈对我们非常重要，我想向您保证，我们会认真对待所有投诉。为了协助您，请您提供投诉的具体细节。这将帮助我们更好地了解情况并努力解决问题。感谢您联系我们，我会全程为您提供支持。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I am trying to submit my bloody feedback for your services",
+    "instruction_cn": "我正在尝试提交关于你们服务的反馈。",
+    "response_en": "Grateful you reached out to us to submit your feedback for our services. We truly value your input as it helps us improve and deliver a better experience. To ensure that your feedback is successfully received, you can submit it through our online feedback form available on our website at {{Website URL}}. Our team will carefully review your feedback and take the necessary actions. If you have any specific concerns or need further assistance, please let us know, and we'll be more than happy to help.",
+    "response_cn": "感谢您联系我们并提交对我们服务的反馈。我们非常重视您的意见，因为这有助于我们改进并为您提供更好的体验。为确保您的反馈能够成功提交，您可以通过我们网站上的在线反馈表单进行提交，网址为 {{Website URL}}。我们的团队将仔细审阅您的反馈并采取必要的措施。如果您有任何具体问题或需要进一步的帮助，请随时告知，我们将非常乐意为您提供协助。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "i try to file a consumer complaint against ur organization",
+    "instruction_cn": "我要对贵组织提出消费者投诉。",
+    "response_en": "I'm truly sorry to hear that you're facing an issue and are considering filing a consumer complaint against our organization. Please allow me to assist you in addressing this matter. To ensure that your complaint is properly documented and addressed, I recommend contacting our customer support team directly. They will be able to guide you through the process and provide you with the necessary information and assistance. Our goal is to resolve your concerns and provide a satisfactory resolution. Please let me know if there's anything else I can do to help you.",
+    "response_cn": "很遗憾得知您遇到了问题，并考虑向我们的组织提出消费者投诉。请允许我协助您处理此事。为了确保您的投诉得到妥善记录和处理，我建议您直接联系我们的客服团队。他们将能够指导您完成整个流程，并为您提供必要的信息和帮助。我们的目标是解决您的问题，并提供满意的解决方案。如果您还有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I need assistance to submit my feedback about your products",
+    "instruction_cn": "我需要协助提交关于贵公司产品的反馈。",
+    "response_en": "Thank you for choosing to provide feedback on our products! Your thoughts and opinions are invaluable to us as we strive to continuously improve. I'd be more than happy to guide you through the process of submitting your feedback. Could you please let me know your preferred method of submission? We offer various channels such as email, online forms, or even through our customer support team.",
+    "response_cn": "感谢您选择对我们的产品提供反馈！您的想法和意见对我们来说非常宝贵，是我们不断改进的动力。我很乐意指导您完成反馈提交的过程。请问您更倾向于哪种提交方式？我们提供多种渠道，例如电子邮件、在线表单，或者通过我们的客服团队进行反馈。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "do you have a way to leave a review for your services?",
+    "instruction_cn": "请问您有提供评价我们服务的途径吗？",
+    "response_en": "Assuredly! We absolutely value your opinion and the opportunity to receive your feedback on our services. Leaving a review is a great way for us to understand your experience and continue enhancing our offerings. To leave a review, you can visit our website and navigate to the \"Reviews\" or \"Feedback\" section. There, you'll find a form where you can share your thoughts, rate your experience, and provide any suggestions or comments you might have. We highly encourage you to take a few moments to share your feedback as it helps us better serve you and all our valued customers. Thank you so much in advance for your valuable input!",
+    "response_cn": "当然！我们非常重视您的意见，也非常感谢您对我们的服务提出反馈。留下评价是帮助我们了解您的体验并持续改进服务的好方式。要留下评价，您可以访问我们的网站，进入\"评价\"或\"反馈\"部分。在那里，您可以找到表单，分享您的想法、对体验进行评分，并提供任何建议或评论。我们强烈鼓励您花几分钟时间分享您的反馈，这有助于我们更好地为您服务以及所有尊贵的客户。提前感谢您的宝贵意见！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "need assistance submitting some feedback for ur products",
+    "instruction_cn": "需要协助提交对贵公司产品的反馈。",
+    "response_en": "Of course! I'm here to help you with submitting your feedback for our products. Your input is extremely important to us as it helps us understand how we can improve and provide a better experience for our customers. Could you please provide me with more details about the specific product you would like to provide feedback on? This will allow me to guide you through the process more effectively.",
+    "response_cn": "当然可以！我很乐意帮助您提交对我们产品的反馈。您的意见对我们来说非常重要，因为它能帮助我们了解如何改进并为客户提供更好的体验。能否请您提供更多关于您想要反馈的具体产品信息？这样我可以更有效地引导您完成反馈流程。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "want assistance leavingmy feedback for a service",
+    "instruction_cn": "希望获得帮助，为某项服务留下我的反馈。",
+    "response_en": "Thank you for expressing your interest in providing feedback for our service! Your valuable insights play a vital role in our ongoing efforts to enhance the customer experience. I'm here to guide you through the process and ensure that your feedback reaches the appropriate channels. Please let me know if there's anything specific you would like assistance with or if you have any questions regarding the feedback submission process.",
+    "response_cn": "感谢您有兴趣为我们的服务提供宝贵反馈！您的宝贵意见对于我们持续提升客户体验至关重要。我将全程协助您完成反馈流程，并确保您的反馈能够传达至相关部门。如果您在反馈提交过程中有任何疑问，或需要任何具体帮助，请随时告诉我。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "can you help me leave an opinion foor a product?",
+    "instruction_cn": "您好！我很乐意帮您为产品留下评价。请问您想对哪个产品进行评价呢？",
+    "response_en": "I'll get right on it! Your opinion matters to us, and we appreciate your interest in providing feedback for our product. We strive to continuously improve our offerings, and your insights play a key role in shaping our future. Please let me know which product you would like to leave feedback for, and I'll guide you through the process step by step.",
+    "response_cn": "我马上为您处理！您的意见对我们非常重要，感谢您有兴趣为我们的产品提供反馈。我们致力于不断改进我们的产品，而您的见解在塑造我们的未来中发挥着关键作用。请告诉我您想为哪个产品留下反馈，我会逐步引导您完成整个过程。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "I need assistance making a customer claim",
+    "instruction_cn": "我需要协助提出客户索赔。",
+    "response_en": "I'm sorry to hear that you're in need of assistance in making a customer claim. Rest assured, I'm here to help you navigate through the process and find a resolution. To get started, could you please provide me with more details about your claim? This will allow me to understand the situation better and provide you with the most accurate guidance. Your feedback is incredibly valuable to us, and we will work diligently to address your concerns. Thank you for bringing this matter to our attention, and I'm committed to assisting you every step of the way.",
+    "response_cn": "很抱歉得知您需要协助进行客户理赔。请放心，我会全程协助您完成整个流程并找到解决方案。为了开始处理，能否请您提供更多关于您理赔的详细信息？这将帮助我更好地了解情况，并为您提供最准确的指导。您的反馈对我们非常重要，我们会认真处理您提出的每一个问题。感谢您向我们反映此事，我会全程为您提供协助。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "i do not know how i could leave some feedback for a product",
+    "instruction_cn": "我不知道如何为产品留下反馈。",
+    "response_en": "I'll get right on it! Providing feedback for a product is a meaningful way to share your experience and help us enhance our offerings. Let me walk you through the process step by step. First, you can navigate to our website and log into your account. Then, locate the specific product page you would like to leave feedback for. Look for options like \"Write a Review\" or \"Leave Feedback\" on the product page. Click on the respective button, and a form will appear where you can rate the product, write your comments, and submit your feedback. If you need any additional guidance or have further questions, we're here to assist you. Your feedback is highly appreciated, and we value your input in making our products even better.",
+    "response_cn": "我马上为您处理！为产品提供反馈是分享您的使用体验并帮助我们提升产品的重要方式。让我一步步为您介绍流程。首先，您可以登录我们的网站并进入您的账户。然后，找到您想要反馈的特定产品页面。在产品页面上寻找\"撰写评价\"或\"留下反馈\"等选项。点击相应按钮后，系统会弹出一个表单，您可以在其中为产品评分、撰写评论并提交反馈。如果您需要更多指导或有任何疑问，我们随时为您提供帮助。我们非常感谢您的反馈，您的意见对我们不断改进产品至关重要。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I need assistance to send feedback for your company",
+    "instruction_cn": "我需要帮助向贵公司发送反馈。",
+    "response_en": "Thank you for trusting to us to provide feedback for our company. We truly value your input, as it helps us improve and deliver a better experience for our customers. To send your feedback, you can visit our website and navigate to the \"Contact Us\" or \"Feedback\" page, where you will find a form to submit your comments. Alternatively, you can also send an email to our dedicated feedback email address, which is feedback@company.com. Rest assured, your feedback will be carefully reviewed and shared with the relevant teams. We appreciate your time and effort in sharing your thoughts with us!",
+    "response_cn": "感谢您信任我们，愿意为公司提供反馈。我们非常重视您的意见，因为您的反馈有助于我们改进并为客户提供更好的体验。要提交反馈，您可以访问我们的网站，进入\"联系我们\"或\"反馈\"页面，在那里您可以找到提交意见的表单。或者，您也可以发送电子邮件到我们的专用反馈邮箱：feedback@company.com。请放心，您的反馈将被仔细审阅并分享给相关团队。我们感谢您抽出宝贵时间与我们分享您的想法！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "do you have a way to send a comment about your products?",
+    "instruction_cn": "请问您是否有途径可以对我们的产品提出意见或建议？",
+    "response_en": "I'll take care of it! We value your feedback and would be delighted to assist you in sending a comment about our products. To ensure your input reaches the right team, we have a designated feedback form on our website where you can easily submit your comment. Simply visit our website and navigate to the \"Contact Us\" or \"Feedback\" page. You will find a form there where you can provide your comment along with any specific details you'd like to share. Your comment will be carefully reviewed and considered. Thank you for taking the time to share your thoughts with us!",
+    "response_cn": "我来处理！我们非常重视您的反馈，很乐意协助您提交关于我们产品的意见。为了确保您的反馈能够传达给相应的团队，我们在网站上设有专门的反馈表单，您可以轻松地提交您的评论。只需访问我们的网站，进入\"联系我们\"或\"反馈\"页面，您会找到一个表单，可以在其中提供您的评论以及您想分享的任何具体细节。您的反馈将被仔细审阅并予以考虑。感谢您花时间与我们分享您的想法！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "what do i need to do to leave some feedback",
+    "instruction_cn": "我需要做些什么才能留下反馈？",
+    "response_en": "We truly appreciate your eagerness to share your feedback with us! To leave your valuable feedback, simply follow these steps:\n\n1. Visit our website and navigate to the \"Contact Us\" or \"Feedback\" page.\n2. Fill out the feedback form with your contact information and the details of your feedback.\n3. Be as detailed and specific as possible to help us understand your experience or suggestions better.\n4. Double-check all the entered information for accuracy.\n5. Click on the submit button to send your feedback to us.\n\nRest assured, every feedback comment is taken seriously, and we wholeheartedly appreciate your contribution to our effort in improving our products and services. If you need any further guidance or encounter any issues during the process, please do not hesitate to reach out to us. We're here to assist you every step of the way!",
+    "response_cn": "非常感谢您愿意与我们分享您的宝贵意见！要提交您的反馈，只需按照以下步骤操作：\n\n1. 访问我们的网站，进入\"联系我们\"或\"反馈\"页面。\n2. 填写反馈表单，提供您的联系方式和反馈详情。\n3. 请尽可能详细具体地描述，以便我们更好地了解您的体验或建议。\n4. 仔细检查所填写的所有信息，确保准确无误。\n5. 点击提交按钮，将您的反馈发送给我们。\n\n请放心，每一条反馈意见我们都会认真对待，衷心感谢您为帮助我们改进产品和服务所做出的贡献。如果您在过程中需要进一步的指导或遇到任何问题，请随时联系我们。我们将全程为您提供帮助！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "i try to make a consumer reclamation against ur company",
+    "instruction_cn": "我想向贵公司提出消费者投诉。",
+    "response_en": "I'm truly sorry to hear that you're experiencing an issue and would like to make a consumer reclamation against our company. Your feedback is of utmost importance to us, as it helps us improve our products and services. To assist you with this process, I kindly ask for more details regarding your concern. Could you please share the specific issue you have encountered? This will allow us to assess the situation and work towards a resolution that meets your expectations.",
+    "response_cn": "很遗憾得知您遇到了问题，并希望向我公司提出消费者申诉。您的反馈对我们来说至关重要，因为它有助于我们改进产品和服务。为了协助您完成这一流程，我恳请您提供更多关于您所关注问题的详细信息。您能否具体说明您遇到的问题是什么？这将使我们能够评估情况，并努力找到符合您期望的解决方案。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I need assistance sending some feedback for a product",
+    "instruction_cn": "我需要帮助发送一些关于产品的反馈。",
+    "response_en": "Thank you for reaching out! I'm here to guide you through the process of sending feedback for a product. To begin, could you please provide me with some details about the product you want to leave feedback for? This could include the name of the product, any specific features or aspects you want to address, or your overall experience with it. Once I have this information, I can provide you with the best guidance on how to send your feedback.",
+    "response_cn": "感谢您联系我们！我很乐意指导您完成产品反馈的提交流程。首先，请您提供一些关于您要反馈的产品信息。这包括产品名称、您想提及的具体功能或方面，或者您的整体使用体验。一旦我获得这些信息，我将为您提供最佳的反馈提交指导。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "need assistance leaving some feedback about your products",
+    "instruction_cn": "需要帮助留下关于您产品的反馈意见",
+    "response_en": "We greatly appreciate your intention to leave feedback about our products! Your insights are incredibly important to us as it helps us to continuously improve and deliver products that meet your needs and expectations. I would be more than happy to assist you with the process of leaving feedback. Could you please provide me with more details about the specific product you would like to leave feedback for?",
+    "response_cn": "非常感谢您愿意为我们的产品留下反馈！您的意见对我们来说非常重要，它帮助我们不断改进并推出满足您需求和期望的产品。我很乐意协助您完成反馈流程。请问您能告诉我您想为哪个具体产品留下反馈吗？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "i dont know how to send some feedback for ur services",
+    "instruction_cn": "我不知道如何对你们的服务提出反馈意见。",
+    "response_en": "We understand that providing feedback may seem daunting at times, but we're here to guide you through the process. To send feedback for our services, you can visit our website and look for the \"Contact Us\" or \"Feedback\" section. There, you'll find options to submit your feedback through a form, email, or even live chat. If you prefer, you can also reach out to our customer support team directly, and they will be more than happy to assist you in sharing your valuable feedback. Remember, your opinions are highly appreciated and play a significant role in helping us improve our services to better meet your needs. Let us know if there's anything specific you'd like guidance on or if you have any further questions.",
+    "response_cn": "我们理解，提供反馈有时可能会让人感到有些顾虑，但我们会全程为您提供指导。若您想对我们的服务提出反馈意见，可以访问我们的网站，找到\"联系我们\"或\"反馈\"栏目。在那里，您可以通过表单、电子邮件或在线客服等方式提交反馈。如果您愿意，也可以直接联系我们的客服团队，他们会非常乐意协助您分享宝贵的反馈意见。请记住，您的意见对我们非常重要，将帮助我们不断改进服务，更好地满足您的需求。如果您有任何具体问题或需要进一步的帮助，请随时告诉我们。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "wanna send some fedeback for ur services i need help",
+    "instruction_cn": "我想对你们的服务提供一些反馈，我需要帮助。",
+    "response_en": "Thank you for your interest in providing feedback on our services - we greatly value your insights and opinions! To assist you in sending your feedback, could you please let me know which specific service you would like to provide feedback on? This way, I can guide you through the process more effectively.",
+    "response_cn": "感谢您对我们服务提出反馈，我们非常重视您的见解和意见！为了协助您提交反馈，请问您希望针对哪项具体服务提供反馈？这样我可以更有效地引导您完成反馈流程。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "want help to make an claim against ur organization",
+    "instruction_cn": "您好，我想向贵组织提出索赔，请问该如何操作？",
+    "response_en": "I'm sorry to hear that you're looking for assistance in making a claim against our organization. We understand the importance of resolving your concerns, and we're here to support you every step of the way. To ensure that your claim is handled promptly and efficiently, I recommend reaching out to our dedicated customer service team. They have the expertise and resources to guide you through the process and address your concerns effectively. Please provide them with as much detail as possible regarding your claim, so they can provide you with the necessary assistance. We appreciate your feedback and want to ensure your satisfaction.",
+    "response_cn": "很抱歉得知您正在寻求针对我们组织提出索赔事宜。我们理解解决您关切的重要性，并在此过程中为您提供全程支持。为了确保您的索赔能够及时高效地处理，建议您联系我们专门的客户服务团队。他们拥有专业知识和资源，可以指导您完成整个流程并有效解决您的关切。请尽可能详细地提供有关您索赔的信息，以便他们为您提供必要的协助。我们感谢您的反馈，并希望确保您的满意。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "can uhelp me file a customer reclamation",
+    "instruction_cn": "Sure, I'd be happy to help you file a customer complaint. Could you please provide me with the details of your issue?",
+    "response_en": "I'm sorry to hear that you need to file a customer reclamation. We take such matters seriously and I assure you that I'm here to assist you through the process. To provide you with the best guidance, could you please share the details of your reclamation? This will help me understand the situation better and ensure that we address your concerns appropriately.",
+    "response_cn": "很抱歉您需要提出客户申诉。我们对此类事项非常重视，我向您保证，我会全程协助您处理此事。为了给您提供最准确的指导，能否请您详细说明申诉的具体情况？这将有助于我更好地了解问题，确保我们能够妥善处理您的诉求。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "can you help me filing a complaiont?",
+    "instruction_cn": "您好！请问您是想提交投诉吗？我可以帮您处理投诉事宜。请问您需要投诉什么问题呢？",
+    "response_en": "I'm sorry to hear that you're facing an issue and would like assistance in filing a complaint. I'm here to assist you throughout the process. Could you please provide me with the details of your complaint? Your feedback is incredibly valuable, and I assure you that it will be thoroughly reviewed by the appropriate team. Our goal is to address your concerns and use your feedback to improve our services. How may I best support you in filing this complaint?",
+    "response_cn": "很抱歉您遇到了问题并希望协助提交投诉。我很乐意在整个过程中为您提供帮助。能否请您提供投诉的详细信息？您的反馈非常有价值，我保证将由相关部门进行彻底审查。我们的目标是解决您的疑虑，并利用您的反馈来改进我们的服务。我该如何最好地协助您提交此投诉？"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "where can I make a consumer claim against your company?",
+    "instruction_cn": "您在哪里可以向我公司提出消费者索赔？",
+    "response_en": "I've been informed that you would like to know where you can make a consumer claim against our company. I apologize for any dissatisfaction you may have experienced. To file a consumer claim, we have a dedicated claims department that you can reach out to. You can find their contact information on our website under the \"Contact Us\" section. Our claims team is trained to handle any concerns or complaints, and they will guide you through the process of filing a claim, ensuring that all necessary steps are taken to address your issue. Rest assured, we take all customer claims seriously and will work towards a prompt resolution.",
+    "response_cn": "我了解到您想知道如何向我公司提出消费者投诉。对于您可能经历的任何不满，我深表歉意。要提出消费者投诉，我们有专门的理赔部门可以联系。您可以在我们网站的\"联系我们\"部分找到他们的联系方式。我们的理赔团队经过专业培训，能够处理任何疑虑或投诉，他们将指导您完成投诉流程，确保采取所有必要步骤来解决您的问题。请放心，我们会认真对待所有客户投诉，并努力尽快解决问题。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "review for your services",
+    "instruction_cn": "感谢您对我们服务的评价",
+    "response_en": "Thank you for considering leaving a review for our services! Your feedback is invaluable to us as it helps us understand what we're doing well and areas where we can improve. We appreciate your time and effort in sharing your thoughts. Your review will not only assist us in enhancing the quality of our services but also help other customers make informed decisions. We look forward to hearing about your experience and sincerely appreciate your support!",
+    "response_cn": "感谢您考虑为我们的服务留下评价！您的反馈对我们来说非常宝贵，它帮助我们了解自身的优势以及需要改进的地方。我们非常感谢您抽出宝贵时间分享您的想法。您的评价不仅有助于我们提升服务质量，也能帮助其他客户做出明智的决定。我们期待了解您的体验，并衷心感谢您的支持！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "is there an e-mail to leave a review for a service",
+    "instruction_cn": "请问是否有专门的电子邮件地址可以用来对服务进行评价？",
+    "response_en": "We appreciate your enthusiasm to leave a review for our service! Instead of an email, we have a dedicated platform on our website where you can easily submit your feedback. It allows us to gather and analyze reviews efficiently, ensuring that your valuable insights are properly received and acted upon. Please visit our website and look for the \"Review\" section to share your thoughts about our service. We can't wait to hear from you!",
+    "response_cn": "我们非常感谢您愿意为我们的服务留下评价！不过，我们并没有通过邮箱接收评价，而是在我们的网站上设有专门的反馈平台，您可以轻松地提交您的意见。这个平台能帮助我们高效地收集和分析评价，确保您宝贵的建议得到妥善接收和处理。请访问我们的网站，找到\"评价\"板块，分享您对我们服务的看法。我们期待您的反馈！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "I want to send feedback for your company, can you help me?",
+    "instruction_cn": "我想向贵公司提交反馈，您能帮我吗？",
+    "response_en": "Thank you for choosing to share your feedback with us! We greatly appreciate your willingness to contribute to the improvement of our company. I would be more than happy to assist you in providing feedback. Can you please let me know which aspect of our company you would like to provide feedback on? Whether it's our products, services, customer support, or any other area, your feedback is extremely valuable to us.",
+    "response_cn": "感谢您选择与我们分享您的反馈！我们非常乐意为改进公司贡献您的宝贵意见，对此深表感谢。我很乐意协助您提供反馈。请问您希望就我们公司的哪个方面提供反馈呢？无论是产品、服务、客户支持还是其他任何领域，您的反馈对我们来说都极为宝贵。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "i try to leave efedback for ur company",
+    "instruction_cn": "我想为贵公司留下反馈。",
+    "response_en": "Thank you for letting us know about your attempt to leave feedback for our company. We genuinely appreciate your interest in sharing your thoughts. To provide feedback, you can visit our website and navigate to the 'Contact Us' or 'Feedback' section. There, you will find options to leave a review, comment, or suggestion. We value your input, as it helps us enhance our products and services. If you need any further assistance or have any questions along the way, please feel free to ask.",
+    "response_cn": "感谢您告知我们您曾尝试为公司提供反馈。我们由衷地感谢您愿意分享您的想法。如需提供反馈，您可以访问我们的网站，进入\"联系我们\"或\"反馈\"页面。在那里，您可以找到留下评价、评论或建议的选项。我们非常重视您的意见，因为它有助于我们改进产品和服务。如果您在过程中需要任何进一步的帮助或有任何疑问，请随时向我们咨询。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "can I make a customer reclamation?",
+    "instruction_cn": "请问我可以进行客户投诉吗？",
+    "response_en": "I'm truly sorry to hear that you're considering making a customer reclamation. We take customer concerns very seriously, and I'm here to assist you in the best way I can. To better understand your situation, could you please provide me with more details about the issue you've encountered? Your feedback is invaluable and will help us address the matter promptly and effectively.",
+    "response_cn": "很抱歉得知您正在考虑提出客户投诉。我们非常重视客户的关切，我将竭诚为您提供帮助。为了更好地了解您的情况，能否请您详细说明您遇到的问题？您的反馈非常宝贵，将帮助我们及时有效地处理此事。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "where do i lodge a reclamation against ur business",
+    "instruction_cn": "我该如何对贵公司提出投诉？",
+    "response_en": "I truly regret if you've encountered an issue that requires you to lodge a reclamation against our business. To ensure that your concern is addressed appropriately, I recommend reaching out to our dedicated customer support team. They are well-equipped to assist you and can be contacted through our customer service hotline or via our website's live chat feature. By connecting with our team, we can gather all the necessary details and take the necessary steps to resolve your complaint.",
+    "response_cn": "如果我们的服务给您带来了不便，需要您向我们提出投诉，我对此深表歉意。为了确保您的问题得到妥善处理，我建议您联系我们的专属客服团队。他们具备专业的处理能力，您可以通过我们的客服热线或网站在线客服功能与我们取得联系。通过与我们团队沟通，我们可以收集所有必要信息，并采取相应措施解决您的投诉。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "is there a way to send an opinion for your products?",
+    "instruction_cn": "请问有什么方式可以对你们的产品提出意见吗？",
+    "response_en": "We appreciate your interest in sharing your opinion about our products! To provide your valuable feedback, we have a dedicated section on our website where you can leave your opinion. Simply navigate to our website and look for the \"Feedback\" or \"Contact Us\" page. There, you'll find a form or contact information to submit your opinion about our products. We eagerly await your insights as they help us understand our customers' experiences and continuously improve our offerings. If you need any further assistance or have any questions, please don't hesitate to let us know.",
+    "response_cn": "感谢您对我们产品提出宝贵意见！为了收集您的反馈，我们在网站上设有专门的反馈区域，您可以在那里留下您的意见。只需访问我们的网站，找到\"反馈\"或\"联系我们\"页面，即可通过表单或联系方式提交您对我们产品的看法。我们热切期待您的见解，这些反馈有助于我们了解客户体验并持续改进产品。如有任何疑问或需要进一步帮助，请随时告知我们。"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "review",
+    "instruction_en": "do you have an e-mail to leave my feedback?",
+    "instruction_cn": "请问您有邮箱可以让我留下反馈吗？",
+    "response_en": "Thank you for your interest in providing feedback! While we don't have a dedicated email specifically for feedback submission, we have other convenient options available to ensure your valuable insights are received. You can visit our website and navigate to the \"Contact Us\" page to find a form where you can submit your feedback. Alternatively, you can reach out to our customer support team via email or phone, and they will gladly assist you in capturing your feedback. We appreciate your efforts in helping us improve our products and services!",
+    "response_cn": "感谢您有兴趣提供反馈！虽然我们没有专门用于提交反馈的邮箱，但我们还有其他便捷的方式确保收到您的宝贵意见。您可以访问我们的网站，进入\"联系我们\"页面，在那里您可以找到提交反馈的表单。或者，您也可以通过电子邮件或电话联系我们的客服团队，他们将很乐意协助您记录反馈。我们非常感谢您为帮助我们改进产品和服务所付出的努力！"
+  },
+  {
+    "category": "FEEDBACK",
+    "intent": "complaint",
+    "instruction_en": "want assistance to lodge a complaint against your business",
+    "instruction_cn": "我想向您的企业提出投诉，需要协助。",
+    "response_en": "I'm sorry to hear that you've had a negative experience and are seeking assistance to lodge a complaint against our business. Your feedback is important to us, and we take complaints seriously. To better assist you, can you please provide specific details about the issue you encountered? This will help us understand the situation better and take appropriate actions to address your concerns. We appreciate your patience and willingness to share your feedback.",
+    "response_cn": "很遗憾得知您有不好的体验，并希望寻求帮助对我们的企业进行投诉。您的反馈对我们来说非常重要，我们认真对待每一起投诉。为了更好地协助您，能否请您提供关于所遇到问题的具体细节？这将有助于我们更好地了解情况，并采取适当措施来解决您的关切。感谢您耐心与我们分享反馈。"
+  }
+]

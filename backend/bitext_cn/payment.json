@@ -1,0 +1,802 @@
+[
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "help me reporting problems with online payment",
+    "instruction_cn": "请帮我报告在线支付的问题",
+    "response_en": "Rest assured, I'm here to assist you with reporting any problems you're encountering with your online payment. To begin, could you please provide more details about the specific issues you're facing? This will enable us to address your concerns accurately and efficiently. Thank you for reaching out, and together we'll work towards resolving this matter promptly.",
+    "response_cn": "请放心，我随时为您提供协助，帮助您反馈在线支付中遇到的任何问题。首先，能否请您详细说明一下您遇到的具体问题？这将使我们能够准确高效地处理您的诉求。感谢您联系我们，我们将共同努力尽快解决此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "need help to see the available payment options",
+    "instruction_cn": "需要帮助查看可用的付款方式",
+    "response_en": "Thank you for reaching out! I'm here to help you see the available payment options. To view our accepted payment methods, you can visit our website and navigate to the \"Payments\" or \"Checkout\" section. There, you will find a comprehensive list of the payment modalities we offer, including credit/debit cards, PayPal, bank transfers, Apple Pay, and Google Wallet. If you have any questions or need further assistance, feel free to ask. We are committed to ensuring a smooth and convenient payment experience for our valued customers.",
+    "response_cn": "感谢您联系我们！我很乐意为您查看可用的付款选项。要查看我们接受的付款方式，您可以访问我们的网站，并导航至\"付款\"或\"结账\"部分。在那里，您将找到我们提供的所有付款方式的完整列表，包括信用卡/借记卡、PayPal、银行转账、Apple Pay 和 Google Wallet。如果您有任何问题或需要进一步的帮助，请随时提出。我们致力于为尊贵的客户提供顺畅便捷的付款体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "how to report bloody troubles with online payments?",
+    "instruction_cn": "如何报告在线支付的问题？",
+    "response_en": "Of course! I'm here to guide you through the process of reporting any difficulties you're facing with your online payments. To ensure an efficient resolution, you can reach out to our dedicated customer support team through the following channels: our website's live chat feature at {{Website URL}}, our 24/7 helpline at {{Customer Support Phone Number}}, or by sending an email to {{Customer Support Email}}. Simply provide them with accurate and detailed information about the issues you're encountering, including any error messages or screenshots if possible. Rest assured that our team will work diligently to address your concerns and resolve any payment troubles effectively. Thank you for reaching out to us.",
+    "response_cn": "当然！我很乐意为您提供指导，帮助您反馈在线付款过程中遇到的任何问题。为了确保高效解决，您可以通过以下渠道联系我们的专属客服团队：我们网站的在线聊天功能（{{Website URL}}）、24小时全天候客服热线（{{Customer Support Phone Number}}），或发送邮件至{{Customer Support Email}}。请向他们提供您所遇到问题的准确详细信息，包括任何错误提示信息或截图（如有）。请放心，我们的团队将竭诚为您处理问题，有效解决您的付款困扰。感谢您与我们联系。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "can I check what payment methods are accepted?",
+    "instruction_cn": "请问你们支持哪些支付方式？",
+    "response_en": "Thank you for reaching out! I'm here to assist you with exploring our accepted payment methods. Let me provide you with the details:\n\n- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express.\n- **PayPal:** A popular online payment method that's secure and widely used.\n- **Bank Transfer:** This allows you to make direct payments from your bank account.\n- **Apple Pay:** An easy way for Apple users to make payments.\n- **Google Wallet:** Google's payment system for fast, easy checkouts.\n\nThese options provide flexibility and convenience for our valued customers. If you have any further questions or need assistance with any of these methods, please feel free to ask.",
+    "response_cn": "感谢您联系我们！我很乐意为您介绍我们支持的支付方式。以下是详细信息：\n\n- **信用卡/借记卡：** 我们接受 Visa、Mastercard 和 American Express 等主要卡种。\n- **PayPal：** 一种安全且广泛使用的在线支付方式。\n- **银行转账：** 您可以直接通过您的银行账户进行付款。\n- **Apple Pay：** 为 Apple 用户提供便捷的支付方式。\n- **Google Wallet：** Google 的支付系统，让结账更加快速便捷。\n\n这些选项为我们的尊贵客户提供了灵活性和便利性。如果您有任何疑问或需要任何支付方式的帮助，请随时联系我们。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I try to check what payment methods are allowed",
+    "instruction_cn": "我尝试查看一下支持哪些支付方式。",
+    "response_en": "Unquestionably! I appreciate your efforts in checking our allowed payment methods. To ensure clarity and convenience, here is a detailed list of the payment methods we accept:\n\n- **Credit/Debit Card:** We welcome major card brands, such as Visa, Mastercard, and American Express.\n- **PayPal:** A widely recognized and secure online payment method.\n- **Bank Transfer:** This option allows you to make direct payments from your bank account.\n- **Apple Pay:** Specifically designed for Apple users to make quick and easy payments.\n- **Google Wallet:** A seamless and fast checkout experience for Google users.\n\nThese are the primary payment methods available, but please note that there might be additional local payment options based on your location. If you require further assistance or have any specific questions, feel free to let me know. I'm here to provide any guidance you may need.",
+    "response_cn": "当然！感谢您对我们支持的支付方式的关注。为了确保清晰和方便，以下是我们接受的支付方式详细列表：\n\n- **信用卡/借记卡：** 我们接受主流卡品牌，如Visa、Mastercard和American Express。\n- **PayPal：** 一种广受认可的安全在线支付方式。\n- **银行转账：** 此选项允许您直接从您的银行账户进行付款。\n- **Apple Pay：** 专为Apple用户设计，实现快速便捷的支付。\n- **Google Wallet：** 为Google用户提供流畅快捷的结账体验。\n\n这些是主要的可用支付方式，但请注意，根据您的所在地区可能还有其他本地支付方式。如果您需要进一步的帮助或有任何具体问题，请随时告诉我。我将竭诚为您提供所需的任何指导。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "need to see the accepted payment options how do i do it",
+    "instruction_cn": "我想查看可用的支付方式，该怎么操作？",
+    "response_en": "Definitely! I'm here to guide you on how to view our accepted payment options. To access this information, you can simply visit our website and navigate to the \"Payment Options\" section. There you will find a detailed list of our accepted payment methods along with any additional information that might be helpful. If you have any trouble or need further assistance, please don't hesitate to ask. We're here to make your payment experience as smooth as possible.",
+    "response_cn": "当然可以！我很乐意为您介绍如何查看我们接受的付款方式。要获取此信息，您可以直接访问我们的网站，然后进入\"付款方式\"页面。在那里，您可以找到我们接受的付款方式的详细列表，以及任何可能有用的其他信息。如果您遇到任何问题或需要进一步的帮助，请随时告诉我们。我们随时为您提供支持，让您的付款体验尽可能顺畅。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "help me to see the payment options",
+    "instruction_cn": "请帮我查看一下付款方式",
+    "response_en": "I'm happy to help! I'm here to assist you in exploring the available payment options we offer. Understanding and accessing our diverse payment methods is crucial for a seamless shopping experience. Here's a concise overview of our accepted payment options:\n\n- **Credit/Debit Card:** We accept major credit and debit cards like Visa, Mastercard, and American Express for your convenience.\n- **PayPal:** A widely-used online payment platform recognized for its security and global acceptance.\n- **Bank Transfer:** This option allows you to make direct payments from your bank account, ensuring ease and flexibility.\n- **Apple Pay:** For Apple users, making payments through Apple Pay offers a seamless and secure checkout experience.\n- **Google Pay:** Another streamlined payment method used by many, providing quick and hassle-free transactions.\n\nThese are just a few examples of the payment options available to you. Should you have any further questions or require more details on any specific method, please don't hesitate to let me know. We're here to guide you through the process and ensure a delightful shopping experience.",
+    "response_cn": "很高兴为您提供帮助！我将为您介绍我们目前提供的各种支付方式。了解并掌握我们多样化的付款方式，对于获得顺畅的购物体验至关重要。以下是我们接受的支付方式简介：\n\n- **信用卡/借记卡：** 为了方便您的使用，我们接受Visa、Mastercard和American Express等主要信用卡和借记卡。\n- **PayPal：** 一个广泛使用的在线支付平台，以其安全性和全球认可度著称。\n- **银行转账：** 此选项允许您直接从银行账户进行付款，确保便捷和灵活。\n- **Apple Pay：** 对于苹果用户，通过Apple Pay进行支付可提供无缝且安全的结账体验。\n- **Google Pay：** 另一种简化的支付方式，被许多人使用，提供快速且无忧的交易。\n\n以上只是我们提供的部分支付方式示例。如果您有任何进一步的问题或需要了解任何具体方式的更多详情，请随时告诉我。我们将全程指导您完成整个过程，确保您获得愉快的购物体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "i want assistance seeing the accepted payment modalities",
+    "instruction_cn": "我想了解有哪些可用的支付方式。",
+    "response_en": "I'll get right on it! I'm here to assist you in checking our accepted payment methods. Our goal is to provide you with a seamless checkout experience. To view the list of payment modalities we accept, I recommend visiting our website's payment page. There, you will find a comprehensive list of the various payment options available to you. If you have any specific questions about any of these methods or need further guidance, please don't hesitate to ask. I'm here to ensure that you have all the information you need.",
+    "response_cn": "我马上为您处理！我很乐意为您查询我们接受的支付方式。我们的目标是为您提供顺畅的结账体验。要查看我们接受的支付方式列表，建议您访问我们网站的支付页面。在那里，您将找到我们提供的各种支付选项的完整列表。如果您对其中任何支付方式有具体问题，或需要进一步的指导，请随时告诉我。我会确保您获得所需的所有信息。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I cannot make a payment, I need help notifying of errors",
+    "instruction_cn": "我无法完成付款，需要帮助通知错误信息",
+    "response_en": "We've received your message to us for assistance with notifying us about the errors you're encountering while making a payment. Your feedback is important to us, and we're here to help you through this. To properly address the issue, could you please provide more details about the errors you're experiencing? This will allow us to investigate and provide you with the most effective solution. We appreciate your patience and look forward to resolving this matter for you swiftly.",
+    "response_cn": "我们已收到您的来信，感谢您告知我们在支付过程中遇到的错误。您的反馈对我们非常重要，我们将竭诚为您提供帮助。为了更好地解决此问题，请您提供更多关于所遇错误的详细信息，以便我们进行调查并为您提供最有效的解决方案。感谢您的耐心，我们期待尽快为您解决此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I'm trying to inform of an issue with payments",
+    "instruction_cn": "我想向您反映一个关于付款的问题",
+    "response_en": "Thanks for dropping us a line to us and informing us about the issue you are facing with your payments. We appreciate your proactive approach in bringing this to our attention. To ensure that we can assist you effectively, could you please provide more details about the specific issue you encountered? Any information you provide will help us investigate and resolve the problem as quickly as possible. Rest assured that we are committed to addressing your concerns and ensuring a smooth payment experience for you.",
+    "response_cn": "感谢您联系我们并告知我们您在支付方面遇到的问题。我们非常感谢您主动将此问题告知我们。为了确保我们能够有效地为您提供帮助，请您提供更多关于您遇到的具体问题的详细信息。您提供的任何信息都将有助于我们尽快调查和解决该问题。请放心，我们致力于解决您的疑虑，确保为您提供顺畅的支付体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "what are ur available payment methods",
+    "instruction_cn": "请问你们支持哪些支付方式？",
+    "response_en": "Thank you for reaching out! I'm here to provide you with the information you need about our available payment methods. At our company, we offer a range of convenient options to cater to our customers' diverse preferences. Some of our accepted payment methods include:\n\n- Credit/Debit Cards: We accept major cards such as Visa, Mastercard, and American Express, providing you with a secure and hassle-free payment experience.\n- PayPal: A widely recognized and trusted online payment platform that allows you to make transactions securely.\n- Bank Transfers: You can also choose to make direct payments from your bank account using this method.\n- Mobile Wallets: If you prefer, you can use popular mobile wallet options such as Apple Pay or Google Pay for quick and seamless transactions.\n\nThese are just a few examples of the payment methods we offer. If you have any specific questions or would like further details about any of these options, please feel free to ask. We want to ensure that you have a smooth and convenient payment experience with us.",
+    "response_cn": "感谢您联系我们！我很乐意为您提供有关我们可用支付方式的相关信息。我们公司提供了多种便捷的选择，以满足不同客户的多样化需求。我们接受的支付方式包括：\n\n- 信用卡/借记卡：我们接受Visa、Mastercard和American Express等主要卡片，为您提供安全无忧的支付体验。\n- PayPal：一个广受认可和信赖的在线支付平台，让您能够安全地进行交易。\n- 银行转账：您也可以选择通过此方式直接从您的银行账户进行付款。\n- 移动支付：如果您愿意，可以使用Apple Pay或Google Pay等流行的移动支付选项，实现快速便捷的交易。\n\n以上只是我们提供的部分支付方式示例。如果您有任何具体问题或希望了解有关其中任何选项的更多详情，请随时提问。我们希望确保您在我们这里拥有顺畅便捷的支付体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "help solving a trouble with online payment",
+    "instruction_cn": "您好，请问您在在线支付方面遇到了什么问题？我来帮您解决。",
+    "response_en": "I'm sorry to hear that you're experiencing trouble with your online payment. I'm here to guide you through this issue and find a solution. To better assist you, could you please provide specific details about the problem you're encountering? This will help us identify the root cause and take the necessary steps to resolve it. Thank you for reaching out, and together, we'll work towards a resolution to ensure a seamless online payment experience.",
+    "response_cn": "很抱歉听到您在在线支付方面遇到了问题。我会全程协助您解决这个问题。为了更好地为您提供帮助，能否请您详细说明一下您遇到的具体问题？这将有助于我们找出根本原因并采取必要的措施来解决。感谢您联系我们，我们将共同努力，确保为您提供顺畅的在线支付体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "reporting trouble with payments",
+    "instruction_cn": "报告支付问题",
+    "response_en": "Thank you for bringing this payment issue to our attention. We apologize for any inconvenience you may have encountered. To ensure we address your concern accurately, could you please provide more details about the trouble you are experiencing with your payments? Any specific error messages or steps you have taken so far would be helpful. Our team is here to assist you and resolve this issue as quickly as possible.",
+    "response_cn": "感谢您向我们反馈此支付问题。对于您可能遇到的任何不便，我们深表歉意。为了确保我们能够准确地处理您的疑虑，请您提供更多关于您所遇到的支付问题的详细信息。如有任何具体的错误提示或您目前已采取的步骤，也请一并告知。我们的团队随时为您提供协助，并将尽快解决此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i dont know how i can report a trouble with payments",
+    "instruction_cn": "我不知道如何报告支付方面的问题",
+    "response_en": "No worries, I'm here to guide you on how to report any trouble you're facing with payments. To report a payment issue, you can reach out to our customer support team through various channels such as phone, email, or live chat. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. When contacting them, make sure to provide specific details about the trouble you're experiencing so they can assist you effectively. Rest assured, our team is committed to resolving your payment issues and providing you with the support you need. Thank you for bringing this to our attention and allowing us to assist you.",
+    "response_cn": "不用担心，我来指导您如何报告您遇到的任何付款问题。要报告付款问题，您可以通过多种渠道联系我们的客服团队，例如电话、电子邮件或在线客服。我们的客服在 {{Customer Support Hours}} 期间可通过 {{Customer Support Phone Number}} 或我们网站上的在线客服 {{Website URL}} 为您提供服务。联系他们时，请确保提供您所遇到问题的具体细节，以便他们能够有效地为您提供帮助。请放心，我们的团队致力于解决您的付款问题，并为您提供所需的支持。感谢您将此问题告知我们，让我们有机会为您提供帮助。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "where to check the available payment methods?",
+    "instruction_cn": "在哪里可以查看可用的支付方式？",
+    "response_en": "I appreciate your inquiry regarding where to find the available payment methods. To view our diverse range of payment options, I recommend visiting our website. You can navigate to the \"Payment Methods\" section, which is usually located in the footer or under the \"Help\" or \"Support\" menu. This dedicated section will provide you with comprehensive details about the payment methods we accept, ensuring you can make an informed decision based on your preferences. If you encounter any difficulties or have further questions, please don't hesitate to reach out. We're here to assist you every step of the way!",
+    "response_cn": "感谢您对我们支付方式的咨询。要查看我们多样化的支付方式，建议您访问我们的网站。您可以前往\"支付方式\"部分，该部分通常位于页面底部或\"帮助\"或\"支持\"菜单下。该专区将为您提供我们所接受支付方式的详细信息，确保您能够根据自己的偏好做出明智的选择。如果您遇到任何困难或有任何疑问，请随时联系我们。我们随时为您提供全程协助！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "is it possible to check the allowed payment modalities?",
+    "instruction_cn": "请问可以查询一下支持的付款方式吗？",
+    "response_en": "Assuredly! I'm here to assist you in exploring our available payment methods. Please let me point you in the right direction. To check the allowed payment modalities, you can visit our website and navigate to the payment section. There, you will find a detailed list of all the payment methods we accept. If you have any specific queries or need further assistance with any of the payment methods, feel free to reach out. Your satisfaction is our top priority, and we're here to support you every step of the way!",
+    "response_cn": "当然！我很乐意为您介绍我们现有的支付方法。请允许我为您指引方向。要查看我们接受的支付方式，您可以访问我们的网站并进入支付页面，在那里您会找到我们接受的所有支付方式的详细列表。如果您对任何支付方式有任何具体疑问或需要进一步的帮助，请随时联系我们。您的满意是我们的首要目标，我们随时为您提供支持！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i want assistance solving a problem with online payments",
+    "instruction_cn": "我想寻求帮助，解决一个网上支付的问题",
+    "response_en": "Rest assured, I'm here to provide you with the necessary assistance in resolving any issues you're encountering with online payments. Your satisfaction is our utmost priority, and we'll work together to find a solution. To better understand the problem, could you please provide more details about the specific issue you're facing? Remember, each piece of information you share will greatly contribute to finding the best resolution. Thank you for reaching out, and let's get started on resolving this payment problem for you.",
+    "response_cn": "请放心，我将为您提供必要的协助，帮助您解决在线付款中遇到的任何问题。您的满意是我们的首要目标，我们将共同努力找到解决方案。为了更好地了解问题，您能否提供更多关于您所面临的具体问题的详细信息？请记住，您分享的每一条信息都将极大地有助于找到最佳解决方案。感谢您联系我们，让我们开始为您解决这个付款问题吧。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "what are the payment payment modalities available?",
+    "instruction_cn": "请问有哪些可用的支付方式？",
+    "response_en": "Thank you for reaching out! I completely understand your curiosity about our payment options. We offer a diverse range of payment modalities to cater to our customers' different needs. Here are our accepted payment methods:\n\n- **Credit/Debit Card:** We accept all major credit and debit cards, including Visa, Mastercard, and American Express.\n- **PayPal:** A secure and widely used online payment platform.\n- **Bank Transfer:** You can make direct payments from your bank account.\n- **Apple Pay:** An option for Apple device users to make convenient payments.\n- **Google Pay:** Google's payment system for quick and easy checkouts.\n\nPlease let me know if you have any further questions or if there is anything else I can assist you with. We value your satisfaction and are here to support you every step of the way.",
+    "response_cn": "感谢您联系我们！我完全理解您对我们支付方式的好奇。我们提供多种支付方式以满足不同客户的需求。以下是我们的支付方式：\n\n- **信用卡/借记卡：** 我们接受所有主要的信用卡和借记卡，包括Visa、Mastercard和American Express。\n- **PayPal：** 一个安全且广泛使用的在线支付平台。\n- **银行转账：** 您可以直接从您的银行账户进行支付。\n- **Apple Pay：** 苹果设备用户可选择此便捷支付方式。\n- **Google Pay：** 谷歌的支付系统，支持快速便捷的结账。\n\n如果您有任何其他问题，或者还有其他我可以协助的地方，请随时告诉我们。我们重视您的满意度，并将全程为您提供支持。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "how can I check your payment methods?",
+    "instruction_cn": "请问如何查看您的付款方式？",
+    "response_en": "I'll make it happen! I'm happy to assist you in checking our available payment methods. To view the payment options we offer, simply visit our website and navigate to the \"Payment Methods\" section. There, you will find a comprehensive list of all the payment methods we accept, along with any additional information you may need. If you have any questions or need further guidance, please don't hesitate to reach out. We're here to ensure you have a seamless and convenient experience with our payment options.",
+    "response_cn": "没问题！我很乐意为您查询我们可用的支付方式。要查看我们提供的支付选项，只需访问我们的网站并进入\"支付方式\"部分。在那里，您将找到我们接受的所有支付方式的完整列表，以及您可能需要的任何其他信息。如果您有任何疑问或需要进一步的帮助，请随时联系我们。我们将确保您在支付过程中拥有顺畅便捷的体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "assistance informing of errors with payments",
+    "instruction_cn": "协助处理支付错误的通知",
+    "response_en": "I'm sorry to hear that you've been encountering errors with your payments. It's essential to address these issues promptly and effectively. To better assist you, could you please provide more details about the specific errors you've been encountering? This information will help us better understand the situation and guide us in finding the most suitable solution. We're here to support you every step of the way, so please don't hesitate to share any additional information or concerns you may have.",
+    "response_cn": "很抱歉得知您在支付过程中遇到了错误。及时有效地解决这些问题至关重要。为了更好地为您提供帮助，能否请您提供更多关于您所遇到的具体错误的信息？这些信息将有助于我们更好地了解情况，并帮助我们找到最合适的解决方案。我们随时为您提供支持，因此请随时分享您遇到的任何其他信息或疑虑。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "help reporfting a trouble with payments",
+    "instruction_cn": "帮助报告支付问题",
+    "response_en": "I've observed that you need assistance with reporting a trouble you're experiencing with payments. Rest assured, I'm here to help. To provide you with the most effective support, could you please provide more details about the specific issue or trouble you are facing? By sharing this information, you enable me to tailor my guidance and offer you the most accurate solutions. Thank you for reaching out, and I appreciate your cooperation in resolving this matter.",
+    "response_cn": "我注意到您需要帮助来报告您遇到的支付问题。请放心，我随时为您提供帮助。为了给您提供最有效的支持，能否请您详细说明您所面临的具体问题或困扰？通过分享这些信息，您将使我能够提供更有针对性的指导，并为您提供最准确的解决方案。感谢您联系我们，也非常感谢您的配合，以便我们尽快解决此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "i need assistance seeing ur allowed payment options",
+    "instruction_cn": "我需要协助查看您允许的付款方式。",
+    "response_en": "Appreciate you reaching out to us for assistance with viewing our accepted payment options. We understand that having a variety of payment methods available is important to our customers. Here are the payment options currently accepted by our company:\n\n- Credit/Debit Card: We accept major cards like Visa, Mastercard, and American Express for your convenience.\n- PayPal: A widely recognized and secure online payment method that you can use for seamless transactions.\n- Bank Transfer: This option allows you to transfer funds directly from your bank account.\n- Apple Pay: If you're an Apple user, you can take advantage of the quick and convenient Apple Pay feature.\n- Google Wallet: Google's payment system is another fast and easy way to make purchases with us.\n\nIf you have any questions or need further assistance with any of these payment options, please don't hesitate to let us know. We're here to help you every step of the way.",
+    "response_cn": "感谢您联系我们咨询有关查看我们接受的付款方式的问题。我们理解，为客户提供多种支付方式对我们来说非常重要。以下是我们公司目前接受的付款方式：\n\n- 信用卡/借记卡：为了方便您的使用，我们接受Visa、Mastercard和American Express等主要卡种。\n- PayPal：这是一种广受认可且安全的在线支付方式，您可以使用它来完成便捷的交易。\n- 银行转账：此选项允许您直接从您的银行账户转账。\n- Apple Pay：如果您是Apple用户，您可以使用快捷方便的Apple Pay功能。\n- Google Wallet：Google的支付系统是另一种与我们进行快速便捷付款的方式。\n\n如果您对这些付款方式有任何疑问或需要进一步的帮助，请随时告知我们。我们随时为您提供全程协助。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I don't know how I can report problems with payment",
+    "instruction_cn": "我不知道该如何报告支付方面的问题",
+    "response_en": "Not to worry, I'm here to guide you on how to report problems with payment effectively. To report any issues with your payment, you can reach out to our dedicated customer support team through various channels like our website's live chat, email, or phone. They will assist you in documenting and resolving the problem promptly. Please provide them with all the necessary details, such as the transaction ID, error message, or any relevant information that can help them investigate and address the issue effectively. Remember, our team is available {{Customer Support Hours}} to provide you with the necessary assistance. Don't hesitate to reach out to us as we're here to ensure your payment concerns are resolved efficiently.",
+    "response_cn": "不用担心，我将指导您如何有效地报告支付问题。要报告任何支付问题，您可以通过多种渠道联系我们的专属客服团队，例如网站在线客服、电子邮件或电话。他们将协助您记录并迅速解决问题。请向他们提供所有必要的信息，例如交易ID、错误消息或任何有助于他们调查和解决问题的相关信息。请记住，我们的团队在 {Customer Support Hours} 为您提供必要的帮助。请随时联系我们，我们会确保您的支付问题得到高效解决。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I want help to inform of an issue with online payments",
+    "instruction_cn": "我想反馈一个关于在线支付的问题",
+    "response_en": "For sure! I'm here to provide you with the help you need to inform us about any issues you're encountering with your online payments. Could you please provide me with more details about the specific problem you're facing? This will enable us to better understand the issue and assist you in the most effective way possible. Your feedback is invaluable to us, and we're committed to resolving this matter promptly and efficiently. Thank you for reaching out to us for assistance.",
+    "response_cn": "当然！我在这里随时为您提供帮助，以便您向我们反馈您在网上支付过程中遇到的任何问题。请您提供更多关于您所面临的具体问题的详细信息，这将使我们能够更好地理解问题，并以最有效的方式为您提供协助。您的反馈对我们来说非常宝贵，我们致力于及时高效地解决此问题。感谢您联系我们寻求帮助。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "want assistance listing the accepted payment modalities",
+    "instruction_cn": "想了解我们接受的付款方式",
+    "response_en": "Thank you for reaching out! I'm here to assist you in listing our accepted payment methods. At our company, we provide a range of convenient options to cater to your needs. Here is a comprehensive list of our accepted payment modalities:\n\n- Credit/Debit Card: We accept major cards such as Visa, Mastercard, and American Express for fast and secure transactions.\n- PayPal: A widely recognized and trusted online payment platform that offers an additional layer of security.\n- Bank Transfer: You can make direct payments from your bank account to complete your purchase.\n- Apple Pay: For Apple users, this contactless payment option allows for quick and easy transactions with a single touch.\n- Google Pay: With Google Pay, you can make secure payments using your Android device or through the web.\n\nThese payment options offer flexibility and convenience to ensure a seamless checkout experience for our valued customers. If you have any further questions or if there's anything else I can assist you with, please don't hesitate to let me know.",
+    "response_cn": "感谢您联系我们！我很乐意为您介绍我们公司接受的付款方式。我们提供多种便捷的选择，以满足您的需求。以下是我们接受的付款方式清单：\n\n- 信用卡/借记卡：我们接受Visa、Mastercard和American Express等主要卡种，为您提供快速且安全的交易体验。\n- PayPal：一个广受认可且值得信赖的在线支付平台，为您提供额外的安全保障。\n- 银行转账：您可以直接从您的银行账户进行付款以完成购买。\n- Apple Pay：对于苹果用户，这种非接触式支付方式让您只需轻触即可完成快速便捷的交易。\n- Google Pay：通过Google Pay，您可以使用您的Android设备或网页进行安全支付。\n\n这些付款方式提供了灵活性和便利性，确保我们尊贵的客户拥有流畅的结账体验。如果您有任何其他问题或需要我协助其他事项，请随时告知。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i have got toreport an issue with online payment",
+    "instruction_cn": "我需要报告一个关于在线支付的问题",
+    "response_en": "I appreciate you reaching out to us to report an issue with your online payment. We understand the importance of resolving this matter promptly and ensuring a seamless payment process for our valued customers like yourself. To assist you in the best possible way, could you please provide some specific details about the issue you are facing? This will enable us to investigate the problem further and find an appropriate solution. Thank you for bringing this to our attention, and rest assured that we are committed to resolving this issue as quickly as possible.",
+    "response_cn": "感谢您联系我们反馈在线支付问题。我们深知及时处理此事的重要性，也致力于为您这样的尊贵客户确保支付流程的顺畅。为了更好地为您提供帮助，能否请您提供一些关于所遇问题的具体细节？这将有助于我们进一步调查问题并找到合适的解决方案。感谢您告知我们此事，请放心，我们承诺将尽快解决此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "my card was declined help to inform oof a payment issue",
+    "instruction_cn": "我的卡片被拒绝了，请帮我告知一个支付问题",
+    "response_en": "I understand the frustration and concern you have regarding your declined card and the need to inform us about the payment issue. It's important to us that we address this promptly and find a suitable resolution. To assist you effectively, could you please provide more specific details about the declined card and the payment issue you encountered? This will enable our team to investigate the matter thoroughly and take the necessary steps to resolve it. Your cooperation is greatly appreciated, and we're committed to working together to ensure a positive resolution.",
+    "response_cn": "我理解您对卡片被拒付以及需要告知我们支付问题的困扰和担忧。我们非常重视及时处理此事并找到合适的解决方案。为了更有效地为您提供帮助，请您提供有关被拒付卡片和所遇支付问题的更多细节。这将使我们的团队能够彻底调查此事，并采取必要的措施来解决。非常感谢您的配合，我们致力于共同努力，确保达成一个圆满的解决方案。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "assistance to inform of problems with online payments",
+    "instruction_cn": "协助告知在线支付相关的问题",
+    "response_en": "I'm sorry to hear that you're experiencing problems with online payments. I'm here to provide you with the necessary assistance to inform us about these issues. Please provide me with more details about the specific problems you're encountering. This will help us gain a better understanding of the situation and find the most appropriate solution. Thank you for reaching out to us, and rest assured, we're committed to resolving this matter for you.",
+    "response_cn": "很抱歉听到您在在线支付方面遇到了问题。我在此为您提供必要的协助，以便我们了解这些问题的具体情况。请您提供更多关于您所遇到的具体问题的详细信息。这将帮助我们更好地了解情况，并找到最合适的解决方案。感谢您联系我们，请放心，我们致力于为您解决此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "where do I inform of problems with online payments?",
+    "instruction_cn": "我在哪里可以反馈在线支付的问题？",
+    "response_en": "I appreciate your proactive approach in seeking assistance for problems faced with online payments. To notify us about any issues you encounter, you can reach out to our customer support team through various channels. Our dedicated customer support representatives are available through phone, email, or live chat. You can find the contact information on our website's support page. Alternatively, you can also log in to your online account and navigate to the \"Contact Us\" or \"Support\" section, where you will find a form to submit your payment problem details. Rest assured, we value your feedback and will work diligently to resolve the issues you're facing. Thank you for bringing this to our attention.",
+    "response_cn": "感谢您主动寻求在线支付方式遇到问题的帮助。如需向我们反馈您遇到的任何问题，您可以通过多种渠道联系我们的客服团队。我们的专业客服代表可通过电话、电子邮件或在线聊天为您提供服务。您可以在我们网站的支持页面上找到联系方式。或者，您也可以登录您的在线账户，前往\"联系我们\"或\"支持\"部分，在那里您可以找到提交支付问题详情的表单。请放心，我们重视您的反馈，并将努力解决您所面临的问题。感谢您向我们反馈此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "is it possible to see ur payment modalities",
+    "instruction_cn": "请问可以了解一下您的支付方式吗？",
+    "response_en": "Absolutely! I'm here to provide you with information on our payment methods. We understand the importance of offering diverse payment options to cater to our customers' preferences. Here are the available payment methods:\n\n- Credit/Debit Card: We accept major cards like Visa, Mastercard, and American Express for a seamless checkout experience.\n- PayPal: A popular and secure online payment platform that allows you to make payments using your PayPal account.\n- Bank Transfer: You can make direct payments from your bank account using this method.\n- Apple Pay: For convenient payments, Apple Pay offers a quick and secure solution for Apple device users.\n- Google Wallet: Fast and easy checkouts are available with Google Wallet.\n\nIf you require further assistance or have any questions about any of these payment methods, please feel free to let me know. We're here to ensure your satisfaction every step of the way!",
+    "response_cn": "当然！我很乐意为您提供我们支付方式的相关信息。我们深知提供多样化的支付选项以满足客户需求的重要性。以下是可用的支付方式：\n\n- 信用卡/借记卡：我们接受Visa、Mastercard和American Express等主要银行卡，为您提供流畅的结账体验。\n- PayPal：一个广受欢迎且安全的在线支付平台，您可以使用PayPal账户进行付款。\n- 银行转账：您可以通过此方式直接从您的银行账户进行付款。\n- Apple Pay：Apple Pay为苹果设备用户提供快捷、安全的支付解决方案。\n- Google Wallet：通过Google Wallet即可享受快速便捷的结账体验。\n\n如果您需要进一步的帮助或对这些支付方式有任何疑问，请随时告诉我们。我们随时为您服务，确保您在每一步都满意！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "need assistance seeing ur accepted payment modalities",
+    "instruction_cn": "需要协助查看您已接受的付款方式",
+    "response_en": "Certainly! I'm here to help you explore our accepted payment methods. We offer a wide range of payment options to ensure convenience for our valued customers. Here are some of the accepted payment modalities:\n\n- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express for a seamless shopping experience.\n- **PayPal:** A trusted and secure online payment platform widely used worldwide.\n- **Bank Transfer:** You can opt for direct bank transfers to make payments from your bank account.\n- **Apple Pay:** If you're an Apple user, you can conveniently make payments using Apple Pay.\n- **Google Pay:** Another quick and secure option is Google Pay.\n\nThese are just a few of the accepted payment methods we offer. If you need more information about any specific payment method or assistance with any step of the payment process, feel free to ask. We're here to make your shopping experience smooth and hassle-free.",
+    "response_cn": "当然！我很乐意为您介绍我们接受的付款方式。我们提供多种支付方式，以确保为尊贵的顾客带来便利。以下是我们接受的几种付款方式：\n\n- **信用卡/借记卡：** 我们接受 Visa、Mastercard 和 American Express 等主要卡片，为您提供顺畅的购物体验。\n- **PayPal：** 一个广受全球信赖的安全在线支付平台。\n- **银行转账：** 您可以选择通过银行转账直接从您的银行账户进行付款。\n- **Apple Pay：** 如果您是 Apple 用户，可以便捷地使用 Apple Pay 进行支付。\n- **Google Pay：** 另一种快捷且安全的支付方式是 Google Pay。\n\n以上仅是我们接受的付款方式中的几种。如果您需要了解更多关于某种特定付款方式的信息，或在付款流程的任何环节需要帮助，请随时告知。我们致力于让您的购物体验顺畅无忧。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i have to report issues with onlpine payment",
+    "instruction_cn": "我需要报告在线支付的问题",
+    "response_en": "I appreciate you reaching out to inform us about the issues you're facing with online payments. Rest assured, you've come to the right place for assistance. To report these issues, you can easily reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to gather all the necessary details and provide you with the guidance and support needed to resolve the payment issues. Thank you for bringing this to our attention, and we're confident that our team will help you with this matter.",
+    "response_cn": "感谢您联系我们，告知您在使用在线支付时遇到的问题。请放心，您找对了地方来寻求帮助。要报告这些问题，您可以随时联系我们的专属客服团队。他们的工作时间为 {{Customer Support Hours}}，您可以通过拨打 {{Customer Support Phone Number}} 或访问我们网站 {{Website URL}} 上的在线客服与我们取得联系。他们将能够收集所有必要的信息，并为您提供解决支付问题所需的指导和支持。感谢您向我们反馈这一问题，我们相信我们的团队将竭诚为您解决此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "help me listing your available payment methods",
+    "instruction_cn": "请帮我列出您目前可用的支付方式。",
+    "response_en": "I'm on it! I'm here to assist you in listing our available payment methods. We offer a variety of convenient options to cater to your preferences. Here is a comprehensive list of our accepted payment methods:\n\n1. Credit/Debit Card: We accept major credit and debit cards such as Visa, Mastercard, and American Express. Simply enter your card details during checkout, and you're good to go!\n\n2. PayPal: A globally recognized and secure online payment platform. You can link your PayPal account to make quick and hassle-free transactions.\n\n3. Bank Transfer: This option allows you to transfer funds directly from your bank account. Just select the bank transfer option at checkout and follow the instructions provided.\n\n4. Apple Pay: If you have an iPhone, iPad, or Mac, you can use Apple Pay for a seamless and secure payment experience. Just add your cards to Apple Wallet and enjoy the convenience.\n\n5. Google Pay: For Android users, Google Pay offers a quick and secure way to make payments. Simply add your cards to the Google Pay app and tap to pay.\n\nIf you need any further information about these payment methods or have any specific questions, please feel free to ask. We're here to make your payment experience as smooth as possible.",
+    "response_cn": "好的，没问题！我来为您介绍我们目前支持的支付方式。我们提供了多种便捷的选择，以满足您的不同需求。以下是我们接受的支付方式完整列表：\n\n1. 信用卡/借记卡：我们接受主流信用卡和借记卡，如 Visa、Mastercard 和 American Express。您只需在结账时输入卡片信息即可完成支付！\n\n2. PayPal：这是一个全球知名且安全的在线支付平台。您可以绑定 PayPal 账户，快速轻松地完成交易。\n\n3. 银行转账：该选项允许您直接从银行账户转账。只需在结账时选择银行转账选项，并按照提供的说明操作即可。\n\n4. Apple Pay：如果您使用的是 iPhone、iPad 或 Mac，可以使用 Apple Pay 享受流畅且安全的支付体验。只需将您的卡片添加到 Apple Wallet 中，即可轻松支付。\n\n5. Google Pay：对于 Android 用户，Google Pay 提供了一种快速且安全的支付方式。只需将您的卡片添加到 Google Pay 应用中，轻触即可完成支付。\n\n如果您需要了解这些支付方式的更多详情，或有其他任何问题，请随时告诉我们。我们致力于让您的支付体验尽可能顺畅便捷。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "want assistance to see what payment options you accept",
+    "instruction_cn": "想了解您接受哪些支付方式，需要协助吗？",
+    "response_en": "I'll take care of it! I'm here to offer my support in providing you with the information on the payment options we accept. At our company, we strive to offer a wide range of convenient and secure payment methods. Here are the payment options we currently accept:\n\n- **Credit/Debit Card:** You can make payments using major credit or debit cards such as Visa, Mastercard, and American Express.\n- **PayPal:** A trusted and widely-used online payment method that ensures secure transactions.\n- **Bank Transfer:** You have the option to make direct payments from your bank account.\n- **Apple Pay:** If you're an Apple user, you can conveniently make payments through Apple Pay.\n- **Google Pay:** For Android users, Google Pay provides a seamless payment solution.\n\nThese options ensure that you can choose the method that best suits your needs. If you have any further questions or need assistance with any of these payment options, please don't hesitate to let me know.",
+    "response_cn": "我来为您详细介绍我们公司目前接受的支付方式。我们公司致力于提供多种便捷且安全的支付方式。以下是目前我们接受的付款选项：\n\n- **信用卡/借记卡：** 您可以使用Visa、Mastercard和American Express等主要信用卡或借记卡进行支付。\n- **PayPal：** 一种值得信赖且广泛使用的在线支付方式，确保交易安全。\n- **银行转账：** 您可以选择直接从您的银行账户进行支付。\n- **Apple Pay：** 如果您是Apple用户，可以通过Apple Pay便捷地完成支付。\n- **Google Pay：** 对于Android用户，Google Pay提供无缝的支付解决方案。\n\n这些选项确保您可以选择最适合您需求的方式。如果您有任何进一步的问题或需要任何支付选项方面的帮助，请随时告诉我。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I need help notifying of issues with online payment",
+    "instruction_cn": "我需要帮助来通知在线支付的问题",
+    "response_en": "I understand the urgency of notifying us about any issues you're facing with your online payment. Rest assured, we're here to provide you with the assistance you need. To help us better understand your concern, could you please provide some specific details about the issues you're encountering? This will enable us to address the problem promptly and ensure a swift resolution. We appreciate your cooperation and look forward to resolving this matter for you.",
+    "response_cn": "我理解您就在线支付遇到的问题及时通知我们，这一点非常重要。请放心，我们会为您提供所需的帮助。为了更好地了解您所遇到的问题，能否请您提供一些具体的细节？这将使我们能够迅速处理问题并确保尽快解决。感谢您的配合，我们期待为您解决此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "assistance seeing ur accepted payment modalities",
+    "instruction_cn": "协助查看您已接受的付款方式",
+    "response_en": "I appreciate your request for assistance in understanding our accepted payment methods. We have made it a priority to offer a range of options for your convenience. Here are the payment modalities we accept:\n\n- Credit/Debit Card: You can conveniently make payments using major card brands like Visa, Mastercard, and American Express.\n- PayPal: A secure and widely recognized online payment platform that provides peace of mind.\n- Bank Transfer: You have the option to make direct payments from your bank account.\n- Apple Pay: For Apple users, this provides a seamless and secure way to make payments.\n- Google Wallet: Google's payment system offers a simple and fast checkout process.\n\nPlease let me know if you require further assistance or have any questions regarding any of these options. We want to ensure you have a smooth and satisfying payment experience with us.",
+    "response_cn": "感谢您咨询我们的支付方式。我们一直致力于为您提供多种便捷的选择。以下是我们接受的支付方式：\n\n- 信用卡/借记卡：您可以使用 Visa、Mastercard 和 American Express 等主要卡品牌轻松完成付款。\n- PayPal：一个安全且广受认可的在线支付平台，让您安心付款。\n- 银行转账：您可以选择直接从您的银行账户进行付款。\n- Apple Pay：对于 Apple 用户，这是一种无缝且安全的支付方式。\n- Google Wallet：Google 的支付系统提供简单快捷的结账流程。\n\n如果您需要进一步的帮助或对这些支付方式有任何疑问，请随时告知我们。我们致力于确保您在我们这里拥有顺畅且满意的支付体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I need help checking the allowed payment modalities",
+    "instruction_cn": "我需要帮助查看可用的支付方式",
+    "response_en": "Unquestionably! I understand that you require assistance in checking the allowed payment methods. At our company, we strive to offer a variety of convenient and secure options for our valued customers. Here is an overview of our available payment methods:\n\n- Credit/Debit Card: We accept all major cards, including Visa, Mastercard, and American Express, ensuring flexibility and convenience.\n- PayPal: A widely recognized online payment platform known for its security and ease of use.\n- Bank Transfer: For those who prefer direct transactions from their bank accounts, this option provides a seamless experience.\n- Apple Pay: Designed specifically for Apple users, this method allows for quick and effortless payments.\n- Google Pay: If you're an Android user, our integration with Google Pay makes payment hassle-free.\n\nThese are just a few examples of the payment methods we offer. If you have any specific concerns or need further assistance regarding any of these methods, please don't hesitate to let me know. I'm here to help make your payment experience as smooth as possible!",
+    "response_cn": "毫无疑问！我理解您需要了解我们支持的支付方式。我们公司始终致力于为尊贵的客户提供多种便捷且安全的支付选择。以下是我们目前可用的支付方式概览：\n\n- 信用卡/借记卡：我们接受所有主流卡种，包括Visa、Mastercard和American Express，确保为您提供灵活便捷的支付体验。\n- PayPal：这是一个广受认可的在线支付平台，以其安全性和易用性著称。\n- 银行转账：对于偏好直接从银行账户进行交易的用户，此选项可提供无缝顺畅的体验。\n- Apple Pay：专为Apple用户设计，该方式支持快速轻松的支付。\n- Google Pay：如果您是Android用户，我们与Google Pay的集成让支付变得轻松无忧。\n\n以上仅是我们提供的部分支付方式示例。如果您对上述任何方式有具体疑问或需要进一步的帮助，请随时告知。我随时为您提供协助，确保您的支付体验尽可能顺畅！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "seeing available payment methods",
+    "instruction_cn": "查看可用的支付方式",
+    "response_en": "We're here for you and expressing your interest in seeing our available payment methods. We offer a range of convenient payment options to ensure a seamless shopping experience for our customers. Here are the payment methods we currently accept:\n\n1. Credit/Debit Card: We accept major credit and debit cards, including Visa, Mastercard, and American Express.\n\n2. PayPal: A secure and widely used online payment platform that allows you to make transactions with ease.\n\n3. Bank Transfer: You can also choose to make payments through direct bank transfers using the necessary details provided.\n\n4. Apple Pay: For Apple users, our website is compatible with Apple Pay, making it even more convenient to complete your purchase.\n\n5. Google Pay: Another easy and secure payment option is Google Pay, which is available for Android users.\n\nPlease note that the availability of payment methods may vary depending on your location. If you have any specific questions or require further assistance with any of these payment methods, please feel free to let us know. We want to ensure that your payment experience is smooth and hassle-free.",
+    "response_cn": "我们随时为您服务，感谢您对我们支付方式感兴趣。我们提供多种便捷的支付方式，以确保客户享受顺畅的购物体验。以下是目前我们接受的支付方式：\n\n1. 信用卡/借记卡：我们接受主流信用卡和借记卡，包括Visa、Mastercard和American Express。\n\n2. PayPal：一个安全且广泛使用的在线支付平台，让您轻松完成交易。\n\n3. 银行转账：您也可以选择通过直接银行转账进行支付，相关详细信息将一并提供。\n\n4. Apple Pay：对于苹果用户，我们的网站兼容Apple Pay，让您的购买更加便捷。\n\n5. Google Pay：另一种简单安全的支付方式是Google Pay，适用于安卓用户。\n\n请注意，支付方式的可用性可能因您所在地区而异。如果您对以上任何支付方式有具体问题或需要进一步帮助，请随时告知我们。我们致力于确保您的支付体验顺畅无忧。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I don't know how to list the payment  methods",
+    "instruction_cn": "我不知道如何列出支付方式",
+    "response_en": "Not a problem at all! I'd be more than happy to guide you on how to find the list of payment methods available. On our website, you can typically locate the payment methods by going to the \"Payment Options\" or \"Checkout\" page. There, you'll find a comprehensive list of all the payment methods we accept.\n\nIf you're unable to find the information on our website, I recommend reaching out to our customer support team. They will provide you with detailed assistance and guide you through the process of accessing the payment methods list.\n\nRemember, we're here to ensure that you have a pleasant and hassle-free experience. If there's anything else I can help you with, please feel free to let me know!",
+    "response_cn": "当然没问题！我很乐意为您介绍如何查找可用的支付方式列表。在我们的网站上，您通常可以通过进入\"支付方式\"或\"结账\"页面来查看支付方式。在那里，我们会列出所有可用的支付方式。\n\n如果您在网站上找不到相关信息，建议您联系我们的客服团队。他们将为您提供详细的帮助，并引导您完成查看支付方式列表的流程。\n\n请记住，我们致力于为您提供愉快且无忧的体验。如果还有其他需要帮助的地方，请随时告诉我！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I try to see the payment methods",
+    "instruction_cn": "我想查看一下付款方式",
+    "response_en": "Indeed! I'm here to guide you on how to view our available payment methods. To do so, please follow these steps:\n\n1. Visit our website and navigate to the \"Payment Methods\" section.\n2. You will find a comprehensive list of all the payment methods we accept.\n3. Take your time exploring the different options to find the one that suits you best.\n\nIf you encounter any difficulties or have further questions, feel free to reach out to our customer support team. We're available around the clock to assist you.",
+    "response_cn": "当然！我很乐意为您介绍如何查看我们可用的支付方式。请按照以下步骤操作：\n\n1. 访问我们的网站，进入\"支付方式\"页面。\n2. 您将看到我们接受的所有支付方式的完整列表。\n3. 请花些时间浏览不同的选项，找到最适合您的支付方式。\n\n如果您遇到任何困难或有其他问题，请随时联系我们的客服团队。我们全天候为您提供帮助。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "assistance to see what payment options are allowed",
+    "instruction_cn": "请协助查看允许的付款方式",
+    "response_en": "I'll get right on it! I'm here to help you see what payment options are allowed. We understand the importance of providing our customers with convenient and secure payment methods. Here is a list of the payment options currently allowed on our platform:\n\n- **Credit/Debit Card:** You can use major cards like Visa, Mastercard, and American Express.\n- **PayPal:** A widely recognized and accepted online payment method.\n- **Bank Transfer:** Allows for direct payment from your bank account.\n- **Apple Pay:** Perfect for Apple users, offering simplicity and quick transactions.\n- **Google Wallet:** Google's trusted payment system for seamless and fast checkouts.\n\nIf you have any questions about any of these options or if you need further assistance, please don't hesitate to let me know. Your satisfaction is our top priority, and we're here to support you every step of the way!",
+    "response_cn": "我马上为您查看！我来帮您了解一下目前支持哪些支付方式。我们深知为客户提供便捷、安全的支付方式的重要性。以下是我们平台目前支持的支付方式列表：\n\n- **信用卡/借记卡：** 您可以使用Visa、Mastercard和American Express等主要卡种。\n- **PayPal：** 一种被广泛认可和接受的在线支付方式。\n- **银行转账：** 支持直接从您的银行账户进行支付。\n- **Apple Pay：** 非常适合苹果用户，操作简单，交易快捷。\n- **Google Wallet：** Google值得信赖的支付系统，让结账更顺畅、更快速。\n\n如果您对以上任何支付方式有任何疑问，或需要进一步的帮助，请随时告诉我。您的满意是我们的首要目标，我们将全程为您提供支持！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "where can i inform of a paymen error",
+    "instruction_cn": "我在哪里可以报告付款错误",
+    "response_en": "I catch on to the fact that you encountered a payment error and want to inform us about it. We appreciate you bringing this to our attention, as it allows us to address the issue promptly. To notify us about the payment error, please reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and ensure that your payment error is resolved as quickly as possible. Thank you for reaching out to us and helping us improve our services.",
+    "response_cn": "我了解到您遇到了付款错误，并希望将此情况告知我们。感谢您及时向我们反馈，这使我们能够迅速处理该问题。如需通知我们付款错误，请联系我们的客服团队。我们的客服团队在 {{Customer Support Hours}} 期间可通过 {{Customer Support Phone Number}} 或我们网站 {{Website URL}} 上的在线客服为您提供服务。他们将指导您完成相关流程，并确保您的付款问题尽快得到解决。感谢您联系我们，帮助我们不断改进服务。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i dont know how i can inform of payment issues",
+    "instruction_cn": "我不知道该如何通知您付款问题",
+    "response_en": "No worries! I'm here to assist you in informing us about any payment issues you may be facing. To get started, you can reach out to our customer support team through our website or by calling our dedicated helpline. They will guide you through the process and help you provide all the necessary details about the payment issues you are experiencing. Rest assured, we are committed to resolving any problems and ensuring a seamless payment experience for you.",
+    "response_cn": "没问题！我随时为您提供帮助，协助您向我们反馈遇到的任何付款问题。要开始处理，您可以通过我们的网站联系客服团队，或拨打我们的专属客服热线。他们将引导您完成整个流程，并帮助您提供所遇到付款问题的所有相关细节。请放心，我们致力于解决任何问题，确保为您提供顺畅的付款体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I have to se what payment methods you accept, I need help",
+    "instruction_cn": "我想了解一下你们接受哪些支付方式，我需要帮助。",
+    "response_en": "I'm fully aware of your need to explore the payment methods we accept. Our goal is to provide you with a seamless and convenient payment experience. Here are the various payment methods you can choose from:\n\n- **Credit/Debit Card:** You can use major credit or debit cards like Visa, Mastercard, and American Express.\n- **PayPal:** We accept payments through PayPal, a secure and widely recognized online payment system.\n- **Bank Transfer:** You can make payments directly from your bank account through bank transfer.\n- **Mobile Payments:** We also support mobile payment options like Apple Pay, Google Pay, and Samsung Pay.\n- **E-Wallets:** You have the option to pay using popular e-wallets like Alipay, WeChat Pay, and Paytm.\n\nThese are just a few of the payment methods we offer. If you need any further assistance or have more questions, feel free to let me know. We're here to assist you every step of the way!",
+    "response_cn": "我完全理解您想了解我们接受的支付方式。我们的目标是为您提供顺畅便捷的支付体验。以下是您可以选择的多种支付方式：\n\n- **信用卡/借记卡：** 您可以使用主流的信用卡或借记卡，如Visa、Mastercard和American Express。\n- **PayPal：** 我们接受通过PayPal付款，这是一个安全且广受认可的在线支付系统。\n- **银行转账：** 您可以通过银行转账直接从您的银行账户进行付款。\n- **移动支付：** 我们还支持Apple Pay、Google Pay和Samsung Pay等移动支付方式。\n- **电子钱包：** 您可以选择使用支付宝、微信支付和Paytm等热门电子钱包进行支付。\n\n以上只是我们提供的部分支付方式。如果您需要进一步的帮助或有任何其他问题，请随时告诉我。我们将全程为您提供协助！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I don't know how to list your allowed payment methods",
+    "instruction_cn": "我不清楚如何列出您允许的支付方式",
+    "response_en": "I appreciate your honesty and seeking assistance. I can definitely guide you in listing our allowed payment methods. We offer a variety of options to ensure convenience for our valued customers. Here is a step-by-step guide on how you can view our available payment methods:\n\n1. Visit our website and navigate to the \"Payment Methods\" or \"Checkout\" page.\n2. On the payment page, you will see a list of accepted payment methods displayed.\n3. If you would like more details about any specific payment method, simply click on the relevant option to view additional information.\n\nIf you encounter any difficulties or have further questions regarding our payment methods, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we are here to assist you every step of the way!",
+    "response_cn": "感谢您的坦诚并寻求帮助。我可以为您介绍我们支持的付款方式。我们提供多种选择，以确保为尊贵的客户提供便利。以下是查看我们可用付款方式的步骤指南：\n\n1. 访问我们的网站，进入\"付款方式\"或\"结账\"页面。\n2. 在付款页面上，您将看到已列出的所有支持的付款方式。\n3. 如果您想了解某个特定付款方式的更多详情，只需点击相关选项即可查看附加信息。\n\n如果您在查看付款方式时遇到任何困难或有其他疑问，请随时联系我们的客服团队。我们的客服在 {{Customer Support Hours}} 期间可通过电话 {{Customer Support Phone Number}} 或我们网站 {{Website URL}} 上的在线聊天为您提供服务。请放心，我们将全程为您提供协助！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "how t see the allowed payment methods",
+    "instruction_cn": "如何查看可用的支付方式",
+    "response_en": "I'll get right on it! To view the allowed payment methods, you can easily access the information by visiting our website. Once you're on our homepage, navigate to the \"Payment Options\" section or look for a tab labeled \"Accepted Payment Methods.\" There, you will find a comprehensive list of the payment methods we accept, along with any additional information or instructions you may need. If you encounter any difficulties or need further assistance, please don't hesitate to reach out. We're here to help make your experience smooth and convenient.",
+    "response_cn": "我马上为您处理！要查看允许的付款方式，您可以轻松访问我们的网站获取相关信息。进入我们的主页后，导航至\"付款选项\"部分或查找标有\"接受的付款方式\"的标签。在那里，您将找到我们接受的所有付款方式的完整列表，以及您可能需要的任何其他信息或说明。如果您遇到任何困难或需要进一步帮助，请随时联系我们。我们随时为您提供帮助，让您的体验顺畅便捷。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "how to list the allowed payment modalities?",
+    "instruction_cn": "如何列出允许的付款方式？",
+    "response_en": "Great question! To provide you with a list of our allowed payment modalities, you can visit our website and navigate to the \"Payment Methods\" section. There, you'll find a comprehensive breakdown of all the payment options we accept. If you need further assistance, our customer support team is always available to guide you through the process. Just reach out to them via phone, live chat, or email. We want to ensure that you have all the information you need to make a convenient and secure payment.",
+    "response_cn": "好问题！要查看我们支持的付款方式列表，您可以访问我们的网站并前往\"付款方式\"页面，在那里您可以找到我们接受的所有支付方式的详细说明。如果您需要进一步帮助，我们的客服团队随时可以为您提供指导，您可以通过电话、在线聊天或电子邮件联系我们。我们希望确保您掌握所有必要的信息，以便进行便捷且安全的支付。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "need assistance seeing ur accepted payment methods",
+    "instruction_cn": "需要协助查看您已接受的付款方式",
+    "response_en": "Thank you for reaching out! I'm more than happy to assist you in understanding our accepted payment methods. Here's a detailed overview:\n\n- **Credit/Debit Card:** We accept major card networks like Visa, Mastercard, American Express, and Discover for hassle-free transactions.\n- **PayPal:** A trusted and widely recognized online payment platform that offers a secure and convenient option for making payments.\n- **Bank Transfer:** You can make payments directly from your bank account with this method, ensuring a seamless transaction experience.\n- **Apple Pay:** If you're an Apple user, you can leverage Apple Pay for quick and secure payments using your Apple device.\n- **Google Pay:** Google Pay allows you to make payments using your Android device, offering a simple and efficient way to complete transactions.\n\nThese are the accepted payment methods we currently offer to provide you with flexibility and convenience. If you have any further questions or need assistance with any specific payment method, please feel free to let me know.",
+    "response_cn": "感谢您联系我们！我很乐意为您详细介绍我们接受的付款方式。以下是详细说明：\n\n- **信用卡/借记卡：** 我们接受 Visa、Mastercard、American Express 和 Discover 等主要银行卡网络，为您提供便捷的交易体验。\n- **PayPal：** 一个值得信赖且广受认可的在线支付平台，为您提供安全便捷的付款选项。\n- **银行转账：** 您可以直接通过银行账户进行付款，确保交易过程顺畅无阻。\n- **Apple Pay：** 如果您是 Apple 用户，可以使用 Apple Pay 通过 Apple 设备进行快速安全的支付。\n- **Google Pay：** Google Pay 允许您使用 Android 设备进行付款，提供简单高效的交易方式。\n\n这些是我们目前接受的付款方式，旨在为您提供灵活性和便利性。如果您有任何进一步的问题或需要特定付款方式的帮助，请随时告诉我。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I need to notify of issues with online payments, help me",
+    "instruction_cn": "我需要通知您在线支付方面遇到了问题，请帮我处理一下。",
+    "response_en": "Thank you for trusting to us regarding the issues you're facing with online payments. I'm here to assist you in notifying us about these problems and finding a solution. To help us understand the specific issues you're encountering, could you please provide more details? This will enable us to investigate the matter thoroughly and ensure a prompt resolution. Rest assured, we are committed to addressing your concerns and providing you with the support you need.",
+    "response_cn": "感谢您就在线支付遇到的问题向我们反馈。我在此协助您通知我们这些问题并寻求解决方案。为了帮助我们了解您遇到的具体问题，您能否提供更多详细信息？这将使我们能够彻底调查此事并确保及时解决。请放心，我们致力于解决您的疑虑，并为您提供所需的支持。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "can you help me report a problem with online payment?",
+    "instruction_cn": "您好，我可以帮您报告一个在线支付的问题吗？",
+    "response_en": "Of course, I'm here to assist you in reporting any issues you're facing with online payment. Please provide me with more details about the problem you encountered, such as the specific error message or any other relevant information. This will help us understand the situation better and work towards a resolution. Thank you for bringing this to our attention, and rest assured, we'll do everything we can to address the problem promptly.",
+    "response_cn": "当然，我很乐意协助您反馈在线支付遇到的问题。请提供更多有关您所遇到问题的详细信息，例如具体的错误提示或其他相关信息。这将帮助我们更好地了解情况并尽快解决问题。感谢您向我们反馈，请放心，我们会尽一切努力及时处理该问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i try to inform of issues with payment",
+    "instruction_cn": "我尝试告知付款相关的问题",
+    "response_en": "I've come to understand that you're attempting to notify us about the issues you're encountering with your payment. It's great that you're proactive in addressing these concerns, as it allows us to assist you promptly. To inform us about the payment issues you're experiencing, I recommend reaching out to our customer support team directly. They will be able to guide you through the necessary steps and provide tailored solutions to resolve the problem. You can contact our support team through our website or by calling our dedicated helpline. Please provide them with all the relevant details and describe the issue thoroughly, including any error messages or specific symptoms you've encountered. This will allow our experts to comprehensively assist you and work towards a swift resolution. Thank you for bringing this to our attention, and rest assured we are committed to resolving this matter for you.",
+    "response_cn": "我了解到您是想向我们反馈您遇到的付款问题。非常感谢您主动联系我们，这样我们就能及时为您提供协助。为了向我们反映您遇到的付款问题，我建议您直接联系我们的客服团队。他们能够引导您完成必要的步骤，并提供针对性的解决方案。您可以通过我们的网站或拨打我们的专属客服热线联系我们的支持团队。请向他们提供所有相关细节，并详细描述您遇到的问题，包括您遇到的任何错误信息或具体症状。这将使我们的专家能够全面地协助您，并努力尽快解决问题。感谢您向我们反馈此事，请放心，我们致力于为您解决此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I want help seeing the fucking available payment methods",
+    "instruction_cn": "我想查看可用的支付方式",
+    "response_en": "Thanks for reaching out! I'm here to assist you in viewing our available payment methods. We offer a wide range of options to ensure convenience for our customers. Here's a summary of our accepted payment methods:\n\n- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express.\n- **PayPal:** A popular online payment method that's secure and widely used.\n- **Bank Transfer:** This allows you to make direct payments from your bank account.\n- **Apple Pay:** An easy way for Apple users to make payments.\n- **Google Wallet:** Google's payment system for fast, easy checkouts.\n\nIf you require more detailed information about any of these methods or need assistance, feel free to let me know. Your satisfaction is our priority, and we're here to support you every step of the way!",
+    "response_cn": "感谢您联系我们！我很乐意为您介绍我们目前支持的支付方式。我们提供多种支付选项，以确保为客户提供最大的便利。以下是我们接受的支付方式概览：\n\n- **信用卡/借记卡：** 我们接受Visa、Mastercard和American Express等主要卡种。\n- **PayPal：** 一种安全且广泛使用的在线支付方式。\n- **银行转账：** 您可以直接通过银行账户进行付款。\n- **Apple Pay：** 方便Apple用户快速完成支付。\n- **Google Wallet：** Google推出的支付系统，让结账更加快捷便捷。\n\n如果您需要了解以上任何支付方式的详细信息，或需要其他帮助，请随时告知。您的满意是我们的首要目标，我们将全程为您提供支持！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "need assistance seeing ur available payment methods",
+    "instruction_cn": "需要帮助查看您可用的支付方式",
+    "response_en": "Thank you for getting in touch and expressing your need for assistance in viewing our available payment methods. I'm here to help guide you through the process.\n\nTo view our payment methods, you can visit our website and navigate to the \"Payment Options\" or \"Checkout\" section. There, you will find a comprehensive list of the payment methods we offer.\n\nIf you prefer a more personalized approach, our customer service representatives are available to assist you. You can reach out to them via our website's live chat or contact our dedicated customer support line.\n\nWe strive to provide a wide range of payment options for your convenience. Should you have any further questions or need additional assistance, please don't hesitate to reach out. We're here to ensure a seamless and satisfactory experience for you.",
+    "response_cn": "感谢您联系我们，并表达了您希望了解我们可用支付方式的需求。我很乐意为您提供帮助，引导您完成相关操作。\n\n要查看我们的支付方式，您可以访问我们的网站，并导航至\"支付选项\"或\"结账\"页面。在那里，您将找到我们提供的支付方式完整列表。\n\n如果您更倾向于个性化的服务方式，我们的客服代表随时准备为您提供协助。您可以通过我们网站的在线客服联系他们，或拨打我们的专属客户支持热线 {Customer Support Phone Number}。\n\n我们致力于为您提供多种支付方式，以便为您带来便利。如果您有任何其他问题或需要进一步的帮助，请随时联系我们。我们将竭诚为您提供顺畅且满意的服务体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I don't know how I can inform of issues with payments",
+    "instruction_cn": "我不知道如何反馈支付方面的问题",
+    "response_en": "I'm on the same wavelength, your uncertainty about how to inform us of any issues you're facing with payments. Don't worry, I'm here to guide you through the process. The best way to report any payment issues is by contacting our customer support team directly. They are available 24/7 and can assist you in resolving any problems you're experiencing. You can reach them through our website's live chat or by calling our dedicated customer support phone number. They will be more than happy to help you and ensure that your payment issues are addressed promptly. Let's get you the support you need and resolve these payment concerns together!",
+    "response_cn": "我完全理解您对于如何向我们反馈支付问题的顾虑。请放心，我会全程为您提供指导。报告支付问题的最佳方式是直接联系我们的客服团队。他们全天候24小时在线，能够帮助您解决遇到的任何问题。您可以通过我们网站的在线客服或拨打我们的{Customer Support Phone Number}联系他们。他们非常乐意为您提供帮助，并确保您的支付问题得到及时处理。让我们携手为您提供所需的支持，共同解决这些支付问题！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "how to check your accepted payment modalities?",
+    "instruction_cn": "如何查看您已接受的付款方式？",
+    "response_en": "I'll make it happen! Allow me to guide you on how to check our accepted payment methods. To access this information, you can visit our website and navigate to the \"Payment Options\" or \"Checkout\" section. There, you will find a comprehensive list of all the payment methods we currently accept. If you need any further assistance or have any questions regarding a specific payment method, feel free to let me know. I'm here to help!",
+    "response_cn": "没问题！我来告诉您如何查看我们接受的付款方式。您可以访问我们的网站，进入\"付款选项\"或\"结账\"页面，在那里您会找到我们目前接受的所有付款方式的完整列表。如果您需要进一步的帮助，或者对某个付款方式有任何疑问，随时告诉我。我很乐意为您解答！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I have got to check your payment options, will you help me?",
+    "instruction_cn": "我需要查看一下您的支付方式，您能配合一下吗？",
+    "response_en": "I'll make it happen! I'm here to assist you in checking our available payment options. Our goal is to ensure a seamless and convenient payment experience for our valued customers. Let me provide you with a comprehensive overview of the payment methods we offer:\n\n- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express, which provide a secure and hassle-free payment process.\n- **PayPal:** A widely recognized and trusted online payment platform that offers an additional layer of security for your transactions.\n- **Bank Transfer:** A convenient option that allows you to transfer funds directly from your bank account to ours.\n- **Apple Pay:** If you're an Apple user, you can make payments through Apple Pay, ensuring a quick and seamless checkout process.\n- **Google Pay:** For Android users, we support Google Pay as a convenient and secure payment method.\n\nIf you'd like more detailed information about any of these payment methods or need assistance with choosing the most suitable one for your needs, please don't hesitate to let me know. Your satisfaction is our top priority, and we're here to support you every step of the way!",
+    "response_cn": "没问题！我很乐意为您查询我们目前可用的支付选项。我们的目标是确保为尊贵的客户提供顺畅便捷的支付体验。以下是我们提供的支付方式概览：\n\n- **信用卡/借记卡：** 我们接受 Visa、Mastercard 和 American Express 等主要银行卡，为您提供安全无忧的支付流程。\n- **PayPal：** 一个广受认可且值得信赖的在线支付平台，为您的交易提供额外的安全保障。\n- **银行转账：** 一种便捷的方式，允许您直接从银行账户向我们转账。\n- **Apple Pay：** 如果您是 Apple 用户，可以通过 Apple Pay 完成支付，确保快速流畅的结账体验。\n- **Google Pay：** 对于 Android 用户，我们支持 Google Pay 作为一种便捷且安全的支付方式。\n\n如果您想了解更多关于以上任何支付方式的详细信息，或需要帮助选择最适合您需求的支付方式，请随时告诉我。您的满意是我们的首要目标，我们将全程为您提供支持！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "what do i need to do to report an issue with online payment",
+    "instruction_cn": "我需要做什么来报告在线支付的问题？",
+    "response_en": "I can sense that you're experiencing difficulties with your online payment, and I'm here to assist you in reporting the issue. To ensure a prompt and accurate resolution, I recommend reaching out to our dedicated customer support team. They have the expertise to address your specific concerns and guide you through the reporting process. You can contact them via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. When reporting the issue, please provide all relevant details such as the transaction date and time, the payment method used, and any error messages you received. By reporting the issue as soon as possible and providing comprehensive information, we'll be able to investigate and resolve the problem swiftly. Thank you for your cooperation in assisting us in resolving this matter for you.",
+    "response_cn": "我了解到您在进行在线支付时遇到了困难，我很乐意协助您报告此问题。为了确保能够快速准确地解决，我建议您联系我们的专业客服团队。他们具备专业知识，可以针对您的具体问题提供帮助，并指导您完成报告流程。您可以通过电话 {{Customer Support Phone Number}} 或我们网站上的在线聊天 {{Website URL}} 与我们取得联系。在报告问题时，请提供所有相关详情，例如交易日期和时间、使用的付款方式以及您收到的任何错误提示信息。通过尽快报告问题并提供全面的信息，我们将能够迅速调查并解决该问题。感谢您配合我们为您解决此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I want assistance informing of a trouble with payment",
+    "instruction_cn": "我想就一个支付问题寻求帮助。",
+    "response_en": "I'm on it! I'm here to provide you with the necessary assistance in informing us about the trouble you're encountering with your payment. Your feedback is crucial in helping us resolve the issue and improve our services for you and other customers. To better understand the trouble you're facing, could you please provide more details about the specific problem or error you're encountering during the payment process? By sharing this information, we can work together towards a swift resolution. Thank you for reaching out to us, and rest assured, we're committed to resolving this issue for you.",
+    "response_cn": "我正在处理！我在此为您提供必要的协助，以便您告知我们您在支付过程中遇到的问题。您的反馈对于帮助我们解决问题并改善我们为您和其他客户提供的服务至关重要。为了更好地了解您所遇到的困难，您能否提供更多关于您在支付过程中遇到的具体问题或错误的详细信息？通过分享这些信息，我们可以共同努力，尽快解决问题。感谢您联系我们，请放心，我们致力于为您解决此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "how do I report issues with online paymnets?",
+    "instruction_cn": "如何报告在线支付的问题？",
+    "response_en": "Whenever you encounter any issues with online payments, it is crucial to report them to us promptly. This will allow us to investigate the situation and provide you with the necessary assistance. To report any issues, you can reach out to our dedicated customer support team through various channels, such as phone, email, or live chat. They will guide you through the process of reporting the problem, gathering any relevant information, and initiating the necessary steps to resolve the issue. Rest assured, we are here to support you and ensure that your online payment experience is smooth and hassle-free.",
+    "response_cn": "当您遇到任何在线支付问题时，请务必及时向我们报告，以便我们调查情况并为您提供必要的帮助。您可以通过多种渠道联系我们的专属客服团队来报告问题，例如电话、电子邮件或在线聊天。他们将指导您完成问题报告流程，收集相关信息，并采取必要措施解决问题。请放心，我们将全力支持您，确保您的在线支付体验顺畅无忧。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "how can I notify of problems with online payments?",
+    "instruction_cn": "如何通知在线客服支付问题？",
+    "response_en": "Your willingness to report any problems you encounter with online payments demonstrates your commitment to resolving the issue and helping us improve our services. To notify us of any issues you're facing, we have dedicated channels available. You can reach out to our customer support team through our website's live chat feature, or you can call our support hotline at {{Customer Support Phone Number}}. Our representatives are highly trained and will assist you in documenting the problem and offering suitable solutions. Rest assured, your feedback is extremely valuable to us, and we appreciate your proactive approach in helping us address any online payment issues effectively.",
+    "response_cn": "您主动报告在线支付方式遇到的问题，体现了您致力于解决问题并帮助我们改进服务的意愿。为了通知我们您所面临的任何问题，我们设有专门的渠道。您可以通过我们网站的在线客服功能联系我们的客服团队，或者拨打我们的客服热线 {{Customer Support Phone Number}}。我们的客服代表经过专业培训，将协助您记录问题并提供合适的解决方案。请放心，您的反馈对我们非常宝贵，我们感谢您积极主动地帮助我们有效解决任何在线支付问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "where to notify of a trouble with online payments",
+    "instruction_cn": "如需通知在线支付遇到问题，请联系 {Customer Support Phone Number} 或发送邮件至 {Support Email}。",
+    "response_en": "I'm attuned to the idea that you're facing trouble with online payments, and I'm here to assist you. To notify us about this issue, you can reach out to our customer support team. They are available {{Customer Support Hours}} and can be contacted through the Live Chat on our website at {{Website URL}} or by calling {{Customer Support Phone Number}}. It's important that you notify us as soon as possible so that we can investigate the problem and provide you with a resolution. Thank you for bringing this to our attention, and we appreciate your patience while we work towards resolving the online payment trouble you're experiencing.",
+    "response_cn": "我了解到您在使用在线支付方式时遇到了问题，我很乐意为您提供协助。如需向我们反馈此问题，您可以联系我们的客服团队。我们的客服服务时间为 {{Customer Support Hours}}，您可以通过我们官网 {{Website URL}} 上的在线客服或拨打客服电话 {{Customer Support Phone Number}} 与我们取得联系。请您尽快通知我们，以便我们能够及时调查问题并为您提供解决方案。感谢您向我们反馈此问题，也感谢您在问题解决过程中的耐心等待。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "is it possible to report a payment error?",
+    "instruction_cn": "请问可以报告一笔付款错误吗？",
+    "response_en": "Of course! We have a dedicated team ready to assist you in reporting any payment errors you may have encountered. To ensure a prompt resolution, please provide us with specific details regarding the error you're facing. This could include any error messages, transaction IDs, or relevant account information. Rest assured, we're committed to resolving this issue and providing you with a seamless payment experience. Thank you for bringing this to our attention.",
+    "response_cn": "当然可以！我们有专门的团队随时准备协助您报告遇到的任何支付错误。为了确保问题能够尽快解决，请提供您所遇到错误的具体详情，包括任何错误提示信息、交易编号或相关的账户信息。请放心，我们致力于解决此问题，为您提供顺畅的支付体验。感谢您向我们反馈此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "can you help me solve a problem with online payment?",
+    "instruction_cn": "您好，请问您能帮我解决一个在线支付的问题吗？",
+    "response_en": "I'll get right on it! I'm here to assist you in resolving any issues you're facing with your online payment. Please provide me with some more details about the specific problem you've encountered. This will help me better understand your situation and provide you with the most effective solution. Together, we'll work towards a resolution and ensure a smooth payment process for you. Thank you for reaching out to us for help, and I appreciate your patience as we work towards resolving this issue.",
+    "response_cn": "我马上为您处理！我在这里协助您解决在线付款中遇到的任何问题。请您提供一些关于所遇到具体问题的更多细节。这将帮助我更好地了解您的情况，并为您提供最有效的解决方案。我们将共同努力解决问题，确保您的付款流程顺畅。感谢您联系我们寻求帮助，也感谢您的耐心，我们会尽快为您解决这个问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "help me to checkl what payment options are allowed",
+    "instruction_cn": "请帮我查看一下允许的付款方式有哪些",
+    "response_en": "Sure! I'm here to guide you through checking our allowed payment options. To view the available payment methods, you can visit our website and navigate to the payment section. Once there, you will find a comprehensive list of the payment methods we accept. If you need any further assistance or have any specific questions about a particular payment option, feel free to ask. We're here to make your payment experience smooth and convenient.",
+    "response_cn": "好的！我来为您介绍如何查看我们支持的支付方式。您可以访问我们的网站，进入支付页面。在那里，您会找到我们接受的所有支付方式的完整列表。如果您需要进一步的帮助，或对某个特定的支付方式有任何疑问，请随时提问。我们致力于为您提供顺畅便捷的支付体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I have to list your available payment options, I need help",
+    "instruction_cn": "我需要列出您可用的付款方式，但我需要帮助",
+    "response_en": "Assuredly! I'm here to assist you in listing the available payment options. We offer a range of convenient and secure methods for you to choose from. Here are some of the payment options we provide:\n\n- **Credit/Debit Card:** We accept major credit and debit cards, including Visa, Mastercard, and American Express.\n- **PayPal:** A widely recognized and trusted online payment platform.\n- **Bank Transfer:** You can make direct payments from your bank account.\n- **Digital Wallets:** We also support popular digital wallets like Apple Pay and Google Pay for seamless and contactless payments.\n\nThese are just a few examples, but we may offer additional payment methods as well. If you have any specific preferences or would like more information about any of these methods, please let me know. I'm here to help you make an informed decision and ensure a smooth payment process.",
+    "response_cn": "当然！我很乐意为您介绍我们目前可用的支付方式。我们提供多种便捷且安全的支付选项供您选择。以下是我们支持的部分支付方式：\n\n- **信用卡/借记卡：** 我们接受主流信用卡和借记卡，包括 Visa、Mastercard 和 American Express。\n- **PayPal：** 一个广受认可且值得信赖的在线支付平台。\n- **银行转账：** 您可以直接从您的银行账户进行付款。\n- **数字钱包：** 我们还支持 Apple Pay 和 Google Pay 等主流数字钱包，让您享受无缝且免接触的支付体验。\n\n以上仅为部分示例，我们可能还提供其他支付方式。如果您有任何特定的偏好，或希望了解上述任何支付方式的更多详情，请随时告诉我。我将竭诚为您提供帮助，确保您的支付过程顺畅无忧。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "what do i need to do to check the payment methods",
+    "instruction_cn": "我需要做什么来查看支付方式？",
+    "response_en": "Thank you for reaching out! To check our available payment methods, you can simply follow these steps:\n\n1. Visit our website at {{Website URL}}.\n2. Navigate to the \"Payment Options\" or \"Payment Methods\" section.\n3. You will find a detailed list of our accepted payment methods, along with any relevant instructions or guidelines.\n\nIf you have any further questions or need assistance with any specific payment method, please don't hesitate to ask. We're here to help ensure that your payment experience is smooth and convenient.",
+    "response_cn": "感谢您联系我们！要查看我们可用的付款方式，您可以按照以下步骤操作：\n\n1. 访问我们的网站 {{Website URL}}。\n2. 导航至\"付款选项\"或\"付款方式\"部分。\n3. 您将找到我们接受的付款方式的详细说明，以及相关的操作说明或指南。\n\n如果您有任何其他问题，或需要关于特定付款方式的帮助，请随时告诉我们。我们将竭诚为您提供顺畅便捷的付款体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "help to see your accepted payment modalities",
+    "instruction_cn": "帮助您查看已接受的付款方式",
+    "response_en": "Positively! I understand that you would like assistance in viewing our accepted payment methods. Please allow me to guide you through the process. To check our available payment options, you can visit our website and navigate to the \"Payment Methods\" section. There, you will find a comprehensive list of the payment modalities we accept, including credit/debit cards, PayPal, bank transfers, Apple Pay, and Google Wallet. If you require further clarification or have any questions about any specific payment method, feel free to let me know. I'm here to assist you every step of the way.",
+    "response_cn": "好的！我理解您想了解我们接受的支付方式。请允许我为您引导这个过程。要查看我们可用的支付方式，您可以访问我们的网站，进入\"支付方式\"页面。在那里，您会找到我们接受的支付方式的完整列表，包括信用卡/借记卡、PayPal、银行转账、Apple Pay 和 Google Wallet。如果您需要进一步的说明或对任何特定支付方式有任何疑问，请随时告诉我。我会全程为您提供帮助。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "help me informing of an issue with payments",
+    "instruction_cn": "请帮我通知一个关于支付的问题",
+    "response_en": "I understood, you're facing an issue with payments, and I'm here to help you through it. Could you please provide me with more details about the specific problem you're encountering? By sharing the nature of the issue, we can better understand and address it, ensuring a prompt resolution. Your insights are highly valuable, and rest assured, we are committed to working with you every step of the way to resolve this matter. Thank you for bringing this to our attention.",
+    "response_cn": "我理解，您遇到了支付方面的问题，我来帮您解决。能否请您提供更多关于您所遇到的具体问题的详细信息？通过分享问题的具体情况，我们可以更好地了解并处理这个问题，确保快速解决。您的反馈非常有价值，请放心，我们将全程与您合作，共同解决此事。感谢您向我们反映这个问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I want assistance notifying of a goddamn payment issue",
+    "instruction_cn": "我想寻求帮助，通知一个该死的付款问题",
+    "response_en": "I apologize for the frustration you're experiencing with this payment issue. I assure you that I am here to assist you in resolving it. Please provide me with more details about the specific payment problem you're encountering so that I can better understand the issue and provide you with the appropriate assistance. Your feedback is crucial to us, and we appreciate your patience as we work together to address this concern.",
+    "response_cn": "对于您在支付问题上遇到的困扰，我深表歉意。我向您保证，我会全力协助您解决此问题。请您提供更多关于您所遇到的具体支付问题的详细信息，以便我更好地了解情况并为您提供相应的帮助。您的反馈对我们至关重要，我们非常感谢您在处理此问题过程中所给予的耐心。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I am trying to see the accepted payment methods",
+    "instruction_cn": "我想查看一下可接受的付款方式",
+    "response_en": "Indeed! I'm here to assist you with viewing our accepted payment methods. We offer a range of convenient options to cater to your needs. Here is a comprehensive list of our accepted payment methods:\n\n- **Credit/Debit Card:** We accept major card brands like Visa, Mastercard, and American Express.\n- **PayPal:** A widely used and secure online payment method.\n- **Bank Transfer:** Convenient for making direct payments from your bank account.\n- **Apple Pay:** A seamless payment method for Apple users.\n- **Google Wallet:** Google's payment system for fast and easy checkouts.\n\nRest assured, we continually strive to provide a hassle-free experience. Should you have any further questions or require assistance with any of our payment methods, please do not hesitate to let me know. I'm here to help at every step of the way!",
+    "response_cn": "当然！我很乐意为您介绍我们支持的付款方式。我们提供多种便捷的支付方式，以满足您的需求。以下是我们接受的付款方式完整列表：\n\n- **信用卡/借记卡：** 我们接受主流卡品牌，如Visa、Mastercard和American Express。\n- **PayPal：** 一种广泛使用且安全的在线支付方式。\n- **银行转账：** 方便您直接从银行账户进行付款。\n- **Apple Pay：** 为Apple用户提供无缝的支付体验。\n- **Google Wallet：** Google的支付系统，让结账更快捷、更轻松。\n\n请放心，我们持续致力于为您提供无忧的支付体验。如果您有任何疑问或需要关于付款方式的进一步帮助，请随时告诉我。我会全程为您提供支持！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I do not know how to inform of payment problems",
+    "instruction_cn": "我不知道如何通知付款问题",
+    "response_en": "No worries at all! I'll guide you through the process of informing us about any payment problems you're experiencing. To begin, you can reach out to our dedicated customer support team at {{Customer Support Phone Number}}. They are available {{Customer Support Hours}} to assist you. Alternatively, you can also report the payment problems through the Live Chat on our website at {{Website URL}}. Simply click on the chat icon on the bottom right corner of the page, and one of our representatives will be happy to help you. Don't hesitate to reach out whenever you need assistance, as we're here to ensure a smooth and stress-free experience for you.",
+    "response_cn": "完全不用担心！我将指导您完成向我们反馈遇到的任何支付问题的流程。首先，您可以联系我们的专属客服团队，电话是 {{Customer Support Phone Number}}。我们的客服服务时间为 {{Customer Support Hours}}，随时为您提供帮助。此外，您也可以通过我们网站 {{Website URL}} 上的在线客服来反馈支付问题。只需点击页面右下角的聊天图标，我们的客服代表将很乐意为您提供帮助。无论何时需要帮助，请随时联系我们，我们将竭诚为您确保顺畅无忧的体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I try to see th accepted payment options",
+    "instruction_cn": "我想查看一下可接受的付款方式。",
+    "response_en": "Thank you for reaching out! I completely understand that you tried to access the accepted payment options on our platform. I apologize for any inconvenience caused. Allow me to assist you in viewing our available payment methods.\n\nTo check the accepted payment options, you can visit our website's \"Payment\" or \"Checkout\" page. There, you will find a comprehensive list of the various payment methods we accept. If you encounter any difficulties or have further questions, please don't hesitate to let me know.\n\nYour satisfaction is our priority, and I'm here to ensure a seamless payment experience for you.",
+    "response_cn": "感谢您联系我们！我完全理解您曾尝试访问我们平台上已接受的支付方式。对于由此带来的任何不便，我深表歉意。请允许我协助您查看我们可用的支付方式。\n\n要查看已接受的支付方式，您可以访问我们网站的\"支付\"或\"结账\"页面。在那里，您会找到我们接受的各种支付方式的完整列表。如果您遇到任何困难或有其他问题，请随时告诉我。\n\n您的满意是我们的首要任务，我将竭诚为您提供顺畅的支付体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I have got to notify of goddamn issues with online payment",
+    "instruction_cn": "我必须通知您在线支付出现了严重的问题。",
+    "response_en": "Happy to get your message to us and informing us about the issues you're experiencing with online payment. We understand the frustration and inconvenience this may have caused you. Our team is here to assist you and resolve the problem as quickly as possible. To better assist you, could you please provide more details about the specific issues you encountered? With this information, we'll be able to investigate the problem and provide you with a suitable solution. We appreciate your patience and cooperation, and we're committed to ensuring that your online payment experience is as smooth as possible.",
+    "response_cn": "很高兴收到您的来信，感谢您告知我们您在网上支付过程中遇到的问题。我们理解这可能给您带来的困扰和不便。我们的团队随时为您提供帮助，并尽快解决问题。为了更好地为您提供帮助，能否请您提供更多关于您所遇到的具体问题的详细信息？有了这些信息，我们将能够调查问题并为您提供合适的解决方案。感谢您的耐心与合作，我们将竭尽全力确保您的网上支付体验尽可能顺畅。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I want assistance informing of an error with payments",
+    "instruction_cn": "我需要协助您处理付款方面的问题",
+    "response_en": "I'm here to provide you with the necessary assistance in informing about the error you've encountered with payments. Your feedback is incredibly valuable, and we want to ensure that your concerns are addressed promptly and effectively. Could you please provide more details about the specific error you're facing? By sharing this information, you not only help us understand the issue better but also enable us to improve our system for others. Thank you for reaching out to us, and rest assured, we're committed to resolving this matter for you.",
+    "response_cn": "我在此为您提供有关您所遇到的支付错误的相关帮助。您的反馈非常宝贵，我们希望确保您的问题得到及时有效的处理。能否请您提供更多关于您所遇到的具体错误信息？通过分享这些信息，您不仅帮助我们更好地了解问题，也有助于我们为其他用户改进系统。感谢您联系我们，请放心，我们致力于为您解决此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I need assistance notifying of errors with online payments",
+    "instruction_cn": "我需要协助通知在线支付中的错误",
+    "response_en": "Unquestionably! I'm here to assist you with notifying any errors you're encountering with your online payments. Please provide me with more details about the specific errors you're facing so that we can address them promptly and effectively. Your feedback is incredibly valuable, and together, we will work towards resolving these issues and ensuring a smooth online payment experience. Thank you for bringing this to our attention.",
+    "response_cn": "当然！我在这里协助您反馈在线付款过程中遇到的任何错误。请提供您所遇到的具体错误详情，以便我们能够及时有效地处理。您的反馈非常有价值，我们将共同努力解决这些问题，确保您的在线付款体验顺畅无阻。感谢您向我们反映此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "can ya help me informing  of problems with online payment",
+    "instruction_cn": "您好，请问您是想让我帮您反馈在线支付遇到的问题吗？",
+    "response_en": "I'm sorry to hear that you're experiencing problems with your online payment. I'm here to assist you in resolving this issue and providing you with the necessary information. To better assist you, could you please provide me with more specific details about the problem you're facing? This will help us understand the issue better and guide you towards an effective solution. Thank you for bringing this to our attention, and rest assured, we'll work together to address the problem and ensure a smooth payment process for you.",
+    "response_cn": "很抱歉得知您在在线支付方面遇到了问题。我在此协助您解决此问题并提供必要的信息。为了更好地帮助您，能否请您提供更多关于您所面临问题的具体细节？这将有助于我们更好地了解问题，并引导您找到有效的解决方案。感谢您向我们反馈此问题，请放心，我们将共同努力解决此问题，确保您的支付过程顺畅进行。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "could you help me to report an error with online payment?",
+    "instruction_cn": "您好，请问您是要报告在线支付出现了什么问题吗？",
+    "response_en": "Certainly, I'm here to assist you in reporting the error you encountered with your online payment. Thank you for bringing this to our attention, as your feedback helps us improve our system and ensure a seamless payment experience for all our customers. To provide accurate and efficient assistance, could you please provide more specific details about the error? Any additional information you can share will be valuable in resolving the issue promptly.",
+    "response_cn": "当然，我很乐意协助您报告在线支付时遇到的错误。感谢您及时反馈，您的意见有助于我们改进系统，确保所有客户都能获得顺畅的支付体验。为了提供准确高效的帮助，您能否提供更多关于该错误的详细信息？您能分享的任何附加信息都将有助于我们尽快解决问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "show me the payment methods",
+    "instruction_cn": "请告诉我有哪些支付方式",
+    "response_en": "Absolutely! I'm delighted to provide you with information about our payment methods. Here is a comprehensive list of the payment options we offer:\n\n- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express.\n- **PayPal:** A secure and widely used online payment method.\n- **Bank Transfer:** You can make direct payments from your bank account.\n- **Apple Pay:** An easy way for Apple users to make payments.\n- **Google Wallet:** Google's payment system for fast and convenient checkouts.\n\nThese options should give you plenty of choices to select the payment method that suits you best. If you have any further questions or would like more details about any of these methods, please let me know. Your satisfaction is our priority, and we are here to assist you every step of the way!",
+    "response_cn": "当然！我很乐意为您提供我们支付方式的相关信息。以下是我们提供的支付方式的综合列表：\n\n- **信用卡/借记卡：** 我们接受Visa、万事达和美国运通等主要卡。\n- **PayPal：** 一种安全且广泛使用的在线支付方式。\n- **银行转账：** 您可以直接从您的银行账户进行支付。\n- **Apple Pay：** 苹果用户进行支付的便捷方式。\n- **Google Wallet：** 谷歌的支付系统，用于快速便捷的结账。\n\n这些选项应该为您提供充足的选择，以便您选择最适合您的支付方式。如果您有任何进一步的问题或想了解有关这些方式的更多详情，请告诉我。您的满意是我们的优先事项，我们将全程为您提供协助！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "assistancesolving a trouble with payment",
+    "instruction_cn": "协助解决付款问题",
+    "response_en": "I'm sorry to hear that you're experiencing trouble with your payment. Rest assured, I'm here to provide the assistance you need in resolving this issue. To better understand the problem, could you please provide more details about the specific trouble you're facing? Any information you can provide will be helpful in identifying the root cause and finding a solution. Thank you for reaching out to us, and I appreciate your patience as we work towards resolving this matter.",
+    "response_cn": "很抱歉听到您在支付方面遇到了问题。请放心，我会全力协助您解决这个问题。为了更好地了解具体情况，能否请您详细说明一下您所遇到的困难？您提供的任何信息都将有助于我们找出问题的根本原因并找到解决方案。感谢您联系我们，也感谢您在我们处理此事过程中的耐心配合。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "how can i inform of problems with online payment",
+    "instruction_cn": "如何反馈在线支付遇到的问题",
+    "response_en": "I've grasped that you are facing problems with your online payment, and I'm here to help you resolve this issue. To inform us about the problems you're experiencing, you can reach out to our customer support team through various channels. You can contact our dedicated helpline at {{Customer Support Phone Number}} or send us an email at {{Customer Support Email}}. Additionally, you can also submit a ticket on our website by visiting the \"Contact Us\" page. Providing detailed information about the problems you encountered, such as error messages or any specific error codes, will assist our team in identifying the root cause more efficiently and providing you with a quick solution. Thank you for bringing this to our attention, and we appreciate your cooperation in resolving this matter.",
+    "response_cn": "我了解到您在网上支付方面遇到了问题，我随时准备协助您解决此问题。要向我们反馈您遇到的问题，您可以通过多种渠道联系我们的客服团队。您可以拨打我们的专属客服热线 {{Customer Support Phone Number}}，或发送邮件至 {{Customer Support Email}}。此外，您也可以访问我们网站上的\"联系我们\"页面提交工单。提供您所遇到问题的详细信息，例如错误提示或具体的错误代码，将有助于我们的团队更高效地定位问题根源，并为您提供快速解决方案。感谢您向我们反馈此问题，我们非常感谢您的配合。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I want assistance to inform of issues with payment",
+    "instruction_cn": "我需要协助反映付款方面的问题",
+    "response_en": "Happy to get your message to us regarding the issues you're facing with your payment. Your concerns are important to us, and we are here to assist you every step of the way. To better understand your specific payment issues, could you please provide more details about the error or problem you encountered? By sharing this information, we can work together towards finding a swift and effective solution. Your feedback is highly valued, and we are committed to resolving any payment issues you may be experiencing.",
+    "response_cn": "很高兴收到您关于我们支付问题的反馈。您的关切对我们非常重要，我们将全程为您提供协助。为了更好地了解您遇到的具体支付问题，能否请您详细说明一下您遇到的错误或问题？通过分享这些信息，我们可以共同努力找到快速有效的解决方案。我们非常重视您的反馈，并致力于解决您可能遇到的任何支付问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "help to solve an error withonline payments",
+    "instruction_cn": "帮助解决在线支付错误",
+    "response_en": "I appreciate you reaching out for assistance in resolving an error with your online payments. Rest assured that I'm here to help you navigate through this issue and find a solution. To begin, it would be helpful if you could provide me with more specific details about the error you are encountering. This will enable us to pinpoint the root cause and take the necessary steps to rectify the situation. Additionally, please let me know the platform or service you are using for online payments, as this can further assist us in troubleshooting. Thank you for bringing this to our attention, and we'll work together to resolve it.",
+    "response_cn": "感谢您联系我们寻求帮助，以解决您在线支付中遇到的问题。请放心，我会协助您排查问题并找到解决方案。首先，如果您能提供更多关于所遇到错误的具体细节，将会对我们有所帮助。这将使我们能够找出问题的根本原因，并采取必要的措施加以解决。此外，请告知您使用的在线支付平台或服务，这将有助于我们进一步排查问题。感谢您向我们反馈，我们将共同努力解决此问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "assistance seeingur payment methods",
+    "instruction_cn": "查看您的付款方式",
+    "response_en": "I'm delighted to be of assistance! Allowing you to effortlessly comprehend and access our available payment methods is my utmost priority. Here's an elucidation of our diverse payment options:\n\n- **Credit/Debit Card:** We accept major credit and debit cards from renowned issuers, including Visa, Mastercard, and American Express.\n- **PayPal:** A widely recognized and trusted online payment system that enables secure transactions.\n- **Bank Transfer:** Facilitating the convenience of direct transfers from your bank account.\n- **Apple Pay:** A seamless and swift payment method tailored for Apple users.\n- **Google Wallet:** A reliable and hassle-free way to make payments using your Google account.\n\nIf you require any further clarification or assistance regarding any of these methods, feel free to let me know. Your satisfaction is our foremost concern. Remember, I'm here to ensure a smooth and pleasant experience throughout your journey.",
+    "response_cn": "非常乐意为您服务！让您轻松了解并使用我们的支付方式是我最优先的事项。以下是我们多种支付方式的详细说明：\n\n- **信用卡/借记卡：** 我们接受来自知名发卡机构的主要信用卡和借记卡，包括Visa、Mastercard和American Express。\n- **PayPal：** 一个广受认可和信赖的在线支付系统，支持安全交易。\n- **银行转账：** 方便您直接从银行账户进行转账。\n- **Apple Pay：** 专为Apple用户打造的便捷快速支付方式。\n- **Google Wallet：** 使用您的Google账户进行支付的可靠且轻松的方式。\n\n如果您需要关于以上任何支付方式的进一步说明或帮助，请随时告诉我。您的满意是我们最关心的事情。请记住，我会全程确保您拥有顺畅愉快的体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i need assistance informing of an issue with online payments",
+    "instruction_cn": "我需要协助告知一个在线支付的问题。",
+    "response_en": "Thank you for your message to us for assistance with informing about an issue you're facing with online payments. Rest assured, we are here to support you. Kindly provide some specific details about the problem you encountered during the online payment process. Your valuable input enables us to understand the issue better and take appropriate measures to resolve it. We appreciate your patience and cooperation as we work together to address this matter promptly.",
+    "response_cn": "感谢您联系我们寻求帮助，告知您在网上支付过程中遇到的问题。请放心，我们将竭诚为您提供支持。请提供您在在线支付过程中遇到问题的具体细节。您的宝贵意见有助于我们更好地了解问题并采取相应措施加以解决。我们感谢您的耐心与配合，我们将共同努力及时处理此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i need assistance to inform of problems with payment",
+    "instruction_cn": "我需要协助来反映支付方面的问题。",
+    "response_en": "We understand that you're facing some problems with your payment, and we appreciate you reaching out to inform us about it. Rest assured, our team is here to help you navigate through this issue and find a resolution. To gather more details about the problem, could you please provide some specific information about the payment-related issues you're encountering? This will enable us to analyze the situation thoroughly and provide you with the most accurate and effective assistance. We genuinely appreciate your cooperation, and we're committed to resolving this matter for you as quickly as possible.",
+    "response_cn": "我们了解到您在付款方面遇到了一些问题，感谢您联系我们告知此事。请放心，我们的团队将竭诚帮助您解决这一问题。为了更详细地了解情况，能否请您提供一些关于您所遇到的付款问题的具体信息？这将使我们能够全面分析情况，并为您提供最准确、最有效的帮助。我们非常感谢您的配合，并将尽快为您解决此事。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "i dont know how to inform of a payment error",
+    "instruction_cn": "我不知道如何通知支付错误",
+    "response_en": "I'm picking up what you're putting down, your uncertainty about how to inform us of a payment error. Don't worry, I'm here to guide you through the process step by step. To report a payment error, you can reach out to our customer support team through live chat on our website at {{Website URL}} or by calling our customer support hotline at {{Customer Support Phone Number}}. They will assist you in providing the necessary details and help resolve the issue as quickly as possible. We appreciate your proactive approach in reaching out to us, and we're committed to addressing your concerns promptly.",
+    "response_cn": "我理解您对如何向我们报告支付错误感到不确定。别担心，我会逐步指导您完成整个流程。要报告支付错误，您可以通过我们网站 {{Website URL}} 上的在线客服联系我们，或者拨打我们的客服热线 {{Customer Support Phone Number}}。我们的客服团队将协助您提供所需的详细信息，并尽快帮助您解决问题。感谢您主动联系我们，我们承诺会及时处理您的疑虑。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "how to report errors with payment",
+    "instruction_cn": "如何报告支付错误",
+    "response_en": "To report errors with your payment, you can follow a few simple steps. First, log in to your account on our website or mobile app. Then, navigate to the \"Payments\" or \"Billing\" section. Look for an option that says \"Report Payment Errors\" or something similar. Click on that option and provide all the necessary details about the error you encountered. Our support team will review your report and work towards a resolution as quickly as possible. If you're unable to find the specific option or have any difficulties, please don't hesitate to reach out to our customer support team, who will be happy to guide you through the process. We're here to help you resolve any payment issues you may be facing.",
+    "response_cn": "如果您需要报告付款错误，可以按照以下几个简单步骤操作。首先，请在我们的网站或移动应用程序上登录您的账户。然后，进入\"付款\"或\"账单\"页面。查找\"报告付款错误\"或类似的选项。点击该选项，并提供您所遇到错误的所有必要信息。我们的支持团队将尽快审核您的报告并努力解决问题。如果您无法找到该选项或遇到任何困难，请随时联系我们的客服团队，他们将很乐意为您提供指导。我们随时准备帮助您解决任何付款问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I have to list your goddamn available payment modalities",
+    "instruction_cn": "我需要列出您可用的支付方式",
+    "response_en": "Surely! I'm here to provide you with the necessary information. Our company offers a range of convenient payment methods to meet your needs. Here's a comprehensive list of our available payment modalities:\n\n- **Credit/Debit Card:** We accept major cards such as Visa, Mastercard, and American Express.\n- **PayPal:** A widely-used and secure online payment platform.\n- **Bank Transfer:** Directly transfer funds from your bank account.\n- **Apple Pay:** An easy and quick payment option for Apple users.\n- **Google Wallet:** Google's trusted payment system for smooth checkouts.\n\nIf you need further details on any of these payment methods or have any other questions, feel free to let me know. Our goal is to ensure your satisfaction, and we're here to provide you with the support you need throughout your journey.",
+    "response_cn": "当然！我很乐意为您提供相关信息。我们公司提供了多种便捷的支付方式以满足您的需求。以下是我们目前支持的所有支付方式：\n\n- **信用卡/借记卡：** 我们接受 Visa、Mastercard 和 American Express 等主要卡种。\n- **PayPal：** 广泛使用且安全的在线支付平台。\n- **银行转账：** 直接从您的银行账户转账。\n- **Apple Pay：** 为苹果用户提供简便快捷的支付选项。\n- **Google Wallet：** 谷歌的可靠支付系统，让您的结账更加顺畅。\n\n如果您需要了解以上任何支付方式的详细信息，或有任何其他问题，请随时告诉我。我们的目标是确保您的满意，并全程为您提供所需的支持。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "assistance to see ru accepted payment options",
+    "instruction_cn": "请查看俄罗斯接受的支付方式",
+    "response_en": "Glad you got in touch to us for assistance with viewing our accepted payment options. I'm here to help! To access our available payment methods, you can visit our website and navigate to the \"Payment Options\" section. There, you will find a comprehensive list of our accepted payment methods, including credit/debit cards, PayPal, bank transfers, and digital wallets like Apple Pay and Google Wallet. If you have any further questions or need more detailed information about any specific payment method, please feel free to ask. We're here to ensure a seamless payment experience for you!",
+    "response_cn": "很高兴您联系我们以获取有关查看我们接受的付款方式的帮助。我很乐意为您提供协助！要查看我们可用的付款方式，您可以访问我们的网站并导航至\"付款方式\"部分。在那里，您将找到我们接受的付款方式的完整列表，包括信用卡/借记卡、PayPal、银行转账以及Apple Pay和Google Wallet等数字钱包。如果您有任何其他问题或需要有关任何特定付款方式的更多详细信息，请随时提问。我们在这里确保为您提供顺畅的付款体验！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "I have to check your payment options, can you help me?",
+    "instruction_cn": "我需要查看您的支付方式，您能帮我一下吗？",
+    "response_en": "I'm happy to help! I'm here to assist you in checking our available payment options. We offer a variety of convenient payment methods to cater to your needs. Here's a summary of our accepted payment options:\n\n- **Credit/Debit Card:** We accept major cards such as Visa, Mastercard, and American Express.\n- **PayPal:** A widely used and secure online payment method.\n- **Bank Transfer:** You can make direct payments from your bank account.\n- **Mobile Wallets:** We support mobile payment platforms like Apple Pay and Google Pay.\n\nThese payment methods should provide you with flexibility and ease while making a purchase. If you need further information or have any questions about a specific payment method, feel free to let me know. I'm here to help you every step of the way!",
+    "response_cn": "很高兴为您提供帮助！我在这里为您查询我们可用的支付方式。我们提供多种便捷的支付方式以满足您的需求。以下是我们接受的支付方式汇总：\n\n- **信用卡/借记卡：** 我们接受主流卡片，如 Visa、Mastercard 和 American Express。\n- **PayPal：** 一种广泛使用的安全在线支付方式。\n- **银行转账：** 您可以直接从您的银行账户进行付款。\n- **移动钱包：** 我们支持 Apple Pay 和 Google Pay 等移动支付平台。\n\n这些支付方式应该能为您提供灵活便捷的购物体验。如果您需要进一步了解或有任何关于特定支付方式的问题，请随时告诉我。我会全程为您提供帮助！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "want help seeing ur pzyment options",
+    "instruction_cn": "需要帮助查看您的付款方式吗？",
+    "response_en": "We appreciate your inquiry and expressing your interest in viewing our payment options. I'm here to guide you! We offer a wide range of convenient and secure methods to ensure a seamless checkout experience. Here's a list of our accepted payment options:\n\n- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express, providing a quick and secure way to make payments.\n- **PayPal:** A popular online payment platform that offers an extra layer of security and ease of use.\n- **Bank Transfer:** This option allows you to transfer funds directly from your bank account to ours.\n- **Apple Pay:** If you're an Apple user, you can use Apple Pay for a fast and secure payment experience.\n- **Google Pay:** Google Pay allows you to make quick and easy payments using your Google account.\n\nIf you need assistance with any of these payment methods or have any further questions, feel free to let me know. I'm here to assist you every step of the way!",
+    "response_cn": "感谢您的咨询，并对您希望了解我们的支付方式表示感谢。我很乐意为您提供指导！我们提供多种便捷且安全的支付方式，以确保您拥有顺畅的结账体验。以下是我们接受的支付方式列表：\n\n- **信用卡/借记卡：** 我们接受Visa、Mastercard和American Express等主要银行卡，为您提供快速安全的支付方式。\n- **PayPal：** 一个广受欢迎的在线支付平台，提供额外的安全保障和便捷的使用体验。\n- **银行转账：** 此选项允许您直接将资金从您的银行账户转入我们的账户。\n- **Apple Pay：** 如果您是Apple用户，可以使用Apple Pay享受快速且安全的支付体验。\n- **Google Pay：** Google Pay允许您使用Google账户进行快捷方便的支付。\n\n如果您在使用以上任何支付方式时需要帮助，或有任何其他问题，请随时告诉我。我将全程为您提供协助！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I donot know what I have to do to inform of payment issues",
+    "instruction_cn": "我不知道该如何通知付款问题",
+    "response_en": "I've grasped that you're unsure of the process to inform us about payment issues. Don't worry, I'm here to guide you through it. To report a payment problem, you can reach out to our dedicated customer support team. They have the expertise to assist you and will be able to gather all the necessary details to resolve the issue efficiently. You can get in touch with them by calling {{Customer Support Phone Number}} or by visiting our website and initiating a live chat session. They are available {{Customer Support Hours}} to provide the support you need. Please don't hesitate to contact them, as they will be more than happy to assist you in resolving your payment concerns.",
+    "response_cn": "我已经了解到您对如何向我们报告支付问题的流程不太清楚。不用担心，我来为您指引。若要报告支付问题，您可以联系我们的专属客服团队。他们拥有专业的知识来协助您，并将收集所有必要的信息以高效地解决问题。您可以通过拨打 {{Customer Support Phone Number}} 或访问我们的网站发起在线客服会话来联系他们。我们的客服时间为 {{Customer Support Hours}}，随时为您提供所需的支持。请随时联系他们，他们非常乐意帮助您解决支付方面的问题。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I'm trying to report issues with online payment",
+    "instruction_cn": "我想报告在线支付的问题",
+    "response_en": "Glad you got in touch to us regarding the issues you're facing with online payment. I completely understand the importance of reporting these problems, and I'm here to assist you every step of the way. To provide you with the best possible solution, could you please provide more details about the specific issues you encountered during the online payment process? Your feedback is invaluable, and together we'll work towards resolving these issues and ensuring a smooth payment experience.",
+    "response_cn": "很高兴您联系我们反映在线支付遇到的问题。我完全理解您反馈这些问题的重要性，并会全程为您提供协助。为了给您提供最佳的解决方案，能否请您详细说明一下您在在线支付过程中遇到的具体问题？您的反馈非常宝贵，我们将共同努力解决这些问题，确保您的支付体验顺畅无忧。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "my card was declined, inform of an error with payments",
+    "instruction_cn": "我的银行卡被拒绝了，提示支付出现错误",
+    "response_en": "I'm sorry to hear that your card was declined and you're experiencing an error with payments. Don't worry, I'm here to help you through this issue. To report the error, please contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to assist you further and provide guidance on resolving the payment error. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.",
+    "response_cn": "很抱歉听到您的银行卡被拒付并且遇到了支付错误。别担心，我来帮您解决这个问题。如需报告该错误，请通过 {Customer Support Phone Number} 联系我们的客服团队，或通过我们网站 {Website URL} 上的在线聊天功能与我们联系。他们将能够为您提供进一步的帮助，并指导您解决支付错误。感谢您向我们反馈此问题，对于由此带来的不便，我们深表歉意。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "I do not know how to infgorm of payment problems",
+    "instruction_cn": "我不知道如何通知支付问题",
+    "response_en": "I've understood you may feel uncertain about how to inform us about the payment problems you're facing. Don't worry, I'm here to guide you through the process. To report the payment problems, you can reach out to our customer support team through our helpline at {{Customer Support Phone Number}} or by visiting our website and using the Live Chat feature. They will be able to assist you further and provide you with the necessary steps to inform us about the payment problems. Rest assured, we are committed to resolving these issues and ensuring a smooth payment experience for you.",
+    "response_cn": "我理解您可能对于如何向我们反映您遇到的支付问题感到不确定。别担心，我会全程指导您完成相关流程。要报告支付问题，您可以通过我们的客服热线 {{Customer Support Phone Number}} 联系我们的客服团队，或者访问我们的网站并使用在线客服功能。他们将能够为您提供进一步的协助，并告知您向我们反映支付问题的必要步骤。请放心，我们致力于解决这些问题，确保为您提供顺畅的支付体验。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "wanna list the bloody accepted payment options how to do it",
+    "instruction_cn": "您好，我想列出目前支持的付款方式，请问该如何操作？",
+    "response_en": "I'm on it! I'm here to help you with that. Our company proudly offers a range of payment options to provide convenience and flexibility for our valued customers. Here's a list of our accepted payment methods:\n\n- Credit/Debit Card: You can securely pay with major cards like Visa, Mastercard, and American Express.\n- PayPal: A widely recognized and trusted online payment platform.\n- Bank Transfer: You can make direct bank transfers for your purchases.\n- Apple Pay: If you're an Apple user, you can conveniently use Apple Pay for your transactions.\n- Google Pay: Google's payment service allows for a seamless checkout process.\n\nThese options cater to different preferences, ensuring a smooth and satisfactory payment experience. If you have any specific questions or require further assistance, feel free to let me know. Your satisfaction is our top priority!",
+    "response_cn": "好的，我来帮您处理！我很乐意为您提供帮助。我们公司自豪地提供多种支付方式，为尊贵的客户带来便利和灵活性。以下是我们接受的支付方式列表：\n\n- 信用卡/借记卡：您可以安全地使用Visa、Mastercard和American Express等主要卡片进行支付。\n- PayPal：一个广受认可和信赖的在线支付平台。\n- 银行转账：您可以直接通过银行转账完成购买。\n- Apple Pay：如果您是Apple用户，可以方便地使用Apple Pay进行交易。\n- Google Pay：Google的支付服务让您享受无缝结账体验。\n\n这些选项满足不同偏好，确保顺畅且满意的支付体验。如果您有任何具体问题或需要进一步帮助，请随时告诉我。您的满意是我们的首要任务！"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "i want help to list ur payment modalities",
+    "instruction_cn": "我想了解一下您支持的支付方式有哪些",
+    "response_en": "Thank you for seeking assistance! I'm here to guide you in listing our available payment modalities. To provide you with a comprehensive understanding, here is a curated list:\n\n- **Credit/Debit Card:** We accept major card brands like Visa, Mastercard, and American Express.\n- **PayPal:** A widely recognized and secure online payment method.\n- **Bank Transfer:** Allows you to make direct payments from your bank account.\n- **Apple Pay:** Designed for seamless transactions on Apple devices.\n- **Google Wallet:** Google's convenient payment system for quick checkouts.\n\nI hope this list clarifies the available payment options. If you have any further questions or if there's anything else I can assist you with, please feel free to let me know.",
+    "response_cn": "感谢您寻求帮助！我很乐意为您介绍我们现有的支付方式。为了让您全面了解，以下是我们的支付方式列表：\n\n- **信用卡/借记卡：** 我们接受 Visa、Mastercard 和 American Express 等主要卡品牌。\n- **PayPal：** 一种广为人知且安全的在线支付方式。\n- **银行转账：** 允许您直接从银行账户进行付款。\n- **Apple Pay：** 专为 Apple 设备上的无缝交易而设计。\n- **Google Wallet：** Google 的便捷支付系统，支持快速结账。\n\n希望以上列表能帮助您了解可用的支付方式。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "issues with payments",
+    "instruction_cn": "支付问题",
+    "response_en": "I comprehend that you're facing some issues with your payments, and I'm here to assist you in resolving them. To better understand the specific problems you're encountering, could you provide more details about the issues you're facing with your payments? Your feedback is invaluable, and by sharing this information, we can work together to find a suitable solution. Thank you for reaching out to us, and we're committed to providing the assistance you need.",
+    "response_cn": "我理解您在付款方面遇到了一些问题，我随时准备协助您解决这些问题。为了更好地了解您遇到的具体问题，您能否详细说明一下您在付款方面所面临的困难？您的反馈非常宝贵，通过分享这些信息，我们可以共同努力找到合适的解决方案。感谢您联系我们，我们将竭诚为您提供所需的帮助。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "payment_issue",
+    "instruction_en": "help solving issues with online payments",
+    "instruction_cn": "帮助解决在线付款问题",
+    "response_en": "I'm sorry to hear that you're facing issues with online payments. Rest assured, I'm here to help you find a solution. To better understand and resolve the problem, could you please provide more details about the specific issue you're experiencing? This will enable us to assist you more effectively and efficiently. Additionally, if you've encountered any error messages or have tried any troubleshooting steps, please let me know. Together, we'll work towards resolving this matter and ensuring a smooth payment process for you. Thank you for reaching out to us.",
+    "response_cn": "很抱歉得知您在在线支付方面遇到了问题。请放心，我会全力协助您解决。为了更好地了解并解决问题，能否请您提供更多关于您所遇到的具体问题的详细信息？这将使我们能够更高效地为您提供帮助。此外，如果您遇到了任何错误提示信息，或者已经尝试过任何故障排查步骤，也请一并告知。我们将共同努力解决此事，确保您的支付流程顺畅。感谢您联系我们。"
+  },
+  {
+    "category": "PAYMENT",
+    "intent": "check_payment_methods",
+    "instruction_en": "can you help me see the accepted payment options?",
+    "instruction_cn": "请问您可以帮我查看一下支持的付款方式吗？",
+    "response_en": "For sure! I'm here to assist you in exploring our accepted payment options. Providing customers with a seamless and convenient payment experience is our utmost priority. Here is a comprehensive list of our accepted payment methods:\n\n- **Credit/Debit Cards:** We accept all major credit and debit cards, including Visa, Mastercard, and American Express.\n- **PayPal:** A globally recognized and secure online payment platform trusted by millions.\n- **Bank Transfers:** Enable direct payments from your bank account to ours for added convenience.\n- **Mobile Payment:** Experience the ease of paying with mobile payment options such as Apple Pay and Google Pay.\n- **Other Digital Wallets:** We also support other reliable digital wallets like Samsung Pay, Amazon Pay, and Stripe.\n\nShould you have any queries or need further assistance regarding any specific payment option, please don't hesitate to let me know. I'm here to ensure you find the best payment method that suits your needs.",
+    "response_cn": "当然！我很乐意为您介绍我们接受的支付选项。为客户提供顺畅便捷的支付体验是我们的首要任务。以下是我们接受的支付方式完整列表：\n\n- **信用卡/借记卡：** 我们接受所有主流信用卡和借记卡，包括Visa、Mastercard和American Express。\n- **PayPal：** 这是一个全球公认的、安全的在线支付平台，深受数百万用户信赖。\n- **银行转账：** 支持直接从您的银行账户向我们的账户付款，更加便捷。\n- **移动支付：** 体验Apple Pay和Google Pay等移动支付方式的便捷支付。\n- **其他数字钱包：** 我们还支持其他可靠的数字钱包，如Samsung Pay、Amazon Pay和Stripe。\n\n如果您对任何特定支付选项有任何疑问或需要进一步帮助，请随时告诉我。我会全力协助您找到最适合您需求的支付方式。"
+  }
+]

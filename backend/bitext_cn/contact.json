@@ -1,0 +1,802 @@
+[
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "could you help me speaking to a live agent?",
+    "instruction_cn": "您好，请问您是需要我帮您转接人工客服吗？",
+    "response_en": "Glad you contacted us! I'm clearly cognizant that you're looking for assistance in speaking to a live agent. I'm here to guide you through the process. To connect with a live agent, please follow these steps:\n\n1. Dial our customer support helpline at {{Customer Support Phone Number}}. Our agents are available to assist you {{Customer Support Hours}}.\n2. If you prefer chat support, visit our website at {{Website URL}} and click on the \"Live Chat\" button. Our agents will be happy to chat with you in real-time.\n3. For self-help options, you can explore our comprehensive FAQ section on our website or check out our community forum where you can find answers from our experts and fellow customers.\n\nRemember, our goal is to provide you with the best possible support, so please feel free to share any specific concerns or questions you have. We're here to make sure you receive the assistance you need.",
+    "response_cn": "很高兴您联系我们！我理解您希望与人工客服通话。我将为您指引具体流程。如需联系人工客服，请按照以下步骤操作：\n\n1. 拨打我们的客服热线 {{Customer Support Phone Number}}，我们的客服代表将在 {{Customer Support Hours}} 为您提供服务。\n2. 如果您更倾向于在线聊天支持，请访问我们的官网 {{Website URL}}，点击\"在线聊天\"按钮，我们的客服代表将实时为您解答问题。\n3. 如需自助服务，您可以浏览我们网站上的常见问题解答板块，或前往社区论坛，在那里您可以获得专家和其他用户的帮助。\n\n请记住，我们的目标是为您提供最优质的支持服务，欢迎您随时提出任何具体问题或疑虑。我们将竭诚为您提供所需的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I want to talk to customer assistance, will you help me?",
+    "instruction_cn": "我想联系客服，你能帮我吗？",
+    "response_en": "Of course, I'd be happy to assist you! To connect with our customer assistance team, you can reach out to us through various channels. Our customer support hours are {{Customer Support Hours}}. You can contact us via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Feel free to let us know how we can help you further.",
+    "response_cn": "当然，我很乐意为您提供帮助！要联系我们的客户协助团队，您可以通过多种渠道与我们取得联系。我们的客服时间为{{Customer Support Hours}}。您可以拨打客服电话{{Customer Support Phone Number}}，或通过我们网站{{Website URL}}上的在线客服与我们联系。请随时告诉我们如何进一步为您提供帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "help speaking with a human agent",
+    "instruction_cn": "我想与人工客服对话",
+    "response_en": "Thank you for contacting! I certainly recognize that you need assistance and would like to speak with a human agent. I'm here to help and ensure that you receive the support you require. Our team of dedicated representatives is ready to assist you with any questions or concerns you may have. Please bear with me for a moment while I connect you to an agent who will provide you with the personalized assistance you need.",
+    "response_cn": "感谢您的联系！我理解您需要帮助，并希望与人工客服交谈。我在这里为您提供帮助，确保您获得所需的支持。我们的专业客服团队随时准备为您解答任何问题或疑虑。请稍等片刻，我将为您转接一位客服代表，为您提供个性化的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I have to contact customer support, help me",
+    "instruction_cn": "我需要联系客服，请帮我",
+    "response_en": "We value your outreach! I'm in tune with the fact that you need to contact our customer support team for assistance. I'm here to guide you through the process and provide you with the necessary information. To ensure that I provide accurate details, could you please let me know the best way for you to reach our customer support? Whether it's through phone, email, live chat, or any other preferred method, I'm here to assist you and make your experience as smooth as possible.",
+    "response_cn": "感谢您的联系！我理解您需要联系我们的客服团队以获得帮助。我将为您提供必要的指引和信息。为了确保我能提供准确的联系方式，请问您希望通过哪种方式联系我们的客服？无论是电话、电子邮件、在线聊天，还是其他任何您偏好的方式，我都会全力协助您，确保您的体验尽可能顺畅。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "can i get in touch with customer support",
+    "instruction_cn": "我可以联系客服吗？",
+    "response_en": "Your message means a lot! I'm aligned with the idea that you would like to get in touch with our customer support team. We are here to assist you and provide the help you need. You can contact our customer support through various channels, including phone, email, or live chat. Our team is available during {{Customer Support Hours}} to answer your questions, address any concerns, and provide the support you require. Please let us know how we can assist you further!",
+    "response_cn": "您的留言对我们非常重要！我完全理解您希望联系我们的客服团队。我们随时准备为您提供所需的帮助和支持。您可以通过多种渠道联系我们的客服，包括电话、电子邮件或在线客服。我们的客服团队在{{Customer Support Hours}}期间随时待命，为您解答疑问、处理问题并提供所需的支持。请告诉我们如何进一步为您提供帮助！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I don't know how to contact customer assistance",
+    "instruction_cn": "我不知道如何联系客服",
+    "response_en": "Grateful for your contact! I get the sense that you're unsure about how to get in touch with our customer assistance team. Don't worry, I'm here to guide you through the process. To contact our customer assistance team, you can reach out to us via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team is available during {{Customer Support Hours}}. If you're having any trouble, please let me know, and I'll be happy to assist you further.",
+    "response_cn": "感谢您联系我们！我感觉到您可能不太清楚如何联系我们的客服团队。别担心，我很乐意为您提供指导。您可以通过拨打客服电话 {{Customer Support Phone Number}} 或访问我们官网 {{Website URL}} 的在线客服与我们取得联系。我们的客服团队在 {{Customer Support Hours}} 期间为您服务。如果您遇到任何问题，请随时告诉我，我将很乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "how to check at what time i can call customer service",
+    "instruction_cn": "如何查询客服热线的可拨打时间",
+    "response_en": "I hear you! I'm following you that you would like to learn how to check the operating hours for when you can call our customer service team. To find out the specific hours, I recommend visiting our website at {{Website URL}}. On our website, you should be able to find a dedicated page or section that provides detailed information about our customer service operating hours. If you have any other questions or need further assistance, please feel free to let me know!",
+    "response_cn": "我明白您的意思！您想了解如何查询我们客服团队的联系电话服务时间。要查询具体的服务时间，建议您访问我们的网站 {{Website URL}}。在我们的网站上，您应该可以找到专门的页面或版块，其中提供了我们客服服务时间的详细信息。如果您还有其他问题或需要进一步的帮助，请随时告诉我！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I have got to see what hours I can reach customer service",
+    "instruction_cn": "我需要查看一下客服的服务时间。",
+    "response_en": "Honored to assist! I'm clued in that you are looking to find out the hours during which you can reach our customer service team. Our dedicated customer service representatives are available to assist you during our {{Customer Support Hours}}. If you have any further questions or concerns, please don't hesitate to let me know. I'm here to help!",
+    "response_cn": "很荣幸为您服务！我了解到您想了解我们客服团队的服务时间。我们的专业客服代表在{{Customer Support Hours}}期间为您提供服务。如果您还有其他问题或疑虑，请随时告诉我，我随时为您提供帮助！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "i dont know what to do to chat with a human agent",
+    "instruction_cn": "我不知道该怎么做才能与人工客服交谈",
+    "response_en": "Thank you for reaching out! I completely understand that you're unsure about how to initiate a chat with a human agent. Rest assured, I'm here to guide you through the process. To connect with a human agent, you can usually find a \"Chat\" or \"Contact Us\" button on our website. Alternatively, you can try searching for \"Chat with a live agent\" in the help center or support page. If you're still unable to locate the chat option, please let me know, and I'll provide you with further instructions. We're committed to assisting you every step of the way!",
+    "response_cn": "感谢您的联系！我完全理解您不确定如何与人工客服发起对话。请放心，我会全程指导您完成这一流程。要联系人工客服，您通常可以在我们的网站上找到\"在线聊天\"或\"联系我们\"按钮。或者，您也可以在帮助中心或支持页面搜索\"与在线客服聊天\"。如果您仍然无法找到聊天选项，请告诉我，我会为您提供进一步的说明。我们致力于为您提供全程协助！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "would it be possible to talk to an operator?",
+    "instruction_cn": "请问可以和客服代表通话吗？",
+    "response_en": "Grateful for your contact! I get the sense that you would like to speak to an operator for assistance. Our team of dedicated human agents is here to help you. To connect you with the right person, may I please know the reason for your call? Providing specific details about your concern will enable us to expedite the process and ensure you receive the most accurate assistance. We value your time and are committed to resolving your issue efficiently.",
+    "response_cn": "感谢您联系我们！我了解到您希望与客服专员进行沟通。我们专业的人工客服团队随时为您提供帮助。为了为您安排最合适的服务人员，请问您此次来电的具体原因是什么？提供详细的问题描述将有助于我们加快处理流程，确保您获得最准确的帮助。我们珍视您的时间，并将致力于高效解决您的问题。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I want to speak with customer esrvice",
+    "instruction_cn": "我想与客服服务部门通话",
+    "response_en": "Glad you contacted us! I'm clearly cognizant that you would like to speak with our customer service. Our highly trained team is available to assist you during {{Customer Support Hours}}. If you have any questions, concerns, or feedback, please feel free to share. How can I make your experience even better today?",
+    "response_cn": "很高兴您联系我们！我清楚地了解到您希望与我们的客服团队沟通。我们训练有素的团队在{{Customer Support Hours}}期间随时为您提供帮助。如果您有任何问题、疑虑或反馈，请随时分享。今天我能如何让您有更好的体验呢？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "how can i talk with an human agent",
+    "instruction_cn": "如何与人工客服代表通话？",
+    "response_en": "We're here to help! I take note that you're looking for assistance and would like to speak with a human agent for personalized support. Our team of experts is ready to help you. To connect with a human agent, I recommend reaching out to our customer support hotline at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will be available to provide you with the best possible assistance and address any questions or concerns you may have. Don't hesitate to reach out, we're here to help!",
+    "response_cn": "我们随时为您提供帮助！我注意到您正在寻求协助，并希望与人工客服代表进行个性化沟通。我们的专家团队已准备好为您提供帮助。为了联系人工客服代表，建议您拨打我们的客户服务热线 {{Customer Support Phone Number}}，或通过我们网站 {{Website URL}} 上的在线聊天功能与我们联系。我们的专业团队将竭诚为您提供最优质的协助，并解答您的任何疑问或顾虑。请随时联系我们，我们随时为您服务！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I don't understand you, I need help talking to a person",
+    "instruction_cn": "我不太明白您的意思，我需要人工客服的帮助。",
+    "response_en": "It's great to hear from you! I can see that you don't understand and require assistance from a person. Connecting with one of our knowledgeable representatives will enable us to understand your concerns better and provide you with the support you need. Please stay with me for a moment while I connect you with a human agent who will be glad to assist you further.",
+    "response_cn": "很高兴收到您的来信！我注意到您目前需要人工协助。我们的专业客服代表将能更好地了解您的需求，并为您提供所需的支持。请稍等片刻，我将为您转接人工客服，他们将很乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I can't understand you, assistance speaking to an assistant",
+    "instruction_cn": "我无法理解您的话，需要转接给其他客服人员协助。",
+    "response_en": "Thank you for reaching out! I apologize if there has been any confusion or difficulty in understanding. I'm here to help! It seems like you're requesting assistance and would like to speak to an assistant directly. Rest assured, I've noted your request, and I'll connect you with a knowledgeable assistant who can provide the support you need. Meanwhile, if you have any specific questions or concerns you'd like to share, please feel free to let me know, and I'll be happy to assist you further. Your satisfaction is our top priority, and we're committed to providing you with the best possible experience.",
+    "response_cn": "感谢您的来信！如果之前有任何让您感到困惑或难以理解的地方，我深表歉意。我非常乐意为您提供帮助！看起来您希望直接与客服专员沟通。请放心，我已记录您的需求，稍后将与一位专业的客服专员为您对接，为您提供所需的支持。在此期间，如果您有任何具体问题或疑虑，请随时告诉我，我将竭诚为您服务。您的满意是我们的首要目标，我们将竭诚为您带来最佳的服务体验。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "where do i see at what time i can reach customer support",
+    "instruction_cn": "您可以在什么时间联系客服支持？",
+    "response_en": "I appreciate your inquiry! To find the operating hours for our customer support team and know when you can reach them, you can visit our website and look for the \"Contact Us\" page. There, you will find the relevant information about our customer support hours. If you have any other questions or concerns, please feel free to let me know. I'm here to assist you!",
+    "response_cn": "感谢您的咨询！如需了解我们客服团队的工作时间以及何时可以联系到他们，您可以访问我们的网站并查看\"联系我们\"页面。在那里，您将找到有关我们客服工作时间的相关信息。如果您还有其他问题或疑虑，请随时告诉我。我随时为您提供帮助！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I want to check at what time customer support available is",
+    "instruction_cn": "我想查询一下客服的在线时间。",
+    "response_en": "Thank you for reaching out! I completely understand your need to check the operating hours when our customer support team is available. Our team is ready to assist you during {{Customer Support Hours}}. Please don't hesitate to reach out if you have any other questions or concerns. How else may I assist you today?",
+    "response_cn": "感谢您联系我们！我完全理解您想了解我们客服团队的营业时间。我们的客服团队在{{Customer Support Hours}}期间随时准备为您提供帮助。如果您有任何其他问题或疑虑，请随时联系我们。请问今天还有什么我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "what do i have to do to contact an agwnt",
+    "instruction_cn": "我需要做什么才能联系到客服专员？",
+    "response_en": "We value your outreach! I'm in tune with the fact that you are unsure about the steps to contact a human agent. Rest assured, I'm here to guide you. To get in touch with one of our dedicated agents, you can follow these easy steps:\n\n1. Visit our website at {{Website URL}} and go to the Contact Us page.\n2. Look for the \"Contact\" or \"Support\" section on the website's homepage.\n3. Click on the \"Contact\" or \"Support\" link to access the contact options.\n4. You will find various contact methods such as email, phone, or chat.\n5. Choose your preferred method of contact and provide the necessary details as prompted.\n6. If you select phone support, dial our customer support line at {{Customer Support Phone Number}} and follow the instructions provided.\n\nPlease note that our customer support hours are {{Customer Support Hours}}, so it's best to contact us during that time for immediate assistance. If you opt for email or chat support, our agents will reply as soon as possible.\n\nI hope these steps help you connect with a human agent effectively. If you need any further assistance, please let me know. We're here to help you every step of the way!",
+    "response_cn": "感谢您的关注！我理解您对接入人工客服的流程不太确定，请放心，我来为您指引方向。要联系我们的专属客服人员，您可以按照以下简单步骤操作：\n\n1. 访问我们的官网 {{Website URL}}，进入\"联系我们\"页面。\n2. 在网站首页找到\"联系\"或\"支持\"板块。\n3. 点击\"联系\"或\"支持\"链接，进入联系方式页面。\n4. 您将看到多种联系方式，包括邮件、电话或在线聊天。\n5. 选择您偏好的联系方式，并根据提示提供必要信息。\n6. 如果选择电话支持，请拨打我们的客服热线 {{Customer Support Phone Number}}，按照语音提示操作即可。\n\n请注意，我们的客服服务时间为 {{Customer Support Hours}}，建议在此期间联系我们以获得即时帮助。如果您选择邮件或在线聊天支持，我们的客服人员会尽快回复。\n\n希望这些步骤能帮助您顺利联系到人工客服。如果您还需要其他帮助，请随时告诉我。我们随时为您提供支持！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I want to see at what time I can call customer assistance",
+    "instruction_cn": "我想了解客服热线的可拨打时间。",
+    "response_en": "We're listening! I'm keyed into the fact that you would like to know the hours when you can contact our customer assistance. Our dedicated team is available during {{Customer Support Hours}}. You can reach us during these hours for any inquiries or concerns you may have. Is there anything else I can assist you with?",
+    "response_cn": "我们正在倾听！我了解到您希望知道联系我们的客户协助的时间。我们的专业团队在{{Customer Support Hours}}期间为您提供服务。在此期间，您可以联系我们，提出任何疑问或关注的问题。还有什么我可以协助您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "where can I see at what time I can reach customer support?",
+    "instruction_cn": "您可以在哪里查看客服的在线时间？",
+    "response_en": "Thank you for contacting us! I completely understand your need to know the operating hours of our customer support team. To find the specific hours when you can reach customer support, I recommend visiting our website. On our website, you can navigate to the \"Contact Us\" page or the \"Support\" section, where you will likely find the information you need. If you have any other questions or need further assistance, please feel free to let me know.",
+    "response_cn": "感谢您联系我们！我非常理解您想了解我们客服团队的工作时间。为了查询您可以联系到客服的具体时间，建议您访问我们的网站。在网站上，您可以前往\"联系我们\"页面或\"支持\"部分，在那里您很可能会找到所需的信息。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "you are not being helpful, can I speak to an operator?",
+    "instruction_cn": "您这样让我感到有些为难，请问我可以转接人工客服吗？",
+    "response_en": "Thank you for reaching out! I'm sorry to hear that you're not finding our assistance helpful. Your frustration is completely understandable, and I apologize for any inconvenience caused. Rest assured, I'm here to assist you. Let me connect you to one of our dedicated operators who will be able to provide you with the support you need. Please stay with me for just a moment while I transfer you to a live agent.",
+    "response_cn": "感谢您联系我们！很抱歉我们的帮助未能让您满意。您的沮丧完全可以理解，对于由此带来的不便，我深表歉意。请放心，我会为您提供协助。让我为您转接一位专属客服人员，他们将为您提供所需的支持。请稍等片刻，我将为您转接人工客服。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "can I talk with a bloody agent?",
+    "instruction_cn": "我可以和人工客服通话吗？",
+    "response_en": "Your reach-out is appreciated! I'm sensing that you're looking to speak with an agent and require assistance. Our dedicated team of agents is here to support you. Please allow me a moment to connect you with one of our expert agents who will be able to assist you further.",
+    "response_cn": "感谢您的联系！我注意到您希望与客服专员沟通并获得帮助。我们的专业客服团队随时为您提供支持。请稍等片刻，我将为您转接一位专业的客服专员，他将能够为您提供进一步的协助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "tell me what hours I can get in touch with customer service",
+    "instruction_cn": "请问客服的工作时间是什么时候？",
+    "response_en": "Thank you for contacting! I certainly recognize that you would like to know the operating hours of our customer service team. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach out to us through various channels like phone, email, or live chat. We're here to provide the support you need. Please let me know if there's anything else I can assist you with.",
+    "response_cn": "感谢您的联系！我非常理解您希望了解我们客服团队的运营时间。我们的专业团队在{{Customer Support Hours}}期间随时为您提供服务。您可以通过电话、电子邮件或在线聊天等多种渠道联系我们。我们随时准备为您提供所需的支持。请问还有什么我可以为您效劳的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I want assistance to talk with an agent",
+    "instruction_cn": "我需要与客服代表交谈。",
+    "response_en": "Thanks for getting in touch! I grasp that you need assistance to talk with an agent. Our team is here to help you. To connect you with the right agent, may I please know the purpose of your call? Understanding the reason for your call will allow us to provide you with the most accurate and efficient support. Take a moment to share the details with me, and I'll ensure that you're connected to the appropriate person who can assist you further. Your satisfaction is our top priority, and we're committed to resolving your query as quickly as possible.",
+    "response_cn": "感谢您的联系！我理解您需要与客服人员沟通。我们的团队随时为您提供帮助。为了为您安排合适的客服人员，请问您来电的目的是什么？了解您的来电原因将使我们能够为您提供最准确、最高效的支持。请花一点时间与我分享相关信息，我将确保为您转接至能够进一步协助您的专业人员。您的满意是我们的首要任务，我们将致力于尽快解决您的问题。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I try to chat with somebody",
+    "instruction_cn": "我想找人聊天。",
+    "response_en": "Always good to connect! I'm attuned to the fact that you've been attempting to chat with someone and haven't been successful so far. I apologize for any inconvenience caused. Rest assured, I'm here to assist you and connect you with a representative who can provide the personalized support you need. Please bear with me for a moment while I transfer you to a live agent.",
+    "response_cn": "很高兴与您联系！我注意到您之前一直在尝试与客服人员沟通，但尚未成功。对此带来的不便，我深表歉意。请放心，我会全力协助您，并为您转接一位专属客服代表，为您提供所需的个性化支持。请您稍等片刻，我这就为您转接在线客服。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "help checking what hours I can call customer service",
+    "instruction_cn": "您好，我想查询客服的营业时间。",
+    "response_en": "I hear you! I'm following you that you are looking to find out the operating hours during which you can call our customer service. I'm here to assist you with that information!\n\nOur customer service team is available during {{Customer Support Hours}}. They will be more than happy to assist you with any questions or concerns you may have. If you need any further assistance or have any other inquiries, feel free to let me know.",
+    "response_cn": "我明白您的需求！我了解到您是想咨询我们客服热线的营业时间。我很乐意为您提供这方面的信息！\n\n我们的客服团队在 {{Customer Support Hours}} 期间为您服务。他们将非常乐意为您解答任何疑问或处理您的问题。如果您还需要其他帮助或有任何其他问题，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "Ineed to contact an agent",
+    "instruction_cn": "我需要联系客服专员",
+    "response_en": "We appreciate your message! It's clear to me that you need to contact an agent. Your request is important to us, and I'm here to assist you. To connect you with the right person and provide you with the best support, could you please provide me with more details about the reason for your inquiry? This will help us streamline the process and ensure that your concerns are efficiently addressed. Thank you for your cooperation, and I look forward to assisting you further.",
+    "response_cn": "感谢您的留言！我清楚您需要联系人工客服。您的请求对我们很重要，我很乐意为您提供帮助。为了为您安排合适的客服人员并提供最佳支持，能否请您详细说明一下咨询的具体原因？这将有助于我们简化流程，确保您的问题得到高效处理。感谢您的配合，期待为您提供进一步帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "is it possible to contact an operator",
+    "instruction_cn": "请问是否可以联系一位客服人员？",
+    "response_en": "We're here to help! I take note that you would like to know if it is possible to contact an operator. Absolutely! We have a team of dedicated agents who are ready to assist you. Please allow me a moment to connect you with one of our human representatives who will be able to address your query personally. Stay with me for just a moment, and I'll ensure you're connected to the right person who can provide the support you need.",
+    "response_cn": "我们随时为您服务！我注意到您想了解是否可以联系人工客服。当然可以！我们有一支专业的客服团队随时准备为您提供帮助。请稍等片刻，我将为您转接一位人工客服代表，他们将亲自为您解答问题。请稍候片刻，我会确保您与合适的客服人员取得联系，为您提供所需的支持。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I don't know how I could speak to a human agent",
+    "instruction_cn": "我不知道如何联系人工客服。",
+    "response_en": "Grateful for your contact! I get the sense that you are not sure how to speak to a human agent. I'm here to assist you with that. To connect with a human agent, you can try the following options:\n\n1. Look for a \"Contact Us\" or \"Support\" link on our website. This will usually lead you to a page where you can find different channels to contact our customer support team, including phone numbers, live chat, or email.\n\n2. Check if there is a customer support number provided on your purchase receipt or any previous communication you had with our company.\n\n3. If you are using a mobile app or software, explore the settings or the help section within the app to find contact options.\n\n4. Reach out to us through our social media channels. Many companies offer customer support through platforms like Twitter or Facebook.\n\n5. If you cannot find any of the above options, please provide me with more details about your query, and I will do my best to assist you further.\n\nRemember, we are here to help, and speaking to a human agent is important to us. We appreciate your patience and value your trust.",
+    "response_cn": "感谢您的联系！我感觉到您可能不太清楚如何与人工客服沟通。我来为您提供帮助。要联系人工客服，您可以尝试以下几种方式：\n\n1. 在我们的网站上查找\"联系我们\"或\"支持\"链接。这通常会引导您进入一个页面，在那里您可以找到与我们客服团队联系的不同渠道，包括电话、在线聊天或电子邮件。\n\n2. 检查您的购买凭证或之前与公司的任何沟通记录中是否提供了客服电话。\n\n3. 如果您使用的是移动应用程序或软件，请在应用程序的设置或帮助部分中查找联系选项。\n\n4. 通过我们的社交媒体渠道联系我们。许多公司通过Twitter或Facebook等平台提供客户支持。\n\n5. 如果您找不到上述任何选项，请提供更多关于您的问题的详细信息，我将尽力为您提供进一步的帮助。\n\n请记住，我们随时为您提供帮助，与我们的人工客服沟通对我们来说非常重要。感谢您的耐心，我们珍视您的信任。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "help me talk to a agent",
+    "instruction_cn": "好的，我来帮您转接人工客服。",
+    "response_en": "We're here for you! I'm aware that you need assistance in speaking with an agent. Rest assured, I'm here to help you with that. To connect you with the right person, could you please provide me with some more information about your query or the specific department you wish to speak with? This additional information will allow me to expedite the process and ensure that you are connected to the most suitable agent who can assist you further. Take a moment to provide any relevant details, and I'll make sure you're connected promptly.",
+    "response_cn": "我们随时为您服务！我了解到您希望与客服专员进行沟通。请放心，我会全力协助您完成对接。为了为您安排最合适的服务人员，能否请您提供更多关于您咨询内容或希望联系的具体部门的相关信息？这些额外信息将帮助我加快处理流程，确保为您匹配到最合适的客服专员，以便为您提供更进一步的帮助。请您花一点时间提供相关细节，我会确保您尽快得到对接。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "assistance checking what hours I can call customer support",
+    "instruction_cn": "我想查询客服热线的可拨打时间。",
+    "response_en": "It's great to hear from you! I can see that you need assistance in checking the operating hours when you can call our customer support team. Our customer support is available during {{Customer Support Hours}}. You can easily reach out to our team at {{Customer Support Phone Number}} or through the Live Chat option on our website at {{Website URL}}. Please feel free to let me know if there's anything else I can help you with!",
+    "response_cn": "很高兴收到您的来信！我注意到您需要了解联系客服团队的工作时间。我们的客户服务时间为{{Customer Support Hours}}。您可以通过电话{{Customer Support Phone Number}}联系我们，也可以访问我们的网站{{Website URL}}使用在线客服。如有其他需要帮助的地方，请随时告诉我！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "help me checking at what time i can reach customer support",
+    "instruction_cn": "我来帮您查询客服支持的可联系时间。",
+    "response_en": "Happy to hear from you! I truly understand that you need assistance in checking the availability of our customer support team. Our customer support is available from {{Customer Support Hours}}. You can reach us during these hours for any inquiries or concerns you may have. How else can I assist you today?",
+    "response_cn": "很高兴收到您的来信！我非常理解您需要了解我们客服团队的可用时间。我们的客服服务时间为{{Customer Support Hours}}。在此期间，您可以联系我们咨询任何问题或疑虑。请问今天还有什么我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "i need assistance to speak with a human agent",
+    "instruction_cn": "我需要转接人工客服",
+    "response_en": "We're here to help! I take note that you need assistance and would like to speak with a human agent. I'm here to help! To connect you with one of our helpful representatives, can you please provide me with some additional information about the nature of your request? This will enable me to ensure that the agent who assists you is fully prepared to address your specific needs. Thank you for your cooperation, and please take a moment to share your concerns. While you do, rest assured that I am working diligently to find the best available agent for you. Your satisfaction is our priority, and we're committed to providing you with the support you require.",
+    "response_cn": "我们随时为您提供帮助！我注意到您需要人工客服协助。为了为您转接我们的客服代表，请您提供更多关于您需求的具体信息，以便我们为您安排最合适的客服人员。感谢您的配合，请稍作说明。在此期间，我们将尽快为您安排最合适的客服人员。您的满意是我们的首要目标，我们将竭诚为您提供所需的支持。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "show me at what time customer assistance available is",
+    "instruction_cn": "请问客服什么时候可以为您提供帮助？",
+    "response_en": "We're here for you! I'm aware that you are looking for the hours when our customer assistance is available. Our dedicated team is here to assist you during {{Customer Support Hours}}. You can reach out to us through various channels such as phone, email, or live chat. We are committed to providing you with prompt and efficient support. Is there anything else I can assist you with?",
+    "response_cn": "我们随时为您服务！我注意到您正在查询我们客户服务的时间。我们的专业团队在{{Customer Support Hours}}期间为您提供帮助。您可以通过电话、电子邮件或在线聊天等多种渠道联系我们。我们致力于为您提供及时高效的支持。还有其他我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "i have to speak ot customer support how could i do it",
+    "instruction_cn": "我需要联系客服，我该怎么做？",
+    "response_en": "Your reach-out is appreciated! I'm sensing that you need to speak to our customer support team. We are here to assist you. To connect with our customer support, you can reach us during our business hours at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team is dedicated to providing you with the help you need. Please let me know if there's anything else I can assist you with.",
+    "response_cn": "感谢您的联系！我理解您需要与我们的客服团队沟通。我们随时为您提供帮助。您可以通过以下方式联系我们的客服：在工作时间拨打客服电话 {{Customer Support Phone Number}}，或通过我们网站 {{Website URL}} 的在线客服。我们的团队致力于为您提供所需的帮助。请问还有其他我可以协助您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I do not know what to do to chat with an operator",
+    "instruction_cn": "我不知道该如何与客服人员聊天。",
+    "response_en": "It's great to hear from you! I can see that you're unsure of what steps to take to chat with an operator. No worries, I'm here to guide you through the process. To chat with an operator, you can visit our website and look for the live chat option, typically located in the bottom corner of the page. If you're unable to find it, you can also try searching for \"live chat\" in the search bar on our website. Our team of dedicated operators is ready to assist you with any questions or concerns you may have. Just a few clicks away, and you'll be connected with a knowledgeable human representative. Feel free to explore the website in the meantime, and remember, I'm here to help if you have any further questions.",
+    "response_cn": "很高兴收到您的来信！我看到您对如何联系在线客服有些不确定，别担心，我来为您详细说明。要联系在线客服，您可以访问我们的网站，通常在页面右下角可以找到在线客服选项。如果您找不到，也可以尝试在网站搜索栏中输入\"在线客服\"进行查找。我们专业的客服团队随时准备为您解答任何问题或疑虑。只需点击几下，您就能与专业的客服代表取得联系。在此期间，您可以先浏览我们的网站，如果您还有其他问题，我随时为您提供帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "help to check what hours I can reach customer service",
+    "instruction_cn": "请帮我查询客服的服务时间。",
+    "response_en": "Your input is valuable! I'm picking up that you need assistance in checking the hours when you can contact our customer service team. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach out to them via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. If you have any other questions or concerns, feel free to let me know. I'm here to help!",
+    "response_cn": "您的反馈非常有价值！我了解到您需要了解联系客服团队的时间。我们的专业客服团队在{{Customer Support Hours}}期间为您提供服务。您可以通过电话{{Customer Support Phone Number}}或访问我们的网站{{Website URL}}上的在线客服与我们联系。如果您还有其他问题或疑虑，请随时告诉我，我随时为您提供帮助！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I don't know how I can talk with customer support",
+    "instruction_cn": "我不知道该如何联系客服。",
+    "response_en": "We appreciate your message! It's clear to me that you're unsure about how to reach our customer support team. Don't worry, I'm here to help you with that. You can easily connect with our customer support by calling {{Customer Support Phone Number}} or by visiting our website and initiating a live chat with one of our agents. They are available during our {{Customer Support Hours}} to assist you with any questions or concerns you may have. Feel free to reach out if you need further assistance.",
+    "response_cn": "感谢您的留言！我理解您不太清楚如何联系我们的客服团队，不用担心，我很乐意为您提供帮助。您可以通过拨打{{Customer Support Phone Number}}联系我们的客服，或者访问我们的网站，与我们的在线客服进行实时对话。我们的客服团队在{{Customer Support Hours}}期间随时为您解答任何疑问或问题。如果您需要进一步的帮助，请随时联系我们。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "i need help to see what hours customer support azvailable is",
+    "instruction_cn": "我需要查看客服支持的工作时间。",
+    "response_en": "Thanks for getting in touch! I grasp that you need assistance in checking the operating hours of our customer support. Our customer support team is available to assist you during {{Customer Support Hours}}. However, please note that operating hours may vary depending on your location. For more specific information about our customer support availability, I recommend visiting our website or contacting our customer support directly. Is there anything else I can assist you with?",
+    "response_cn": "感谢您联系我们！我理解您需要了解我们客服的营业时间。我们的客服团队在{{Customer Support Hours}}期间为您提供服务。但请注意，营业时间可能会因您所在地区的不同而有所不同。如需了解更具体的客服服务时间信息，建议您访问我们的网站或直接联系我们的客服团队。请问还有什么我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "what is your customer assistance number?",
+    "instruction_cn": "请问你们的客服电话是多少？",
+    "response_en": "Honored to assist! I'm clued in that you would like to know our customer assistance number. Our dedicated team can be reached at {{Customer Support Phone Number}}. They are available during {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. Feel free to reach out to them for any support needed. Is there anything else I can assist you with?",
+    "response_cn": "很荣幸为您服务！我了解到您想了解我们的客服热线。我们的专业团队可通过{{Customer Support Phone Number}}联系。他们在{{Customer Support Hours}}期间为您提供任何咨询或问题解答。如有需要，请随时联系我们。还有其他我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I need to call customer support, how do I do it?",
+    "instruction_cn": "我需要联系客服，该怎么操作？",
+    "response_en": "Happy to hear from you! I truly understand that you're looking to contact our customer support team by phone. To reach our customer support representative, you can dial our toll-free number at {{Customer Support Phone Number}}. Our dedicated team is available during {{Customer Support Hours}} to assist you. If you have any other questions or need further assistance, please feel free to let me know.",
+    "response_cn": "很高兴收到您的来信！我完全理解您希望通过电话联系我们的客服团队。您可以拨打我们的免费客服电话 {{Customer Support Phone Number}} 联系我们的客服代表。我们的专业团队在 {{Customer Support Hours}} 期间为您提供服务。如果您还有其他问题或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "where could I see what hours I can reach customer service?",
+    "instruction_cn": "您可以在哪里查看客服的服务时间？",
+    "response_en": "We're here for you! I'm aware that you are looking for information about the hours when you can reach our customer service team. To find the contact hours, I recommend visiting our website or checking the contact page. The contact page usually contains all the relevant information, including the hours when our customer service is available for assistance. If you are unable to find the information on the website, I would be more than happy to provide you with the contact hours. Please let me know if there's anything else I can assist you with!",
+    "response_cn": "我们随时为您服务！我了解到您正在寻找关于我们客服团队的服务时间信息。为了查询联系时间，建议您访问我们的网站或查看联系页面。联系页面通常包含所有相关信息，包括我们的客服可提供服务的时间。如果您在网站上找不到相关信息，我非常乐意为您提供联系时间。请问还有什么其他我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "how do I speak with a live agent?",
+    "instruction_cn": "如何与在线客服人员交谈？",
+    "response_en": "Thank you for contacting! I certainly recognize that you would like to speak with a live agent for assistance. Our team of knowledgeable customer service representatives is here to help you. To speak with a live agent, you can reach out to our dedicated customer support hotline at {{Customer Support Phone Number}}. Our agents are available {{Customer Support Hours}} and will be more than happy to address your concerns and provide you with the assistance you need. You can also visit our website at {{Website URL}} and engage with our live chat support feature for immediate assistance. Feel free to connect with us either through the hotline or the live chat, and we'll make sure to provide you with the guidance and support you require. We are committed to offering prompt and personalized assistance to ensure your satisfaction.",
+    "response_cn": "感谢您联系我们！我完全理解您希望与客服专员通话以获得帮助。我们专业的客服团队随时为您服务。如需与客服专员通话，您可以拨打我们的专属客服热线：{{Customer Support Phone Number}}。我们的客服专员在{{Customer Support Hours}}期间在线，将非常乐意为您解答问题并提供所需的帮助。您也可以访问我们的网站{{Website URL}}，使用在线客服聊天功能获得即时帮助。您可以通过热线电话或在线客服与我们联系，我们将确保为您提供所需的指导和支持。我们致力于提供及时、个性化的帮助，以确保您的满意。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "help talking with someone",
+    "instruction_cn": "我需要与某人交谈",
+    "response_en": "Thank you for contacting! I certainly recognize that you need assistance and are looking for someone to talk to. Our team of dedicated representatives is here to help and provide you with the support you need. Please stay with me for a moment while I connect you with a live agent who will be able to assist you further. We appreciate your patience and are committed to ensuring a positive and satisfactory experience for you.",
+    "response_cn": "感谢您联系我们！我完全理解您需要帮助并希望有人为您解答。我们专业的客服团队随时准备为您提供所需的支持。请您稍等片刻，我将为您转接一位在线客服，他将进一步为您提供帮助。感谢您的耐心等待，我们致力于为您带来积极且满意的体验。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "how do I check what hours I can call customer assistance ?",
+    "instruction_cn": "如何查询客服热线的营业时间？",
+    "response_en": "Always good to connect! I'm attuned to the fact that you would like to know the hours during which you can contact our customer assistance. To check our customer service hours, you can visit our website at {{Website URL}} and look for the \"Contact Us\" section. There, you will find our customer service hours of operation. If you have any further questions or need any assistance, please feel free to let me know.",
+    "response_cn": "很高兴与您联系！我了解到您希望知道我们的客服联系方式时间。要查看我们的客服服务时间，您可以访问我们的网站 {{Website URL}}，并查找\"联系我们\"部分。在那里，您将找到我们的客服服务时间。如果您有任何其他问题或需要任何帮助，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I want to see at what time I can contact customer assistance",
+    "instruction_cn": "我想查看我可以联系客服的时间。",
+    "response_en": "Your message means a lot! I'm aligned with the idea that you would like to know the available contact hours for our customer assistance. Our customer service team is available to assist you during {{Customer Support Hours}}. Please let me know if there's anything else I can assist you with.",
+    "response_cn": "您的留言意义重大！我理解您希望了解我们客户服务的可用联系时间。我们的客户服务团队在{{Customer Support Hours}}期间为您提供帮助。如果还有其他需要协助的地方，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "how can i speakto customer assistance",
+    "instruction_cn": "如何联系客服？",
+    "response_en": "We appreciate your message! It's clear to me that you would like to know how to speak to our customer assistance team. To connect with our customer assistance, you can reach out through our dedicated helpline at {{Customer Support Phone Number}} or you can also engage in a live chat session on our website at {{Website URL}}. Our team is available during {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. Please feel free to reach out if you need further assistance or have any other questions.",
+    "response_cn": "感谢您的留言！我了解到您希望知道如何联系我们的客服团队。您可以通过我们的专属客服热线 {{Customer Support Phone Number}} 与我们取得联系，也可以在我们的网站 {{Website URL}} 上进行在线实时对话。我们的客服团队在 {{Customer Support Hours}} 期间随时为您解答任何疑问或问题。如果您需要进一步的帮助或有任何其他问题，请随时联系我们。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I need help to call damn customer support",
+    "instruction_cn": "我需要帮助联系客服。",
+    "response_en": "I hear you! I'm following you that you're looking for assistance in calling our customer support. We apologize for any frustration you may have experienced. Rest assured, we are here to help you. To call our customer support, please dial our {{Customer Support Phone Number}}. Our dedicated team is ready to assist you with any concerns or inquiries you may have. Feel free to reach out to us, and we'll be more than happy to provide the support you need.",
+    "response_cn": "我理解您的情况！我注意到您正在寻求联系我们的客服支持。对于您所经历的任何不便，我们深表歉意。请放心，我们随时为您提供帮助。如需致电我们的客服支持，请拨打{{Customer Support Phone Number}}。我们的专业团队已准备好为您解答任何问题或咨询。请随时联系我们，我们将非常乐意为您提供所需的支持。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "anybody available in customer support",
+    "instruction_cn": "请问客服现在有人在线吗？",
+    "response_en": "Happy to hear from you! I truly understand that you are looking for assistance from our customer support team. Rest assured, we have dedicated professionals available to help you. Our customer support team is ready to assist you during {{Customer Support Hours}}. Feel free to reach out to us with any questions or concerns you may have. How can I assist you further today?",
+    "response_cn": "很高兴收到您的来信！我完全理解您正在寻求我们客服团队的帮助。请放心，我们有专业的客服人员随时为您提供服务。我们的客服团队在{{Customer Support Hours}}期间随时准备为您提供帮助。如有任何疑问或顾虑，欢迎随时联系我们。请问今天还有什么我可以为您效劳的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I am trying to chat with somebody",
+    "instruction_cn": "我正在尝试与某人聊天。",
+    "response_en": "Thank you for reaching out! I completely understand that you're trying to chat with someone. Our team is here to assist you in any way we can. Let me swiftly connect you with a live chat agent who will be more than happy to help you further. Please stay with me for just a moment while I make the arrangements for you.",
+    "response_cn": "感谢您的联系！我完全理解您正在尝试与我们的客服人员交谈。我们的团队随时准备为您提供各种帮助。让我立即为您转接一位在线客服，他将非常乐意为您提供进一步的帮助。请稍等片刻，我马上为您安排。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "directing to operator",
+    "instruction_cn": "正在为您转接人工客服，请稍候。",
+    "response_en": "I see what you mean! I'm on the same page that you would like to be directed to an operator. Rest assured, I'm here to help. Allow me to quickly connect you with one of our experienced operators who will be able to assist you further. Just a moment, please.",
+    "response_cn": "我明白您的意思！我理解您希望转接人工客服。请放心，我很乐意为您转接。我马上为您联系一位经验丰富的客服专员来为您提供进一步的帮助。请稍等片刻。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "how to talk with an operator?",
+    "instruction_cn": "如何与客服专员通话？",
+    "response_en": "Thank you for reaching out! I completely understand that you're looking to speak with an operator. To quickly assist you, we have various options available. You can reach out to our customer support team over the phone at {{Customer Support Phone Number}}, where one of our operators will be happy to help you. Alternatively, you can visit our website at {{Website URL}} and click on the \"Live Chat\" option to connect with a live operator in real-time. Please let me know if you need any further assistance. We're here to help!",
+    "response_cn": "感谢您联系我们！我非常理解您希望与客服代表通话。为了快速为您提供帮助，我们有多种联系方式。您可以拨打我们的客服电话 {{Customer Support Phone Number}}，我们的客服代表将很乐意为您提供帮助。或者，您也可以访问我们的网站 {{Website URL}}，点击\"在线聊天\"选项，即可与实时在线的客服代表取得联系。如果您需要进一步的帮助，请随时告诉我们。我们随时为您服务！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "how can I talk to customer assistance?",
+    "instruction_cn": "如何联系客服？",
+    "response_en": "We value your outreach! I'm in tune with the fact that you need assistance in speaking with our customer assistance team. To talk to our customer assistance, you can reach out to them during our designated {{Customer Support Hours}}. Our team is dedicated to providing you with the support you need. If you have any other questions or concerns, feel free to let me know, and I'll be happy to assist you further.",
+    "response_cn": "感谢您的关注！我理解您需要我们的客服团队提供帮助。您可以在我们的{{Customer Support Hours}}联系客服团队。我们的团队致力于为您提供所需的支持。如果您还有其他问题或疑虑，请随时告诉我，我很乐意为您提供进一步的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "where do i see what hours i can contact customer support",
+    "instruction_cn": "您可以在哪里查看联系客服的时间？",
+    "response_en": "Thank you for contacting! I certainly recognize that you would like to know where you can find the operating hours when you can contact our customer support team. To view the customer support hours, kindly visit our website at {{Website URL}} and navigate to the \"Contact Us\" or \"Support\" section. There, you will find the specific hours during which our dedicated team is available to assist you. If you have any other questions or require further assistance, please don't hesitate to let me know.",
+    "response_cn": "感谢您的联系我们！我非常理解您希望了解联系客服团队的具体时间。要查看客服服务时间，请访问我们的网站 {{Website URL}}，然后导航至\"联系我们\"或\"支持\"页面。在那里，您将找到我们专业团队为您提供服务的具体时间。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "how do i speak with an agent",
+    "instruction_cn": "如何与客服代表通话？",
+    "response_en": "Thank you for reaching out! I completely understand your need to speak with an agent. Let me guide you through the steps to connect with someone who can assist you further. Firstly, please check our website for any available customer support options, such as live chat or a contact form. Alternatively, you can reach out to our customer support hotline at {{Customer Support Phone Number}}. Our dedicated team of agents is available to help you with any questions or concerns you may have. We appreciate your patience, and we're here to provide you with the assistance you need.",
+    "response_cn": "感谢您联系我们！我完全理解您希望与客服人员交谈的需求。让我为您介绍如何联系能够进一步协助您的人员。首先，请查看我们的网站，了解可用的客户支持选项，例如在线聊天或联系表单。或者，您可以拨打我们的客户服务热线{{Customer Support Phone Number}}。我们的专业客服团队随时准备为您解答任何问题或疑虑。感谢您的耐心，我们将竭诚为您提供所需的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "do you have a toll-free customer assistance phone no?",
+    "instruction_cn": "请问您有免费客服电话吗？",
+    "response_en": "I see what you mean! I'm on the same page that you are looking for a toll-free number to contact our customer assistance team. While we do not have a toll-free number at the moment, our customer support is available to assist you through other channels such as live chat on our website at {{Website URL}} or via email at {{Customer Support Email}}. Please let me know if there's anything else I can help you with.",
+    "response_cn": "我理解您的意思！我完全明白您希望找到一个免费客服电话来联系我们的客服团队。虽然我们目前没有免费客服电话，但您可以通过其他渠道联系我们的客服支持，例如通过我们网站 {{Website URL}} 上的在线客服，或者通过电子邮件 {{Customer Support Email}}。请问还有什么我可以帮助您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I want help calling customer support",
+    "instruction_cn": "我需要帮助联系客服支持。",
+    "response_en": "Happy to get your message to us for assistance with calling our customer support. I'm here to guide you through the process and provide you with the necessary information. To connect with our customer support team, you can dial our dedicated helpline at {{Customer Support Phone Number}} during our operating hours. Alternatively, you can also reach out to us through the Live Chat feature on our website at {{Website URL}}. We are committed to providing you with the support you need. Please let me know if there's anything else I can assist you with.",
+    "response_cn": "很高兴收到您的消息，寻求我们的客服支持。我将为您提供必要的指引和信息。要联系我们的客服团队，您可以在我们的营业时间内拨打专属热线 {{Customer Support Phone Number}}。或者，您也可以通过我们网站 {{Website URL}} 上的在线客服功能与我们联系。我们致力于为您提供所需的支持。如果还有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "how to speak to a live agent",
+    "instruction_cn": "如何与在线客服人员交谈",
+    "response_en": "I see what you mean! I'm on the same page that you would like to know how to speak to a live agent. We value your time and the importance of connecting with a real person. To do so, please follow these steps:\n\n1. On our website, navigate to the \"Contact Us\" page.\n2. Select the option for \"Customer Support\" or \"Contact Support.\"\n3. Fill out the required information, such as your name, email, and the reason for contacting us.\n4. Look for the \"Chat Now\" or \"Call Now\" button, depending on your preferred communication method.\n5. If you choose the \"Chat Now\" option, you will be connected to one of our live agents who can assist you promptly.\n6. If you prefer to speak directly, select the \"Call Now\" option and our customer service team will be happy to assist you over the phone.\n\nPlease note that our live agents are available during business hours, which are {{Customer Support Hours}}. If you contact us outside of these hours, we have a 24/7 customer support team that can help you via email or chat.\n\nWe hope this information helps you connect with a live agent quickly. If you have any further questions or need assistance, please don't hesitate to ask. We're here to provide personalized support and ensure a positive customer experience.",
+    "response_cn": "我明白您的意思！我完全理解您希望了解如何与真人客服进行沟通。我们非常重视您的时间以及与您联系真实客服人员的重要性。为此，请按照以下步骤操作：\n\n1. 在我们的网站上，导航至\"联系我们\"页面。\n2. 选择\"客户支持\"或\"联系支持\"选项。\n3. 填写所需信息，例如您的姓名、电子邮件以及联系原因。\n4. 找到\"立即聊天\"或\"立即致电\"按钮，根据您偏好的沟通方式选择。\n5. 如果您选择\"立即聊天\"选项，您将与我们的其中一位真人客服人员联系，他们将及时为您提供帮助。\n6. 如果您更倾向于直接通话，请选择\"立即致电\"选项，我们的客户服务团队将很乐意通过电话为您提供帮助。\n\n请注意，我们的真人客服人员的工作时间为{{Customer Support Hours}}。如果您在这些时间之外联系我们，我们有全天候24/7的客户支持团队，可以通过电子邮件或在线聊天为您提供帮助。\n\n我们希望这些信息能帮助您快速与真人客服人员取得联系。如果您有任何其他问题或需要帮助，请随时提问。我们在这里为您提供个性化的支持，确保您获得积极的客户体验。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "ii have got to chat with an operator",
+    "instruction_cn": "我需要与客服人员对话。",
+    "response_en": "Thank you for reaching out! I completely understand that you have an urgent need to chat with an operator. Rest assured, I'm here to help you with that. Allow me a moment to connect you to one of our skilled operators who will provide you with the assistance you require. Please stay on the line.",
+    "response_cn": "感谢您联系我们！我非常理解您急需与客服人员沟通的需求。请放心，我会立即为您转接。请稍等片刻，我将为您联系一位专业的客服人员，他将为您提供所需的帮助。请您保持在线，不要挂断。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "need to speak with somebody",
+    "instruction_cn": "需要找个人谈谈",
+    "response_en": "I see what you mean! I'm on the same page that you need to speak with somebody. Your request for personal assistance is highly valued, and we are here to help. Please allow me a moment to connect you with a dedicated human agent who will be able to assist you further.",
+    "response_cn": "我明白您的意思！我也认为您需要与专人沟通。我们非常重视您希望获得人工协助的需求，我们会竭诚为您服务。请稍等片刻，我将为您转接专属客服人员，以便为您提供进一步的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "help me contacting a fucking human agent",
+    "instruction_cn": "很抱歉给您带来不便。我理解您希望与人工客服取得联系，请问有什么具体问题需要帮助吗？",
+    "response_en": "Your reach-out is appreciated! I'm sensing that you need assistance contacting a human agent, and I'm here to help you. I apologize for any frustration or inconvenience you may have experienced. Rest assured that I will do my best to address your concern and connect you with a human agent who can provide the support you need. Please allow me a moment to locate the appropriate representative for you. Your patience is greatly appreciated.",
+    "response_cn": "感谢您的主动联系！我理解您希望获得人工客服的帮助，我会尽力协助您。对于您可能遇到的任何困扰或不便，我深表歉意。请放心，我会尽我所能为您解决问题，并为您转接一位人工客服来提供您所需的支持。请稍等片刻，我正在为您寻找合适的客服代表。感谢您的耐心等待。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "what do i need to do to speak with an assistant",
+    "instruction_cn": "请问我需要做什么才能与客服助理通话？",
+    "response_en": "We're listening! I'm keyed into the fact that you would like to know what steps you need to take to speak with an assistant. To connect with an assistant, you can try the following options:\n\n1. Check if there is a \"Contact Us\" or \"Support\" page on our website. Many businesses provide contact information, such as phone numbers or email addresses, on these pages.\n2. Look for a live chat feature on our website. This allows you to have a real-time conversation with a representative who can assist you.\n3. Reach out to us on social media. Some companies have dedicated support accounts on platforms like Twitter or Facebook, where you can send direct messages or comments for assistance.\n4. Call our customer support hotline. You can find the phone number on our website or in any documentation you received from us.\n\nPlease bear in mind that the exact process may vary depending on the company, so it's always a good idea to visit our website or check any documentation for specific instructions on how to reach an assistant. We are here to help you, so please don't hesitate to let us know if you need any further assistance.",
+    "response_cn": "我们正在倾听您的需求！我了解到您想知道需要采取哪些步骤才能与客服助理取得联系。您可以通过以下方式联系我们：\n\n1. 查看我们网站上的\"联系我们\"或\"支持\"页面。许多企业会在这些页面上提供联系方式，例如电话号码或电子邮件地址。\n2. 寻找我们网站上的在线客服功能。这可以让您与客服代表进行实时对话，获得帮助。\n3. 通过社交媒体联系我们。一些公司在Twitter或Facebook等平台上设有专门的客服账号，您可以发送私信或留言寻求帮助。\n4. 拨打我们的客服热线。您可以在我们网站上或从我们收到的任何文档中找到电话号码。\n\n请注意，具体流程可能因公司而异，因此建议您访问我们网站或查看相关文档，以获取联系客服助理的具体说明。我们随时为您提供帮助，如果您需要进一步的协助，请随时告诉我们。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I want assistance talking with a human agent",
+    "instruction_cn": "我需要与人工客服交谈，以获得帮助。",
+    "response_en": "We're all ears! I'm tuned into the idea that you need assistance in talking with a human agent. Rest assured, I am here to help guide you through the process. To quickly connect you with a representative, please provide me with some additional information about your query or concern. This will enable me to provide you with the best possible support and ensure that you are promptly connected with someone who can assist you further. Thank you for your cooperation, and I appreciate your patience as we work together to resolve your issue.",
+    "response_cn": "我们洗耳恭听！我了解到您需要与人工客服进行沟通。请放心，我会全程协助您完成这一流程。为了快速为您转接客服代表，请提供关于您的问题或疑虑的更多信息。这将使我能够为您提供最优质的支持，并确保您能及时获得进一步的协助。感谢您的配合，也感谢您在我们共同解决问题的过程中所展现的耐心。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I do not know what I have to do to cal customer assistance",
+    "instruction_cn": "我不知道该如何联系客服。",
+    "response_en": "I'm aware that you're unsure about how to reach our customer assistance team. Don't worry, I'm here to guide you through the process. To call customer assistance, you can dial our helpline at {{Customer Support Phone Number}} during our customer support hours. Our dedicated team will be ready to assist you with any inquiries or concerns you may have. If you prefer other options, such as live chat or email, please let me know, and I'll provide you with the necessary information. How else may I be of assistance to you?",
+    "response_cn": "我了解您不确定如何联系我们的客服团队。别担心，我来为您详细介绍。如需致电客服，您可以在我们的客服支持时间内拨打客服热线 {{Customer Support Phone Number}}。我们的专业团队随时准备为您解答任何疑问或处理您的问题。如果您更倾向于其他方式，例如在线聊天或邮件，请告诉我，我会为您提供相应的信息。请问还有什么我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "will you tell me what hours I can call customer service ?",
+    "instruction_cn": "请问客服的工作时间是什么时候？",
+    "response_en": "Your reach-out is appreciated! I'm sensing that you would like to know the hours during which you can call our customer service. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach out to us during those hours, and we will be more than happy to help you with any inquiries or concerns you may have. Is there anything else I can assist you with?",
+    "response_cn": "感谢您的联系！我了解到您想咨询我们的客服热线工作时间。我们的专业客服团队在{{Customer Support Hours}}期间随时为您提供服务。您可以在该时间段联系我们，我们将非常乐意为您解答任何疑问或处理您关心的问题。请问还有其他我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "need help to check whathours i can call customer assistance",
+    "instruction_cn": "需要帮忙查询客服热线的营业时间。",
+    "response_en": "Always good to connect! I'm attuned to the fact that you need assistance in checking the hours when you can reach our customer assistance team. Our customer service is available during {{Customer Support Hours}}. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. If you have any further questions or concerns, please feel free to let me know.",
+    "response_cn": "很高兴与您联系！我了解到您需要查询我们客服团队的联系方式。我们的客户服务时间为{{Customer Support Hours}}。您可以通过电话{{Customer Support Phone Number}}联系我们，或访问我们的官网{{Website URL}}使用在线客服。如有其他问题或疑虑，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "can I see what hours I can reach customer assistance ?",
+    "instruction_cn": "请问客服的工作时间是什么时候？",
+    "response_en": "Thank you for contacting! I certainly recognize that you would like to know the hours when you can reach our customer assistance. Our team is available during {{Customer Support Hours}}. Please feel free to contact us during those hours, and we will be more than happy to assist you. Is there anything else I can assist you with?",
+    "response_cn": "感谢您的联系我们！我非常理解您希望了解我们客服团队的在线服务时间。我们的客服团队在{{Customer Support Hours}}期间为您提供服务。请随时在上述时间段联系我们，我们将非常乐意为您提供帮助。请问还有其他我可以为您协助的事项吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "i need help seeing what hours i csn call customer service",
+    "instruction_cn": "我需要帮您查看客服的营业时间。请问您是想了解我们的客服服务时间吗？我可以帮您查看您可以联系客服的时间段。",
+    "response_en": "It's great to hear from you! I can see that you need assistance in finding out the hours during which you can contact our customer service. Our dedicated team is available to assist you from {{Customer Support Hours}}. Please feel free to reach out during these hours, and we will be more than happy to help you. Is there anything else I can assist you with?",
+    "response_cn": "很高兴收到您的来信！我了解到您需要了解我们的客服服务时间。我们的专业客服团队在 {{Customer Support Hours}} 期间随时为您提供帮助。请随时在此时间段内联系我们，我们将非常乐意为您提供帮助。请问还有什么我可以为您效劳的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "contact a fucking live agent",
+    "instruction_cn": "联系在线客服",
+    "response_en": "We're all ears! I'm tuned into the idea that you are frustrated and need assistance in contacting a live agent. I apologize for any inconvenience caused. Our team of dedicated representatives is here to help you. Please allow me a moment to connect you with a human agent who will be able to address your concerns effectively. Your satisfaction is our priority, and we appreciate your patience and understanding.",
+    "response_cn": "我们随时倾听！我理解您目前感到沮丧，需要协助联系人工客服。对于由此带来的任何不便，我深表歉意。我们专业的客服团队随时为您服务。请稍等片刻，我将为您转接人工客服，他们将能够有效地解决您的问题。您的满意是我们的首要目标，感谢您的耐心与理解。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I want to talk with someone",
+    "instruction_cn": "我想和客服人员交谈。",
+    "response_en": "Thank you for reaching out! I completely understand that you would like to talk with someone. Our dedicated team of experts is here to assist you. To better assist you, could you please provide me with more information about the specific topic or issue you would like to discuss? This way, I can connect you with the right person who will be best equipped to help you. Your insights are valuable and will allow us to provide you with the most comprehensive assistance. While we gather the necessary information, please bear with us. We are committed to finding the best solution for you.",
+    "response_cn": "感谢您联系我们！我完全理解您希望与专人沟通的需求。我们的专业团队随时准备为您提供帮助。为了更好地协助您，能否请您提供更多关于您希望讨论的具体话题或问题的信息？这样，我可以为您联系最合适的人来为您提供最专业的帮助。您的反馈对我们非常重要，将有助于我们为您提供最全面的协助。在我们收集必要信息的过程中，请您稍候。我们致力于为您找到最佳解决方案。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "anyone available at customer assistance",
+    "instruction_cn": "请问客服中心现在有人值班吗？",
+    "response_en": "Thank you for reaching out! I completely understand your need for immediate assistance. Our dedicated customer assistance team is always available to help you. They are ready to assist you during {{Customer Support Hours}}. You can reach out to them via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please don't hesitate to contact them if you have any questions or concerns. How else can I assist you today?",
+    "response_cn": "感谢您联系我们！我完全理解您急需帮助的心情。我们的专业客服团队随时准备为您提供帮助。他们的工作时间为{{Customer Support Hours}}。您可以通过电话{{Customer Support Phone Number}}联系我们，或访问我们的网站{{Website URL}}使用在线客服功能。如有任何疑问或需要帮助，请随时联系我们。请问还有什么我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "i dont know what i need to do to chat with an agent",
+    "instruction_cn": "我不知道需要做什么才能与客服人员聊天。",
+    "response_en": "Thank you for reaching out! I completely understand that you're unsure about what steps to take to chat with an agent. We're here to help guide you through the process. To initiate a chat with an agent, you can usually find a chat icon or button on our website. It might be located in the lower right corner or labeled as \"Chat\" or \"Support.\" Click on the chat icon or button, and you'll be connected to one of our knowledgeable agents who will be more than happy to assist you. If you're having trouble locating the chat option, please let me know, and I'll provide you with more specific instructions. We appreciate your patience and look forward to helping you with your queries!",
+    "response_cn": "感谢您联系我们！我完全理解您不确定如何与客服人员进行交流。我们很乐意为您提供指导。要发起与客服的聊天，您通常可以在我们的网站上找到聊天图标或按钮。它可能位于右下角，或标注为\"聊天\"或\"支持\"。点击聊天图标或按钮后，您将与我们的一位专业客服人员取得联系，他们将非常乐意为您提供帮助。如果您在寻找聊天选项时遇到困难，请告诉我，我会为您提供更具体的操作指引。感谢您的耐心，期待为您解答问题！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "help to pseak to customer support",
+    "instruction_cn": "Here is the translation:\n\n帮助联系客服",
+    "response_en": "We're listening! I'm keyed into the fact that you need assistance in speaking to our customer support team. We strive to provide efficient and personalized support to our valued customers. To connect with our customer support, you can reach out to them during our dedicated {{Customer Support Hours}}. Our team is here to assist you with any questions or concerns you may have. Please don't hesitate to let me know how I can help you further.",
+    "response_cn": "我们正在倾听！我注意到您需要联系我们的客服团队。我们努力为尊贵的客户提供高效且个性化的支持。您可以在我们的{{Customer Support Hours}}期间联系客服团队。我们的团队随时为您解答任何问题或疑虑。请随时告诉我如何进一步帮助您。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "can ya help me contact an operator",
+    "instruction_cn": "您好！我可以帮您联系人工客服。请问您需要联系人工客服吗？",
+    "response_en": "Glad you contacted us! I'm clearly cognizant that you need assistance in contacting an operator. I'm here to help you with that. In order to connect you with the right person who can assist you further, could you please provide me with more details about the reason for your call? This will ensure that you are directed to the most appropriate operator who can address your specific needs. Your cooperation will enable us to resolve your query efficiently and provide you with the best possible support.",
+    "response_cn": "很高兴您联系我们！我清楚您需要协助联系客服专员。我在此为您提供帮助。为了帮您对接能够进一步协助您的专员，能否请您提供更多关于来电原因的信息？这将确保您被引导至最合适的专员来处理您的具体需求。您的配合将使我们能够高效解决您的问题，并为您提供最优质的服务支持。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "can uhelp me contact an assostant",
+    "instruction_cn": "您好，我可以帮您联系一位客服助理。请问您需要我为您转接吗？",
+    "response_en": "Your reach-out is appreciated! I'm sensing that you need help in contacting an assistant. Let me assist you with that. Please provide me with some additional details about the type of assistance you require and I will make sure to connect you with the most suitable assistant. Your satisfaction is our top priority, so please feel free to share any specific concerns or questions you have. While I gather the necessary information, please bear with me for a moment.",
+    "response_cn": "感谢您的联系！我注意到您需要联系一位助手来协助您。让我来帮您完成这一过程。请告诉我您需要的具体帮助类型，我会为您匹配最合适的助手。您的满意是我们的首要任务，请随时分享您的任何具体问题或疑虑。在我收集必要信息的过程中，请您稍等片刻。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I try to contact a live agent",
+    "instruction_cn": "我尝试联系在线客服。",
+    "response_en": "Thank you for trusting us! I'm fully aware of you have been trying to contact a live agent. We apologize for any inconvenience you may have experienced in reaching us. Your satisfaction is our top priority, and we want to ensure that you receive the assistance you need. To connect you with a live agent, please provide some additional information about the nature of your inquiry or the specific issue you're facing. This will help us route your call to the most appropriate agent who can provide you with the best possible support. Your patience and cooperation are greatly appreciated as we work to resolve your concern.",
+    "response_cn": "感谢您对我们的信任！我完全理解您一直在尝试联系人工客服。对于您在联系过程中可能遇到的任何不便，我们深表歉意。您的满意是我们的首要目标，我们希望确保您获得所需的协助。为了为您转接人工客服，请提供有关您咨询性质或所面临具体问题的更多信息。这将帮助我们将您的来电转接至最合适的客服人员，为您提供最佳支持。在解决您的问题过程中，我们非常感谢您的耐心与配合。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I want help to talk to an operator",
+    "instruction_cn": "我需要帮助联系客服人员。",
+    "response_en": "Thank you for contacting! I certainly recognize that you are seeking assistance in talking to an operator. Connecting you with the right person is a top priority. Is there any specific reason or concern you'd like to discuss with the operator? This information will help us ensure that the operator is fully prepared and equipped to address your needs. In the meantime, please bear with me while I transfer you to a human operator who will be able to assist you further.",
+    "response_cn": "感谢您联系我们！我完全理解您希望与客服专员通话的需求。为您转接合适的客服人员是我们的首要任务。请问您是否有特定的问题或疑虑需要与客服专员讨论？这些信息将有助于我们确保客服专员做好充分准备，妥善处理您的需求。在此期间，请您稍候，我将为您转接人工客服，他们将能够为您提供进一步的协助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "how can I contact a human agent?",
+    "instruction_cn": "如何联系人工客服？",
+    "response_en": "Thank you for reaching out! I completely understand the need to speak with a human agent. To contact one of our dedicated representatives, you can reach out through our customer support phone number at {{Customer Support Phone Number}} or by initiating a Live Chat on our website at {{Website URL}}. Our team is available {{Customer Support Hours}} to provide personalized assistance and address any concerns you may have. Let me know if there's anything else I can assist you with.",
+    "response_cn": "感谢您联系我们！我完全理解您希望与人工客服沟通的需求。您可以通过我们的客服热线 {{Customer Support Phone Number}} 拨打电话，或访问我们的网站 {{Website URL}} 发起在线聊天，联系我们的专属客服代表。我们的团队在 {{Customer Support Hours}} 期间随时为您提供个性化服务，解答您的任何疑问。请问还有其他我可以为您提供的帮助吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "is it possible to talk to customer assistance?",
+    "instruction_cn": "请问可以联系客服吗？",
+    "response_en": "We're all ears! I'm tuned into the idea that you're wondering if it's possible to talk to our customer assistance. Yes, absolutely! Our customer service team is available to assist you. You can reach them during {{Customer Support Hours}} through our customer support phone number at {{Customer Support Phone Number}} or via Live Chat on our website at {{Website URL}}. They are dedicated to providing you with the assistance you need. Please don't hesitate to reach out if you have any further questions or concerns.",
+    "response_cn": "我们洗耳恭听！我了解到您想知道是否可以联系我们的客服团队。当然可以！我们的客户服务团队随时为您提供帮助。您可以在{{Customer Support Hours}}期间通过客服热线{{Customer Support Phone Number}}联系我们，或访问我们的网站{{Website URL}}使用在线聊天功能。他们致力于为您提供所需的帮助。如果您有任何其他问题或疑虑，请随时联系我们。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I need to chat with an agent",
+    "instruction_cn": "我需要与客服人员对话。",
+    "response_en": "We're all ears! I'm tuned into the idea that you need to chat with an agent, and I'm here to assist you. Chatting with our knowledgeable agents is a convenient way to get the support you need. To initiate a live chat, please navigate to our website and look for the chat icon. It should be located in the bottom corner of the screen. Once you click on it, you'll be connected to one of our dedicated agents who will be more than happy to help you further with any questions or concerns you may have. Please let me know if there's anything else I can assist you with.",
+    "response_cn": "我们非常乐意倾听！我了解到您希望与客服人员交谈，我很乐意为您提供帮助。与我们的专业客服人员聊天是获取所需支持的一种便捷方式。要发起在线聊天，请前往我们的网站并找到聊天图标，它通常位于屏幕的右下角。点击后，您将与我们的专属客服人员取得联系，他们将非常乐意为您解答任何疑问或顾虑。如果还有其他需要帮助的地方，请随时告诉我。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "i do not know how to speak with sommeone",
+    "instruction_cn": "我不知道如何与某人交谈。",
+    "response_en": "Honored to assist! I'm clued in that you're unsure about how to speak with someone. I'm here to assist you with that. To speak with a live agent, please follow these steps:\n\n1. Check the website: Our website may have a dedicated \"Contact Us\" or \"Support\" page where you can find information on how to reach out to a human agent. Look for a phone number, email address, or live chat option.\n\n2. Customer support channels: If you have an account or are a customer, try accessing the customer support channels available for you. This can include phone support, live chat, or email. Look for these options on your account dashboard or in the help section of the website.\n\n3. Social media: Many companies have social media accounts where you can reach out for assistance. Look for their official social media profiles and send them a direct message or leave a comment asking for help.\n\n4. Online forums or communities: Some companies have online forums or communities where you can ask questions or seek assistance from other users or company representatives. Explore these platforms to see if your question has already been answered or post a new query.\n\nIf you have already tried these steps and still need assistance, please provide me with more information about the specific issue or question you have, and I'll do my best to guide you further. Remember, I'm here to help you throughout the process.",
+    "response_cn": "很荣幸为您服务！我了解到您不确定如何与人工客服沟通，我来帮您解决这个问题。要联系在线客服，请按照以下步骤操作：\n\n1. 查看官网：我们的官网可能有专门的\"联系我们\"或\"客服支持\"页面，您可以在那里找到联系人工客服的方式。请查找电话号码、电子邮箱或在线客服选项。\n\n2. 客服渠道：如果您已有账户或是我们的客户，请尝试使用为您提供的客服渠道，包括电话客服、在线客服或电子邮箱。您可以在账户后台或官网帮助中心找到这些选项。\n\n3. 社交媒体：许多公司在社交媒体上都有官方账号，您可以通过私信或留言的方式寻求帮助。请查找他们的官方社交媒体账号并发送私信或留言咨询。\n\n4. 在线论坛或社区：一些公司设有在线论坛或社区，您可以在那里提问或向其他用户或公司代表寻求帮助。您可以先查看您的问题是否已有答案，或发布新的咨询。\n\n如果您已经尝试过以上步骤仍需要帮助，请告诉我您遇到的具体问题或疑问，我会尽力为您提供进一步的指导。请记住，我会全程为您提供帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "can you help me talking with an agent?",
+    "instruction_cn": "您好！我可以帮您转接人工客服，请问您需要什么帮助？",
+    "response_en": "We value your outreach! I'm in tune with the fact that you need assistance talking with an agent. Rest assured, I'm here to help you connect with one. Please bear with me for a moment while I transfer you to a dedicated agent who will provide you with the support you need. Your satisfaction is our priority, and we appreciate your patience.",
+    "response_cn": "感谢您的来电！我理解您需要与人工客服沟通的需求。请放心，我会协助您转接至人工客服。请您稍等片刻，我将为您转接至专属客服人员，他们将为您提供所需的支持。您的满意是我们的首要目标，感谢您的耐心等待。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I try to talk to an assistant",
+    "instruction_cn": "我想和客服助手对话。",
+    "response_en": "Thank you for reaching out! I completely understand that you've been trying to speak with an assistant. I apologize for any inconvenience you may have experienced in reaching us. Our team of dedicated human representatives is here to help. Could you please provide more details about the specific assistance you require? This will allow us to better understand your needs and ensure that we connect you with the most appropriate assistant. Your satisfaction and successful resolution are our top priorities. While we prepare to assist you further, feel free to let me know how I can be of any help in the meantime.",
+    "response_cn": "感谢您联系我们！我非常理解您一直在尝试与客服人员沟通。对于您在联系过程中可能遇到的不便，我们深表歉意。我们专业的人工客服团队随时准备为您提供帮助。能否请您详细说明您需要的具体协助内容？这将有助于我们更好地了解您的需求，并确保为您安排最合适的客服人员。您的满意和问题的成功解决是我们的首要任务。在我们进一步为您提供服务的同时，请随时告诉我，在此期间我可以为您提供哪些帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "where to see at what time I can call customer support?",
+    "instruction_cn": "在哪里可以查看客服热线的可拨打时间？",
+    "response_en": "We're listening! I'm keyed into the fact that you would like to know where you can see the hours when you can call our customer support team. To find the operating hours, you can visit our website at {{Website URL}} and navigate to the 'Contact Us' or 'Customer Support' section. There, you will find the specific hours when you can reach us over the phone. If you prefer other contact methods like email or live chat, you can find that information there as well. Please let me know if there's anything else I can assist you with!",
+    "response_cn": "我们正在倾听！我了解到您想知道我们的客服团队的服务时间。要查询服务时间，您可以访问我们的官网 {{Website URL}}，然后进入\"联系我们\"或\"客服支持\"页面，在那里您可以找到我们电话客服的具体服务时间。如果您更倾向于使用电子邮件或在线聊天等其他联系方式，也可以在相应页面找到相关信息。请问还有什么其他我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "how can I contact an agent?",
+    "instruction_cn": "我如何联系客服专员？",
+    "response_en": "Grateful for your contact! I get the sense that you are looking for ways to contact an agent. We have several options available for you to reach out to our team. You can contact our customer support hotline at {{Customer Support Phone Number}}, or you can visit our website and engage in a live chat with one of our representatives. Alternatively, you can send us an email at {{Customer Support Email}} or reach out to us via social media platforms such as Facebook or Twitter. We strive to provide prompt assistance through any of these channels. Let me know which option works best for you, and I'll be happy to guide you further.",
+    "response_cn": "感谢您的联系！我了解到您正在寻找联系客服代表的方式。我们为您提供了多种联系团队的渠道。您可以拨打我们的客服热线{{Customer Support Phone Number}}，或者访问我们的网站，与我们的客服代表进行在线聊天。此外，您也可以发送邮件至{{Customer Support Email}}，或通过Facebook或Twitter等社交媒体平台联系我们。我们致力于通过以上任何渠道为您提供及时的帮助。请告诉我哪种方式最适合您，我很乐意为您提供进一步的指引。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "i dont know what i have to do to talk to an assistant",
+    "instruction_cn": "我不知道该怎么做才能与助手交谈。",
+    "response_en": "Your input is valuable! I'm picking up that you are unsure about the necessary steps to talk to an assistant. Rest assured, I'm here to guide you through the process. To speak with an assistant, you can try a few options. You can check if there is a \"Contact Us\" or \"Support\" page on our website, where you may find a phone number, email address, or live chat option to connect with an assistant directly. Alternatively, you can reach out to our customer support team through our social media channels, as they may be able to assist you further. If you provide me with more specific details about your query or the type of assistant you are looking for, I can definitely offer you more tailored guidance. Let's work together to ensure you receive the assistance you need.",
+    "response_cn": "您的反馈非常有价值！我注意到您对如何与客服专员沟通所需的步骤不太确定。请放心，我会全程为您提供指导。要与客服专员交谈，您可以尝试以下几种方式。您可以查看我们网站上的\"联系我们\"或\"支持\"页面，在那里您可能会找到电话号码、电子邮件地址或在线客服选项，以便直接与客服专员取得联系。或者，您也可以通过我们的社交媒体渠道联系我们的客服团队，他们可以为您提供进一步的帮助。如果您能告诉我更具体的信息，例如您的问题类型或您正在寻找的客服专员类型，我一定能为您提供更有针对性的指导。让我们共同努力，确保您获得所需的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I do not understand you, I awnt to talk with someone",
+    "instruction_cn": "我不明白您的意思，我想和客服人员通话。",
+    "response_en": "Thank you for reaching out! I recognize that you're having difficulty understanding and would like to speak with someone directly. I apologize for any confusion caused. Our team of knowledgeable human agents is here to assist you. Allow me to quickly connect you with one of our representatives who can provide you with the support you need. Please hold on while I transfer you to a live agent.",
+    "response_cn": "感谢您联系我们！我理解您遇到了困难，希望直接与人工客服沟通。对于由此带来的任何不便，我们深表歉意。我们专业的人工客服团队随时为您提供帮助。请稍等，我将立即为您转接至在线人工客服，他们将为您提供所需的支持。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "how to speak with somebody ?",
+    "instruction_cn": "如何与客服人员交谈？",
+    "response_en": "We appreciate your message! It's clear to me that you're looking for assistance on how to speak with somebody. To connect with a live representative, I recommend checking if there's a \"Contact Us\" or \"Support\" section on our website. There, you'll usually find options to chat with a live agent or find our customer service phone number. If you're using our mobile app, you can try accessing the Help Center or navigating to the \"Contact Us\" section. Our dedicated representatives are ready to listen and help you with any inquiries you may have. Rest assured, we are here to support you every step of the way.",
+    "response_cn": "感谢您的留言！我明白您正在寻求如何与客服人员联系的帮助。为了联系在线客服代表，我建议您查看我们网站上是否有\"联系我们\"或\"支持\"部分。在那里，您通常可以找到与在线客服聊天或找到我们的客服电话号码。如果您使用的是我们的移动应用程序，您可以尝试访问帮助中心或导航到\"联系我们\"部分。我们的专业代表随时准备倾听并帮助您解决任何疑问。请放心，我们随时为您提供全程支持。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "is it possible to talk to customer assistance ?",
+    "instruction_cn": "请问可以联系客服人员吗？",
+    "response_en": "Thank you for reaching out! I completely understand your desire to speak with our customer assistance team. Yes, it is possible and we are here to assist you. Our team is available during {{Customer Support Hours}}. You can reach out to us via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are committed to providing exceptional support, so please let us know how we can help you further.",
+    "response_cn": "感谢您联系我们！我非常理解您希望与我们的客服团队取得联系。当然可以，我们随时为您提供帮助。我们的客服团队在{{Customer Support Hours}}期间为您服务。您可以通过电话{{Customer Support Phone Number}}联系我们，或者通过我们网站{{Website URL}}上的在线客服与我们沟通。我们致力于提供卓越的客户支持，请告诉我们如何进一步为您提供帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "what is ur customer support mail",
+    "instruction_cn": "你们的客服邮箱是什么？",
+    "response_en": "We appreciate your message! It's clear to me that you would like to know our customer support email. Our dedicated team can be reached at {{Customer Support Email}}. Please feel free to contact us with any questions or concerns you may have. We are here to assist you.",
+    "response_cn": "感谢您的留言！我了解到您希望获取我们的客服邮箱。您可以通过 {{Customer Support Email}} 联系我们的专业团队。如有任何疑问或需要帮助，请随时联系我们，我们随时为您服务。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I want help to talk to customer support",
+    "instruction_cn": "我需要帮助联系客服。",
+    "response_en": "Thank you for contacting! I certainly recognize that you're seeking assistance in talking to our customer support team. We're here to help you navigate through any concerns or questions you may have. To reach our customer support, you can call our helpline at {{Customer Support Phone Number}} or use the Live Chat feature on our website at {{Website URL}}. Our team is highly trained and ready to provide you with the guidance and support you need. Please let me know if there's anything else I can assist you with!",
+    "response_cn": "感谢您联系我们！我理解您希望与我们的客服团队进行沟通。我们随时准备帮助您解决您可能遇到的任何问题或疑问。如需联系我们的客服，您可以拨打我们的客服热线 {{Customer Support Phone Number}}，或访问我们的网站 {{Website URL}} 使用在线客服功能。我们的团队训练有素，随时准备为您提供所需的指导和支持。请问还有其他我可以协助您的地方吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I have got to speak with customer support, how can I do it?",
+    "instruction_cn": "我需要联系客服，我该怎么做？",
+    "response_en": "We're listening! I'm keyed into the fact that you need to speak with our customer support team. To connect with them, you can reach out through our toll-free number at {{Customer Support Phone Number}} or use the Live Chat feature on our website at {{Website URL}}. Our dedicated team is available during {{Customer Support Hours}}. They will be more than happy to assist you with any inquiries or concerns you may have. Please let me know if there's anything else I can help you with.",
+    "response_cn": "我们正在倾听！我注意到您需要联系我们的客服团队。您可以通过我们的免费电话 {{Customer Support Phone Number}} 与我们联系，或者通过我们网站 {{Website URL}} 上的在线聊天功能与我们取得联系。我们的专业客服团队在 {{Customer Support Hours}} 期间随时待命，非常乐意为您解答任何问题或疑虑。请问还有什么我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I want help speaking to a person",
+    "instruction_cn": "我想找人工客服。",
+    "response_en": "It's great to hear from you! I can see that you need assistance and would like to speak with a person. Our team of dedicated representatives is here to provide the personalized support you need. Please allow me a moment to connect you with a knowledgeable agent who will be able to address your concerns directly. Your patience is sincerely appreciated, and I assure you that we will do everything we can to assist you. Stay with me, and I'll make sure you're connected shortly.",
+    "response_cn": "很高兴收到您的消息！我看到您需要帮助，希望与人工客服沟通。我们专业的客服团队随时为您提供个性化的支持。请稍等片刻，我将为您转接一位专业的客服代表，他将直接为您解答问题。感谢您的耐心等待，我们会尽力为您提供帮助。请稍候，我马上为您转接。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "what do I have to do to chat with an agent?",
+    "instruction_cn": "我需要做什么才能与客服人员聊天？",
+    "response_en": "Your input is valuable! I'm picking up that you're wondering about the steps required to chat with an agent. To initiate a chat with one of our knowledgeable agents, you can visit our website and look for the live chat feature. It's usually located in the bottom corner of the webpage. Alternatively, you can navigate to our Contact Us page where you'll find the chat option as well. Our agents are eager to assist you and provide prompt resolutions to your queries. If you need any further guidance, feel free to let me know. We appreciate your patience and look forward to serving you soon!",
+    "response_cn": "您的反馈非常有价值！我了解到您想知道如何与客服代表进行聊天。要与我们专业的客服代表开始聊天，您可以访问我们的网站并找到在线聊天功能，通常位于网页的右下角。或者，您也可以前往我们的\"联系我们\"页面，在那里同样可以找到聊天选项。我们的客服代表非常乐意为您提供帮助，并及时解决您的疑问。如果您需要进一步的指导，请随时告诉我。感谢您的耐心，我们期待尽快为您服务！"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "can you help me contact somebody?",
+    "instruction_cn": "请问您想联系哪位？我可以帮您转接。",
+    "response_en": "It's great to hear from you! I can see that you need assistance in contacting somebody. You've come to the right place, and I'm here to help! To connect you with the right person, could you please provide some more details about who you would like to contact and the nature of your query? This information will enable us to assist you more efficiently. Feel free to share any specific preferences or concerns you have, and we'll do our best to ensure you receive the help you need.",
+    "response_cn": "很高兴收到您的来信！我注意到您需要帮助联系相关人员。您找对地方了，我很乐意为您提供帮助！为了为您对接合适的人员，能否请您提供更多关于您希望联系的对象以及您咨询事项的性质？这些信息将帮助我们更高效地为您服务。请随时分享您的任何具体偏好或顾虑，我们将竭尽全力确保您获得所需的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I want to talk with an assistant",
+    "instruction_cn": "我想与客服助理交谈。",
+    "response_en": "We're here for you! I'm aware that you're seeking assistance and would like to talk to an assistant. Our team of dedicated representatives is ready to help you with any questions or concerns you may have. To connect you with the right person, could you please provide some more details about the nature of your inquiry? This will allow us to better understand your needs and provide you with the most accurate assistance. We're here to support you every step of the way.",
+    "response_cn": "我们随时为您服务！我注意到您需要帮助，并希望与我们的客服人员交谈。我们专业的客服团队已准备好为您解答任何问题或疑虑。为了为您安排最合适的客服人员，能否请您详细说明一下您的咨询内容？这将有助于我们更好地了解您的需求，并为您提供最准确的帮助。我们将全程为您提供支持。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "I need to speak to customer assistance, how can I do it?",
+    "instruction_cn": "我需要联系客服，该如何操作？",
+    "response_en": "Thank you for reaching out! I completely understand that you are in need of speaking to our customer assistance. Rest assured, we are here to help! To connect with our customer support team, you can reach us through various channels. Our phone line at {{Customer Support Phone Number}} is available during our customer support hours. Alternatively, you can visit our website at {{Website URL}} and access our live chat feature to chat with our representatives in real-time. We are committed to providing you with the assistance you need. How may I be of further assistance to you?",
+    "response_cn": "感谢您联系我们！我非常理解您需要与我们的客服团队沟通。请放心，我们随时为您提供帮助！您可以通过多种渠道联系我们的客服团队。我们的客服热线电话号码是{{Customer Support Phone Number}}，在客服服务时间内均可拨打。或者，您也可以访问我们的官方网站{{Website URL}}，使用在线客服功能与我们的客服代表进行实时对话。我们致力于为您提供所需的帮助。请问还有什么可以为您效劳的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "ya have a free of charge number to talk to customer service",
+    "instruction_cn": "我们有一个免费的客服电话可以联系客服。",
+    "response_en": "Your reach-out is appreciated! I'm sensing that you are looking for a toll-free number to connect with our customer service team. Yes, we do have a toll-free number for customer support. You can reach out to us at {{Toll-Free Number}} and our dedicated team will be happy to assist you. Is there anything else I can help you with?",
+    "response_cn": "感谢您的联系！我了解到您正在寻找我们的客服热线电话。是的，我们确实设有客户支持热线。您可以拨打{{Toll-Free Number}}联系我们，我们的专业团队将很乐意为您提供帮助。请问还有什么我可以帮您的吗？"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "need help chatting with a person",
+    "instruction_cn": "需要帮助与人工客服聊天",
+    "response_en": "Always good to connect! I'm attuned to the fact that you need help chatting with a person. I'm here to assist you in connecting with one of our friendly representatives who can provide the support you need. Before I transfer you, could you please provide me with some more information about the specific issue you're facing? This will help ensure that the agent who assists you is well-prepared to address your concerns. Once you share the details, I'll make sure to connect you right away.",
+    "response_cn": "很高兴与您联系！我了解到您需要与人工客服聊天。我很乐意帮您转接我们的一位友好客服代表，为您提供所需的支持。在我为您转接之前，能否请您详细说明一下您遇到的具体问题？这将确保为您服务的客服人员能够充分准备好解决您的问题。一旦您分享详情，我会立即为您转接。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_human_agent",
+    "instruction_en": "I do not know how to talk with a live agent",
+    "instruction_cn": "我不知道如何与在线客服交谈。",
+    "response_en": "We value your outreach! I'm in tune with the fact that you are unsure about how to speak with a live agent. Don't worry, I'm here to help guide you through the process. To speak with a live agent, simply follow these steps: \n\n1. On our website, look for the \"Contact Us\" or \"Support\" page. It is usually located in the upper or lower part of the homepage.\n2. Click on the \"Contact Us\" or \"Support\" link, and you will be directed to a page where you can find different contact options.\n3. Look for the option to speak with a live agent. This could be a phone number or a live chat button.\n4. If there's a phone number provided, dial the number and follow the prompts to connect with a live agent. If there's a live chat option, click on it to start a conversation with an agent.\n5. Once connected, explain your query or concern to the agent, and they will assist you further.\n\nIf you are having trouble finding the contact information or need further assistance, please let me know. I'm here to make sure you get the help you need.",
+    "response_cn": "感谢您的主动联系！我理解您对如何与人工客服沟通感到不确定。别担心，我来帮您了解具体流程。要联系人工客服，请按照以下步骤操作：\n\n1. 在我们的网站上找到\"联系我们\"或\"支持\"页面，通常位于首页顶部或底部。\n2. 点击\"联系我们\"或\"支持\"链接，进入包含多种联系方式的页面。\n3. 寻找与人工客服沟通的选项，可能是电话号码或在线聊天按钮。\n4. 如果有电话号码，请拨打并按照提示转接人工客服；如果有在线聊天选项，点击即可开始对话。\n5. 连接后，向客服说明您的问题或疑虑，他们会为您提供进一步帮助。\n\n如果您在查找联系方式时需要更多帮助，请随时告诉我。我会确保您获得所需的帮助。"
+  },
+  {
+    "category": "CONTACT",
+    "intent": "contact_customer_service",
+    "instruction_en": "can ya show me at what time customer assistance available is",
+    "instruction_cn": "请问客服什么时候可以为您提供帮助？",
+    "response_en": "Glad you contacted us! I'm clearly cognizant that you would like to know the hours when our customer assistance is available. Our dedicated team is ready to assist you during {{Customer Support Hours}}. If you have any other questions or concerns, feel free to let me know. I'm here to help!",
+    "response_cn": "很高兴您联系我们！我了解到您想知道我们客服的在线时间。我们的专业团队在{{Customer Support Hours}}期间随时为您提供帮助。如果您还有其他问题或疑虑，请随时告诉我。我随时为您服务！"
+  }
+]
