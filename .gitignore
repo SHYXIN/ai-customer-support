@@ -8,6 +8,10 @@ uv.lock
 # 数据文件
 backend/data/
 backend/.env
+backend/bge-small-zh-v1.5/
+backend/chroma_db/
+backend/*.db
+docs/
 
 # 前端
 node_modules/
